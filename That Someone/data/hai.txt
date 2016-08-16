@@ -17,7 +17,7 @@ government "Hai (Absconded)"
 		"Merchant" .1
 		"Pirate" -.1
 		"Korath" -.1
-	"friendly hail" "friendly hais"
+	"friendly hail" "friendly civilian"
 
 fleet "Small Abs"
 	government "Hai (Absconded)"

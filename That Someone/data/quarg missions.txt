@@ -31,7 +31,7 @@ mission "Landing: Quarg Worlds"
 				`	Look for a Quarg.`
 					goto quarg
 				`	Look for a Hai.`
-				`	Walk out of the Space Port
+				`	Walk out of the Space Port`
 					decline
 			
 			`	It doesn't take long for you to find a Hai, you approach one that doesn't seem to be doing anything and introduce yourself.`
@@ -75,7 +75,7 @@ mission "Landing: Quarg Worlds"
 				`	"What is this place?"`
 
 			label thisplace
-			`	"The port was made many life times ago. Quarg life times. Then, Quarg only subsumed Quarg, still very busy. The Korath were still enemies, still destructive in their ways. Very reckless, like your species, human. Now they learn, they raid reckless species, not peaceful ones, such as the Quarg, The Hai, The Drak, The Pug." It bows.	
+			`	"The port was made many life times ago. Quarg life times. Then, Quarg only subsumed Quarg, still very busy. The Korath were still enemies, still destructive in their ways. Very reckless, like your species, human. Now they learn, they raid reckless species, not peaceful ones, such as the Quarg, The Hai, The Drak, The Pug." It bows.`
 			choice
 				`	"Thank you." Bow in return`
 				`	Leave.`

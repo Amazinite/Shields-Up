@@ -8,27 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-government "Korath"
-	swizzle 0
-	color .8 .5 .1
-	
-	"attitude toward"
-		"Merchant" -.1
-		"Pirate" -.1
-		"Quarg" -.1
-
-
-government "Quarg"
-	swizzle 0
-	color .88 .77 0
-	
-	"attitude toward"
-		"Merchant" .1
-		"Pirate" -.1
-		"Korath" -.1
-	"hostile hail" "hostile quarg"
-
-
 government "Pug (Research)"
 	swizzle 0
 	color .8 .47 .3

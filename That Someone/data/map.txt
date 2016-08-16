@@ -8,10 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-galaxy "Milky Way"
-	pos 0 0
-	sprite ui/galaxy
-
 system "Dupli Cate"
 	pos 81.7574 -561.482
 	government "Hai (Absconded)"
