@@ -8,10 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-galaxy "Milky Way"
-	pos 0 0
-	sprite ui/galaxy
-
 system "Tuk'ux Boh"
 	pos 372.214 98.3164
 	government Tuk'ux
@@ -387,4 +383,3 @@ planet Yuh'kuj
 	landscape land/fields0
 	description `A large spaceport filled with many Tuk'ux. Several landing pads and many shops suggest this is one of the main trading centers for the Tuk'ux.`
 	spaceport `Shops to the left, shops to the right, a lot of Tuk'ux inbetween. You have to almost shove your way through the crowd.`
-
