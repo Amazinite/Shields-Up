@@ -66,7 +66,7 @@ mission "a hobo with drugs"
 			label "attack guard"
 			`	You quickly pull up you weapon, and fire the trigger.`
 			`	The shot is heard as the guard falls to the ground, it's about 10 seconds later when sirens around the base start screaming, you have to run!`
-				flee
+				launch
 					
 			label explain
 			`	You explain exactly what happened. The guard seems a little unsure...`
@@ -111,6 +111,10 @@ mission "a hobo with drugs"
 			`	And so after another typical day in the galaxy, all is well.`
 				decline
 	
-	on flee
-		government "Deep Sky"
-			"player reputation" -= 5
+	on enter
+		fail "a hobo with drugs"
+		event "deep sky reputation loss"
+
+event "deep sky reputation loss"
+	government "Deep Sky"
+		"player reputation" -= 5

@@ -93,7 +93,7 @@ ship "Quarg Warbird"
 	gun 35 6 "Quarg Skydagger"
 	gun -29 6 "Quarg Skydagger"
 	gun 29 6 "Quarg Skydagger"
-	turret -28.7 "Quarg Anti-Missile"
+	turret -28 7 "Quarg Anti-Missile"
 	turret 28 7 "Quarg Anti-Missile"
 	explode "tiny explosion" 12
 	explode "small explosion" 16
