@@ -8,53 +8,17 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfitter "Basic Outfits"
-	"Cellphone"
-	"Spy Watch"
-	"Spy Pen"
-	"Laser Pistol"
-	
-outfitter "Common Outfits"
-	"Laser Pistol"
-	"Riot Shield"
-	"Cellphone"
-	"Spy Watch"
-	"Spy Pen"
-	
-outfitter "Syndicate Basics"
-	"Basic Energy Shields"
-	"Laser Pistol"
-	"Riot Shield"
-	"Cellphone"
-	"Spy Watch"
-	"Spy Pen"
-	
 outfitter "Syndicate Advanced"
-	"Advanced Energy Shields"
-	"Riot Shield"
 	"Skylance Rifle Rack"
 	"Skylance Rifle"
 	
 outfitter "Deep Sky Basics"	
-	"Riot Shield"
-	"Cellphone"
-	"Spy Watch"
-	"Spy Pen"
-	"Laser Pistol"
 	"Ion Torpedo"
 	
 outfitter "Deep Sky Advanced"
-	"Riot Shield"
-	"Laser Pistol"
 	"Ion Torpedo Bay"
 	"Ion Torpedo"
 	
 outfitter "Delta V Advanced"
-	"Riot Shield"
 	"Skylance Rifle Rack"
 	"Skylance Rifle"
-	"Laser Pistol"
-	
-outfitter "Pirate Outfits"
-	"Riot Shield"
-	"Laser Pistol"

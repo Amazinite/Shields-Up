@@ -1,0 +1,210 @@
+outfit "FTek Active Blaster"
+	category "Guns"
+	cost 75000
+	thumbnail "outfit/active blaster"
+	"mass" 5
+	"outfit space" -5
+	"weapon capacity" -5
+	"gun ports" -1
+	weapon
+		sprite "projectile/active blaster"
+		sound "mod blaster"
+		"hit effect" "blaster impact"
+		"inaccuracy" 3
+		"velocity" 8
+		"lifetime" 70
+		"reload" 6
+		"firing energy" 24
+		"firing heat" 30
+		"shield damage" 14.5
+		"hull damage" 12.5
+	description "A standard Energy Blaster refitted with a new core, increasing it's accuracy, range and damage while also decreasing firing heat. However, it's energy useage is impacted negatively as a result."
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+	
+outfit "FTek Active Blaster Turret"
+	category "Turrets"
+	cost 250000
+	thumbnail "outfit/active blaster turret"
+	"mass" 15
+	"outfit space" -15
+	"weapon capacity" -15
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/active blaster"
+		sound "mod blaster"
+		"hit effect" "blaster impact"
+		"inaccuracy" 5
+		"velocity" 8
+		"lifetime" 70
+		"reload" 3
+		"firing energy" 24
+		"firing heat" 30
+		"shield damage" 14.5
+		"hull damage" 12.5
+	description "A standard Energy Blaster Turret refitted with a new core, increasing it's accuracy, range and damage while also decreasing firing heat. However, it's energy useage is impacted negatively as a result."
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+	
+outfit "FTek Heavy Blaster"
+	category "Guns"
+	cost 90000
+	thumbnail "outfit/heavy blaster"
+	"mass" 8
+	"outfit space" -8
+	"weapon capacity" -8
+	"gun ports" -1
+	weapon
+		sprite "projectile/heavy blaster"
+		sound "pulse"
+		"hit effect" "blaster impact"
+		"inaccuracy" 2
+		"velocity" 10
+		"lifetime" 55
+		"reload" 15
+		"firing energy" 16.5
+		"firing heat" 22
+		"shield damage" 23
+		"hull damage" 27
+	description "We here at FTek like guns. And we like big guns. But you know what's better than big guns? Good 'ol Blasters. So why not try out a big blaster?"
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+	
+outfit "FTek Heavy Blaster Turret"
+	category "Turrets"
+	cost 165000
+	thumbnail "outfit/heavy blaster turret"
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	weapon
+		sprite "projectile/heavy blaster"
+		sound "pulse"
+		"hit effect" "blaster impact"
+		"inaccuracy" 3
+		"velocity" 8
+		"lifetime" 55
+		"reload" 7.5
+		"firing energy" 16.5
+		"firing heat" 22
+		"shield damage" 23
+		"hull damage" 27
+	description "We here at FTek like guns. And we like big guns. But you know what's better than big guns? Good 'ol Blasters. So why not try out a big blaster?"
+	description "FTek makes no claim about the safety of those operating this turret. We here at FTek would like to officially announce that our products hold no warrenty, use at your own risk."
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+	
+outfit "FTek Homing Blaster"
+	category "Guns"
+	cost 150000
+	thumbnail "outfit/homing blaster"
+	"mass" 11
+	"outfit space" -11
+	"weapon capacity" -11
+	"gun ports" -1
+	weapon
+		sprite "projectile/blue blaster"
+		sound "proton"
+		"hit effect" "proton impact"
+		"split range" 27
+		"submunition" "FTek Homing Fragment" 5
+		"inaccuracy" 1
+		"velocity" 20
+		"lifetime" 200
+		"reload" 8
+		"acceleration" 1.2
+		"drag" .15
+		"turn" 2.5
+		"homing" 4
+		"hit force" 3
+		"firing energy" 20
+		"firing heat" 28.5
+		"shield damage" 15
+		"hull damage" 13
+	description "What's the point of a blaster if you can't hit your target? If you find yourself lacking the ability to aim at a target correctly, boy does FTek have a product for you!"
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+	
+outfit "FTek Homing Fragment"
+	weapon
+		sprite "projectile/blue blaster"
+		"hit effect" "proton impact"
+		"inaccuracy" 1
+		"lifetime" 200
+		"hit force" 1.5
+		"shield damage" 5
+		"hull damage" 4
+		"homing" 4
+		"turn" 2.5
+		"drag" .15
+		"acceleration" 1
+		"velocity" 15
+	
+outfit "Turbo Laser Turret"
+	category "Turrets"
+	cost 230000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 20
+	"outfit space" -20
+	"weapon capacity" -20
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/green blaster"
+		sound "torpedo"
+		"hit effect" "blaster impact"
+		"inaccuracy" .1
+		"velocity" 19
+		"lifetime" 90
+		"reload" 38
+		"firing energy" 10
+		"firing heat" 25
+		"shield damage" 50
+		"hull damage" 120
+	description "A heavy laser turret that deals large amounts of damage to ship hulls."
+	
+outfit "Light Turbo Laser Turret"
+	category "Turrets"
+	cost 230000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 20
+	"outfit space" -20
+	"weapon capacity" -20
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/blue blaster"
+		sound "torpedo"
+		"hit effect" "blaster impact"
+		"inaccuracy" .1
+		"velocity" 19
+		"lifetime" 90
+		"reload" 38
+		"firing energy" 10
+		"firing heat" 25
+		"shield damage" 120
+		"hull damage" 50
+	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
+	
+outfit "Incinerator Beam"
+	category "Turrets"
+	cost 18000000
+	thumbnail "outfit/unknown"
+	"mass" 60
+	"outfit space" -60
+	"weapon capacity" -60
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/Incineratorbeam"
+			"frame rate" 15
+		sound "skylance"
+		"hit effect" "sunbeam impact"
+		"inaccuracy" .9
+		"velocity" 375
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 45
+		"firing heat" 300
+		"shield damage" 60
+		"hull damage" 40
+		"ion damage" .05
+	description "This weapon is a truly great invention. It melts through hull and shields very fast and can swiftly take care of most threats."
+	description "Because of its price not many people use it."
