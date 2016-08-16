@@ -1,0 +1,200 @@
+# Copyright (c) 2015 by Christopher Schilling
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+government "Korath"
+	swizzle 0
+	color .8 .5 .1
+	
+	"attitude toward"
+		"Merchant" -.1
+		"Pirate" -.1
+		"Quarg" -.1
+		
+government "shieldsup"
+	swizzle 0
+	color .8 .6 0
+
+	"player reputation" 10
+		
+government "Militaj"
+	swizzle 0
+	color .99 .89 .70
+	
+	"player reputation" -1
+	"attitude toward"
+		"Merchant" -.1
+		"Quarg" -.25
+		"Syndicate" -.1
+		"Free Worlds" -.1
+		"Deep Sky" -.1
+		"Republic" -.1
+		"Korath" -.1
+	"fine" 0
+	"hostile hail" "hostile militaj"
+		
+government "Republic"
+	swizzle 0
+	color .91 .42 .09
+	
+	"attitude toward"
+		"Merchant" .25
+		"Militia" .1
+		"Pirate" -.3
+		"Pirate (Core)" -.15
+		"Pirate (North)" -.2
+		"Pirate (South)" -.15
+		"Plenipotent Dominion" -.1
+	"friendly hail" "friendly navy"
+	"hostile hail" "hostile navy"
+	raid "pirate raid"
+
+government "Pirate"
+	swizzle 6
+	color .78 0 0
+	
+	"attitude toward"
+		"Merchant" -.1
+		"Syndicate" -.1
+		"Korath" -.1
+		"Author" -.1
+		"Deep Sky" -.1
+	"bribe" .05
+	"fine" 0
+	"hostile hail" "hostile pirate"
+	raid "Large Southern Pirates"
+	
+government "Quarg"
+	swizzle 0
+	color .88 .77 0
+	
+	"attitude toward"
+		"Merchant" .1
+		"Pirate" -.1
+		"Korath" -.1
+		"Pirate (Core)" -.1
+		"Pirate (North)" -.1
+		"Pirate (South)" -.1
+	"hostile hail" "hostile quarg"
+
+government "Servorum Dei"
+	swizzle 4
+	color .8 .2 .5
+	
+	"player reputation" 3
+	"attitude toward"
+		"Merchant" .1
+		"Militaj" .1
+		"Free Worlds" -.1
+	"bribe" .055
+	"fine" 0
+	"friendly hail" "friendly servorum"
+	"hostile hail" "hostile servorum"
+	
+government "Deep Sky"
+	swizzle 3
+	color .5 .7 .9
+	
+	"player reputation" 2
+	"attitude toward"
+		"Merchant" .1
+		"Pirate" -.3
+		"Republic" .1
+		"Pirate (Core)" -.1
+		"Pirate (North)" -.2
+		"Pirate (South)" -.15
+		"Plenipotent Dominion" -.2
+	"friendly hail" "friendly deep sky"
+	"hostile hail" "hostile deep sky"
+		
+government "Plenipotent Dominion"
+	swizzle 1
+	color .5 .4 .6
+	
+	"player reputation" 3
+	"attitude toward"
+		"Republic" -.1
+		"Deep Sky" -.1
+		"Syndicate" -.1
+		"Militaj" .1
+	"fine" 0
+	"friendly hail" "friendly dominion"
+	"hostile hail" "hostile dominion"
+
+government "Pirate (Core)"
+	swizzle 6
+	color .78 0 0
+	
+	"player reputation" -10
+	"attitude toward"
+		"Merchant" -.1
+		"Syndicate" -.1
+		"Free Worlds" -.1
+		"Republic" -.1
+		"Deep Sky" -.1
+		"Quarg" -.1
+		"Militia" -.1
+		"Pug" -.1
+		"Korath" -.1
+		"Navy Intelligence" -.1
+		"Neutral" -.1
+		"Independent" -.1
+		"Navy (Oathkeeper)" -.1
+		"Plenipotent Dominion" .1
+	"bribe" .05
+	"fine" 0
+	"hostile hail" "hostile pirate"
+	
+government "Pirate (North)"
+	swizzle 6
+	color .78 0 0
+	
+	"player reputation" -10
+	"attitude toward"
+		"Merchant" -.1
+		"Syndicate" -.1
+		"Free Worlds" -.1
+		"Republic" -.1
+		"Deep Sky" -.1
+		"Quarg" -.1
+		"Militia" -.1
+		"Pug" -.1
+		"Korath" -.1
+		"Navy Intelligence" -.1
+		"Neutral" -.1
+		"Independent" -.1
+		"Navy (Oathkeeper)" -.1
+		"Plenipotent Dominion" .1
+	"bribe" .05
+	"fine" 0
+	"hostile hail" "hostile pirate"
+	
+government "Pirate (South)"
+	swizzle 6
+	color .78 0 0
+	
+	"player reputation" -10
+	"attitude toward"
+		"Merchant" -.1
+		"Syndicate" -.1
+		"Free Worlds" -.1
+		"Republic" -.1
+		"Deep Sky" -.1
+		"Quarg" -.1
+		"Militia" -.1
+		"Pug" -.1
+		"Korath" -.1
+		"Navy Intelligence" -.1
+		"Neutral" -.1
+		"Independent" -.1
+		"Navy (Oathkeeper)" -.1
+		"Plenipotent Dominion" .1
+	"bribe" .05
+	"fine" 0
+	"hostile hail" "hostile pirate"

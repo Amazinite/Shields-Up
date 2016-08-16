@@ -1,0 +1,10 @@
+outfit "Boarding Cannon"
+	category "Hand to Hand"
+	cost 100000
+	thumbnail "outfit/boarding cannon"
+	"armory capacity" -20
+	"capture attack" 7.23
+	"capture defense" 3
+    unplunderable 1
+	description "A very strong mortar designed for ship boarding."
+	description "It is stored in the Ship Armory."

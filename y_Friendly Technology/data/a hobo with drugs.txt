@@ -1,0 +1,114 @@
+
+mission "a hobo with drugs"
+	landing
+	source
+		planet "Rodin"
+
+	on offer
+		conversation
+			`A shady man wearing a thick brown coat, torn pants, and mismatched boots walks up to you from behind a building.`
+			`	He asks you, "wanna do some drugs?"`
+			choice
+				`	Accept the drugs`
+					goto drugs
+				`	Say "No." to drugs`
+					goto no
+				`	Shout "DRUGS ARE BAD" and tackle the man to the ground`
+					goto tackle
+					
+			label drugs
+			`	You take a step closer to the man. He starts reaching into his pocket. Then he screams. You take a quick step back and almost trip, he lunges forward and grabs some spare credits you had in your pocket that had fallen out. Before you could get up, the man had already dissapeared. That filthy hobo took a hundred credits.`
+				goto end
+				
+			label no
+			`	You tell the hobo "No." He stares straight into your eyes. The confrontation lasts an entire minute, until he takes one step backwards, turns, then runs away shouting some battle cry, "WOOP WOOP WOOP WOOP"`
+				goto end
+				
+			label tackle
+			`	You lunge at the man, bringing him to the ground. You hear a snap from somewhere in his body. He cries out "Get off of me you filthy sub-human!"`
+			choice
+				`	Get off of him`
+					goto off
+				`	Punch his stupid face`
+					goto punch
+				`	Grab him and beat the hell out of him`
+					goto grab
+					
+			label off
+			`	You get off of him, before you can apologize to him he springs up off the ground, then sprints away crying something about how the commies had found him or something.`
+				goto end
+				
+			label punch
+			`	You punch him in his ugly face. Suddenly, with amazing strength he shoves you off, then yells "The dress is blue and gold!" then runs behind the building from where he originally came from.`
+				goto end
+				
+			label grab
+			`	You quickly stand up, grab him off the ground, then throw him back down only to punch him in the face over and over again until you feel you have taught him a lesson... Or have you?`
+			choice
+				`	You're done here`
+					goto end
+				`	Maybe one more punch`
+					goto "one more"
+				`	Finish the job`
+					goto "finish him"
+			label "one more"
+			`	You take the man by his coat's collar, and punch him right in the face. Feeling acomplished, you walk away.`
+				goto end
+				
+			label "finish him"
+			`	Looking at the man with his pleading eyes begging for mercy, you pull out your laser pistol, aim it at his head, and as you are about to pull the trigger...`
+			`	"FREEZE! Drop the weapon!" You turn around to see a Deep Sky guard aiming a stange rifle at you. He tells you again: "Drop you weapon!"`
+			choice
+				`	Attack the guard`
+					goto "attack guard"
+				`	Explain what happened`
+					goto "explain"
+					
+			label "attack guard"
+			`	You quickly pull up you weapon, and fire the trigger.`
+			`	The shot is heard as the guard falls to the ground, it's about 10 seconds later when sirens around the base start screaming, you have to run!`
+				launch
+				government "Deep Sky"
+					"player reputation" -5
+					
+			label explain
+			`	You explain exactly what happened. The guard seems a little unsure...`
+			`	"So... You landed on the planet..." you nod, "this guy walks up to you..." you nod again, "then you tackle him to the ground..." you stop, but he keeps going, "he tells you to get off," uh oh, "so you grab him, and punch him again and again."`
+			`	You reply "It's not as bad as it looks."`
+			choice
+				`	Tell him why you attacked him`
+					goto "the drugs"
+				`	Bribe the guard`
+					goto bribe
+					
+			label "the drugs"
+			`	You try to tell him "he was trying to give me drugs, he ought to be punished"`
+			`	The guard looks at you in disbelief, "Oh in that case, thank you for being an outstanding citizen, we'll take it from here" he proceeds to arrest the man.`
+				goto end
+				
+			label bribe
+			`	You offer him 1000 credits if he leaves you alone.`
+			`	He looks at you dead in the eyes, "you'll have to go a little higher than that."`
+			`	No matter what, you'll have to pay him, he probably won't let you leave unless you do.`
+			choice
+				`	Offer 2000 credits`
+					goto "small bribe"
+				`	Offer 5000 credits`
+					goto "medium bribe"
+				`	Offer 10,000 credits`
+					goto "large bribe"
+			label "small bribe"
+			`	You hand the guard 2000 credits, but he rejects them with "That's not a lot, oh well. I just wanted to see how desperate you were. Go away before I decide to shoot you."`
+				goto end
+				
+			label "medium bribe"
+			`	You hand the guard 5000 credits, which he rejects with with "Wow, you seem pretty desperate, but I was joking. How about you get on your little ship over there and get out of here before I call the entire fleet on your ass."`
+				goto end
+				
+			label "large bribe"
+			`	You start handing the guard 10000 credits, to which he responds by rejecting it and saying: "That's a lot of money, you didn't steal that, right? Or are you some kind of drug dealer?" he pauses, then contrinues, "ah, I'm joking. I don't actually want your money. Now go away before I shoot you."`
+			`	After a short second, he finishes, "ah, I'm just kidding, now leave before I shoot your ass with this gun."`
+				goto end
+				
+			label end
+			`	And so after another typical day in the galaxy, all is well.`

@@ -1,0 +1,25 @@
+outfitter "Plenipotent Dominion"
+	"Particle Accelerator"
+	"Cloaking Device"
+	"XF-555 Ship Core"
+	"Bot Racks"
+	"R-120 Warbird"
+	"S-45 Lamprey"
+	"Sentry Gun"
+	"Energy Chaingun"
+	
+	shipyard "Plenipotent Advanced"
+		"Ironclad Battleship"
+		"Ironclad Carrier"
+
+	shipyard "Northern Pirates"
+		"Ironclad Battleship"
+		"Ironclad Carrier"
+
+	shipyard "Southern Pirates"
+		"Ironclad Battleship"
+		"Ironclad Carrier"
+
+	shipyard "Southbound Advanced"
+		"Ironclad Battleship"
+		"Ironclad Carrier"

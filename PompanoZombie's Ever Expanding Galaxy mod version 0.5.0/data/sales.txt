@@ -1,0 +1,60 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfitter "Basic Outfits"
+	"Cellphone"
+	"Spy Watch"
+	"Spy Pen"
+	"Laser Pistol"
+	
+outfitter "Common Outfits"
+	"Laser Pistol"
+	"Riot Shield"
+	"Cellphone"
+	"Spy Watch"
+	"Spy Pen"
+	
+outfitter "Syndicate Basics"
+	"Basic Energy Shields"
+	"Laser Pistol"
+	"Riot Shield"
+	"Cellphone"
+	"Spy Watch"
+	"Spy Pen"
+	
+outfitter "Syndicate Advanced"
+	"Advanced Energy Shields"
+	"Riot Shield"
+	"Skylance Rifle Rack"
+	"Skylance Rifle"
+	
+outfitter "Deep Sky Basics"	
+	"Riot Shield"
+	"Cellphone"
+	"Spy Watch"
+	"Spy Pen"
+	"Laser Pistol"
+	"Ion Torpedo"
+	
+outfitter "Deep Sky Advanced"
+	"Riot Shield"
+	"Laser Pistol"
+	"Ion Torpedo Bay"
+	"Ion Torpedo"
+	
+outfitter "Delta V Advanced"
+	"Riot Shield"
+	"Skylance Rifle Rack"
+	"Skylance Rifle"
+	"Laser Pistol"
+	
+outfitter "Pirate Outfits"
+	"Riot Shield"
+	"Laser Pistol"

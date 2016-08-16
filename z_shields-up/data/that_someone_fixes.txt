@@ -1,0 +1,54 @@
+fleet "Pug"
+	government "Pug (Research)"
+	names "pug"
+	cargo 1
+	personality
+		heroic
+	variant 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3
+	variant 1
+		"Pug Enfolta" 4
+	variant 1
+		"Pug Zibruka" 5
+	variant 2
+		"Pug Maboro" 1
+		"Pug Zibruka" 3
+	variant 3
+		"Pug Maboro" 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3
+	variant 2
+		"Pug Maboro" 1
+		"Pug Enfolta" 3
+	variant 1
+		"Pug Maboro" 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3
+fleet "Pug1"
+	government "Pug (Attackers)"
+	names "pug"
+	cargo 1
+	personality
+		heroic
+	variant 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3
+	variant 1
+		"Pug Enfolta" 4
+	variant 1
+		"Pug Zibruka" 5
+	variant 2
+		"Pug Maboro" 1
+		"Pug Zibruka" 3
+	variant 3
+		"Pug Maboro" 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3
+	variant 2
+		"Pug Maboro" 1
+		"Pug Enfolta" 3
+	variant 1
+		"Pug Maboro" 1
+		"Pug Enfolta" 2
+		"Pug Zibruka" 3

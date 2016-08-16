@@ -1,0 +1,19 @@
+#Sprites listed here are by Derpy Horse
+
+outfit "400mm Railgun"
+	thumbnail "outfit/400mm Railgun"
+	
+outfit "Plasma Gatling"
+	thumbnail "outfit/plasma gattling"
+	
+outfit "Bighorn Energy Ram"
+	thumbnail "outfit/energy ram"
+	
+outfit "Intelligent Rocket Launcher"
+	thumbnail "outfit/intell launcher"
+	
+outfit "Intelligent Rocket"
+	thumbnail "outfit/intell rocket"
+	
+outfit "Energy Chaingun"
+	thumbnail "outfit/energy chaingun"

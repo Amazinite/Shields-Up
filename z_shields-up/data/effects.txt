@@ -1,0 +1,8 @@
+effect "militaj decimator impact"
+	sprite "effect/militaj decimator impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 5
+	"random angle" 2
+	"random spin" 1
+	"velocity scale" -.005

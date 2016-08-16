@@ -1,0 +1,140 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "Quarg Skydagger"
+	category "Guns"
+	cost 8000000
+	thumbnail "outfit/unknown"
+	"mass" 60
+	"outfit space" -60
+	"weapon capacity" -60
+	"gun ports" -1
+	weapon
+		sprite "projectile/skylance"
+			"frame rate" 1
+		sound "skylance"
+		"hit effect" "skylance impact"
+		"inaccuracy" .4
+		"velocity" 500
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 15
+		"firing heat" 5
+		"shield damage" 25
+		"hull damage" 30
+		"ion damage" .1
+	description "The gun port version of the Quarg Skylance, these are currently only obtainable by boarding the Quarg Rover and the Quarg Warbird."
+
+outfit "Ion Torpedo Bay"
+	category "Secondary Weapons"
+	cost 2500000
+	thumbnail "outfit/iontorpedobay"
+	"mass" 45
+	"outfit space" -45
+	"weapon capacity" -45
+	"gun ports" -1
+	"ion torpedo capacity" 5
+	weapon
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
+		sound "typhoon"
+		ammo "Ion Torpedo"
+		icon "icon/iontorpedo"
+		"fire effect" "typhoon fire"
+		"hit effect" "iontorpedoexplosion"
+		"die effect" "tiny explosion"
+		"inaccuracy" 1
+		"velocity" 40
+		"lifetime" 1000
+		"reload" 375
+		"firing energy" 10
+		"firing heat" 20
+		"acceleration" 1.25
+		"drag" .01
+		"turn" .75
+		"homing" 100
+		"trigger radius" 30
+		"blast radius" 100
+		"ion damage" 2750
+		"missile strength" 1000000
+	description "An invention created by the Deep. The Ion Torpedo Launcher launches Ion Torpedos that completely drains a ships energy while doing no damage at all to the hull or shields. A ship carrying one of these could potentially change the tide of a battle."
+
+outfit "Ion Torpedo"
+	category "Ammunition"
+	cost 2000000
+	thumbnail "outfit/iontorpedo"
+	"ion torpedo capacity" -1
+	description "Ion Torpedos are ammunition for the Ion Torpedo Bay. A single one of these torpedos can completely drain any ships energy reserves while doing no damage to the shields or hull of the ship."
+	
+outfit "Tuk'ux Shield Decimator"
+	category "Secondary Weapons"
+	cost 2000000
+	thumbnail "outfit/unknown"
+	"mass" 55
+	"outfit space" -55
+	"weapon capacity" -55
+	"gun ports" -1
+	weapon
+		sprite "projectile/tukux decimatorlaser"
+			"frame rate" 1
+		sound "electron beam"
+		"hit effect" "tukux decimator impact"
+		"inaccuracy" .3
+		"velocity" 300
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 65
+		"firing heat" 120
+		"shield damage" 250
+	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the shields of any enemy ship, giving them an edge over any oponent."
+	
+outfit "Tuk'ux Plasma Laser"
+	category "Guns"
+	cost 20000000
+	thumbnail "outfit/unknown"
+	"mass" 80
+	"outfit space" -80
+	"weapon capacity" -80
+	"gun ports" -1
+	weapon
+		sprite "projectile/tukux plasmalaser"
+			"frame rate" 1
+		sound "electron beam"
+		"hit effect" "tukux plasma laser impact"
+		"inaccuracy" .4
+		"velocity" 300
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 60
+		"firing heat" 200
+		"hull damage" 100
+
+outfit "Tuk'ux Quad-Blaster Turret"
+	category "Turrets"
+	cost 500000
+	thumbnail "outfit/unknown"
+	"mass" 35
+	"outfit space" -35
+	"weapon capacity" -35
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/blaster"
+		sound "blaster"
+		"hit effect" "blaster impact"
+		"inaccuracy" 2
+		"velocity" 7
+		"lifetime" 60
+		"reload" 1.8
+		"firing energy" 20
+		"firing heat" 45
+		"shield damage" 25
+		"hull damage" 14

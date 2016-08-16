@@ -1,0 +1,218 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "Cellphone"
+	category "Hand to Hand"
+	cost 300
+	thumbnail "outfit/iphone"
+	"mass" 1
+	"outfit space" -1
+	"energy generation" -.5
+	"capture attack" .5
+	description "They always said technology destroys peoples lives. Well, its time to prove that theory!"
+	description "Due to their battery life being short and taking forever to recharge, cellphones will require a small amount of energy."
+	
+outfit "Spy Watch"
+	category "Hand to Hand"
+	cost 5000
+	thumbnail "outfit/SpyWatch"
+	"energy generation" -.5
+	"capture attack" .75
+	"capture defense" 2
+	description "Have you ever wanted to feel like a spy? Have you ever put a watch on your wrist and pretended to shoot people? Well, now you can! We slapped on a mini Laser and a cellphone battery to provide you with a Spy Watch! A great weapon to have on the last place anyone looks, incase you are boarded."
+	
+outfit "Spy Pen"
+	category "Hand to Hand"
+	cost 1000
+	thumbnail "outfit/SpyPen"
+	"capture attack" .5
+	"capture defense" .5
+	description "Ever wanted to cut through solid metal with a laser that shoots out of a pen? Also works great with destroying your teacher's papers!"
+
+outfit "Laser Pistol"
+	category "Hand to Hand"
+	cost 5000
+	thumbnail "outfit/laserpistol"
+	"capture attack" .45
+	"capture defense" .9
+	description "The Laser Pistol is the counterpart of the Laser Rifle. Although it is a bit cheaper and does not excel in attacking, pistols are easy to conceal and can help you out in tight situations."
+	
+outfit "Riot Shield"
+	category "Hand to Hand"
+	cost 250000
+	thumbnail "outfit/riotshield"
+	"mass" 2
+	"outfit space" -2
+	"capture attack" 3.8
+	"capture defense" 4
+	description "These Riot Shields are top of the line and a must have if you are a pirate/privateer. With a slightly high cost and a pretty high attack, the Riot Shields are very big and bulky, therefore, you must be willing to sacrifice a good portion of your Outfit space."
+
+outfit "Basic Energy Shields"
+	category "Hand to Hand"
+	cost 50000
+	thumbnail "outfit/basicenergyshield"
+	"energy generation" -.4
+	"capture attack" 1.6
+	"capture defense" 1.75
+	description "This is a secret technology that the Syndicate were attempting to perfect. It is based off of the idea of taking a miniature shield generator and attempting to generate a shield around an actual person. After many... unfortunate... accidents, the Syndicate were able to produce a basic prototpye of this shield, though it is not as efficient as it's counterpart."
+
+outfit "Advanced Energy Shields"
+	category "Hand to Hand"
+	cost 100000
+	thumbnail "outfit/advancedenergyshield"
+	"energy generation" -.25
+	"capture attack" 3
+	"capture defense" 2.5
+	description "This is a secret technology that the Syndicate were attempting to perfect. It is based off of the idea of taking a miniature shield generator and attempting to generate a shield around an actual person. After many... unfortunate... accidents, the Syndicate were able to produce a more advanced prototype of this shield that allows for much more efficiency."
+
+outfit "Skylance Rifle"	
+	category "Hand to Hand"
+	cost 10000000
+	thumbnail "outfit/skylancerifle"
+	"skylance rifle capacity" -1
+	"capture attack" 2400
+	"capture defense" 2400
+	description "These Rifles were designed from stolen Quarg Skylance technology. They were made to help counteract the Intrusion Countermeasures the Quarg have on their ships. Only those who are serious enough about capturing a Quarg ship will work for these."
+	description "Every Skylance Rifle has the equivalent attack of the defense of 4 Intrusion Countermeasures."
+	
+outfit "Skylance Rifle Rack"
+	category "Systems"
+	cost 20000000
+	thumbnail "outfit/skylanceriflerack"
+	"skylance rifle capacity" 5
+	mass 15
+	"outfit space" -15
+	"energy generation" -4
+	"heat generation" .25
+	description "These Skylance Rifle Racks are used to store and charge the Skylance Rifles. Due to the amount of energy that must be created to power these weapons, a little bit of heat is given off."
+	
+outfit "Tuk'ux Internal Defenses"
+	category "Hand to Hand"
+	cost 1000000
+	thumbnail "outfit/unknown"
+	"capture defense" 30
+	description "The Tuk'ux's Internal Defenses were made to help repel any attacking force."
+	
+outfit "Darkmatter Steering"
+	category "Engines"
+	"cost" 35000000
+	thumbnail "outfit/unknown"
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"turn" 3000
+	"turning energy" 10
+	"turning heat" 5
+	
+outfit "Darkmatter Thruster"
+	category "Engines"
+	"cost" 65000000
+	thumbnail "outfit/unknown"
+	"mass" 85
+	"outfit space" -85
+	"engine capacity" -85
+	"thrust" 220
+	"thrusting energy" 16
+	"thrusting heat" 8
+	"flare sprite" "effect/medium graviton flare"
+	
+outfit "Redmatter Steering"
+	category "Engines"
+	"cost" 18000000
+	thumbnail "outfit/unknown"
+	"mass" 30
+	"outfit space" -30
+	"engine capacity" -30
+	"turn" 900
+	"turning energy" 8
+	"turning heat" 4
+	
+outfit "Redmatter Thruster"
+	category "Engines"
+	"cost" 65000000
+	thumbnail "outfit/unknown"
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"thrust" 90
+	"thrusting energy" 12
+	"thrusting heat" 6
+	"flare sprite" "effect/medium graviton flare"
+	
+outfit "Darkmatter Fusion Chamber"
+	category "Systems"
+	cost 20000000
+	thumbnail "outfit/unknown"
+	"mass" 45
+	"outfit space" -45
+	"energy generation" 45
+	"heat generation" 80
+	description "The Tuk'ux use this powerful chamber core to power their large ships."
+	
+outfit "Redmatter Fusion Chamber"
+	category "Systems"
+	cost 12000000
+	thumbnail "outfit/unknown"
+	"mass" 25
+	"outfit space" -25
+	"energy generation" 24
+	"heat generation" 36
+	
+outfit "Dry Ice Cooling Cell"
+	category "Systems"
+	cost 10000000
+	thumbnail "outfit/unknown"
+	"mass" 35
+	"outfit space" -35
+	"cooling" 70
+	
+outfit "Liquid Glacier Cooling Cell"
+	category "Systems"
+	cost 5000000
+	thumbnail "outfit/unknown"
+	"mass" 20
+	"outfit space" -20
+	"cooling" 35
+	
+outfit "Tuk'ux Energy Unit"
+	category "Power"
+	"cost" 10000000
+	thumbnail "outfit/unknown"
+	"mass" 25
+	"outfit space" -25
+	"energy capacity" 13000
+	
+outfit "Tuk'ux Energy Cell"
+	category "Power"
+	"cost" 6000000
+	thumbnail "outfit/unknown"
+	"mass" 18
+	"outfit space" -18
+	"energy capacity" 6800
+	
+outfit "JF-2031 Shield Generator"
+	category "Systems"
+	"cost" 14000000
+	thumbnail "outfit/unknown"
+	"mass" 60
+	"outfit space" -60
+	"shield generation" 5.6
+	"energy generation" -1.2
+	"heat generation" 8
+	
+outfit "EP-341 Shield Generator"
+	category "Systems"
+	"cost" 8000000
+	thumbnail "outfit/unknown"
+	"mass" 35
+	"outfit space" -35
+	"shield generation" 3.7
+	"energy generation" -.8
+	"heat generation" 6.5
