@@ -7,15 +7,6 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-	
-outfit "Typhoon Torpedo Depot"
-	category "Systems"
-	cost 50000
-	thumbnail "outfits/red screwdriver"
-	"mass" 20
-	"outfit space" -20
-	"typhoon capacity" 25
-	description "A specialized bay for holding Typhoon Torpedoes."
 
 outfit "Surveillance Pod"
 	category "Systems"
@@ -69,51 +60,6 @@ outfit "Breacher Cannon"
 	unplunderable 1
 	description "Breacher cannons are the most dangerous man-portable weapon that money can buy, although that's not the same thing as being the most dangerous weapon out there. Of course, for the cost of equipping an entire crew with them, it is cheaper to simply buy another ship."
 	description "The purchase price of a breacher cannon generally includes specialized training in its use, and it requires a moderate amount of outfit space for maintenance and training areas."
-
-outfitter "Pirate Outfits"
-	"Hedgehog Ion Mine"
-	"Hedgehog Ion Mine Launcher"
-	"400mm Railgun"
-	"Bighorn Energy Ram"
-	"Tractor Beam Turret"
-	"Plasma Gatling"
-	"Hull Repair Nano-Bots"
-	"Tactical Armor"
-	
-outfitter "Syndicate Advanced"
-	"Hedgehog Ion Mine"
-	"Hedgehog Ion Mine Launcher"
-	"X900 Experimental Micro-Propulsion"
-	
-outfitter "Tarazed Advanced"
-	"X900 Experimental Micro-Propulsion"
-	
-outfitter "Lovelace Advanced"
-	"Plasma Minelayer"
-	"Plasma Mine"
-	"Plasma Gatling"
-	"Hull Repair Nano-Bots"
-	"Tactical Armor"
-	"Breacher Cannon"
-
-outfitter "Kraz Advanced"
-	"Hedgehog Ion Mine"
-	"Hedgehog Ion Mine Launcher"
-	"Plasma Minelayer"
-	"Plasma Mine"
-	"Plasma Gatling"
-	"Hull Repair Nano-Bots"
-	"Tactical Armor"
-	"Breacher Cannon"
-	"X900 Experimental Micro-Propulsion"
-
-outfitter "Delta V Advanced"
-	"Plasma Minelayer"
-	"Plasma Mine"
-	"Plasma Gatling"
-	"Hull Repair Nano-Bots"
-	"Tactical Armor"
-	"Breacher Cannon"
 
 outfit "Rock Wall"
 	category "Hand to Hand"
@@ -275,9 +221,6 @@ outfit "Extended Bunk Room"
 	"bunks" 8
 	"outfit space" -36
 	description "Doubles the space a normal bunk room would give, at the cost of a higher mass and more outfit space taken up."
-	
-outfitter "Common Outfits"
-	"Extended Bunk Room"
 	
 outfit "Boarding Cannon"
 	category "Hand to Hand"
