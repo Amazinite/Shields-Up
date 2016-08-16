@@ -227,20 +227,3 @@ mission "betelgeuse bomb attempt"
 			`The minute you land, you can tell that something is wrong. While most people are going about their day, there are some people crowded in a bar looking at a screen of some sorts.`
 			`Walking over to the crowd you see they are all huddled over a small television broadcasting news about something.`
 			`You can hardly hear the news reporter talking over the sound of the crowd, but you could make out some bits and pieces; "Recenly there has - attack on the planet - in the Betelgeuse system - bomb exploded - Betelgeuse shipyard headquarters - seventeen casualties - despite attempts - culprits have not been found."`
-
-event "kestrel available: more weapons"
-	set "kestrel available"
-	shipyard "Tarazed Advanced"
-		"Kestrel-M"
-event "kestrel available: more engines"
-	set "kestrel available"
-	shipyard "Tarazed Advanced"
-		"Kestrel-M"
-event "kestrel available: more shields"
-	set "kestrel available"
-	shipyard "Tarazed Advanced"
-		"Kestrel-M"
-		
-event "deep sky tech available"
-	outfitter "Deep Sky Advanced"
-		"Incinerator Beam"

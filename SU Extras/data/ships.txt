@@ -1,0 +1,247 @@
+ship " Phoenix "
+	sprite "ship/Phoenix(MS)"
+	attributes
+		category "Heavy Warship"
+		"cost" 19000000
+		"shields" 18500 
+		"hull" 7250
+		"required crew" 57
+		"bunks" 77
+		"mass" 680
+		"drag" 12.5
+		"heat dissipation" .5
+		"fuel capacity" 600
+		"cargo space" 145
+		"outfit space" 530
+		"weapon capacity" 156
+		"engine capacity" 218
+		weapon
+			"blast radius" 250
+			"shield damage" 2600
+			"hull damage" 1550
+			"hit force" 3670
+	outfits
+		Hyperdrive
+
+		"LP144a Battery Pack"
+
+		"Fusion Reactor"
+
+		"Orca Plasma Thruster"
+
+		"Orca Plasma Steering"
+
+		"Heavy Laser" 6
+	
+		"Liquid Nitrogen Cooler"
+
+		"Energy Blaster" 2
+
+		"D67-TM Shield Generator"
+		
+		
+	engine -16.5 178
+	engine 14 178
+	engine 46 167
+	engine -48.5 167
+	gun -8 -174 "Heavy Laser"
+
+	gun 5 -174 "Heavy Laser"
+
+	gun -76.5 25.5 "Heavy Laser"
+
+	gun 73 25.5 "Heavy Laser"
+
+	gun -59 8 "Heavy Laser"
+
+	gun 56 7.5 "Heavy Laser"
+
+	gun -42 -9 "Energy Blaster"
+
+	gun 39 -9 "Energy Blaster"
+
+	turret -87 69.5
+	turret 83.5 69
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "big explosion" 45
+	explode "huge explosion" 30
+	description "Inspired by the Modified Firebird, this high class warship comes from the minds of the finest Betelgeuse engineers. Built for speed, and with guns to spare, this warship will run down slower vessels and outmaneaver anything larger than itself."
+
+ship "Kestrel-M"
+	sprite "ship/KestrelM"
+	attributes
+		category "Heavy Warship"
+		"cost" 10300000
+		"shields" 17400
+		"hull" 6200
+		"required crew" 72
+		"bunks" 128
+		"mass" 740
+		"drag" 12.5
+		"heat dissipation" .45
+		"fuel capacity" 500
+		"cargo space" 120
+		"outfit space" 810
+		"weapon capacity" 400
+		"engine capacity" 210
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Particle Cannon" 4
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Orca Plasma Thruster"
+		"X5200 Ion Steering"
+		"Hyperdrive"
+	engine -14 177
+	engine 14 177
+	gun -31 66 "Particle Cannon"
+	gun 31 66 "Particle Cannon"
+	gun -53 61 "Particle Cannon"
+	gun 53 61 "Particle Cannon"
+	gun -75 57 "Torpedo Launcher"
+	gun 75 57 "Torpedo Launcher"
+	turret -7 -4 "Heavy Laser Turret"
+	turret 7 4 "Heavy Laser Turret"
+	turret -23	14 "Heavy Laser Turret"
+	turret 23 14 "Heavy Laser Turret"
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "big explosion" 45
+	explode "huge explosion" 30
+	description "Several years ago, while visiting a sweat lodge in search of spiritual renewal, Tarazed's chief ship designer fell into a trance and journeyed to a reality separate from our own. There he saw visions of a strange and elegant starship. Returning to his work with renewed purpose, he spent the next seven years making the Kestrel a reality."
+	description "This premium hull is reserved for only the wealthiest of Tarazed's investors but for a large sum of credits, you too can get this premium hull."
+	
+ship "Bactrian T2"
+	sprite "ship/T2Bactrian"
+	licenses
+		"Deep Sky"
+	attributes
+		category "Heavy Warship"
+		"cost" 35200000
+		"shields" 17500
+		"hull" 8600
+		"required crew" 70
+		"bunks" 245
+		"mass" 940
+		"drag" 16.1
+		"heat dissipation" .4
+		"fuel capacity" 700
+		"cargo space" 530
+		"outfit space" 740
+		"weapon capacity" 300
+		"engine capacity" 180
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 100
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Heavy Laser Turret" 4
+		"Heavy Anti-Missile Turret" 2
+		
+		"Fusion Reactor"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Ramscoop"
+		
+		"X4700 Ion Thruster"
+		"X5200 Ion Steering"
+		"Hyperdrive"
+		
+	engine -22.5 228
+	engine 23.5 227.5
+	gun -8 -232.5 "Sidewinder Missile Launcher"
+	gun 1 -233 "Torpedo Launcher"
+	gun 29 -240 "Sidewinder Missile Launcher"
+	gun 39 -239.5 "Torpedo Launcher"
+	turret 44 -72 "Heavy Laser Turret"
+	turret -40 -50.5 "Heavy Laser Turret"
+	turret -40 -16.5 "Heavy Anti-Missile Turret"
+	turret 0.5 146 "Heavy Laser Turret"
+	turret 43.5 65.5 "Heavy Laser Turret"
+	turret -35.5 126.5 "Heavy Anti-Missile Turret"
+	fighter -38 -26
+	fighter 35 36
+	fighter -47 97
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "big explosion" 45
+	explode "huge explosion" 30
+	description "Based on its predecessor, the famous Lionheart Bactrian, the Bactrian T2 attempts to revitalize a past era of ship building. Modeled to have all the specifications of the former Bactrian, the T2 is the dream ship of merchant captains and explorers alike."
+	description "The Premium hull makes it very expensive."
+	
+ship "Dragoon"
+	sprite "ship/Dragoon"
+	attributes
+		category "Heavy Warship"
+		"cost" 112100195
+		"shields" 60000
+		"hull" 33000
+		"required crew" 624
+		"bunks" 945
+		"mass" 1630
+		"drag" 15.2
+		"heat dissipation" .4
+		"fuel capacity" 800
+		"cargo space" 722
+		"outfit space" 745
+		"weapon capacity" 355
+		"engine capacity" 240
+		weapon
+			"blast radius" 700
+			"shield damage" 7500
+			"hull damage" 5500
+			"hit force" 10000
+	outfits
+		"Torpedo Launcher" 5
+		"Torpedo" 150
+		"Heavy Anti-Missile Turret" 3
+		"Fusion Reactor"
+		"LP144a Battery Pack" 2
+		"D94-YV Shield Generator"
+		"Ramscoop"
+		"X4700 Ion Thruster"
+		"X5200 Ion Steering"
+		"Hyperdrive"
+		
+	engine -43 359
+	engine 45 358.5
+	turret 3 35.5
+	turret 3.5 5
+	turret 3.5 -26
+	gun 47 19
+	gun -46.5 18
+	gun -55.5 76.5
+	gun 58.5 76
+	gun 0 -359.5
+	fighter -38 -26
+	fighter -38 -26
+	fighter -38 -26
+	fighter -38 -26
+	fighter 35 36
+	fighter 35 36
+	fighter 35 36
+	fighter 35 36
+	fighter -47 97
+	fighter -47 97
+	fighter -47 97
+	fighter -47 97
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "big explosion" 45
+	explode "huge explosion" 30
+	description "Few ships of this scale have ever been devised, the Dragoon's massive frame is enough to eclipes a planet's sun and leave a world in darkness.

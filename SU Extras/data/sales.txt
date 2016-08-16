@@ -1,0 +1,10 @@
+shipyard "Betelgeuse Advanced"
+	" Phoenix "
+	"Dragoon"
+
+shipyard "Lionheart Advanced"
+	"Bactrian T2"
+	
+outfitter "Tarazed Technologies"
+	"Boarding Cannon"
+	"Ship Armory"

@@ -1,4 +1,4 @@
-outfit "FTek Active Blaster"
+﻿outfit "FTek Active Blaster"
 	category "Guns"
 	cost 75000
 	thumbnail "outfit/active blaster"
@@ -182,29 +182,3 @@ outfit "Light Turbo Laser Turret"
 		"shield damage" 120
 		"hull damage" 50
 	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
-	
-outfit "Incinerator Beam"
-	category "Turrets"
-	cost 18000000
-	thumbnail "outfit/unknown"
-	"mass" 60
-	"outfit space" -60
-	"weapon capacity" -60
-	"turret mounts" -1
-	"required crew" 1
-	weapon
-		sprite "projectile/Incineratorbeam"
-			"frame rate" 15
-		sound "skylance"
-		"hit effect" "sunbeam impact"
-		"inaccuracy" .9
-		"velocity" 375
-		"lifetime" 1
-		"reload" 1
-		"firing energy" 45
-		"firing heat" 300
-		"shield damage" 60
-		"hull damage" 40
-		"ion damage" .05
-	description "This weapon is a truly great invention. It melts through hull and shields very fast and can swiftly take care of most threats."
-	description "Because of its price not many people use it."

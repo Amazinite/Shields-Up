@@ -1,0 +1,11 @@
+outfit "Extended Bunk Room"
+	category "Systems"
+	cost 75000
+	thumbnail "outfit/extended bunk room"
+	"mass" 10
+	"bunks" 8
+	"outfit space" -36
+	description "Doubles the space a normal bunk room would give, at the cost of a higher mass and more outfit space taken up."
+	
+outfitter "Common Outfits"
+	"Extended Bunk Room"

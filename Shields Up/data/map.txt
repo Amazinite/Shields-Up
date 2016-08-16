@@ -10703,6 +10703,3 @@ planet "Wayshrine Station"
 	"required reputation" 2
 	bribe 0.2
 	security 0.2
-	
-planet Wayfarer
-	outfitter "Tarazed Technologies"

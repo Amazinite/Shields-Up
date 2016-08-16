@@ -129,18 +129,7 @@ outfitter "Syndicate Basics"
 	"FTek Small Shield System"
 	"FTek Medium Shield System"
 	"FTek UMDB"
-	
-shipyard "Betelgeuse Advanced"
-	" Phoenix "
-	"Dragoon"
 
-shipyard "Lionheart Advanced"
-	"Bactrian T2"
-	
-outfitter "Tarazed Technologies"
-	"Boarding Cannon"
-	"Ship Armory"
-	
 outfitter "Pirate Outfits"
 	"Hedgehog Ion Mine"
 	"Hedgehog Ion Mine Launcher"
@@ -185,6 +174,107 @@ outfitter "Delta V Advanced"
 	"Hull Repair Nano-Bots"
 	"Tactical Armor"
 	"Breacher Cannon"
+
+
+shipyard "Lionheart Basics"
+	"Switchblade"
+	"Vagabond"
+	"Vagrant"
+	"Archangel"
+
 	
-outfitter "Common Outfits"
-	"Extended Bunk Room"
+shipyard "Southbound Basics"
+	"Skybus"
+	"Derelict"
+	"Switchblade"
+	"Sky Dinghy"
+	"Vagabond"
+	"Vagrant"
+	
+shipyard "Betelgeuse Basics"
+	"Skybus"
+	"Vagabond"
+	"Sky Dinghy"
+	"Vagrant"
+
+event "deep sky tech available"
+	shipyard "Lionheart Basics"
+		"Legionnaire"
+	set "license: Deep Sky"
+	
+event "battle of algenib"
+	shipyard "Syndicate Advanced"
+		"Samurai"
+	set "license: Syndicate"
+		
+shipyard "Southbound Advanced"
+	"Archangel"
+	
+shipyard "Southern Pirates"
+	"Vagabond"
+	"Derelict"
+	"Headhunter"
+	"Raven"
+	"Pirated Frigate"
+	"Sky Dinghy"
+	"Switchblade"
+	"Skybus"
+	"Vagrant"
+	
+shipyard "Northern Pirates"
+	"Derelict"
+	"Headhunter"
+	"Raven"
+	"Pirated Frigate"
+	"Sky Dinghy"
+	"Vagabond"
+	"Vagrant"
+	
+shipyard "Megaparsec Basics"
+	"Vagabond"
+	"Vagrant"
+	"Predator Drone"
+
+shipyard "Syndicate Basics"
+	"Vagabond"
+	"Vagrant"
+
+shipyard "Syndicate Advanced"
+	"Phoenix"
+
+shipyard "Tarazed Basic"
+	"Predator Drone"
+	
+shipyard "Tarazed Advanced"
+	"Phoenix"
+	"Archangel"
+	"Dart"
+	
+	
+shipyard "Betelgeuse Basic"
+	"Predator Drone"
+	"Vagabond"
+	"Vagrant"
+	
+shipyard "Betelgeuse Advanced"
+	"Phoenix"
+	
+"Syndicate Basics"
+	"Vagabond"
+	"Vagrant"
+	
+"Betelgeuse Basics"
+	"Vagabond"
+	"Vagrant"
+	
+shipyard "Plenipotent Advanced"
+	"Pirated Frigate"
+
+shipyard "Plenipotent Basic"
+	"Derelict"
+	"Vagabond"
+	"Vagrant"
+	"Firebird"
+	"Switchblade"
+	"Fury"
+	"Berserker"
