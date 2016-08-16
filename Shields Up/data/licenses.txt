@@ -1,6 +1,3 @@
-	# A mission with no destination will not be offered, so give it one.
-	# What the destination is doesn't matter, because you always 'decline' this.
-
 mission "Deep Sky Grants License"
         landing
 	autosave
@@ -12,7 +9,6 @@ mission "Deep Sky Grants License"
 		conversation
 			`The Deep Sky has granted you access to their best ship, the Bactrian. There are rumors that there is also a new type of Mule available.`
 				decline
-	destination Valhalla
 
 event "DS licence"
 	shipyard "Lionheart Basics"
@@ -30,7 +26,6 @@ mission "Syndicate Grants License"
 		conversation
 			`The Syndicate has granted you access to their secret battleship, the Samurai.`
 				decline
-	destination Hephaestus
 	
 event "S license"
 	shipyard "Syndicate Advanced"

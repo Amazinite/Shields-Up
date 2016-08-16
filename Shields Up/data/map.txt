@@ -6243,13 +6243,6 @@ system "Mil'taj Zek"
 			distance 355
 			period 27.2396
 
-system "Milky Way"
-	pos 108.869 27.3646
-	habitable 1715
-	object
-		sprite star/blackhole
-		period 10
-
 system Minkar
 	pos -823 138
 	habitable 670

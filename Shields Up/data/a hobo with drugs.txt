@@ -1,4 +1,3 @@
-
 mission "a hobo with drugs"
 	landing
 	source
@@ -67,9 +66,7 @@ mission "a hobo with drugs"
 			label "attack guard"
 			`	You quickly pull up you weapon, and fire the trigger.`
 			`	The shot is heard as the guard falls to the ground, it's about 10 seconds later when sirens around the base start screaming, you have to run!`
-				launch
-				government "Deep Sky"
-					"player reputation" -5
+				flee
 					
 			label explain
 			`	You explain exactly what happened. The guard seems a little unsure...`
@@ -88,7 +85,7 @@ mission "a hobo with drugs"
 				
 			label bribe
 			`	You offer him 1000 credits if he leaves you alone.`
-			`	He looks at you dead in the eyes, "you'll have to go a little higher than that."`
+			`	He looks at you dead in the eyes, "You'll have to go a little higher than that."`
 			`	No matter what, you'll have to pay him, he probably won't let you leave unless you do.`
 			choice
 				`	Offer 2000 credits`
@@ -112,3 +109,8 @@ mission "a hobo with drugs"
 				
 			label end
 			`	And so after another typical day in the galaxy, all is well.`
+				decline
+	
+	on flee
+		government "Deep Sky"
+			"player reputation" -= 5

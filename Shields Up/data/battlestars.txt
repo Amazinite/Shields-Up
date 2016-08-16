@@ -89,14 +89,16 @@ ship "Battlestar"
 	explode "nuke explosion" 2
 	description "The most destructive device ever designed by the Alphas. The Battlestar is the very definition of fear."
 
-#mission "Battle Star Attack"
+mission "Battle Star Attack"
 	name "Plenipotent Dominion battlestar attacking <system>"
 	description "The Plenipotent Dominion battle star <npc> is attacking the <system> system! The military's forces needs your help!"
 	repeat
 	job
 	to offer
-		"combat rating" > 1600
-		random < 10
+#		"combat rating" > 1600
+#		random < 10
+# With the hashtag in front of mission, this produces a lot of errors. Instead just create to offers that can not be completed.
+		"combat rating" < 1
 	source
 		planet Rodin
 	npc kill
@@ -108,7 +110,7 @@ ship "Battlestar"
 			names battlestar
 			variant
 				Battlestar
-		dialog "The battle star <npc> has been destroyed. If you return to <destination> you might get paid"
+		dialog "The Battlestar <npc> has been destroyed. If you return to <destination> you might get paid"
 	on complete
 		payment 1500000
 		dialog "The government of <planet> gratefully pays you <payment> for eliminating the Battlestar <npc>."
