@@ -259,11 +259,11 @@ shipyard "Betelgeuse Basic"
 shipyard "Betelgeuse Advanced"
 	"Phoenix"
 	
-"Syndicate Basics"
+shipyard "Syndicate Basics"
 	"Vagabond"
 	"Vagrant"
 	
-"Betelgeuse Basics"
+shipyard "Betelgeuse Basics"
 	"Vagabond"
 	"Vagrant"
 	
