@@ -136,17 +136,10 @@ system "Alpha Uzara"
 			distance 356
 			period 28.6978
 
-system Arneb
-	pos -523 -580
-	habitable 1715
-	link Hatysa
-	link Maroon
-
 system Beltane
 	pos -588.13 -469.258
 	government Pirate
 	habitable 745.92
-	link Ganji
 	asteroids "small rock" 1 1.644
 	asteroids "medium rock" 9 1.476
 	asteroids "large rock" 2 0.984
@@ -837,49 +830,6 @@ system Gami
 			distance 275
 			period 13.3646
 
-system Ganji
-	pos -527.545 -487.244
-	government Pirate
-	habitable 1050.92
-	link "Psi Lumiere"
-	link Beltane
-	asteroids "small rock" 3 6.24
-	asteroids "medium rock" 14 5.824
-	asteroids "large rock" 1 2.4544
-	asteroids "medium metal" 4 3.4944
-	asteroids "large metal" 9 4.8672
-	fleet "Small Northern Pirates" 2500
-	fleet "Large Northern Pirates" 3500
-	object
-		sprite star/g5
-		distance 46.2023
-		period 15.0187
-	object
-		sprite star/k5
-		distance 67.7977
-		period 15.0187
-		offset 180
-	object
-		sprite planet/ganymede
-		distance 201.408
-		period 35.2687
-	object
-		sprite planet/rock7
-		distance 454.218
-		period 119.446
-	object
-		sprite planet/lava3
-		distance 627.258
-		period 193.84
-	object
-		sprite planet/gas15
-		distance 1377.02
-		period 630.499
-	object
-		sprite planet/gas7
-		distance 1948.18
-		period 1061.01
-
 system Hamal
 	pos -129 24
 	habitable 1080
@@ -1353,7 +1303,6 @@ system Laconda
 	government "Plenipotent Dominion"
 	habitable 320
 	link Wezen
-	link "Psi Lumiere"
 	asteroids "medium rock" 1 3.294
 	asteroids "large rock" 1 1.755
 	asteroids "medium metal" 4 2.673
@@ -1407,45 +1356,6 @@ system Lolami
 	habitable 1215
 	link "Tania Australis"
 	link Flamsteed
-
-system Maroon
-	pos -580.13 -563.258
-	government Pirate
-	habitable 625
-	link Arneb
-	link "Psi Lumiere"
-	asteroids "small rock" 25 2.5536
-	asteroids "medium rock" 20 2.9568
-	asteroids "large rock" 23 2.8672
-	asteroids "small metal" 25 5.5104
-	asteroids "medium metal" 33 3.9872
-	asteroids "large metal" 25 5.6896
-	fleet "Small Northern Pirates" 2500
-	fleet "Large Plenipotent Dominion" 4000
-	fleet "Small Plenipotent Dominion" 2500
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/ice6
-		distance 240.25
-		period 59.582
-	object
-		sprite planet/cloud3
-		distance 509.66
-		period 184.094
-	object
-		sprite planet/cloud6
-		distance 761.3
-		period 336.089
-	object
-		sprite planet/gas14
-		distance 2006.26
-		period 1437.81
-		object
-			sprite planet/ice7
-			distance 244
-			period 15.5218
 
 system Mebsuta
 	pos -456 -307
@@ -5587,56 +5497,6 @@ system "Pi Capuli"
 		distance 2951.16
 		period 3584.88
 		offset 356.583
-
-system "Psi Lumiere"
-	pos -586.13 -506.258
-	government "Plenipotent Dominion"
-	habitable 455
-	link Maroon
-	link Laconda
-	link Ganji
-	asteroids "small rock" 34 3.783
-	asteroids "medium rock" 1 5.616
-	asteroids "large rock" 10 3.432
-	asteroids "medium metal" 65 2.496
-	asteroids "large metal" 3 2.106
-	fleet "Large Plenipotent Dominion" 3400
-	fleet "Small Plenipotent Dominion" 1800
-	fleet "Small Northern Pirates" 2000
-	fleet "Large Northern Pirates" 4000
-	object
-		sprite star/m0
-		distance 30.8571
-		period 19.8886
-		offset 180
-	object
-		sprite star/m8
-		distance 73.1429
-		period 19.8886
-	object
-		sprite planet/dust2
-		distance 193.553
-		period 50.4956
-	object
-		sprite planet/lava6
-		distance 355.393
-		period 125.637
-	object
-		sprite planet/gas9
-		distance 1471.23
-		period 1058.22
-		object
-			sprite planet/dust4
-			distance 224
-			period 12.5708
-		object
-			sprite planet/dust5
-			distance 353
-			period 24.8687
-		object
-			sprite planet/ice7
-			distance 470
-			period 38.2065
 
 system Qarn
 	pos -240.204 618.803
