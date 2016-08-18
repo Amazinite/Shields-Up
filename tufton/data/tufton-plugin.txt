@@ -510,3 +510,42 @@ outfit "Ion Laser Turret"
 		"hull damage" 1
 		"ion damage" .12
 	description "Tired of firing stupid ion blobs straight ahead? Try the new Ion Laser Turret, a favorite of pirate kings the galaxy over! Lown shield and hull damage means this turret works best when paired with high damage outfits to disable that prized merchant vessel."
+
+
+# World Forge add on:
+outfitter "Tufton Human"
+	"M50-400 Slug"
+	"400mm Railgun"
+	"Hedgehog Ion Mine"
+	"Hedgehog Ion Mine Launcher"
+	"Tractor Beam Turret"
+	"Hull Repair Nano-Bots"
+	"Bighorn Energy Ram"
+	"Plasma Gatling"
+	"Ion Laser Turret"
+	"Polaric Slide Thrusters"
+
+shipyard "Tufton Human"
+	"Monolith"
+	"Tactical Assault Fighter"
+	
+shipyard "Tufton Hai"
+	"Mite"
+	"Arachnid"
+	
+planet Mods
+	outfitter "Tufton Human"
+	shipyard "Tufton Human"
+	shipyard "Tufton Hai"
+
+planet Forge
+	outfitter "Tufton Human"
+	shipyard "Tufton Human"
+	shipyard "Tufton Hai"
+
+planet Human
+	outfitter "Tufton Human"
+	shipyard "Tufton Human"
+
+planet Hai
+	shipyard "Tufton Hai"
