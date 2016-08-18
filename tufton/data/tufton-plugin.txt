@@ -88,7 +88,6 @@ outfit "M50-400 Slug"
 outfit "400mm Railgun"
 	category "Guns"
 	cost 2490000
-	thumbnail "outfit/pulse cannon"
 	"mass" 60
 	"outfit space" -60
 	"weapon capacity" -60
@@ -122,7 +121,7 @@ outfit "400mm Railgun"
 outfit "Plasma Gatling"
 	category "Guns"
 	cost 410000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/plasma gattling" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
 	"mass" 40
 	"outfit space" -40
 	"weapon capacity" -40
@@ -289,7 +288,7 @@ outfit "Tractor Beam Turret"
 outfit "Bighorn Energy Ram"
 	category "Guns"
 	cost 4050000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/energy ram" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
 	"mass" 90
 	"outfit space" -90
 	"weapon capacity" -90
