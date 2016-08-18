@@ -33,5 +33,3 @@ shipyard "Pompano Tuk'ux"
 shipyard "Pompano Quarg"
 	"Quarg Rover"
 	"Quarg Warbird"
-	
-# Note to self; replace current Tuk'ux ship images with the original ones, as these purple ones are ugly as sin.
