@@ -1,446 +1,194 @@
 #NOTE! The Deep Sky attitudes are set lower due to the idea that, them being so far from FW would lead them to be less inclined to care about the war going on in the south
+			
+mission "SU hostilities check"
+	landing
+	to offer
+		has "event: start of hostilities"
+	on offer
+		event "shields up hostilities start"
+		fail
 
-event "start of hostilities"
-	government "Republic"
-		"attitude toward"
-			"Free Worlds" -.2
+event "shields up hostilities start"
 	government "Free Worlds"
 		"attitude toward"
-			"Republic" -.2
 			"Deep Sky" -.1
 	government "Deep Sky"
 		"attitude toward"
 			"Free Worlds" -.1
-			
-event "temporary ceasefire"
-	government "Republic"
-		"attitude toward"
-			"Free Worlds" 0
-	government "Free Worlds"
-		"attitude toward"
-			"Republic" 0
-			"Deep Sky" 0
-	government "Deep Sky"
-		"attitude toward"
-			"Free Worlds" 0
-			
-mission "FW Prisoner Parole 2"
+
+
+
+mission "SU ceasefire check"
+    landing
+    to offer
+        has "event: temporary cease fire"
+    on offer
+        event "shields up temporary cease fire"
+        fail
+
+event "shields up tempoarary cease fire"
+    government "Free Worlds"
+        "attitude toward"
+            "Deep Sky" 0
+    government "Deep Sky"
+        "attitude toward"
+            "Free Worlds" 0
+
+
+
+mission "SU prisoner parole check"
 	landing
-	name "Prisoner Parole"
-	description "Return to Deep before the cease-fire ends."
-	source "New Tibet"
-	destination "Deep"
 	to offer
-		has "FW Prisoner Parole: done"
-	on fail
-		dialog `You have failed an essential Free Worlds mission. If you want to complete the story line, revert to the autosave or another earlier snapshot of the game.`
-	
-	npc accompany save
-		government "Escort"
-		personality timid
-		ship "Falcon (Heavy)" "R.N.S. Starry Warrior"
-		ship "Blackbird" "Flight of Fancy"
-		ship "Blackbird" "Southern Luxury"
-	
-	on visit
-		dialog "You have reached <planet>, but you left part of your convoy behind! Better depart and wait for them to arrive in this star system."
-	
-	on complete
-		conversation
-			`Tomek seems very relieved to see you all back in one piece. "Thank you for your service," he says. "Please report to your local militia commanders for your next orders. Captain <last>, remain here."`
-			`	After everyone else has left the room, he tells you, "I'm sorry, but I've got some bad news for you. We've searched the entire outpost on Clink. No sign of Katya. The miners don't know what happened to her, but I'd say it's a safe bet that she's either dead, or a prisoner."`
-			choice
-				`	"So, what do we do now?"`
-					goto next
-				`	"I wish we'd known that a few days earlier. We could have arranged a prisoner exchange."`
-					goto exchange
-			
-			label exchange
-			`	"I know," he says. "That's what a lot of our people are saying now. But what we did, a pure good-faith gesture with nothing demanded in return - we may come to be glad of that. My hope was to set a precedent, to shape the character of whatever conflict comes out of this, and I still think that was the right thing to do."`
-			`	"So, what do we do now?" you ask.`
-			
-			label next
-			`	"The Navy has had two crushing defeats," he says. "They will be hesitant to attack again until their numbers are much stronger. That gives us some time for diplomacy, to strengthen our position and look for allies, or at least for sympathizers. Which is where you come in. I'm going to ask you to carry a diplomatic mission to the Syndicate. Meet us in the spaceport when you are ready."`
-		"reputation: Republic" = -1000
-		"reputation: Deep Sky" = -1000
-		event "oathkeepers founded" 50
-		
-event "battle for Rastaban"
-	"reputation: Republic" = -1000
-	"reputation: Deep Sky" = -1000
-	system Rastaban
-		fleet "Small Free Worlds" 10000
-	system Lesath
-		fleet "Small Southern Merchants" 800
-		fleet "Large Southern Merchants" 1600
-		fleet "Small Free Worlds" 800
-		fleet "Large Free Worlds" 1100
-	system Sargas
-		fleet "Small Southern Merchants" 600
-		fleet "Large Southern Merchants" 2500
-		fleet "Small Free Worlds" 1000
-		fleet "Large Free Worlds" 1500
-		
-event "battle for zeta aquilae"
-	"reputation: Republic" = -1000
-	"reputation: Deep Sky" = -1000
-	system "Zeta Aquilae"
-		fleet "Small Southern Merchants" 5000
-		
-mission "FW Defend New Tibet"
-	landing
-	name "Defend New Tibet"
-	description "Defend New Tibet from a Syndicate fleet that is attacking them, then land to rescue a Syndicate defector carrying vital evidence and information."
-	source Wayfarer
-	destination "New Tibet"
-	passengers 2
-	to offer
-		has "FW Rand 1B: done"
-	
+		has "FW Prisoner Parole 2: done"
 	on offer
-		conversation
-			`The fleet in orbit around Wayfarer is pitifully small, surely not enough to take on more than a couple of Navy capital ships. JJ orders one of their communication officers to try to establish a secure link to Bourne or to any Free Worlds post on the other side of the Navy blockade. After about ten minutes, the officer returns and says, "Sir, we're receiving communications from New Tibet. You need to talk to them."`
-			`	"Our fleet is there?" asks JJ.`
-			`	"No sir, the Syndicate. They're under attack by the Syndicate."`
-			`	"What?" says JJ. He rushes into the communication room, and you and Freya follow. On the video screen is a Buddhist monk in a maroon robe; behind him, you see other monks rushing about with none of the serenity you would usually expect of them. "What's going on there?" asks JJ.`
-			`	The monk explains, "Yesterday a Syndicate ship landed near our monastery, and the pilot sought refuge with us. He brings evidence that the Syndicate, or some faction within the Syndicate, was behind the attacks on Geminus and Martini."`
-			choice
-				`	"Why would the Syndicate do that?"`
-				`	"What sort of evidence?"`
-					goto evidence
-			`	"He claims that a certain faction within the Syndicate values economic growth above all else," says the monk, "and incited this war for that reason."`
-			`	"That's insane," says Freya.`
-			`	"But not completely implausible," says JJ.`
-			label evidence
-			`	The monk says, "He brought a great deal of evidence. Plans for a nuclear device. Data from underground testing. A manufactured bomb casing. Samples of fissile material. And he named the planet where the development was done: Mutiny, in the Gienah system. We hid his ship in a cave. A day later, a Syndicate fleet appeared in orbit. They do not know where the defector landed, but they say they will destroy whatever settlement is harboring him unless he is returned to them immediately."`
-			`	After a moment, JJ says, "If these allegations are true, if we can prove that the Free Worlds was innocent of any involvement in those attacks, the Republic might make peace with us, or at least agree to a ceasefire. I vote that we try to shelter this defector and hear his story."`
-			`	"And if it's a lie," says Freya, "and we refuse the Syndicate's demands, we lose our only ally. And many civilians will be killed, as well. I care about justice, but trading a definite ally for a slim possibility of peace: that is an unwise investment. I vote that we hand this man over to the Syndicate."`
-			`	The monk says, "We want to see justice done, and peace prevail. If you ask us to, we will flee to the mountains and take refuge until help arrives."`
-			`	As the third Council member present, you have the deciding vote, and the entire course of this war may rest on your decision.`
-			choice
-				`	"I say we rescue the defector, even if it means war with the Syndicate."`
-					goto rescue
-				`	"I say we hand the defector over to the Syndicate, and focus on winning the battle against the Republic."`
-					goto surrender
-			label rescue
-			`	"Are you sure?" asks Freya. "A lot of lives hang in the balance."`
-			choice
-				`	"Yes, I'm sure. We rescue the defector."`
-					goto "definitely rescue"
-				`	"Fine, we'll hand him over. But I don't think it's the right thing to do."`
-					goto "definitely surrender"
-			label surrender
-			`	"If Katya were here," says JJ, "she would tell us to choose justice over political expedience."`
-			choice
-				`	"Well, she's not here, and I say we can't afford to lose the Syndicate as an ally."`
-					goto "definitely surrender"
-				`	"I suppose you're right. Let's mount a rescue operation."`
-					goto "definitely rescue"
-			
-			label "definitely surrender"
-			apply
-				set "fw did not rescue defector"
-			`	"Very well," says JJ. "In that case, we'll need to meet with the fleet captains and figure out how to take on the Navy. Let's meet in the spaceport bar in an hour."`
-				decline
-			
-			label "definitely rescue"
-			`	JJ seems very relieved at your choice. "I think that's the right choice, Captain," he says. "We can take the fleet we have here, sweep up north to avoid the thickest part of the Navy's occupying fleet, and cut over to New Tibet to drive the Syndicate ships away. Let's just hope these monks can stay hidden until then."`
-				accept
-	
-	on accept
-		"reputation: Syndicate" = -1000
-		event "fw at war with Syndicate"
-		event "battle of alioth"
-	
-	npc evade
-		government Syndicate
-		personality heroic staying
-		system Alioth
-		fleet
-			names "syndicate capital"
-			variant
-				"Splinter (Mark II)" 2
-				"Manta (Mark II)" 3
-				"Quicksilver (Mark II)" 5
-	npc
-		personality heroic disables
-		ship "Dreadnought" "F.S. Holly"
-		ship "Falcon (Plasma)" "F.S. Nebula"
-		ship "Osprey" "F.S. Larkspur"
-		ship "Bastion (Heavy)" "F.S. Ironwood"
-		ship "Argosy" "F.S. Nightingale"
-	
-	on complete
-		"reputation: Republic" = 1
-		"reputation: Deep Sky" = 1
-		event "fw armistice"
-		event "end battle of alioth"
-		conversation
-			`It doesn't take long to find the monastery that contacted you earlier, but nothing is left of it but burnt-out shells of buildings. You land and look around for survivors. You find several corpses dressed in maroon robes, some of them badly burnt, but no sign of the defector or the monk you spoke with earlier.`
-			choice
-				`	(Wait to see if anyone approaches now that the Syndicate fleet is gone.)`
-				`	(Give up and contact the rest of the Free Worlds fleet to figure out what to do next.)`
-					goto leave
-			`	You wait around for a while, but this mountain valley seems to be entirely desolate. Then finally, when you are about to give up hope, Freya spots the distant figures of a few dozen people coming down the side of one of the mountains.`
-				goto gunboat
-			label leave
-			`	You are just about to leave when Freya spots something and points. "Look," she says, "someone is coming down the mountain slope toward us." Sure enough, it's a group of several dozen people wearing the distinctive robes of the monks.`
-			label gunboat
-			`	As you wait for them to approach, JJ receives a message from one of the militia crews. "Sir, you have incoming! A scout ship, with Republic markings. Apparently unarmed. Shall we intercept them?"`
-			`	"Oathkeepers?" asks JJ. "Or ordinary Navy? Who are they?"`
-			`	The voice on the other end pauses. "Neither. Navy Intelligence."`
-			`	JJ thinks about that for a second, then says, "Let them land. But follow them down, and if you see so much as a hint of them powering up weapons, blow them out of the sky. Understand?" The officer acknowledges his order and signs off.`
-			`	As the group of monks approaches from the mountainside, the scout ship comes in for a landing and skids to a halt in the dirt a few dozen meters away. A woman steps off it. She has dark skin, and is dressed entirely in black. Even the whites of her eyes are black: when she gets closer, you can see that it is actually a scleric tattoo, an intricate Celtic knotwork pattern inked into the whites of her eyes. She sees you staring at her, and winks at you with a friendly grin.`
-			choice
-				`	"I'm Captain <last> of the Free Worlds. What is your business here?"`
-				`	"Who are you, and what gives you the right to land on our planet?"`
-					goto hostile
-			`	"My name is Raven," she says. "I'm here to question this defector. If he is telling the truth, our war with you will end today." She pauses, then adds, grimly, "And, another war will begin."`
-				goto questioning
-			label hostile
-			`	She frowns. "My name is Raven," she says. "I am here to question this defector. If you are interested in knowing the truth, you will allow me to do so."`
-			label questioning
-			`	The monks approach, and you see that among them is a man in more ordinary attire, who must be the defector. "Now," says Raven, "I will question him alone, on my ship."`
-			choice
-				`	"No, we insist on being present for your interrogation."`
-					goto present
-				`	"Very well, we'll wait outside."`
-			`	"No!" says JJ. "We're staying here."`
-			label present
-			`	She hesitates for a long moment. This is probably going against whatever orders she is following. But finally she says, "Very well." The monks step aside. She approaches the defector, and reaches out her hands to him. Hesitantly, he takes her hands. It's an oddly intimate scene, the two of them quietly holding hands and locking eyes - not like any interrogation you have seen before. "Now," she says, "tell me your story."`
-			`	"My name is Sawyer," says the man. "I'm a physicist, a Syndicate employee. We had a secret project on Mutiny, a planet in a pirate system. We were developing nuclear weapons." He hesitates, and looks away for a second, then says, "They told me it was for fighting the pirates. I didn't realize otherwise until--"`
-			`	"That is a lie," says Raven, calmly.`
-			`	He seems flustered. "Okay, they didn't tell me what the weapons were for, and I didn't ask."`
-			choice
-				`	"Why would the Syndicate attack the Republic?"`
-				`	"Why did you wait so long to report this?"`
-					goto wait
-			`	They both seem surprised at you asking a question. "I'm not sure," says Sawyer, "but the Syndicate's profits have more than doubled since this war began. Maybe they knew they would benefit from it more than anyone."`
-			`	"What led you to report this?" asks Raven.`
-			label wait
-			`	He says, "It was when I heard that there had been another major battle. Up until then I had been telling myself that the worst of the damage was done. But after that battle, I knew that millions more could die because of our crime, and that I had the power to stop it."`
-			`	Raven continues to ask questions: who was involved, how the facility was hidden, where the raw materials come from. At one point, JJ pulls you aside and says, "She must be a Questioner. How they operate is a tightly kept secret. I'd always assumed their methods were... a bit more medieval."`
-			`	Finally, Raven is satisfied, and radios her ship. "He's telling the truth," she tells them. "Send word to the generals at once. And, release the captive."`
-			`	The door of her ship slides open, and another woman steps out - shakily, hesitantly, shielding her eyes against the sunlight. It takes you a few seconds to realize that it's Katya.`
-			`	As you all rush over to greet Katya, Raven taps your shoulder and says quietly, "Meet me in the main spaceport in a few hours and we'll figure out what's going to happen next." She returns to her ship.`
+		"reputation: Deep Sky" = -1000
+		fail
 
-event "fw safe passage starts"
-	"reputation: Republic" = 5
-	"reputation: Deep Sky" = 5
-	
-event "fw safe passage ends"
-	"reputation: Republic" = -1000
-	"reputation: Deep Sky" = -1000
-	
-event "fw at war with Syndicate"
+mission "SU Rastaban"
+	landing
+	to offer
+		has "event: battle for Rastaban"
+	on offer
+		"reputation: Deep Sky" = -1000
+		fail
+
+mission "SU Zeta Aquilae"
+	landing
+	to offer
+		has "event: battle for zeta aquilae"
+	on offer
+		"reputation: Deep Sky" = -1000
+		fail
+
+mission "SU New Tibet"
+	landing
+	to offer
+		has "FW Defend New Tibet: done"
+	on offer
+		"reputation: Deep Sky" = 1
+		fail
+
+mission "SU safe passage start check"
+	landing
+	to offer
+		has "event: fw safe passage starts"
+	on offer
+		"reputation: Deep Sky" = 5
+		fail
+
+mission "SU safe passage ends check"
+	landing
+	to offer
+		has "event: fw safe passage ends"
+	on offer
+		"reputation: Deep Sky" = -1000
+		fail
+
+
+
+mission "SU syndicate war check"
+	landing
+	to offer
+		has "event: fw at war with Syndicate"
+	on offer
+		event "shields up syndicate war"
+		fail
+
+event "shields up hostilities start"
 	government Syndicate
 		"attitude toward"
-			"Free Worlds" -.3
-			"Republic" -.3
-			"Navy (Oathkeeper)" -.3
-			"Pirate" -.4
-			"Korath" -.5
 			"Deep Sky" -.2
-	system Rutilicus
-		fleet "Small Southern Merchants" 600
-		fleet "Large Southern Merchants" 2000
-	system Cebalrai
-		fleet "Small Southern Merchants" 600
-		fleet "Large Southern Merchants" 2000
-	system Holeb
-		fleet "Small Southern Merchants" 1000
-		fleet "Large Southern Merchants" 3000
-		
-event "fw armistice"
-	government Republic
-		"attitude toward"
-			"Free Worlds" 0
+
+
+
+mission "SU fw armistice"
+	landing
+	to offer
+		has "event: fw armistice"
+	on offer
+		event "shields up fw armistice"
+		fail
+
+event "shields up fw armistice"
 	government "Free Worlds"
 		"attitude toward"
-			Republic 0
 			"Deep Sky" 0
 	government "Deep Sky"
 		"attitude toward"
 			"Free Worlds" 0
-	planet Martini
-		"required reputation" 80
-	planet Thrall
-		"required reputation" 30
-	planet Geminus
-		"required reputation" 80
-	planet Hestia
-		"required reputation" 40
-	planet Vinci
-		"required reputation" 50
-	planet Vail
-		"required reputation" 40
-	planet Calda
-		"required reputation" 40
-	planet Pearl
-		"required reputation" 50
-	planet Glory
-		"required reputation" 60
-	planet Farseer
-		"required reputation" 50
-	planet Pilot
-		"required reputation" 100
-	planet Ada
-		"required reputation" 60
-	planet Hermes
-		"required reputation" 70
-	planet Mainsail
-		"required reputation" 40
-	system Rutilicus
-		fleet "Small Southern Merchants" 600
-		fleet "Large Southern Merchants" 2000
-		fleet "Small Southern Pirates" 8000
-		fleet "Small Republic" 1000
-	system Cebalrai
-		fleet "Small Southern Merchants" 600
-		fleet "Large Southern Merchants" 2000
-		fleet "Small Southern Pirates" 4000
-		fleet "Small Republic" 1000
-	system Holeb
-		fleet "Small Southern Merchants" 1000
-		fleet "Large Southern Merchants" 3000
-		fleet "Small Southern Pirates" 5000
-		fleet "Small Republic" 2000
-		fleet "Large Republic" 3000
-		fleet "Navy Surveillance" 1600
 
-event "fw syndicate welcoming"
-	"reputation: Syndicate" = 1
+
+
+mission "SU fw syndicate welcoming"
+	landing
+	to offer
+		has "event: fw armistice"
+	on offer
+		event "shields up fw syndicate welcoming"
+		fail
+
+event "shields up fw syndicate welcoming"
 	government Syndicate
 		"attitude toward"
-			"Free Worlds" 0
-			Republic 0
-			"Navy (Oathkeeper)" 0
 			"Deep Sky" 0
-	system Algenib
-		government "Syndicate (Extremist)"
-		fleet "Small Core Pirates" 1500
-		fleet "Large Core Pirates" 2000
-		fleet "Syndicate Extremists" 200
-		
-event "at war with the pug"
-	"reputation: Pug" = -1000
+
+
+
+mission "SU at war with the pug"
+	landing
+	to offer
+		has "event: fw armistice"
+	on offer
+		event "shields up at war with the pug"
+		fail
+
+event "shields up at war with the pug"
 	government Pug
 		"attitude toward"
-			"Free Worlds" -.1
-			"Republic" -.1
-			"Syndicate" -.1
-			"Syndicate (Extremist)" -.5
 			"Deep Sky" -.1
-	system "Delta Capricorni"
-		fleet "Small Core Merchants" 1500
-		
-event "fwc peace with the navy"
-	"reputation: Republic" = 1
+
+
+
+mission "SU fwc peace with the navy"
+	landing
+	to offer
+		has "event: fw armistice"
+	on offer
+		event "shields up fwc peace with the navy"
+		fail
+
+event "shields up fwc peace with the navy"
 	"reputation: Deep Sky" = 1
-	government "Republic"
-		"attitude toward"
-			"Free Worlds" 0
 	government "Free Worlds"
 		"attitude toward"
-			"Republic" 0
 			"Deep Sky" 0
 	government "Deep Sky"
 		"attitude toward"
 			"Free Worlds" 0
-	planet Martini
-		"required reputation" 80
-	planet Thrall
-		"required reputation" 30
-	planet Geminus
-		"required reputation" 80
-	planet Hestia
-		"required reputation" 40
-	planet Vinci
-		"required reputation" 50
-	planet Vail
-		"required reputation" 40
-	planet Calda
-		"required reputation" 40
-	planet Pearl
-		"required reputation" 50
-	planet Glory
-		"required reputation" 60
-	planet Farseer
-		"required reputation" 50
-	planet Pilot
-		"required reputation" 100
-	planet Ada
-		"required reputation" 60
-	planet Hermes
-		"required reputation" 70
-	planet Mainsail
-		"required reputation" 40
-	system Vega
-		government Pug
-		fleet "Small Northern Merchants" 800
-		fleet "Large Northern Merchants" 3000
-		fleet "Small Pug" 800
-		fleet "Large Pug" 1200
 
 
 
-event "fwc battle for rasalhague"
-	link Rasalhague Cebalrai
-	system Rasalhague
-		fleet "Small Southern Merchants" 10000
-	government "Pug"
-		"attitude toward"
-			"Free Worlds" -.1
-			"Republic" -.1
-			"Navy (Oathkeeper)" -.1
-			"Deep Sky" -.1
-		
-mission "FWC End"
-	name "Talk to Parliament"
-	description "Travel to Earth for another meeting with Parliament. Alondo and Katya will meet you there. (Hopefully it will go better than your last visit.)"
-	autosave
-	source Pugglemug
-	destination Earth
+mission "SU fwc battle for rasalhague"
+	landing
 	to offer
-		has "FWC Pug 6: done"
-	on fail
-		dialog `You have failed an essential Free Worlds mission. If you want to complete the story line, revert to the autosave or another earlier snapshot of the game.`
-	
+		has "event: fw armistice"
 	on offer
-		"reputation: Republic" += 20
+		event "shields up fwc battle for rasalhague"
+		fail
+
+event "shields up fwc battle for rasalhague"
+	government Pug
+		"attitude toward"
+			"Deep Sky" -.1
+
+
+
+mission "SU fwc peace with the navy"
+	landing
+	to offer
+		has "FWC End: done"
+	on offer
 		"reputation: Deep Sky" += 20
-		conversation
-			`You find General Danforth inspecting the Pug spaceport. "This is all very odd," he says. "I'm glad the aliens appear to have left, but I wish we knew where they came from and whether they're likely to return."`
-			`	Freya says, "What should we do now?"`
-			`	"I've contacted New Austria and told them that Councilor Reynolds is free to leave," he says. "She told me that your Senate has agreed to the Free Worlds being a semi-autonomous district of the Republic, similar to the Syndicate systems. She also asked that you and Captain <last> meet up with her and Alondo Gruyere on Earth, where they will be meeting with Parliament. I sent a report to Earth that places a very heavy emphasis on the role that the Free Worlds played in this victory, so Parliament ought to be quite willing to negotiate with you."`
-			choice
-				`	"Thank you. It's been an honor to fight alongside you."`
-					goto honor
-				`	"Last time we visited Parliament, they violated our safe passage agreement and put us on trial."`
-					goto trial
-			label honor
-			`	"No, the honor has been mine," he says. "Feel free to drop by and visit me on Farpoint any time you're in the area."`
-				accept
-			label trial
-			`	"Trust me," he says, "you won't need to worry about that this time around. Having an alien attack so close to Earth be thwarted through the assistance of the Free Worlds has put Parliament in a very... receptive mood. Good luck, Captain <last>, and I hope our paths will cross again."`
-				accept
-	
-	on complete
-		event "deep sky tech available"
-		event "syndicate tech available"
 		event "SU War Start" 100
-		set "main plot completed"
-		set "free worlds plot completed"
-		conversation
-			`You arrive in the Parliament building just as Alondo and Katya have finished meeting with them. "Good news," says Katya. "We're all officially pardoned. And you, Captain <last>, have become something of a hero."`
-			`	"Better yet," says Alondo, "the war with the Republic is over. We agreed to limiting our territory to its current size, and to a very minor tax to cover the cost of Navy protection if the aliens attack again or some other major catastrophe strikes. In return, the Free Worlds have been granted autonomy from the Republic."`
-			`	"Also," says Katya, "as their own expression of gratitude, the Syndicate members of Parliament have offered to make some of their new technology, developed during the war, available to us at an affordable price."`
-			choice
-				`	"That's very generous of them."`
-				`	"I wonder if that's their way of buying our support and keeping us quiet about the supposed defector."`
-			`	"Maybe so," says Alondo. "Now, Captain, your salary will continue to be paid in gratitude for your service, but you are free to return to civilian life. What do you think you will do next?"`
-			choice
-				`	"Build a merchant fleet and live a safe, quiet life."`
-				`	"See if folks in the fringe worlds need any help against the pirates."`
-				`	"Use my jump drive to explore beyond human space."`
-			`	"Well, we all wish you the best of luck," says Freya. "We would never have won this war without you. Be sure to stay in touch." You hug each of them goodbye, and return to your ship. What you do next is up to you...`
+		event "deep sky tech available"
+		fail
