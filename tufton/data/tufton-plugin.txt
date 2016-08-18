@@ -15,13 +15,6 @@ shipyard "Lionheart Basics"
 shipyard "Lionheart Advanced"
 #	"Monolith"	
 	"Tactical Assault Fighter"
-	
-shipyard "Hai Intermediate"
-	"Mite"
-
-shipyard "Hai Advanced"
-	"Mite"
-	"Arachnid"
 
 outfitter "Deep Sky Advanced"
 	"M50-400 Slug"
@@ -34,49 +27,6 @@ outfitter "Deep Sky Advanced"
 	"Tractor Beam Turret"
 	"Ion Laser Turret"
 	"Polaric Slide Thrusters"
-
-fleet "Large Hai"
-	government "Hai"
-	names "hai"
-	cargo 3
-	personality
-		disables
-	variant 2
-		"Shield Beetle"
-		"Lightning Bug (Pulse)" 2
-		"Arachnid"
-		"Mite" 7
-	variant 2
-		"Shield Beetle (Tracker)"
-		"Lightning Bug" 2
-	variant 1
-		"Shield Beetle"
-		"Lightning Bug (Pulse)"
-		"Aphid" 4
-	variant 1
-		"Shield Beetle (Tracker)"
-		"Lightning Bug"
-		"Aphid (Anti-Missile)" 4
-		"Arachnid"
-		"Mite" 7
-	variant 3
-		"Shield Beetle"
-		"Lightning Bug (Pulse)"
-		"Water Bug"
-		"Water Bug (Pulse)"
-	variant 3
-		"Shield Beetle"
-		"Water Bug"
-		"Water Bug (Pulse)"
-	variant 3
-		"Shield Beetle (Tracker)"
-		"Lightning Bug" 2
-		"Water Bug"
-	variant 3
-		"Shield Beetle (Tracker)"
-		"Water Bug" 3
-		"Arachnid"
-		"Mite" 7
 
 outfit "M50-400 Slug"
 	category "Ammunition"
@@ -420,6 +370,7 @@ ship "Mite"
 	explode "tiny explosion" 15
 	explode "small explosion" 5
 	description "The Mite is a point defense fighter developed by the Hai for protecting conveys and large warships."
+	description "Removed from the mod due to the Violin Spider being added to the game, it being based off of the Mite."
 
 ship "Arachnid"
 	sprite "ship/hai arachnid"
@@ -485,6 +436,7 @@ ship "Arachnid"
 	explode "big explosion" 40
 	explode "huge explosion" 15
 	description "The Arachnid is a Hai Carrier designed to keep Hai freighter convoys protected from massed small ship attacks that would ordinarily overwhelm the slower or smaller Hai vessels."
+	description "Removed from the mod due to the Solifuge being added to the game, it being based off of the Arachnid."
 
 outfit "Ion Laser Turret"
 	category "Turrets"
