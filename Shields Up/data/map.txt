@@ -21,17 +21,182 @@ galaxy "label southeast"
 	pos -11.9773 459.553
 	sprite label/southeast
 
-system Algenib
-	pos -124 340
-	habitable 455.625
-	link "Omicron Zeta"
-	link Gienah
+galaxy Cascade
+	pos -3000 -3000
+	sprite ui/Cascade
+
+system Agon
+	pos -621.498 -538.83
+	government "Plenipotent Dominion"
+	habitable 5000
+	asteroids "small rock" 3 2.7885
+	asteroids "medium rock" 50 0.9945
+	asteroids "large rock" 17 1.053
+	asteroids "small metal" 45 1.8135
+	asteroids "medium metal" 10 1.716
+	asteroids "large metal" 114 2.262
+	fleet "Large Plenipotent Dominion" 1600
+	fleet "Small Plenipotent Dominion" 500
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/lava4
+		distance 282.943
+		period 26.923
+		offset 352.712
+	object
+		sprite planet/desert10
+		distance 649.193
+		period 93.5699
+		offset 231.319
+	object
+		sprite planet/gas13
+		distance 2425.87
+		period 675.889
+		offset 152.184
+		object
+			sprite planet/desert4
+			distance 402.863
+			period 22.8269
+			offset 81.4198
+		object
+			sprite planet/tethys
+			distance 617.611
+			period 43.3294
+			offset 180.233
+		object
+			sprite planet/rock17
+			distance 766.464
+			period 59.9029
+			offset 73.7671
+	object "Wormhole Donald"
+		sprite planet/wormhole
+		distance 4636.11
+		period 1785.69
+		offset 104.543
+
+system Algieba
+	pos -691 -52
+	government "Deep Sky"
+	habitable 2695
+	link "Tania Australis"
+	link Alphard
+	link Zosma
+	link Teshana
+	fleet "Small Deep" 1000
+	fleet "Large Deep" 2500
+
+system Algol
+	pos -210 17
+	habitable 534.375
+	link Ruchbah
+	link "Pi Capuli"
 
 system Almach
 	pos -31 208
 	habitable 320
 	link "Kor Dok'tal"
 	link Schedar
+
+system "Alpha Uzara"
+	pos -814.13 68.7424
+	government Pirate
+	habitable 486.68
+	link Minkar
+	link Harner
+	asteroids "large metal" 1 6.804
+	fleet "Small Southern Merchants" 2000
+	fleet "Large Southern Merchants" 3000
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/ganymede
+		distance 172.61
+		period 41.1185
+	object
+		sprite planet/forest2
+		distance 436.86
+		period 165.559
+	object
+		sprite planet/neptune
+		distance 800.5
+		period 410.658
+	object
+		sprite planet/gas17
+		distance 2288.51
+		period 1985.03
+		object
+			sprite planet/rock0
+			distance 234
+			period 15.2932
+		object
+			sprite planet/dust7
+			distance 356
+			period 28.6978
+
+system Arneb
+	pos -523 -580
+	habitable 1715
+	link Hatysa
+	link Maroon
+
+system Beltane
+	pos -588.13 -469.258
+	government Pirate
+	habitable 745.92
+	link Ganji
+	asteroids "small rock" 1 1.644
+	asteroids "medium rock" 9 1.476
+	asteroids "large rock" 2 0.984
+	asteroids "medium metal" 29 1.092
+	asteroids "large metal" 2 1.104
+	fleet "Large Northern Pirates" 3000
+	fleet "Small Southern Pirates" 2000
+	fleet "Small Northern Pirates" 2000
+	object
+		sprite star/k5
+		distance 41.613
+		period 13.9917
+		offset 180
+	object
+		sprite star/m0
+		distance 55.387
+		period 13.9917
+	object
+		sprite planet/ice3
+		distance 294.147
+		period 73.8857
+		object
+			sprite planet/dust0
+			distance 135
+			period 15
+	object
+		sprite planet/gas5
+		distance 1195.19
+		period 605.156
+		object
+			sprite planet/ice8
+			distance 256
+			period 13.6209
+		object
+			sprite planet/rock7
+			distance 378
+			period 24.4391
+		object
+			sprite planet/lava0
+			distance 468
+			period 33.6679
+		object
+			sprite planet/callisto
+			distance 641
+			period 53.9678
+	object "Wormhole Zynga"
+		sprite planet/wormhole
+		distance 2340.82
+		period 1658.7
+		offset 11.5476
 
 system Bera
 	pos -290.892 738.228
@@ -55,6 +220,74 @@ system Bera
 	object
 		sprite star/nebula1
 		period 180
+
+system "Beta Uzara"
+	pos -776.13 -12.2576
+	government Pirate
+	habitable 2201.68
+	link Teshana
+	link Harner
+	asteroids "medium rock" 4 5.335
+	asteroids "large rock" 44 4.51
+	asteroids "medium metal" 4 4.4
+	asteroids "large metal" 1 3.52
+	fleet "Small Northern Merchants" 2300
+	fleet "Large Northern Merchants" 3300
+	fleet "Small Southern Merchants" 2500
+	object
+		sprite star/f5
+		distance 24.9786
+		period 10.24
+	object
+		sprite star/k0
+		distance 88.0214
+		period 10.24
+		offset 180
+	object
+		sprite planet/cloud1
+		distance 291.271
+		period 42.377
+	object
+		sprite planet/gas17
+		distance 1128.11
+		period 323.006
+		object
+			sprite planet/ice8
+			distance 214
+			period 13.375
+		object
+			sprite planet/dust0
+			distance 341
+			period 26.9033
+		object
+			sprite planet/ice0
+			distance 486
+			period 45.7749
+	object
+		sprite planet/gas10
+		distance 2168.35
+		period 860.751
+		object
+			sprite planet/dust4
+			distance 224
+			period 17.6469
+		object
+			sprite planet/rock3
+			distance 363
+			period 36.4047
+
+system Cascade
+	pos -2995.71 -2988.75
+	government Cascadi
+	habitable 858.28
+	asteroids "large rock" 1 1.078
+	asteroids "small metal" 1 1.1088
+	asteroids "medium metal" 25 1.309
+	asteroids "large metal" 1 1.1704
+	object
+		sprite star/blackhole
+		distance 32.8877
+		period 18.1729
 
 system "Deus Glorificat"
 	pos -59.448 265.562
@@ -120,6 +353,12 @@ system "Deus Glorificat"
 			sprite planet/miranda
 			distance 432
 			period 29.8588
+
+system Durax
+	pos -59 -90
+	habitable 1080
+	link Alcyone
+	link Zaurak
 
 system Enfin
 	pos -169.549 558.023
@@ -188,7 +427,7 @@ system Enif
 	link Tarazed
 
 system "Epsilon Sagitarii"
-	pos -223.549 516.023
+	pos -230.549 522.023
 	government Quarg
 	habitable 425.92
 	link Enfin
@@ -256,6 +495,47 @@ system "Epsilon Sagitarii"
 			sprite planet/dust5
 			distance 218
 			period 12.8647
+
+system Ermina
+	pos -921.13 249.742
+	government "Plenipotent Dominion"
+	habitable 625
+	link Paloma
+	link Kraz
+	asteroids "small rock" 5 4.1952
+	asteroids "medium rock" 9 4.9128
+	asteroids "large rock" 3 6.0168
+	asteroids "medium metal" 3 5.0784
+	asteroids "large metal" 1 2.9808
+	fleet "Large Plenipotent Dominion" 4000
+	fleet "Small Plenipotent Dominion" 3000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock11
+		distance 130.04
+		period 23.7266
+	object
+		sprite planet/rock19
+		distance 360.33
+		period 109.439
+	object
+		sprite planet/gas3
+		distance 1023.33
+		period 523.774
+	object
+		sprite planet/gas12
+		distance 1778.58
+		period 1200.13
+		object
+			sprite planet/luna
+			distance 274
+			period 11.9127
+		object
+			sprite planet/ice7
+			distance 429
+			period 23.3384
 
 system "Eta Carinae"
 	pos -28.448 429.562
@@ -420,6 +700,50 @@ system "Eta Piscium"
 		distance 2511.97
 		period 1272.3
 		offset 326.872
+
+system Flamsteed
+	pos -563.13 -0.257568
+	government Republic
+	habitable 320
+	link Regulus
+	link Lolami
+	link Talita
+	asteroids "small rock" 18 3.588
+	asteroids "medium rock" 42 8.487
+	asteroids "large rock" 47 3.519
+	asteroids "medium metal" 35 5.451
+	asteroids "large metal" 3 5.106
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/cloud1
+		distance 204.81
+		period 65.5408
+	object
+		sprite planet/cloud3
+		distance 497.65
+		period 248.24
+	object
+		sprite planet/jupiter
+		distance 1208.49
+		period 939.398
+		object
+			sprite planet/oberon
+			distance 233
+			period 11.1762
+		object
+			sprite planet/desert4
+			distance 305
+			period 16.7383
+		object
+			sprite planet/tethys
+			distance 387
+			period 23.9237
+	object
+		sprite planet/gas0
+		distance 1988.13
+		period 1982.22
 
 system Flar
 	pos -294.204 649.803
@@ -586,6 +910,109 @@ system Gami
 			distance 275
 			period 13.3646
 
+system Ganji
+	pos -527.545 -487.244
+	government Pirate
+	habitable 1050.92
+	link "Psi Lumiere"
+	link Beltane
+	asteroids "small rock" 3 6.24
+	asteroids "medium rock" 14 5.824
+	asteroids "large rock" 1 2.4544
+	asteroids "medium metal" 4 3.4944
+	asteroids "large metal" 9 4.8672
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Pirates" 3500
+	object
+		sprite star/g5
+		distance 46.2023
+		period 15.0187
+	object
+		sprite star/k5
+		distance 67.7977
+		period 15.0187
+		offset 180
+	object
+		sprite planet/ganymede
+		distance 201.408
+		period 35.2687
+	object
+		sprite planet/rock7
+		distance 454.218
+		period 119.446
+	object
+		sprite planet/lava3
+		distance 627.258
+		period 193.84
+	object
+		sprite planet/gas15
+		distance 1377.02
+		period 630.499
+	object
+		sprite planet/gas7
+		distance 1948.18
+		period 1061.01
+
+system Hamal
+	pos -129 24
+	habitable 1080
+	link Ruchbah
+	link "Pi Capuli"
+
+system Harner
+	pos -816.899 13.8514
+	government Pirate
+	habitable 486.68
+	link "Alpha Uzara"
+	link "Beta Uzara"
+	link "New New Providence"
+	asteroids "medium rock" 4 5.335
+	asteroids "large rock" 44 4.51
+	asteroids "medium metal" 4 4.4
+	asteroids "large metal" 1 3.52
+	fleet "Small Northern Merchants" 2500
+	fleet "Small Southern Merchants" 2300
+	fleet "Large Southern Merchants" 3300
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/lava0
+		distance 186.61
+		period 46.2211
+	object
+		sprite planet/desert10
+		distance 480.86
+		period 191.19
+	object
+		sprite planet/gas17
+		distance 1167.95
+		period 723.727
+		object
+			sprite planet/ice8
+			distance 214
+			period 13.375
+		object
+			sprite planet/dust0
+			distance 341
+			period 26.9033
+		object
+			sprite planet/ice0
+			distance 486
+			period 45.7749
+	object
+		sprite planet/gas10
+		distance 2249.11
+		period 1933.99
+		object
+			sprite planet/dust4
+			distance 224
+			period 17.6469
+		object
+			sprite planet/rock3
+			distance 363
+			period 36.4047
+
 system Joint
 	pos 122.22 252.975
 	government "Plenipotent Dominion"
@@ -680,7 +1107,7 @@ system Joint
 			offset 49.736
 
 system "Kor Dok'mok"
-	pos 102.718 197.826
+	pos 95.718 183.826
 	government Korath
 	habitable 625
 	link "Kor Mor'gol"
@@ -747,7 +1174,7 @@ system "Kor Dok'mok"
 			period 43.8229
 
 system "Kor Dok'tal"
-	pos 24.552 210.562
+	pos 32.552 205.562
 	government Korath
 	habitable 1111.68
 	link Almach
@@ -862,4186 +1289,6 @@ system "Kor Mor'gol"
 			distance 422
 			period 22.1428
 
-system "Kor Nor'peli"
-	pos 52 160
-	habitable 590.625
-	link "Kor Tar'bei"
-	link "Kor No'phel"
-	link "Kor Dok'mok"
-
-system Mechanus
-	pos -95.448 409.562
-	government "Servorum Dei"
-	habitable 425.92
-	link Niffleheim
-	link "Eta Carinae"
-	asteroids "small rock" 12 2.9106
-	asteroids "medium rock" 4 3.5721
-	asteroids "large rock" 5 2.9547
-	asteroids "small metal" 8 3.3957
-	asteroids "medium metal" 40 3.4398
-	asteroids "large metal" 2 4.8069
-	trade Clothing 170
-	trade Electronics 810
-	trade Equipment 630
-	trade Food 400
-	trade "Heavy Metals" 780
-	trade Industrial 650
-	trade "Luxury Goods" 1360
-	trade Medical 760
-	trade Metal 250
-	trade Plastic 460
-	fleet "Large Servorum Dei" 1500
-	fleet "Small Servorum Dei" 700
-	object
-		sprite star/k5
-		period 10
-	object "Minas Tekel"
-		sprite planet/rock8
-		distance 335.02
-		period 118.851
-		offset 212.123
-	object
-		sprite planet/desert6
-		distance 733.83
-		period 385.291
-		offset 25.0147
-	object
-		sprite planet/desert3
-		distance 1341.92
-		period 952.763
-		offset 136.023
-	object
-		sprite planet/dust0
-		distance 2503.48
-		period 2427.79
-		offset 26.0235
-
-system "Mil'taj Boh"
-	pos -144.801 664.589
-	government Militaj
-	habitable 2340
-	link "Mil'taj Doh"
-	asteroids "small rock" 7 4.5864
-	asteroids "medium rock" 4 3.0968
-	asteroids "large rock" 20 5.1352
-	asteroids "small metal" 3 4.9
-	asteroids "medium metal" 11 4.8216
-	asteroids "large metal" 1 3.0184
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 5000
-	object
-		sprite star/f5
-		distance 34.9893
-		period 12.3982
-	object
-		sprite star/g5
-		distance 96.0107
-		period 12.3982
-		offset 180
-	object
-		sprite planet/desert10
-		distance 351.101
-		period 54.4001
-	object
-		sprite planet/lava5
-		distance 732.661
-		period 163.986
-	object
-		sprite planet/gas16
-		distance 1317.67
-		period 395.514
-		object
-			sprite planet/dust5
-			distance 200
-			period 14.8882
-	object
-		sprite planet/gas9
-		distance 1998.76
-		period 738.913
-
-system "Mil'taj Bol"
-	pos 335.485 563.36
-	government Militaj
-	habitable 425.92
-	link "Mil'taj Gol"
-	link "Mil'taj Zol"
-	asteroids "small rock" 21 2.8224
-	asteroids "medium rock" 43 2.7342
-	asteroids "large rock" 43 3.9984
-	asteroids "small metal" 1 4.0866
-	asteroids "medium metal" 117 3.4692
-	asteroids "large metal" 42 3.4398
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/k5
-		period 10
-	object
-		sprite planet/ice4
-		distance 217.56
-		period 62.1963
-	object
-		sprite planet/ice5
-		distance 643.72
-		period 316.549
-	object
-		sprite planet/cloud5
-		distance 1096.53
-		period 703.764
-	object
-		sprite planet/gas2
-		distance 2168.53
-		period 1957.24
-
-system "Mil'taj Bon"
-	pos 61.3571 578.419
-	government Militaj
-	habitable 320
-	asteroids "medium rock" 8 2.3712
-	asteroids "large rock" 4 2.4024
-	asteroids "small metal" 10 2.6832
-	asteroids "medium metal" 38 4.0248
-	asteroids "large metal" 5 3.432
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 5000
-	fleet "Small Militaj" 5000
-	object
-		sprite star/m0
-		period 10
-	object
-		sprite planet/desert10
-		distance 205
-		period 65.632
-	object
-		sprite planet/mercury
-		distance 433.69
-		period 201.955
-	object
-		sprite planet/gas16
-		distance 805.58
-		period 511.267
-		object
-			sprite planet/rock17
-			distance 172
-			period 11.8738
-	object
-		sprite planet/titan
-		distance 1426.42
-		period 1204.64
-	object
-		sprite planet/neptune
-		distance 3897.66
-		period 5441.15
-		object
-			sprite planet/tethys
-			distance 193
-			period 13.3588
-		object
-			sprite planet/io
-			distance 292
-			period 24.8603
-		object
-			sprite planet/oberon
-			distance 377
-			period 36.4707
-		object
-			sprite planet/rock3
-			distance 464
-			period 49.7977
-
-system "Mil'taj Coh"
-	pos -46.8014 609.589
-	government Militaj
-	habitable 2140.92
-	link "Mil'taj Loh"
-	asteroids "small rock" 2 6.3504
-	asteroids "medium rock" 4 6.552
-	asteroids "large rock" 1 3.276
-	asteroids "small metal" 23 3.78
-	asteroids "medium metal" 13 2.8728
-	asteroids "large metal" 9 3.1752
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		distance 19.8943
-		period 8.6449
-	object
-		sprite star/k5
-		distance 80.1057
-		period 8.6449
-		offset 180
-	object
-		sprite planet/gas5
-		distance 470.516
-		period 88.231
-		object
-			sprite planet/dust0
-			distance 240
-			period 12.3641
-	object
-		sprite planet/gas4
-		distance 1236.28
-		period 375.779
-		object
-			sprite planet/rock3
-			distance 224
-			period 11.8241
-		object
-			sprite planet/rock7
-			distance 316
-			period 19.812
-		object
-			sprite planet/desert4
-			distance 408
-			period 29.0662
-	object
-		sprite planet/gas17
-		distance 1950.17
-		period 744.504
-
-system "Mil'taj Col"
-	pos 447.485 467.36
-	government Militaj
-	habitable 745.92
-	link "Mil'taj Fol"
-	asteroids "small rock" 2 2.646
-	asteroids "medium rock" 20 0.918
-	asteroids "large rock" 1 2.448
-	asteroids "small metal" 10 2.232
-	asteroids "medium metal" 4 1.944
-	asteroids "large metal" 9 1.278
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/k5
-		distance 43.329
-		period 14.8661
-	object
-		sprite star/m0
-		distance 57.671
-		period 14.8661
-		offset 180
-	object
-		sprite planet/rock12
-		distance 238.681
-		period 54.0058
-	object
-		sprite planet/lava3
-		distance 533.721
-		period 180.586
-	object
-		sprite planet/rock5
-		distance 737.971
-		period 293.611
-	object
-		sprite planet/ganymede
-		distance 919.331
-		period 408.246
-	object
-		sprite planet/uranus
-		distance 1699.74
-		period 1026.33
-	object
-		sprite planet/neptune
-		distance 2698.03
-		period 2052.51
-		object
-			sprite planet/rock17
-			distance 224
-			period 16.7034
-		object
-			sprite planet/oberon
-			distance 329
-			period 29.7321
-		object
-			sprite planet/dust7
-			distance 458
-			period 48.8349
-
-system "Mil'taj Con"
-	pos -179.643 617.419
-	government Militaj
-	habitable 745.92
-	link "Mil'taj Pon"
-	asteroids "large metal" 1 5.1688
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	fleet "Small Militaj" 1500
-	object
-		sprite star/k5
-		distance 42.042
-		period 14.2087
-	object
-		sprite star/m0
-		distance 55.958
-		period 14.2087
-		offset 180
-	object
-		sprite planet/lava7
-		distance 198.208
-		period 40.8691
-	object
-		sprite planet/gas13
-		distance 599.568
-		period 215.016
-	object
-		sprite planet/lava6
-		distance 1133.57
-		period 558.966
-	object
-		sprite planet/neptune
-		distance 2460.98
-		period 1788.03
-
-system "Mil'taj Doh"
-	pos -97.262 704.81
-	government Militaj
-	habitable 320
-	link "Mil'taj Woh"
-	link "Mil'taj Boh"
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 5000
-	object
-		sprite star/nebula3
-		period 180
-
-system "Mil'taj Dol"
-	pos 284.774 317.439
-	government Militaj
-	habitable 3645
-	link "Mil'taj Hon"
-	asteroids "small rock" 7 3.3744
-	asteroids "medium rock" 32 3.1236
-	asteroids "large rock" 6 3.3972
-	asteroids "medium metal" 59 1.3452
-	asteroids "large metal" 5 1.2996
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Mk2 Militaj" 2000
-	fleet "Large Militaj" 2000
-	fleet Quarg 2200
-	object
-		sprite star/a5
-		period 10
-	object
-		sprite planet/ice6
-		distance 176.25
-		period 15.5026
-	object
-		sprite planet/gas0
-		distance 627.54
-		period 104.153
-		object
-			sprite planet/dust1
-			distance 279
-			period 13.6572
-	object
-		sprite planet/cloud1
-		distance 1138.23
-		period 254.423
-	object
-		sprite planet/gas4
-		distance 1731.12
-		period 477.202
-		object
-			sprite planet/ice7
-			distance 259
-			period 14.701
-
-system "Mil'taj Don"
-	pos 205.602 553.817
-	government Militaj
-	habitable 486.68
-	link "Mil'taj Ton"
-	link "Mil'taj Won"
-	asteroids "small rock" 11 2.38
-	asteroids "medium rock" 8 5.5675
-	asteroids "large rock" 1 3.74
-	asteroids "small metal" 36 4.93
-	asteroids "medium metal" 85 3.2725
-	asteroids "large metal" 4 4.42
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 4500
-	fleet "Small Militaj" 3500
-	object
-		sprite star/k0
-		period 10
-	object "Mil'taj Dun"
-		sprite planet/rock4
-		distance 333.459
-		period 110.408
-		offset 212.372
-	object
-		sprite planet/miranda
-		distance 513.459
-		period 210.958
-		offset 342.812
-	object
-		sprite planet/gas9
-		distance 1348.55
-		period 897.923
-		offset 90.4926
-		object
-			sprite planet/desert4
-			distance 220
-			period 12.2356
-		object
-			sprite planet/ice8
-			distance 327
-			period 22.1724
-	object
-		sprite planet/gas16
-		distance 2509.39
-		period 2279.24
-		offset 17.6623
-		object
-			sprite planet/ice0
-			distance 190
-			period 13.7857
-
-system "Mil'taj Foh"
-	pos 104.409 673.337
-	government Militaj
-	habitable 1250
-	link "Mil'taj Soh"
-	link "Mil'taj Loh"
-	link "Mil'taj Nol"
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula4
-		period 180
-
-system "Mil'taj Fol"
-	pos 375.485 480.36
-	government Militaj
-	habitable 625
-	link "Mil'taj Col"
-	asteroids "medium rock" 1 4.224
-	asteroids "large rock" 1 4.8
-	asteroids "small metal" 4 4.9152
-	asteroids "medium metal" 24 4.224
-	asteroids "large metal" 7 1.92
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/gas16
-		distance 336.04
-		period 98.5613
-		object
-			sprite planet/ice0
-			distance 201
-			period 15
-	object
-		sprite planet/lava2
-		distance 689.25
-		period 289.524
-	object
-		sprite planet/uranus
-		distance 1092.09
-		period 577.441
-	object
-		sprite planet/gas6
-		distance 2037.1
-		period 1471.09
-		offset 2.19798
-		object
-			sprite planet/dust1
-			distance 294
-			period 12.8761
-		object "Mil'taj Ful"
-			sprite planet/rock3
-			distance 437
-			period 23.3339
-			offset 326.195
-		object
-			sprite planet/miranda
-			distance 557
-			period 33.5774
-			offset 359.251
-		object
-			sprite planet/dust3
-			distance 678
-			period 45.093
-			offset 218.69
-
-system "Mil'taj Fon"
-	pos -25.5876 551.354
-	government Militaj
-	habitable 1080
-	link "Mil'taj Pon"
-	asteroids "small metal" 2 6.72
-	asteroids "medium metal" 4 7.7175
-	asteroids "large metal" 1 4.935
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 3000
-	fleet "Small Militaj" 2000
-	fleet "Cargo Militaj" 5800
-	fleet "Small Mk2 Militaj" 8500
-	object
-		sprite star/g0
-		period 10
-	object "Mil'taj Fun"
-		sprite planet/rock12
-		distance 366.962
-		period 85.5616
-		offset 68.5266
-	object
-		sprite planet/cloud8
-		distance 782.881
-		period 266.619
-		offset 245.507
-	object
-		sprite planet/gas11
-		distance 1526.04
-		period 725.596
-		offset 247.548
-		object
-			sprite planet/dust0
-			distance 255
-			period 13.4304
-			offset 35.9447
-		object
-			sprite planet/dust1
-			distance 361
-			period 22.6224
-			offset 56.7869
-	object
-		sprite planet/gas5
-		distance 2527.93
-		period 1547.02
-		offset 67.1872
-		object
-			sprite planet/oberon
-			distance 236
-			period 12.0563
-		object
-			sprite planet/dust5
-			distance 365
-			period 23.1892
-
-system "Mil'taj Goh"
-	pos -17.8014 831.589
-	government Militaj
-	habitable 1050.92
-	link "Mil'taj Joh"
-	link "Mil'taj Poh"
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula4
-		period 180
-
-system "Mil'taj Gol"
-	pos 223.485 592.36
-	government Militaj
-	habitable 486.68
-	link "Mil'taj Bol"
-	link "Mil'taj Zol"
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula3
-		period 180
-
-system "Mil'taj Gon"
-	pos 100.602 513.817
-	government Militaj
-	habitable 486.68
-	link "Mil'taj Kon"
-	link "Mil'taj Von"
-	asteroids "small rock" 1 4.3529
-	asteroids "medium rock" 4 6.8324
-	asteroids "large rock" 2 6.612
-	asteroids "small metal" 3 8.1548
-	asteroids "medium metal" 6 2.755
-	asteroids "large metal" 1 8.0997
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 4000
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/k0
-		period 10
-	object "Mil'taj Gun"
-		sprite planet/desert10
-		distance 373.25
-		period 130.749
-		offset 139.529
-		object
-			sprite planet/ice8
-			distance 173
-			period 23.2957
-			offset 70.6477
-	object
-		sprite planet/gas2
-		distance 1132.25
-		period 690.799
-		offset 17.1678
-		object
-			sprite planet/dust7
-			distance 186
-			period 15.3704
-		object
-			sprite planet/dust1
-			distance 288
-			period 29.6144
-	object
-		sprite planet/gas1
-		distance 1739.34
-		period 1315.27
-		offset 5.81453
-		object
-			sprite planet/rock17
-			distance 199
-			period 11.2201
-	object
-		sprite planet/gas13
-		distance 2688.7
-		period 2527.85
-		offset 1.9451
-		object
-			sprite planet/ice0
-			distance 268
-			period 12.3855
-		object
-			sprite planet/dust4
-			distance 404
-			period 22.9236
-		object
-			sprite planet/ice7
-			distance 513
-			period 32.8009
-
-system "Mil'taj Hon"
-	pos 257.602 375.817
-	government Militaj
-	habitable 1715
-	link "Mil'taj Son"
-	link "Mil'taj Dol"
-	asteroids "small rock" 11 7.7168
-	asteroids "medium rock" 3 6.4064
-	asteroids "large rock" 40 9.6824
-	asteroids "small metal" 15 8.372
-	asteroids "medium metal" 11 5.5328
-	asteroids "large metal" 1 6.552
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet Quarg 2200
-	fleet "Large Militaj" 2000
-	fleet "Small Mk2 Militaj" 2000
-	object
-		sprite star/f5
-		period 10
-	object
-		sprite planet/dust6
-		distance 234.16
-		period 34.6096
-	object
-		sprite planet/mercury
-		distance 543
-		period 122.216
-	object
-		sprite planet/dust1
-		distance 878.44
-		period 251.476
-	object
-		sprite planet/ice3
-		distance 1346.05
-		period 477.001
-	object
-		sprite planet/gas9
-		distance 2284.29
-		period 1054.52
-		object
-			sprite planet/ice7
-			distance 228
-			period 12.909
-		object
-			sprite planet/oberon
-			distance 316
-			period 21.063
-		object
-			sprite planet/ice0
-			distance 430
-			period 33.4344
-
-system "Mil'taj Joh"
-	pos -79.8014 792.589
-	government Militaj
-	habitable 1705
-	link "Mil'taj Goh"
-	link "Mil'taj Poh"
-	asteroids "small rock" 4 4.76
-	asteroids "medium rock" 4 4.862
-	asteroids "large rock" 4 5.066
-	asteroids "small metal" 3 4.182
-	asteroids "medium metal" 7 2.04
-	asteroids "large metal" 3 1.87
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/g0
-		distance 40.6891
-		period 11.3288
-	object
-		sprite star/g5
-		distance 70.3109
-		period 11.3288
-		offset 180
-	object
-		sprite planet/ice0
-		distance 232.721
-		period 34.3915
-	object
-		sprite planet/lava2
-		distance 430.561
-		period 86.5465
-	object
-		sprite planet/rock0
-		distance 613.801
-		period 147.312
-	object
-		sprite planet/rock11
-		distance 807.641
-		period 222.344
-	object
-		sprite planet/lava3
-		distance 980.641
-		period 297.483
-	object
-		sprite planet/ice7
-		distance 4765.68
-		period 3187.02
-
-system "Mil'taj Jon"
-	pos 241.602 450.817
-	government Militaj
-	habitable 1505.92
-	link "Mil'taj Son"
-	asteroids "small rock" 243 7.4
-	asteroids "medium rock" 76 6.2
-	asteroids "large rock" 1 3.2
-	asteroids "small metal" 4 2.7
-	asteroids "medium metal" 14 3.4
-	asteroids "large metal" 3 4.5
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 4000
-	object
-		sprite star/g0
-		distance 27.7174
-		period 9.99996
-	object
-		sprite star/k5
-		distance 70.2826
-		period 9.99996
-		offset 180
-	object
-		sprite planet/lava6
-		distance 251.573
-		period 41.1296
-	object
-		sprite planet/lava2
-		distance 507.573
-		period 117.871
-	object
-		sprite planet/gas8
-		distance 859.383
-		period 259.68
-	object
-		sprite planet/uranus
-		distance 2592.14
-		period 1360.34
-		object
-			sprite planet/io
-			distance 233
-			period 15.1952
-		object
-			sprite planet/callisto
-			distance 335
-			period 26.1963
-		object
-			sprite planet/luna
-			distance 449
-			period 40.6483
-
-system "Mil'taj Koh"
-	pos -0.801003 680.589
-	government Militaj
-	habitable 9126.68
-	link "Mil'taj Loh"
-	asteroids "small rock" 32 3.8304
-	asteroids "medium rock" 136 5.1072
-	asteroids "large rock" 28 4.9704
-	asteroids "small metal" 12 4.9248
-	asteroids "medium metal" 24 6.156
-	asteroids "large metal" 16 4.4232
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/b5
-		distance 7.73212
-		period 7.31064
-	object
-		sprite star/k0
-		distance 137.268
-		period 7.31064
-		offset 180
-	object
-		sprite planet/cloud5
-		distance 506.158
-		period 47.6796
-		object
-			sprite planet/callisto
-			distance 204
-			period 19.042
-	object "Mil'taj Kuh"
-		sprite planet/rock3
-		distance 873.318
-		period 108.059
-		offset 52.7045
-	object
-		sprite planet/rock18
-		distance 1475.73
-		period 237.364
-		offset 28.4691
-		object
-			sprite planet/dust4
-			distance 153
-			period 23.7903
-	object
-		sprite planet/gas2
-		distance 2800.17
-		period 620.412
-		offset 5.69769
-		object
-			sprite planet/io
-			distance 214
-			period 18.9686
-
-system "Mil'taj Kol"
-	pos 209.485 666.36
-	government Militaj
-	habitable 320
-	link "Mil'taj Zol"
-	asteroids "large rock" 5 2.9568
-	asteroids "large metal" 1 3.6736
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/m0
-		period 10
-	object
-		sprite planet/rock13
-		distance 226
-		period 75.971
-	object
-		sprite planet/dust0
-		distance 537.76
-		period 278.848
-	object
-		sprite planet/rock8
-		distance 683.32
-		period 399.412
-	object
-		sprite planet/rock7
-		distance 1373.21
-		period 1137.86
-	object
-		sprite planet/gas15
-		distance 3432.21
-		period 4496.2
-		object
-			sprite planet/io
-			distance 194
-			period 14.2233
-		object
-			sprite planet/tethys
-			distance 268
-			period 23.094
-
-system "Mil'taj Kon"
-	pos 48.6019 475.817
-	government Militaj
-	habitable 2035
-	link "Mil'taj Von"
-	link "Mil'taj Gon"
-	asteroids "small rock" 2 1.8444
-	asteroids "medium rock" 7 1.74
-	asteroids "large rock" 2 3.8976
-	asteroids "large metal" 1 2.8188
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		distance 19.027
-		period 11.802
-		offset 180
-	object
-		sprite star/m0
-		distance 101.973
-		period 11.802
-	object
-		sprite planet/mars
-		distance 246.863
-		period 34.3923
-	object
-		sprite planet/lava1
-		distance 530.023
-		period 108.198
-	object
-		sprite planet/miranda
-		distance 704.463
-		period 165.793
-	object
-		sprite planet/rock15
-		distance 1096.27
-		period 321.852
-	object
-		sprite planet/gas14
-		distance 2411.03
-		period 1049.74
-
-system "Mil'taj Loh"
-	pos 31.1986 626.589
-	government Militaj
-	habitable 1715
-	link "Mil'taj Koh"
-	link "Mil'taj Foh"
-	link "Mil'taj Coh"
-	asteroids "small rock" 1 3.6652
-	asteroids "medium rock" 5 5.2734
-	asteroids "large rock" 1 3.6652
-	asteroids "large metal" 1 5.1238
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		period 10
-	object
-		sprite planet/dust3
-		distance 151.16
-		period 17.9508
-	object
-		sprite planet/desert10
-		distance 380.41
-		period 71.6648
-	object
-		sprite planet/gas17
-		distance 1090.5
-		period 347.83
-		object
-			sprite planet/dust0
-			distance 203
-			period 12.3571
-		object
-			sprite planet/ice0
-			distance 321
-			period 24.5715
-	object
-		sprite planet/ocean0
-		distance 1711.46
-		period 683.877
-		object
-			sprite planet/rhea
-			distance 157
-			period 23.7721
-	object
-		sprite planet/gas15
-		distance 2289.1
-		period 1057.85
-		object
-			sprite planet/rock7
-			distance 207
-			period 15.6766
-		object
-			sprite planet/desert4
-			distance 294
-			period 26.5349
-
-system "Mil'taj Lon"
-	pos 174.967 498.624
-	government Militaj
-	habitable 233.28
-	link "Mil'taj Zon"
-	asteroids "small rock" 87 1.8564
-	asteroids "medium rock" 81 4.186
-	asteroids "large rock" 103 2.2204
-	asteroids "small metal" 17 4.5136
-	asteroids "medium metal" 17 3.822
-	asteroids "large metal" 16 5.3144
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 3500
-	object
-		sprite star/m4
-		period 10
-	object
-		sprite planet/rock16
-		distance 170.36
-		period 58.2335
-	object
-		sprite planet/gas3
-		distance 626.6
-		period 410.778
-		object
-			sprite planet/callisto
-			distance 285
-			period 12.2894
-	object
-		sprite planet/ganymede
-		distance 1349.6
-		period 1298.46
-	object
-		sprite planet/gas15
-		distance 2571.56
-		period 3415.2
-
-system "Mil'taj Moh"
-	pos -156.801 778.589
-	government Militaj
-	habitable 1715
-	link "Mil'taj Woh"
-	asteroids "small rock" 1 5.52
-	asteroids "medium rock" 3 5.22
-	asteroids "large rock" 43 6.96
-	asteroids "small metal" 17 3.66
-	asteroids "medium metal" 17 3.36
-	asteroids "large metal" 19 4.2
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 5000
-	object
-		sprite star/f5
-		period 10
-	object
-		sprite planet/lava4
-		distance 231.25
-		period 33.9665
-	object
-		sprite planet/ice4
-		distance 443.94
-		period 90.3471
-	object
-		sprite planet/gas10
-		distance 1440.18
-		period 527.902
-		object
-			sprite planet/lava0
-			distance 199
-			period 14.7767
-		object
-			sprite planet/dust0
-			distance 352
-			period 34.7625
-		object
-			sprite planet/luna
-			distance 502
-			period 59.2042
-	object
-		sprite planet/gas6
-		distance 2274.22
-		period 1047.55
-
-system "Mil'taj Mon"
-	pos 166.412 372.354
-	government Militaj
-	habitable 1080
-	link "Mil'taj Ron"
-	link "Mil'taj Son"
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 2000
-	fleet "Small Mk2 Militaj" 2000
-	fleet Quarg 2200
-	object
-		sprite star/nebula2
-		period 180
-
-system "Mil'taj Noh"
-	pos -208.801 815.589
-	government Militaj
-	habitable 2795
-	link "Mil'taj Poh"
-	link "Mil'taj Roh"
-	link "Mil'taj Zoh"
-	asteroids "large rock" 11 4.662
-	asteroids "small metal" 1 6.216
-	asteroids "medium metal" 1 6.3
-	asteroids "large metal" 6 3.822
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		distance 44.8229
-		period 9.4527
-	object
-		sprite star/g0
-		distance 71.1771
-		period 9.4527
-		offset 180
-	object
-		sprite planet/rock11
-		distance 234.267
-		period 27.1291
-	object
-		sprite planet/desert7
-		distance 554.557
-		period 98.8072
-	object
-		sprite planet/ganymede
-		distance 857.447
-		period 189.968
-	object
-		sprite planet/luna
-		distance 1721.06
-		period 540.209
-	object
-		sprite planet/gas9
-		distance 2104.75
-		period 730.582
-
-system "Mil'taj Nol"
-	pos 186.708 699.83
-	government Militaj
-	habitable 233.28
-	link "Mil'taj Foh"
-	asteroids "small rock" 3 3.8947
-	asteroids "medium rock" 10 5.3244
-	asteroids "large rock" 21 3.0073
-	asteroids "medium metal" 8 5.9653
-	asteroids "large metal" 1 3.5496
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/m4
-		period 10
-	object
-		sprite planet/cloud2
-		distance 222.29
-		period 86.7963
-	object "Mil'taj Nul"
-		sprite planet/lava1
-		distance 540.306
-		period 328.913
-		offset 128.986
-	object
-		sprite planet/gas4
-		distance 1132.95
-		period 998.7
-		offset 19.2683
-		object
-			sprite planet/tethys
-			distance 260
-			period 14.7862
-	object
-		sprite planet/gas3
-		distance 1859.95
-		period 2100.74
-		offset 5.48554
-		object
-			sprite planet/miranda
-			distance 307
-			period 13.7395
-
-system "Mil'taj Non"
-	pos 46.412 424.354
-	government Militaj
-	habitable 560.92
-	asteroids "small rock" 42 1.4553
-	asteroids "large rock" 27 2.1714
-	asteroids "small metal" 5 1.7094
-	asteroids "medium metal" 41 3.234
-	asteroids "large metal" 6 1.7787
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/k5
-		distance 24.7896
-		period 17.6549
-	object
-		sprite star/m8
-		distance 78.2104
-		period 17.6549
-		offset 180
-	object "Mil'taj Nun"
-		sprite planet/forest1
-		distance 364.322
-		period 117.446
-		offset 144.795
-		object
-			sprite planet/miranda
-			distance 142
-			period 18.9522
-			offset 319.963
-	object
-		sprite planet/gas14
-		distance 1000.36
-		period 534.374
-		offset 324.964
-		object
-			sprite planet/io
-			distance 243
-			period 15.4265
-		object
-			sprite planet/dust4
-			distance 369
-			period 28.8668
-	object
-		sprite planet/gas11
-		distance 1894
-		period 1392.13
-		offset 352.757
-
-system "Mil'taj Poh"
-	pos -121.801 858.589
-	government Militaj
-	habitable 135
-	link "Mil'taj Joh"
-	link "Mil'taj Goh"
-	link "Mil'taj Noh"
-	asteroids "medium rock" 4 3.726
-	asteroids "large rock" 1 7.935
-	asteroids "medium metal" 5 8.97
-	asteroids "large metal" 2 7.59
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/m8
-		period 10
-	object "Mil'taj Puh"
-		sprite planet/ice4
-		distance 343.596
-		period 219.263
-		offset 146.42
-		object
-			sprite planet/desert4
-			distance 130
-			period 18.6328
-			offset 322.98
-	object
-		sprite planet/lava3
-		distance 805.556
-		period 787.112
-		offset 56.194
-	object
-		sprite planet/gas0
-		distance 1319.17
-		period 1649.46
-		offset 15.7588
-		object
-			sprite planet/rock14
-			distance 258
-			period 12.1447
-		object
-			sprite planet/rock3
-			distance 353
-			period 19.4365
-	object
-		sprite planet/dust2
-		distance 1822.42
-		period 2678.33
-		offset 6.9122
-	object
-		sprite planet/gas11
-		distance 2494.58
-		period 4289.32
-		offset 3.11774
-		object
-			sprite planet/rock7
-			distance 226
-			period 11.2057
-		object
-			sprite planet/ice0
-			distance 321
-			period 18.9686
-
-system "Mil'taj Pon"
-	pos -107.588 570.354
-	government Militaj
-	habitable 2372.76
-	link "Mil'taj Fon"
-	link "Mil'taj Con"
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	fleet "Small Militaj" 1500
-	object
-		sprite star/nebula2
-		period 180
-
-system "Mil'taj Roh"
-	pos -221.801 850.589
-	government Militaj
-	habitable 625
-	link "Mil'taj Noh"
-	asteroids "small rock" 1 3.783
-	asteroids "medium rock" 1 3.276
-	asteroids "large rock" 3 2.496
-	asteroids "medium metal" 2 3.588
-	asteroids "large metal" 2 3.822
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/cloud8
-		distance 157.29
-		period 31.5625
-	object "Mil'taj Ruh"
-		sprite planet/forest4
-		distance 702.29
-		period 297.779
-		object
-			sprite planet/dust1
-			distance 180
-			period 21.6357
-	object
-		sprite planet/gas4
-		distance 1271.54
-		period 725.463
-		object
-			sprite planet/rock7
-			distance 235
-			period 12.7057
-	object
-		sprite planet/desert1
-		distance 1826.54
-		period 1249
-		object
-			sprite planet/io
-			distance 186
-			period 22.02
-
-system "Mil'taj Ron"
-	pos 110.602 410.817
-	government Militaj
-	habitable 425.92
-	link "Mil'taj Mon"
-	asteroids "large metal" 1 2.5404
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet Quarg 2200
-	fleet "Small Mk2 Militaj" 2000
-	fleet "Large Militaj" 2000
-	object
-		sprite star/k5
-		period 10
-	object
-		sprite planet/lava1
-		distance 135.89
-		period 30.7027
-	object
-		sprite planet/neptune
-		distance 729.53
-		period 381.91
-		object
-			sprite planet/miranda
-			distance 229
-			period 17.2657
-		object
-			sprite planet/rock3
-			distance 337
-			period 30.8232
-	object
-		sprite planet/rock14
-		distance 1534.42
-		period 1164.96
-	object
-		sprite planet/gas2
-		distance 1844.83
-		period 1535.79
-		object
-			sprite planet/desert4
-			distance 173
-			period 13.7874
-
-system "Mil'taj Soh"
-	pos 132.199 623.589
-	government Militaj
-	habitable 2140.92
-	link "Mil'taj Foh"
-	asteroids "medium metal" 7 3.22
-	asteroids "large metal" 3 2.093
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/f5
-		distance 22.8784
-		period 10.6612
-		offset 180
-	object
-		sprite star/k5
-		distance 92.1216
-		period 10.6612
-	object
-		sprite planet/rock11
-		distance 246.162
-		period 33.388
-	object
-		sprite planet/callisto
-		distance 439.122
-		period 79.5494
-	object "Mil'taj Suh"
-		sprite planet/desert10
-		distance 728.212
-		period 169.882
-	object
-		sprite planet/gas6
-		distance 1642.46
-		period 575.443
-		object
-			sprite planet/europa
-			distance 282
-			period 12.0959
-		object
-			sprite planet/io
-			distance 418
-			period 21.8288
-		object
-			sprite planet/dust0
-			distance 541
-			period 32.1411
-		object
-			sprite planet/dust1
-			distance 694
-			period 46.6986
-
-system "Mil'taj Son"
-	pos 201.602 412.817
-	government Militaj
-	habitable 5000
-	link "Mil'taj Mon"
-	link "Mil'taj Hon"
-	link "Mil'taj Jon"
-	asteroids "medium rock" 6 2.97
-	asteroids "large rock" 3 1.408
-	asteroids "small metal" 1 1.342
-	asteroids "medium metal" 6 1.452
-	asteroids "large metal" 3 1.628
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 5000
-	object
-		sprite star/a0
-		period 10
-	object
-		sprite planet/cloud0
-		distance 365.49
-		period 39.5265
-		offset 191.798
-		object
-			sprite planet/rhea
-			distance 222.49
-			period 40.8978
-			offset 217.852
-	object
-		sprite planet/gas3
-		distance 1320.98
-		period 271.593
-		offset 161.112
-		object
-			sprite planet/dust0
-			distance 279
-			period 11.9034
-		object
-			sprite planet/ice0
-			distance 389
-			period 19.597
-		object
-			sprite planet/tethys
-			distance 548
-			period 32.7669
-	object
-		sprite planet/uranus
-		distance 2236.67
-		period 598.381
-		offset 41.4994
-		object
-			sprite planet/rock7
-			distance 218
-			period 13.7518
-
-system "Mil'taj Toh"
-	pos -27.801 735.589
-	government Militaj
-	habitable 625
-	asteroids "small rock" 52 5.8548
-	asteroids "medium rock" 2 4.6172
-	asteroids "large rock" 46 3.57
-	asteroids "small metal" 1 2.4276
-	asteroids "medium metal" 1 5.6168
-	asteroids "large metal" 3 5.0456
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 3000
-	fleet "Large Militaj" 3000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/rock12
-		distance 183.04
-		period 39.6222
-	object
-		sprite planet/dust2
-		distance 425.29
-		period 140.329
-	object
-		sprite planet/rock9
-		distance 600.65
-		period 235.533
-	object
-		sprite planet/rock19
-		distance 1536.49
-		period 963.639
-	object "Wormhole Militaj"
-		sprite planet/wormhole
-		distance 3476.9
-		period 3280.26
-
-system "Mil'taj Ton"
-	pos 118.602 561.817
-	government Militaj
-	habitable 425.92
-	link "Mil'taj Don"
-	asteroids "large rock" 1 1.8348
-	asteroids "small metal" 1 1.0296
-	asteroids "medium metal" 264 1.0428
-	asteroids "large metal" 1 1.3728
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 4000
-	object
-		sprite star/k5
-		period 10
-	object
-		sprite planet/rock10
-		distance 204.81
-		period 56.8097
-	object
-		sprite planet/ice6
-		distance 646.97
-		period 318.95
-		object
-			sprite planet/rock14
-			distance 140
-			period 20.8235
-	object
-		sprite planet/desert6
-		distance 1099.97
-		period 707.078
-		object
-			sprite planet/dust1
-			distance 171
-			period 23.2981
-	object
-		sprite planet/gas1
-		distance 1558.78
-		period 1192.82
-	object
-		sprite planet/gas9
-		distance 3427.74
-		period 3889.63
-
-system "Mil'taj Voh"
-	pos -202.101 703.289
-	government Militaj
-	habitable 1080
-	link "Mil'taj Yoh"
-	link "Mil'taj Zoh"
-	asteroids "small rock" 2 7.0686
-	asteroids "medium rock" 228 8.3754
-	asteroids "large rock" 7 3.5046
-	asteroids "small metal" 6 5.4648
-	asteroids "medium metal" 1 7.128
-	asteroids "large metal" 37 5.2272
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	object
-		sprite star/g0
-		period 10
-	object
-		sprite planet/lava5
-		distance 147
-		period 21.6932
-	object
-		sprite planet/gas9
-		distance 793.69
-		period 272.16
-		object
-			sprite planet/luna
-			distance 240
-			period 13.9414
-		object
-			sprite planet/rhea
-			distance 360
-			period 25.612
-	object
-		sprite planet/lava4
-		distance 1476.18
-		period 690.331
-		object
-			sprite planet/rock17
-			distance 115
-			period 15.8181
-	object
-		sprite planet/gas8
-		distance 1900.79
-		period 1008.67
-		object
-			sprite planet/ice8
-			distance 185
-			period 13.3947
-
-system "Mil'taj Von"
-	pos 41.6019 533.817
-	government Militaj
-	habitable 2340
-	link "Mil'taj Kon"
-	link "Mil'taj Gon"
-	asteroids "medium rock" 3 1.856
-	asteroids "large rock" 2 3.264
-	asteroids "small metal" 2 3.232
-	asteroids "medium metal" 5 3.296
-	asteroids "large metal" 9 1.888
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		distance 34.188
-		period 11.9748
-	object
-		sprite star/g5
-		distance 93.812
-		period 11.9748
-		offset 180
-	object
-		sprite planet/desert0
-		distance 281.022
-		period 38.9549
-	object
-		sprite planet/ice0
-		distance 527.662
-		period 100.227
-	object
-		sprite planet/gas1
-		distance 1026.5
-		period 271.952
-		object
-			sprite planet/europa
-			distance 217
-			period 12.7763
-	object
-		sprite planet/gas2
-		distance 1556.75
-		period 507.903
-	object
-		sprite planet/gas14
-		distance 2463.75
-		period 1011.22
-
-system "Mil'taj Woh"
-	pos -168.101 732.289
-	government Militaj
-	habitable 425.92
-	link "Mil'taj Doh"
-	link "Mil'taj Moh"
-	asteroids "small rock" 2 2.2896
-	asteroids "medium rock" 5 6.4368
-	asteroids "large rock" 12 4.1472
-	asteroids "small metal" 2 5.616
-	asteroids "medium metal" 24 4.3632
-	asteroids "large metal" 1 6.2208
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/k5
-		period 10
-	object "Mil'taj Wuh"
-		sprite planet/rock13
-		distance 403.078
-		period 156.848
-		offset 189.418
-		object
-			sprite planet/rock14
-			distance 173
-			period 28.6043
-			offset 238.983
-	object
-		sprite planet/cloud0
-		distance 1077.09
-		period 685.13
-		offset 51.4576
-		object
-			sprite planet/luna
-			distance 145
-			period 21.5172
-	object
-		sprite planet/gas3
-		distance 1981.34
-		period 1709.36
-		offset 10.8169
-		object
-			sprite planet/rock17
-			distance 276
-			period 11.7119
-		object
-			sprite planet/dust7
-			distance 362
-			period 17.5925
-
-system "Mil'taj Won"
-	pos 274.602 517.817
-	government Militaj
-	habitable 1715
-	link "Mil'taj Don"
-	link "Mil'taj Yon"
-	asteroids "small rock" 1 7.6728
-	asteroids "medium rock" 8 3.4224
-	asteroids "large rock" 6 3.8088
-	asteroids "small metal" 12 7.3968
-	asteroids "medium metal" 18 3.2568
-	asteroids "large metal" 12 4.5816
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 4000
-	object
-		sprite star/f5
-		period 10
-	object
-		sprite planet/desert2
-		distance 247
-		period 37.495
-	object
-		sprite planet/ice3
-		distance 496.09
-		period 106.726
-	object
-		sprite planet/gas5
-		distance 1332.09
-		period 469.6
-		object
-			sprite planet/ice8
-			distance 265
-			period 14.3455
-		object
-			sprite planet/ice0
-			distance 370
-			period 23.6674
-	object
-		sprite planet/neptune
-		distance 2757.53
-		period 1398.65
-
-system "Mil'taj Yoh"
-	pos -231.101 650.289
-	government Militaj
-	habitable 320
-	link "Mil'taj Voh"
-	asteroids "small rock" 3 2.5875
-	asteroids "medium rock" 15 3.1725
-	asteroids "large rock" 1 1.6425
-	asteroids "small metal" 1 1.44
-	asteroids "large metal" 1 2.025
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 1500
-	fleet "Cargo Militaj" 6000
-	object
-		sprite star/m0
-		period 10
-	object "Mil'taj Yuh"
-		sprite planet/rock6
-		distance 403.544
-		period 181.268
-		offset 176.341
-		object
-			sprite planet/desert4
-			distance 152
-			period 23.5574
-	object
-		sprite planet/gas15
-		distance 1454.95
-		period 1240.96
-		offset 50.4858
-		object
-			sprite planet/ice8
-			distance 230
-			period 18.3607
-		object
-			sprite planet/oberon
-			distance 305
-			period 28.038
-		object
-			sprite planet/dust5
-			distance 471
-			period 53.8057
-		object
-			sprite planet/dust0
-			distance 642
-			period 85.6248
-	object
-		sprite planet/uranus
-		distance 2576.76
-		period 2924.81
-		offset 11.3928
-		object
-			sprite planet/io
-			distance 247
-			period 16.5851
-
-system "Mil'taj Yon"
-	pos 304.602 444.817
-	government Militaj
-	habitable 5000
-	link "Mil'taj Won"
-	asteroids "small rock" 20 3.468
-	asteroids "medium rock" 72 1.3515
-	asteroids "large rock" 1 3.264
-	asteroids "small metal" 27 1.581
-	asteroids "medium metal" 17 1.7085
-	asteroids "large metal" 88 2.499
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Large Militaj" 4500
-	fleet "Small Militaj" 3500
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/a0
-		period 10
-	object
-		sprite planet/desert8
-		distance 190
-		period 14.8151
-	object "Mil'taj Yun"
-		sprite planet/rock5
-		distance 446.185
-		period 53.3148
-		offset 287.777
-	object
-		sprite planet/cloud3
-		distance 860.195
-		period 142.715
-		offset 330.233
-	object
-		sprite planet/gas8
-		distance 1377.24
-		period 289.126
-		offset 350.789
-		object
-			sprite planet/dust1
-			distance 218
-			period 17.1341
-		object
-			sprite planet/luna
-			distance 324
-			period 31.0452
-	object
-		sprite planet/gas13
-		distance 2664.6
-		period 778.076
-		offset 358.226
-		object
-			sprite planet/callisto
-			distance 295
-			period 14.3035
-		object
-			sprite planet/ice7
-			distance 452
-			period 27.128
-
-system "Mil'taj Zoh"
-	pos -240.101 755.289
-	government Militaj
-	habitable 625
-	link "Mil'taj Voh"
-	link "Mil'taj Noh"
-	asteroids "small rock" 18 3.9
-	asteroids "medium rock" 77 2.834
-	asteroids "large rock" 29 1.508
-	asteroids "small metal" 6 2.366
-	asteroids "large metal" 3 2.314
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/desert5
-		distance 225.89
-		period 54.3207
-	object
-		sprite planet/ocean7
-		distance 522.7
-		period 191.205
-	object
-		sprite planet/cloud6
-		distance 1169.19
-		period 639.658
-	object
-		sprite planet/gas15
-		distance 2803.43
-		period 2374.95
-		object
-			sprite planet/ice7
-			distance 216
-			period 16.7101
-		object
-			sprite planet/europa
-			distance 365
-			period 36.706
-
-system "Mil'taj Zol"
-	pos 274.485 647.36
-	government Militaj
-	habitable 425.92
-	link "Mil'taj Gol"
-	link "Mil'taj Kol"
-	link "Mil'taj Bol"
-	asteroids "small rock" 16 3.2886
-	asteroids "medium rock" 15 5.2983
-	asteroids "large rock" 31 5.9682
-	asteroids "small metal" 71 3.5931
-	asteroids "medium metal" 91 8.526
-	asteroids "large metal" 17 4.0194
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
-	object
-		sprite star/k5
-		period 10
-	object
-		sprite planet/cloud2
-		distance 193.25
-		period 52.0685
-	object "Mil'taj Zul"
-		sprite planet/lava7
-		distance 468.25
-		period 196.387
-	object
-		sprite planet/gas9
-		distance 1273.81
-		period 881.156
-		object
-			sprite planet/rock17
-			distance 235
-			period 13.508
-		object
-			sprite planet/europa
-			distance 326
-			period 22.0707
-	object
-		sprite planet/gas14
-		distance 2636.02
-		period 2623.13
-		object
-			sprite planet/luna
-			distance 236
-			period 14.7648
-
-system "Mil'taj Zon"
-	pos 166.967 457.624
-	government Militaj
-	habitable 851.84
-	link "Mil'taj Lon"
-	asteroids "medium rock" 1 7.5371
-	asteroids "large rock" 3 7.4704
-	asteroids "small metal" 2 4.1354
-	asteroids "large metal" 1 5.8696
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Militaj" 3000
-	fleet "Large Militaj" 3500
-	fleet "Cargo Militaj" 6000
-	fleet "Small Mk2 Militaj" 8500
-	object
-		sprite star/k5
-		distance 49
-		period 13.296
-		offset 180
-	object
-		sprite star/k5
-		distance 49
-		period 13.296
-	object
-		sprite planet/titan
-		distance 254.234
-		period 55.5561
-		offset 0.665701
-	object
-		sprite planet/lava7
-		distance 557.474
-		period 180.392
-		offset 19.621
-	object
-		sprite planet/gas3
-		distance 1097.96
-		period 498.613
-		offset 3.59111
-		object
-			sprite planet/ice0
-			distance 265
-			period 11.0188
-		object
-			sprite planet/desert4
-			distance 397
-			period 20.2046
-	object "Mil'taj Zun"
-		sprite planet/uranus
-		distance 2374.78
-		period 1586.05
-		offset 67.4386
-
-system Niffleheim
-	pos -126.448 433.562
-	government "Servorum Dei"
-	habitable 10355
-	link Mechanus
-	link Umbral
-	link "Eta Carinae"
-	asteroids "medium rock" 28 2.6163
-	asteroids "large rock" 1 4.5144
-	asteroids "small metal" 3 6.3612
-	asteroids "large metal" 2 4.7709
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Southern Pirates" 1000
-	fleet "Large Southern Pirates" 3000
-	fleet "Small Militaj" 9000
-	fleet "Small Servorum Dei" 900
-	object
-		sprite star/b5
-		distance 23.6837
-		period 6.72185
-		offset 180
-	object
-		sprite star/f5
-		distance 119.316
-		period 6.72185
-	object
-		sprite planet/desert1
-		distance 300.316
-		period 20.4575
-	object
-		sprite planet/desert5
-		distance 699.926
-		period 72.7886
-	object
-		sprite planet/gas3
-		distance 1853.77
-		period 313.738
-		object
-			sprite planet/luna
-			distance 272
-			period 11.4582
-		object
-			sprite planet/miranda
-			distance 384
-			period 19.2204
-		object
-			sprite planet/dust3
-			distance 492
-			period 27.8748
-
-system Novae
-	pos 131.87 345.742
-	government Quarg
-	habitable 486.68
-	link Subra
-	link Udualudu
-	asteroids "small rock" 9 2.613
-	asteroids "medium rock" 18 5.811
-	asteroids "large rock" 3 2.457
-	asteroids "medium metal" 9 5.577
-	asteroids "large metal" 1 2.691
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 700
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/rock3
-		distance 121.56
-		period 24.301
-	object Kor'ein
-		sprite planet/lava1
-		distance 370.65
-		period 129.385
-	object
-		sprite planet/callisto
-		distance 802.54
-		period 412.229
-	object
-		sprite planet/gas17
-		distance 1781.79
-		period 1363.71
-		offset 37.7727
-		object Dupelepe
-			sprite planet/ice8
-			distance 240.35
-			period 15.9199
-			offset 0.452429
-	object
-		sprite planet/gas15
-		distance 2349.23
-		period 2064.56
-		offset 39.0348
-
-system Nunki
-	pos -391 504
-	habitable 214.375
-	link "Pax Imperius"
-	link Albaldah
-
-system "Omega Kappa"
-	pos 68.552 227.562
-	government "Plenipotent Dominion"
-	habitable 640
-	link "Omega Mu"
-	link "Kor Dok'tal"
-	link Joint
-	asteroids "medium rock" 7 2.4192
-	asteroids "large rock" 2 2.688
-	asteroids "small metal" 3 3.7632
-	asteroids "medium metal" 105 4.9152
-	asteroids "large metal" 4 3.3408
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 2000
-	fleet "Small Plenipotent Dominion" 900
-	fleet "Small Core Pirates" 1500
-	object
-		sprite star/m0
-		distance 56.5
-		period 18.9927
-		offset 180
-	object
-		sprite star/m0
-		distance 56.5
-		period 18.9927
-	object
-		sprite planet/cloud2
-		distance 235.34
-		period 57.0839
-	object "Quis Custodiat"
-		sprite planet/ocean4
-		distance 549.9
-		period 203.89
-	object
-		sprite planet/ice5
-		distance 799.39
-		period 357.362
-	object
-		sprite planet/neptune
-		distance 1380.2
-		period 810.743
-		object
-			sprite planet/rock17
-			distance 214
-			period 15.5974
-		object
-			sprite planet/luna
-			distance 322
-			period 28.7883
-	object
-		sprite planet/rock0
-		distance 2028.84
-		period 1444.91
-
-system "Omega Mu"
-	pos 2.552 243.562
-	government "Plenipotent Dominion"
-	habitable 1215
-	link "Omicron Gamma"
-	link "Deus Glorificat"
-	link "Omega Kappa"
-	asteroids "small rock" 5 6.12
-	asteroids "medium rock" 21 5.4
-	asteroids "large rock" 6 6.12
-	asteroids "small metal" 9 11.88
-	asteroids "medium metal" 9 4.77
-	asteroids "large metal" 42 7.56
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Plenipotent Dominion" 1500
-	fleet "Large Plenipotent Dominion" 2500
-	object
-		sprite star/g0
-		distance 12.4444
-		period 13.6019
-	object
-		sprite star/m8
-		distance 99.5556
-		period 13.6019
-		offset 180
-	object
-		sprite planet/gas10
-		distance 429.966
-		period 102.311
-		object
-			sprite planet/dust1
-			distance 219
-			period 17.0594
-	object "Omega Mu Prime"
-		sprite planet/miranda
-		distance 906.099
-		period 312.994
-		offset 47.9554
-	object
-		sprite planet/rock12
-		distance 1143.39
-		period 443.675
-		offset 109.695
-	object
-		sprite planet/ocean8
-		distance 1765.35
-		period 851.176
-		offset 35.9056
-		object
-			sprite planet/rock7
-			distance 186
-			period 22.3686
-	object
-		sprite planet/gas9
-		distance 3074.39
-		period 1956.19
-		offset 8.76185
-		object
-			sprite planet/dust7
-			distance 239
-			period 13.8544
-		object
-			sprite planet/lava0
-			distance 378
-			period 27.5568
-
-system "Omicron Gamma"
-	pos 32.552 275.562
-	government "Plenipotent Dominion"
-	habitable 659.2
-	link "Omega Mu"
-	link Tyrant
-	asteroids "small rock" 8 8.8711
-	asteroids "large rock" 8 6.4032
-	asteroids "small metal" 7 3.4684
-	asteroids "medium metal" 11 7.1369
-	asteroids "large metal" 12 9.1379
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Mk2 Militaj" 6000
-	fleet "Small Plenipotent Dominion" 2000
-	object
-		sprite star/k5
-		distance 42.1121
-		period 20.2242
-		offset 180
-	object
-		sprite star/m4
-		distance 76.8879
-		period 20.2242
-	object "Le Morte te Deum"
-		sprite planet/cloud1
-		distance 679.987
-		period 276.25
-		offset 271.381
-		object
-			sprite planet/europa
-			distance 171
-			period 18.2578
-	object
-		sprite planet/gas16
-		distance 1305.24
-		period 734.659
-		offset 6.6078
-		object
-			sprite planet/rock17
-			distance 207
-			period 15.6766
-		object
-			sprite planet/dust1
-			distance 289
-			period 25.8609
-	object
-		sprite planet/neptune
-		distance 2407.73
-		period 1840.61
-		offset 65.9382
-		object
-			sprite planet/callisto
-			distance 214
-			period 15.5974
-		object
-			sprite planet/rock7
-			distance 317
-			period 28.1204
-	object "Wormhole Donald"
-		sprite planet/wormhole
-		distance 3551.52
-		period 3297.41
-		offset 347.886
-
-system "Omicron Zeta"
-	pos -81.5488 326.022
-	government "Plenipotent Dominion"
-	habitable 320
-	link Algenib
-	link "Deus Glorificat"
-	link Gambit
-	asteroids "small rock" 85 5.7888
-	asteroids "medium rock" 46 4.5792
-	asteroids "large rock" 31 4.32
-	asteroids "small metal" 10 4.6224
-	asteroids "medium metal" 4 3.9312
-	asteroids "large metal" 5 4.5792
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Small Southern Pirates" 1000
-	fleet "Large Plenipotent Dominion" 2000
-	fleet "Small Plenipotent Dominion" 1000
-	fleet "Small Servorum Dei" 2000
-	fleet "Large Servorum Dei" 3500
-	object
-		sprite star/m0
-		period 10
-	object
-		sprite planet/rock16
-		distance 178.21
-		period 53.1965
-	object
-		sprite planet/desert1
-		distance 444.21
-		period 209.347
-	object
-		sprite planet/gas13
-		distance 1566.62
-		period 1386.53
-		object
-			sprite planet/rock14
-			distance 263
-			period 12.0405
-		object
-			sprite planet/rock17
-			distance 354
-			period 18.8025
-		object
-			sprite planet/ice0
-			distance 481
-			period 29.7802
-		object
-			sprite planet/desert4
-			distance 623
-			period 43.8978
-
-system "Pax Cruciatus"
-	pos -286.549 547.022
-	government "Plenipotent Dominion"
-	habitable 486.68
-	link "Pax Draconis"
-	link Enfin
-	asteroids "small rock" 8 2.0655
-	asteroids "medium rock" 133 4.536
-	asteroids "large rock" 4 3.6045
-	asteroids "medium metal" 6 4.4955
-	asteroids "large metal" 3 2.268
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 1500
-	fleet "Small Plenipotent Dominion" 600
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/venus
-		distance 261
-		period 76.4538
-		offset 48.6675
-		object
-			sprite planet/tethys
-			distance 160
-			period 23.094
-	object
-		sprite planet/gas16
-		distance 877.819
-		period 471.569
-		offset 36.8683
-		object "Gol Gotha"
-			sprite planet/rock17
-			distance 341.907
-			period 33.2782
-			offset 329.695
-	object
-		sprite planet/gas12
-		distance 1510.73
-		period 1064.67
-		offset 299.844
-	object Gehenna
-		sprite planet/gas9
-		distance 2707.75
-		period 2554.76
-		offset 1.88078
-		object
-			sprite planet/oberon
-			distance 611.462
-			period 56.695
-			offset 135.082
-
-system "Pax Draconis"
-	pos -360.549 589.022
-	government "Plenipotent Dominion"
-	habitable 135
-	link Sadr
-	link "Pax Imperius"
-	link "Pax Cruciatus"
-	asteroids "medium rock" 3 2.5488
-	asteroids "large rock" 1 3.3264
-	asteroids "small metal" 1 5.0112
-	asteroids "large metal" 2 5.4864
-	trade Clothing 381
-	trade Electronics 747
-	trade Equipment 714
-	trade Food 252
-	trade "Heavy Metals" 923
-	trade Industrial 777
-	trade "Luxury Goods" 1128
-	trade Medical 791
-	trade Metal 329
-	trade Plastic 372
-	fleet "Large Plenipotent Dominion" 2000
-	fleet "Small Plenipotent Dominion" 1000
-	object
-		sprite star/m8
-		period 10
-	object
-		sprite planet/rock16
-		distance 226.25
-		period 117.159
-	object
-		sprite planet/lava7
-		distance 499.41
-		period 384.219
-	object
-		sprite planet/gas15
-		distance 979.41
-		period 1055.21
-		object
-			sprite planet/lava0
-			distance 201
-			period 15
-	object
-		sprite planet/gas4
-		distance 1818.66
-		period 2670.06
-		object
-			sprite planet/ice8
-			distance 246
-			period 13.6082
-		object
-			sprite planet/dust7
-			distance 330
-			period 21.1431
-		object
-			sprite planet/rock3
-			distance 503
-			period 39.7877
-
-system "Pax Imperius"
-	pos -422.549 538.022
-	government "Plenipotent Dominion"
-	habitable 806.68
-	link Nunki
-	link Shaula
-	link "Pax Draconis"
-	asteroids "small rock" 1 5.5875
-	asteroids "medium rock" 72 4.8
-	asteroids "large rock" 13 2.1375
-	asteroids "small metal" 3 4.65
-	asteroids "medium metal" 5 4.7625
-	asteroids "large metal" 9 2.0625
-	trade Clothing 381
-	trade Electronics 747
-	trade Equipment 714
-	trade Food 252
-	trade "Heavy Metals" 923
-	trade Industrial 777
-	trade "Luxury Goods" 1128
-	trade Medical 791
-	trade Metal 329
-	trade Plastic 372
-	fleet "Small Southern Pirates" 1300
-	fleet "Large Southern Pirates" 2700
-	fleet "Plenipotent Heavy Assault Fleet" 10000
-	fleet "Small Plenipotent Dominion" 2000
-	object
-		sprite star/k0
-		distance 40.4621
-		period 14.5081
-	object
-		sprite star/m0
-		distance 61.5379
-		period 14.5081
-		offset 180
-	object
-		sprite planet/rock9
-		distance 206.538
-		period 41.8031
-	object
-		sprite planet/oberon
-		distance 434.228
-		period 127.434
-	object
-		sprite planet/gas4
-		distance 1236.79
-		period 612.565
-		object
-			sprite planet/io
-			distance 251
-			period 14.0252
-		object
-			sprite planet/ice7
-			distance 402
-			period 28.4274
-	object
-		sprite planet/gas12
-		distance 3287.03
-		period 2654.08
-		object
-			sprite planet/miranda
-			distance 259
-			period 10.948
-		object
-			sprite planet/desert4
-			distance 339
-			period 16.394
-		object
-			sprite planet/luna
-			distance 509
-			period 30.1621
-		object
-			sprite planet/dust5
-			distance 709
-			period 49.5855
-
-system "Plus De"
-	pos 275.87 274.742
-	government Quarg
-	habitable 4131.68
-	link "Eta Delphi"
-	link Wartorn
-	asteroids "large metal" 1 3.7422
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Mk2 Militaj" 3000
-	fleet "Small Abs" 500
-	object
-		sprite star/wr
-		distance 15.6664
-		period 9.54496
-		offset 180
-	object
-		sprite star/m8
-		distance 117.334
-		period 9.54496
-	object
-		sprite planet/gas8
-		distance 4944.09
-		period 2163.34
-		offset 253.148
-		object
-			sprite planet/ice7
-			distance 225.709
-			period 18.051
-			offset 307.5
-	object "Wormhole 100"
-		sprite planet/wormhole
-		distance 2393.69
-		period 1404.99
-		object
-	object
-		sprite planet/gas10
-		distance 10220.9
-		period 6430.25
-		offset 338.543
-		object
-			sprite planet/europa
-			distance 218
-			period 16.9427
-
-system Qarn
-	pos -240.204 618.803
-	government Quarg
-	habitable 135
-	link Yarg
-	link Flar
-	asteroids "small rock" 5 1.8876
-	asteroids "medium rock" 13 1.9844
-	asteroids "large rock" 3 1.2826
-	asteroids "small metal" 5 2.9282
-	asteroids "medium metal" 20 1.331
-	asteroids "large metal" 7 2.178
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 1200
-	object
-		sprite star/m8
-		period 10
-	object
-		sprite planet/ice6
-		distance 140.01
-		period 57.0337
-	object
-		sprite planet/dust4
-		distance 407.01
-		period 282.684
-	object
-		sprite planet/rock1
-		distance 655.45
-		period 577.7
-	object
-		sprite planet/gas11
-		distance 1090.7
-		period 1240.08
-		object
-			sprite planet/dust3
-			distance 263
-			period 14.0673
-	object
-		sprite planet/gas0
-		distance 2084.74
-		period 3276.96
-		object
-			sprite planet/ice8
-			distance 282
-			period 13.8781
-		object
-			sprite planet/miranda
-			distance 371
-			period 20.942
-		object
-			sprite planet/rock7
-			distance 516
-			period 34.3503
-
-system Sadalsuud
-	pos -134 508
-	government Quarg
-	habitable 1400
-	link Enif
-	link Sadalmelik
-	link Enfin
-
-system Sadr
-	pos -314 528
-	government Republic
-	habitable 3859.38
-	link "Pax Draconis"
-	link Albireo
-
-system "Sanctum Adroit"
-	pos 8.4923 387.82
-	government "Servorum Dei"
-	habitable 625
-	link "Eta Carinae"
-	link Gambit
-	asteroids "small rock" 8 11.2056
-	asteroids "medium rock" 163 8.7696
-	asteroids "large rock" 29 8.2824
-	asteroids "medium metal" 20 6.1712
-	asteroids "large metal" 9 4.1412
-	trade Clothing 250
-	trade Electronics 790
-	trade Equipment 620
-	trade Food 270
-	trade "Heavy Metals" 1060
-	trade Industrial 810
-	trade "Luxury Goods" 1150
-	trade Medical 770
-	trade Metal 430
-	trade Plastic 470
-	fleet "Large Servorum Dei" 1500
-	fleet "Small Plenipotent Dominion" 2800
-	fleet "Small Servorum Dei" 700
-	fleet "Large Plenipotent Dominion" 4000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/rock4
-		distance 171.61
-		period 35.9695
-	object
-		sprite planet/rock5
-		distance 472.62
-		period 164.395
-	object Parsine
-		sprite planet/forest0
-		distance 881.787
-		period 418.953
-		offset 356.784
-	object
-		sprite planet/desert0
-		distance 1127.8
-		period 605.991
-		offset 358.157
-	object
-		sprite planet/gas11
-		distance 2304.41
-		period 1769.94
-		offset 359.691
-		object
-			sprite planet/desert4
-			distance 229
-			period 11.4296
-
-system Shaula
-	pos -461 527
-	government Pirate
-	habitable 625
-	link "Pax Imperius"
-	link Lesath
-
-system Subra
-	pos 117.87 299.742
-	government Quarg
-	habitable 1400
-	link "Zeta Nurphae"
-	link Novae
-	asteroids "small rock" 1 1.248
-	asteroids "medium rock" 9 2.7456
-	asteroids "large rock" 1 2.6688
-	asteroids "medium metal" 4 1.056
-	asteroids "large metal" 2 1.7856
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 500
-	fleet "Small Abs" 900
-	fleet "Small Pug" 2000
-	object
-		sprite star/g0
-		distance 29.4857
-		period 15.6632
-		offset 180
-	object
-		sprite star/m0
-		distance 99.5143
-		period 15.6632
-	object
-		sprite planet/dust0
-		distance 261.514
-		period 45.2105
-	object
-		sprite planet/titan
-		distance 516.724
-		period 125.57
-	object
-		sprite planet/gas15
-		distance 1499.97
-		period 621.043
-		object
-			sprite planet/oberon
-			distance 177
-			period 12.3953
-		object
-			sprite planet/lava0
-			distance 282
-			period 24.927
-		object
-			sprite planet/dust5
-			distance 412
-			period 44.0193
-	object
-		sprite planet/gas14
-		distance 2608.97
-		period 1424.63
-
-system Tyrant
-	pos 1.43762 299.283
-	government "Plenipotent Dominion"
-	habitable 3645
-	link "Omicron Gamma"
-	asteroids "large rock" 1 1.078
-	asteroids "small metal" 1 1.1088
-	asteroids "medium metal" 25 1.309
-	asteroids "large metal" 1 1.1704
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 2500
-	fleet "Plenipotent Heavy Assault Fleet" 15000
-	fleet "Small Plenipotent Dominion" 1500
-	object
-		sprite star/a5
-		period 10
-	object
-		sprite planet/rhea
-		distance 214.086
-		period 20.7537
-		offset 341.994
-	object
-		sprite planet/desert7
-		distance 492.336
-		period 72.3776
-		offset 152.078
-		object "Viglado Station"
-			sprite planet/station2
-			distance 150.25
-			period 29.3701
-			offset 273.21
-	object
-		sprite planet/gas16
-		distance 1645.67
-		period 442.31
-		offset 329.752
-		object
-			sprite planet/lava0
-			distance 217
-			period 16.8262
-		object
-			sprite planet/io
-			distance 363
-			period 36.4047
-		object "Pax Station"
-			sprite planet/spacestation
-			distance 546.95
-			period 67.3315
-			offset 296.24
-	object
-		sprite planet/mercury
-		distance 2396.86
-		period 777.457
-		offset 153.573
-	object
-		sprite planet/gas12
-		distance 3673.22
-		period 1474.97
-		offset 245.734
-		object
-			sprite planet/europa
-			distance 266
-			period 11.3948
-		object
-			sprite planet/dust1
-			distance 409
-			period 21.7255
-		object
-			sprite planet/dust4
-			distance 552
-			period 34.0638
-		object
-			sprite planet/ice0
-			distance 699
-			period 48.5401
-		object "Rubido Station"
-			sprite planet/station6
-			distance 884.62
-			period 69.1067
-			offset 141.549
-
-system Udualudu
-	pos 185.87 333.742
-	government Quarg
-	habitable 486.68
-	link Novae
-	link "Eta Delphi"
-	asteroids "small rock" 45 2.7744
-	asteroids "medium rock" 81 2.4854
-	asteroids "large rock" 107 3.6414
-	asteroids "small metal" 4 1.7918
-	asteroids "medium metal" 19 4.1905
-	asteroids "large metal" 15 2.7744
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 400
-	fleet "Small Mk2 Militaj" 3000
-	fleet "Small Abs" 800
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/rock1
-		distance 152.16
-		period 34.0321
-	object
-		sprite planet/rock12
-		distance 397.52
-		period 143.707
-	object
-		sprite planet/gas9
-		distance 882.77
-		period 475.565
-	object
-		sprite planet/gas16
-		distance 1978.2
-		period 1595.3
-		offset 37.2975
-		object
-			sprite planet/rock0
-			distance 206
-			period 15.5632
-		object
-			sprite planet/rock3
-			distance 328
-			period 31.2686
-		object "Chrono Station"
-			sprite planet/station5
-			distance 464.53
-			period 52.7009
-			offset 166.158
-
-system Umbral
-	pos -163 416
-	government Republic
-	habitable 320
-	link Tarazed
-	link Niffleheim
-
-system Wartorn
-	pos 260.87 232.742
-	government Quarg
-	habitable 851.84
-	link "Plus De"
-	asteroids "large metal" 1 4.5344
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Korath Raid" 1600
-	fleet Quarg 500
-	object
-		sprite star/k5
-		distance 54
-		period 15.3821
-		offset 180
-	object
-		sprite star/k5
-		distance 54
-		period 15.3821
-	object
-		sprite planet/desert3
-		distance 212
-		period 42.3043
-	object
-		sprite planet/gas15
-		distance 1015.01
-		period 443.186
-		offset 15.3746
-		object
-			sprite planet/dust0
-			distance 172
-			period 11.8738
-		object Devastated
-			sprite planet/lava0
-			distance 260.301
-			period 22.1061
-			offset 162.432
-		object
-			sprite planet/callisto
-			distance 389.301
-			period 40.432
-			offset 56.7173
-		object
-			sprite planet/dust5
-			distance 522.301
-			period 62.8317
-			offset 198.334
-	object
-		sprite planet/gas11
-		distance 2054.47
-		period 1276.24
-		offset 5.09151
-
-system Wraithhome
-	pos -236.549 586.023
-	government Quarg
-	habitable 858.28
-	link Enfin
-	asteroids "small rock" 8 4.8438
-	asteroids "medium rock" 216 5.1948
-	asteroids "large rock" 1 2.8782
-	asteroids "small metal" 10 4.4226
-	asteroids "medium metal" 44 4.7736
-	asteroids "large metal" 7 3.7206
-	trade Clothing 381
-	trade Electronics 747
-	trade Equipment 714
-	trade Food 252
-	trade "Heavy Metals" 923
-	trade Industrial 777
-	trade "Luxury Goods" 1128
-	trade Medical 791
-	trade Metal 329
-	trade Plastic 372
-	fleet "Small Militaj" 3000
-	fleet "Small Plenipotent Dominion" 1500
-	object
-		sprite star/g5
-		distance 30.1697
-		period 15.9672
-	object
-		sprite star/m4
-		distance 80.8303
-		period 15.9672
-		offset 180
-	object
-		sprite planet/ganymede
-		distance 257.08
-		period 56.2793
-	object
-		sprite planet/cloud2
-		distance 468.49
-		period 138.451
-	object
-		sprite planet/rock10
-		distance 991.74
-		period 426.425
-		object
-			sprite planet/rock7
-			distance 158
-			period 16.7148
-	object
-		sprite planet/lava2
-		distance 1326.63
-		period 659.736
-	object
-		sprite planet/uranus
-		distance 2175.99
-		period 1385.9
-
-system Yarg
-	pos -262.204 681.803
-	government Quarg
-	habitable 233.28
-	link Qarn
-	link Flar
-	link Bera
-	asteroids "small rock" 8 7.5
-	asteroids "medium rock" 5 4.5
-	asteroids "large rock" 8 4.9
-	asteroids "small metal" 1 5.1
-	asteroids "medium metal" 66 2.6
-	asteroids "large metal" 9 7.45
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet Quarg 1500
-	object
-		sprite star/m4
-		period 10
-	object Florug
-		sprite planet/ice6
-		distance 447.128
-		period 247.61
-		offset 200.166
-		object
-			sprite planet/dust4
-			distance 170
-			period 27.8635
-	object
-		sprite planet/miranda
-		distance 852.378
-		period 651.733
-		offset 147.754
-	object
-		sprite planet/europa
-		distance 1132.79
-		period 998.491
-		offset 68.8934
-	object
-		sprite planet/gas7
-		distance 2621.04
-		period 3514.24
-		offset 7.77386
-		object
-			sprite planet/desert4
-			distance 252
-			period 14.2309
-
-system "Zeta Nurphae"
-	pos 48.87 313.742
-	government Quarg
-	habitable 1505.92
-	link Subra
-	asteroids "small rock" 2 2.5143
-	asteroids "medium rock" 8 2.7166
-	asteroids "large rock" 11 1.9941
-	asteroids "small metal" 2 4.0749
-	asteroids "medium metal" 7 2.3698
-	asteroids "large metal" 1 2.2542
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	object
-		sprite star/g0
-		distance 27.7174
-		period 9.99996
-	object
-		sprite star/k5
-		distance 70.2826
-		period 9.99996
-		offset 180
-	object
-		sprite planet/forest4
-		distance 387.173
-		period 78.5265
-		offset 255.814
-		object
-			sprite planet/rock0
-			distance 163
-			period 18.6442
-	object
-		sprite planet/rock19
-		distance 723.613
-		period 200.64
-		offset 144.703
-	object
-		sprite planet/gas2
-		distance 1520.79
-		period 611.312
-		offset 349.512
-		object
-			sprite planet/ice8
-			distance 210
-			period 18.4393
-		object Genchok
-			sprite planet/io
-			distance 340.493
-			period 38.0695
-			offset 266.177
-	object
-		sprite planet/gas4
-		distance 2831.04
-		period 1552.67
-		offset 195.007
-		object
-			sprite planet/desert4
-			distance 254
-			period 14.2774
-		object
-			sprite planet/oberon
-			distance 345
-			period 22.6009
-
-system Zubrik
-	pos 178.407 250.164
-	government "Pug (Research)"
-	habitable 320
-	asteroids "small rock" 4 2.1546
-	asteroids "medium rock" 58 3.2508
-	asteroids "large rock" 4 4.2714
-	asteroids "small metal" 59 4.2336
-	asteroids "medium metal" 22 3.9312
-	asteroids "large metal" 109 5.0274
-	fleet Pug 1000
-	fleet Pug1 1500
-	object
-		sprite star/m0
-		period 10
-	object Puggldute
-		sprite planet/desert1
-		distance 325.373
-		period 131.237
-		offset 160.953
-	object
-		sprite planet/ocean7
-		distance 718.533
-		period 430.68
-		offset 193.862
-		object
-			sprite planet/rhea
-			distance 183
-			period 27.2214
-	object
-		sprite planet/jupiter
-		distance 1186.42
-		period 913.782
-		offset 132.012
-	object
-		sprite planet/gas8
-		distance 2198.23
-		period 2304.6
-		offset 25.2494
-		object
-			sprite planet/europa
-			distance 202
-			period 15.2828
-		object
-			sprite planet/oberon
-			distance 308
-			period 28.7742
-
-galaxy Cascade
-	pos -3000 -3000
-	sprite ui/Cascade
-
-system Agon
-	pos -621.498 -538.83
-	government "Plenipotent Dominion"
-	habitable 5000
-	asteroids "small rock" 3 2.7885
-	asteroids "medium rock" 50 0.9945
-	asteroids "large rock" 17 1.053
-	asteroids "small metal" 45 1.8135
-	asteroids "medium metal" 10 1.716
-	asteroids "large metal" 114 2.262
-	fleet "Large Plenipotent Dominion" 1600
-	fleet "Small Plenipotent Dominion" 500
-	object
-		sprite star/a0
-		period 10
-	object
-		sprite planet/lava4
-		distance 282.943
-		period 26.923
-		offset 352.712
-	object
-		sprite planet/desert10
-		distance 649.193
-		period 93.5699
-		offset 231.319
-	object
-		sprite planet/gas13
-		distance 2425.87
-		period 675.889
-		offset 152.184
-		object
-			sprite planet/desert4
-			distance 402.863
-			period 22.8269
-			offset 81.4198
-		object
-			sprite planet/tethys
-			distance 617.611
-			period 43.3294
-			offset 180.233
-		object
-			sprite planet/rock17
-			distance 766.464
-			period 59.9029
-			offset 73.7671
-	object "Wormhole Donald"
-		sprite planet/wormhole
-		distance 4636.11
-		period 1785.69
-		offset 104.543
-
-system Algieba
-	pos -691 -52
-	government "Deep Sky"
-	habitable 2695
-	link "Tania Australis"
-	link Alphard
-	link Zosma
-	link Teshana
-	fleet "Small Deep" 1000
-	fleet "Large Deep" 2500
-
-system Algol
-	pos -210 17
-	habitable 534.375
-	link Ruchbah
-	link "Pi Capuli"
-
-system "Alpha Uzara"
-	pos -814.13 68.7424
-	government Pirate
-	habitable 486.68
-	link Minkar
-	link Harner
-	asteroids "large metal" 1 6.804
-	fleet "Small Southern Merchants" 2000
-	fleet "Large Southern Merchants" 3000
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/ganymede
-		distance 172.61
-		period 41.1185
-	object
-		sprite planet/forest2
-		distance 436.86
-		period 165.559
-	object
-		sprite planet/neptune
-		distance 800.5
-		period 410.658
-	object
-		sprite planet/gas17
-		distance 2288.51
-		period 1985.03
-		object
-			sprite planet/rock0
-			distance 234
-			period 15.2932
-		object
-			sprite planet/dust7
-			distance 356
-			period 28.6978
-
-system Arneb
-	pos -523 -580
-	habitable 1715
-	link Hatysa
-	link Maroon
-
-system Beltane
-	pos -588.13 -469.258
-	government Pirate
-	habitable 745.92
-	link Ganji
-	asteroids "small rock" 1 1.644
-	asteroids "medium rock" 9 1.476
-	asteroids "large rock" 2 0.984
-	asteroids "medium metal" 29 1.092
-	asteroids "large metal" 2 1.104
-	fleet "Large Northern Pirates" 3000
-	fleet "Small Southern Pirates" 2000
-	fleet "Small Northern Pirates" 2000
-	object
-		sprite star/k5
-		distance 41.613
-		period 13.9917
-		offset 180
-	object
-		sprite star/m0
-		distance 55.387
-		period 13.9917
-	object
-		sprite planet/ice3
-		distance 294.147
-		period 73.8857
-		object
-			sprite planet/dust0
-			distance 135
-			period 15
-	object
-		sprite planet/gas5
-		distance 1195.19
-		period 605.156
-		object
-			sprite planet/ice8
-			distance 256
-			period 13.6209
-		object
-			sprite planet/rock7
-			distance 378
-			period 24.4391
-		object
-			sprite planet/lava0
-			distance 468
-			period 33.6679
-		object
-			sprite planet/callisto
-			distance 641
-			period 53.9678
-	object "Wormhole Zynga"
-		sprite planet/wormhole
-		distance 2340.82
-		period 1658.7
-		offset 11.5476
-
-system "Beta Uzara"
-	pos -776.13 -12.2576
-	government Pirate
-	habitable 2201.68
-	link Teshana
-	link Harner
-	asteroids "medium rock" 4 5.335
-	asteroids "large rock" 44 4.51
-	asteroids "medium metal" 4 4.4
-	asteroids "large metal" 1 3.52
-	fleet "Small Northern Merchants" 2300
-	fleet "Large Northern Merchants" 3300
-	fleet "Small Southern Merchants" 2500
-	object
-		sprite star/f5
-		distance 24.9786
-		period 10.24
-	object
-		sprite star/k0
-		distance 88.0214
-		period 10.24
-		offset 180
-	object
-		sprite planet/cloud1
-		distance 291.271
-		period 42.377
-	object
-		sprite planet/gas17
-		distance 1128.11
-		period 323.006
-		object
-			sprite planet/ice8
-			distance 214
-			period 13.375
-		object
-			sprite planet/dust0
-			distance 341
-			period 26.9033
-		object
-			sprite planet/ice0
-			distance 486
-			period 45.7749
-	object
-		sprite planet/gas10
-		distance 2168.35
-		period 860.751
-		object
-			sprite planet/dust4
-			distance 224
-			period 17.6469
-		object
-			sprite planet/rock3
-			distance 363
-			period 36.4047
-
-system Cascade
-	pos -2995.71 -2988.75
-	government Cascadi
-	habitable 858.28
-	asteroids "large rock" 1 1.078
-	asteroids "small metal" 1 1.1088
-	asteroids "medium metal" 25 1.309
-	asteroids "large metal" 1 1.1704
-	object
-		sprite star/blackhole
-		distance 32.8877
-		period 18.1729
-
-system Durax
-	pos -59 -90
-	habitable 1080
-	link Alcyone
-	link Zaurak
-
-system Ermina
-	pos -921.13 249.742
-	government "Plenipotent Dominion"
-	habitable 625
-	link Paloma
-	link Kraz
-	asteroids "small rock" 5 4.1952
-	asteroids "medium rock" 9 4.9128
-	asteroids "large rock" 3 6.0168
-	asteroids "medium metal" 3 5.0784
-	asteroids "large metal" 1 2.9808
-	fleet "Large Plenipotent Dominion" 4000
-	fleet "Small Plenipotent Dominion" 3000
-	object
-		sprite star/g5
-		period 10
-	object
-		sprite planet/rock11
-		distance 130.04
-		period 23.7266
-	object
-		sprite planet/rock19
-		distance 360.33
-		period 109.439
-	object
-		sprite planet/gas3
-		distance 1023.33
-		period 523.774
-	object
-		sprite planet/gas12
-		distance 1778.58
-		period 1200.13
-		object
-			sprite planet/luna
-			distance 274
-			period 11.9127
-		object
-			sprite planet/ice7
-			distance 429
-			period 23.3384
-
-system Flamsteed
-	pos -563.13 -0.257568
-	government Republic
-	habitable 320
-	link Regulus
-	link Lolami
-	link Talita
-	asteroids "small rock" 18 3.588
-	asteroids "medium rock" 42 8.487
-	asteroids "large rock" 47 3.519
-	asteroids "medium metal" 35 5.451
-	asteroids "large metal" 3 5.106
-	object
-		sprite star/m0
-		period 10
-	object
-		sprite planet/cloud1
-		distance 204.81
-		period 65.5408
-	object
-		sprite planet/cloud3
-		distance 497.65
-		period 248.24
-	object
-		sprite planet/jupiter
-		distance 1208.49
-		period 939.398
-		object
-			sprite planet/oberon
-			distance 233
-			period 11.1762
-		object
-			sprite planet/desert4
-			distance 305
-			period 16.7383
-		object
-			sprite planet/tethys
-			distance 387
-			period 23.9237
-	object
-		sprite planet/gas0
-		distance 1988.13
-		period 1982.22
-
-system Ganji
-	pos -527.545 -487.244
-	government Pirate
-	habitable 1050.92
-	link "Psi Lumiere"
-	link Beltane
-	asteroids "small rock" 3 6.24
-	asteroids "medium rock" 14 5.824
-	asteroids "large rock" 1 2.4544
-	asteroids "medium metal" 4 3.4944
-	asteroids "large metal" 9 4.8672
-	fleet "Small Northern Pirates" 2500
-	fleet "Large Northern Pirates" 3500
-	object
-		sprite star/g5
-		distance 46.2023
-		period 15.0187
-	object
-		sprite star/k5
-		distance 67.7977
-		period 15.0187
-		offset 180
-	object
-		sprite planet/ganymede
-		distance 201.408
-		period 35.2687
-	object
-		sprite planet/rock7
-		distance 454.218
-		period 119.446
-	object
-		sprite planet/lava3
-		distance 627.258
-		period 193.84
-	object
-		sprite planet/gas15
-		distance 1377.02
-		period 630.499
-	object
-		sprite planet/gas7
-		distance 1948.18
-		period 1061.01
-
-system Hamal
-	pos -129 24
-	habitable 1080
-	link Ruchbah
-	link "Pi Capuli"
-
-system Harner
-	pos -816.899 13.8514
-	government Pirate
-	habitable 486.68
-	link "Alpha Uzara"
-	link "Beta Uzara"
-	link "New New Providence"
-	asteroids "medium rock" 4 5.335
-	asteroids "large rock" 44 4.51
-	asteroids "medium metal" 4 4.4
-	asteroids "large metal" 1 3.52
-	fleet "Small Northern Merchants" 2500
-	fleet "Small Southern Merchants" 2300
-	fleet "Large Southern Merchants" 3300
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/lava0
-		distance 186.61
-		period 46.2211
-	object
-		sprite planet/desert10
-		distance 480.86
-		period 191.19
-	object
-		sprite planet/gas17
-		distance 1167.95
-		period 723.727
-		object
-			sprite planet/ice8
-			distance 214
-			period 13.375
-		object
-			sprite planet/dust0
-			distance 341
-			period 26.9033
-		object
-			sprite planet/ice0
-			distance 486
-			period 45.7749
-	object
-		sprite planet/gas10
-		distance 2249.11
-		period 1933.99
-		object
-			sprite planet/dust4
-			distance 224
-			period 17.6469
-		object
-			sprite planet/rock3
-			distance 363
-			period 36.4047
-
 system "Kor No'phel"
 	pos 16.6743 142.824
 	government Korath
@@ -5096,6 +1343,9 @@ system "Kor No'phel"
 system "Kor Nor'peli"
 	pos 52 160
 	habitable 590.625
+	link "Kor Tar'bei"
+	link "Kor No'phel"
+	link "Kor Dok'mok"
 	link "Kor Tar'bei"
 	link "Kor No'phel"
 	link "Kor Dok'mok"
@@ -5275,6 +1525,54 @@ system Mebsuta
 	habitable 670
 	link Mirzam
 
+system Mechanus
+	pos -95.448 409.562
+	government "Servorum Dei"
+	habitable 425.92
+	link Niffleheim
+	link "Eta Carinae"
+	asteroids "small rock" 12 2.9106
+	asteroids "medium rock" 4 3.5721
+	asteroids "large rock" 5 2.9547
+	asteroids "small metal" 8 3.3957
+	asteroids "medium metal" 40 3.4398
+	asteroids "large metal" 2 4.8069
+	trade Clothing 170
+	trade Electronics 810
+	trade Equipment 630
+	trade Food 400
+	trade "Heavy Metals" 780
+	trade Industrial 650
+	trade "Luxury Goods" 1360
+	trade Medical 760
+	trade Metal 250
+	trade Plastic 460
+	fleet "Large Servorum Dei" 1500
+	fleet "Small Servorum Dei" 700
+	object
+		sprite star/k5
+		period 10
+	object "Minas Tekel"
+		sprite planet/rock8
+		distance 335.02
+		period 118.851
+		offset 212.123
+	object
+		sprite planet/desert6
+		distance 733.83
+		period 385.291
+		offset 25.0147
+	object
+		sprite planet/desert3
+		distance 1341.92
+		period 952.763
+		offset 136.023
+	object
+		sprite planet/dust0
+		distance 2503.48
+		period 2427.79
+		offset 26.0235
+
 system Men
 	pos -888 361
 	habitable 320
@@ -5348,6 +1646,166 @@ system "Mil'taj Bek"
 			period 23.7654
 			offset 190.235
 
+system "Mil'taj Boh"
+	pos -144.801 664.589
+	government Militaj
+	habitable 2340
+	link "Mil'taj Doh"
+	asteroids "small rock" 7 4.5864
+	asteroids "medium rock" 4 3.0968
+	asteroids "large rock" 20 5.1352
+	asteroids "small metal" 3 4.9
+	asteroids "medium metal" 11 4.8216
+	asteroids "large metal" 1 3.0184
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 5000
+	object
+		sprite star/f5
+		distance 34.9893
+		period 12.3982
+	object
+		sprite star/g5
+		distance 96.0107
+		period 12.3982
+		offset 180
+	object
+		sprite planet/desert10
+		distance 351.101
+		period 54.4001
+	object
+		sprite planet/lava5
+		distance 732.661
+		period 163.986
+	object
+		sprite planet/gas16
+		distance 1317.67
+		period 395.514
+		object
+			sprite planet/dust5
+			distance 200
+			period 14.8882
+	object
+		sprite planet/gas9
+		distance 1998.76
+		period 738.913
+
+system "Mil'taj Bol"
+	pos 335.485 563.36
+	government Militaj
+	habitable 425.92
+	link "Mil'taj Gol"
+	link "Mil'taj Zol"
+	asteroids "small rock" 21 2.8224
+	asteroids "medium rock" 43 2.7342
+	asteroids "large rock" 43 3.9984
+	asteroids "small metal" 1 4.0866
+	asteroids "medium metal" 117 3.4692
+	asteroids "large metal" 42 3.4398
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/ice4
+		distance 217.56
+		period 62.1963
+	object
+		sprite planet/ice5
+		distance 643.72
+		period 316.549
+	object
+		sprite planet/cloud5
+		distance 1096.53
+		period 703.764
+	object
+		sprite planet/gas2
+		distance 2168.53
+		period 1957.24
+
+system "Mil'taj Bon"
+	pos 61.3571 578.419
+	government Militaj
+	habitable 320
+	asteroids "medium rock" 8 2.3712
+	asteroids "large rock" 4 2.4024
+	asteroids "small metal" 10 2.6832
+	asteroids "medium metal" 38 4.0248
+	asteroids "large metal" 5 3.432
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 5000
+	fleet "Small Militaj" 5000
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/desert10
+		distance 205
+		period 65.632
+	object
+		sprite planet/mercury
+		distance 433.69
+		period 201.955
+	object
+		sprite planet/gas16
+		distance 805.58
+		period 511.267
+		object
+			sprite planet/rock17
+			distance 172
+			period 11.8738
+	object
+		sprite planet/titan
+		distance 1426.42
+		period 1204.64
+	object
+		sprite planet/neptune
+		distance 3897.66
+		period 5441.15
+		object
+			sprite planet/tethys
+			distance 193
+			period 13.3588
+		object
+			sprite planet/io
+			distance 292
+			period 24.8603
+		object
+			sprite planet/oberon
+			distance 377
+			period 36.4707
+		object
+			sprite planet/rock3
+			distance 464
+			period 49.7977
+
 system "Mil'taj Cek"
 	pos -2786.22 -2992.61
 	government Militaj
@@ -5397,6 +1855,180 @@ system "Mil'taj Cek"
 			period 17.1525
 			offset 272.771
 
+system "Mil'taj Coh"
+	pos -46.8014 609.589
+	government Militaj
+	habitable 2140.92
+	link "Mil'taj Loh"
+	asteroids "small rock" 2 6.3504
+	asteroids "medium rock" 4 6.552
+	asteroids "large rock" 1 3.276
+	asteroids "small metal" 23 3.78
+	asteroids "medium metal" 13 2.8728
+	asteroids "large metal" 9 3.1752
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		distance 19.8943
+		period 8.6449
+	object
+		sprite star/k5
+		distance 80.1057
+		period 8.6449
+		offset 180
+	object
+		sprite planet/gas5
+		distance 470.516
+		period 88.231
+		object
+			sprite planet/dust0
+			distance 240
+			period 12.3641
+	object
+		sprite planet/gas4
+		distance 1236.28
+		period 375.779
+		object
+			sprite planet/rock3
+			distance 224
+			period 11.8241
+		object
+			sprite planet/rock7
+			distance 316
+			period 19.812
+		object
+			sprite planet/desert4
+			distance 408
+			period 29.0662
+	object
+		sprite planet/gas17
+		distance 1950.17
+		period 744.504
+
+system "Mil'taj Col"
+	pos 447.485 467.36
+	government Militaj
+	habitable 745.92
+	link "Mil'taj Fol"
+	asteroids "small rock" 2 2.646
+	asteroids "medium rock" 20 0.918
+	asteroids "large rock" 1 2.448
+	asteroids "small metal" 10 2.232
+	asteroids "medium metal" 4 1.944
+	asteroids "large metal" 9 1.278
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/k5
+		distance 43.329
+		period 14.8661
+	object
+		sprite star/m0
+		distance 57.671
+		period 14.8661
+		offset 180
+	object
+		sprite planet/rock12
+		distance 238.681
+		period 54.0058
+	object
+		sprite planet/lava3
+		distance 533.721
+		period 180.586
+	object
+		sprite planet/rock5
+		distance 737.971
+		period 293.611
+	object
+		sprite planet/ganymede
+		distance 919.331
+		period 408.246
+	object
+		sprite planet/uranus
+		distance 1699.74
+		period 1026.33
+	object
+		sprite planet/neptune
+		distance 2698.03
+		period 2052.51
+		object
+			sprite planet/rock17
+			distance 224
+			period 16.7034
+		object
+			sprite planet/oberon
+			distance 329
+			period 29.7321
+		object
+			sprite planet/dust7
+			distance 458
+			period 48.8349
+
+system "Mil'taj Con"
+	pos -179.643 617.419
+	government Militaj
+	habitable 745.92
+	link "Mil'taj Pon"
+	asteroids "large metal" 1 5.1688
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet Quarg 1300
+	fleet "Small Mk2 Militaj" 2500
+	fleet "Large Militaj" 2000
+	fleet "Small Militaj" 1500
+	object
+		sprite star/k5
+		distance 42.042
+		period 14.2087
+	object
+		sprite star/m0
+		distance 55.958
+		period 14.2087
+		offset 180
+	object
+		sprite planet/lava7
+		distance 198.208
+		period 40.8691
+	object
+		sprite planet/gas13
+		distance 599.568
+		period 215.016
+	object
+		sprite planet/lava6
+		distance 1133.57
+		period 558.966
+	object
+		sprite planet/neptune
+		distance 2460.98
+		period 1788.03
+
 system "Mil'taj Dek"
 	pos -2747.87 -2928.98
 	government Militaj
@@ -5435,6 +2067,138 @@ system "Mil'taj Dek"
 		distance 1856.92
 		period 1550.91
 
+system "Mil'taj Doh"
+	pos -97.262 704.81
+	government Militaj
+	habitable 320
+	link "Mil'taj Woh"
+	link "Mil'taj Boh"
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 5000
+	object
+		sprite star/nebula3
+		period 180
+
+system "Mil'taj Dol"
+	pos 284.774 317.439
+	government Militaj
+	habitable 3645
+	link "Mil'taj Hon"
+	asteroids "small rock" 7 3.3744
+	asteroids "medium rock" 32 3.1236
+	asteroids "large rock" 6 3.3972
+	asteroids "medium metal" 59 1.3452
+	asteroids "large metal" 5 1.2996
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Mk2 Militaj" 2000
+	fleet "Large Militaj" 2000
+	fleet Quarg 2200
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/ice6
+		distance 176.25
+		period 15.5026
+	object
+		sprite planet/gas0
+		distance 627.54
+		period 104.153
+		object
+			sprite planet/dust1
+			distance 279
+			period 13.6572
+	object
+		sprite planet/cloud1
+		distance 1138.23
+		period 254.423
+	object
+		sprite planet/gas4
+		distance 1731.12
+		period 477.202
+		object
+			sprite planet/ice7
+			distance 259
+			period 14.701
+
+system "Mil'taj Don"
+	pos 205.602 553.817
+	government Militaj
+	habitable 486.68
+	link "Mil'taj Ton"
+	link "Mil'taj Won"
+	asteroids "small rock" 11 2.38
+	asteroids "medium rock" 8 5.5675
+	asteroids "large rock" 1 3.74
+	asteroids "small metal" 36 4.93
+	asteroids "medium metal" 85 3.2725
+	asteroids "large metal" 4 4.42
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 4500
+	fleet "Small Militaj" 3500
+	object
+		sprite star/k0
+		period 10
+	object "Mil'taj Dun"
+		sprite planet/rock4
+		distance 333.459
+		period 110.408
+		offset 212.372
+	object
+		sprite planet/miranda
+		distance 513.459
+		period 210.958
+		offset 342.812
+	object
+		sprite planet/gas9
+		distance 1348.55
+		period 897.923
+		offset 90.4926
+		object
+			sprite planet/desert4
+			distance 220
+			period 12.2356
+		object
+			sprite planet/ice8
+			distance 327
+			period 22.1724
+	object
+		sprite planet/gas16
+		distance 2509.39
+		period 2279.24
+		offset 17.6623
+		object
+			sprite planet/ice0
+			distance 190
+			period 13.7857
+
 system "Mil'taj Fek"
 	pos -2830.87 -2907.98
 	government Militaj
@@ -5468,6 +2232,159 @@ system "Mil'taj Fek"
 		sprite planet/gas4
 		distance 1880.29
 		period 1304.54
+
+system "Mil'taj Foh"
+	pos 104.409 673.337
+	government Militaj
+	habitable 1250
+	link "Mil'taj Soh"
+	link "Mil'taj Loh"
+	link "Mil'taj Nol"
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/nebula4
+		period 180
+
+system "Mil'taj Fol"
+	pos 375.485 480.36
+	government Militaj
+	habitable 625
+	link "Mil'taj Col"
+	asteroids "medium rock" 1 4.224
+	asteroids "large rock" 1 4.8
+	asteroids "small metal" 4 4.9152
+	asteroids "medium metal" 24 4.224
+	asteroids "large metal" 7 1.92
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 3500
+	fleet "Large Militaj" 4500
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/gas16
+		distance 336.04
+		period 98.5613
+		object
+			sprite planet/ice0
+			distance 201
+			period 15
+	object
+		sprite planet/lava2
+		distance 689.25
+		period 289.524
+	object
+		sprite planet/uranus
+		distance 1092.09
+		period 577.441
+	object
+		sprite planet/gas6
+		distance 2037.1
+		period 1471.09
+		offset 2.19798
+		object
+			sprite planet/dust1
+			distance 294
+			period 12.8761
+		object "Mil'taj Ful"
+			sprite planet/rock3
+			distance 437
+			period 23.3339
+			offset 326.195
+		object
+			sprite planet/miranda
+			distance 557
+			period 33.5774
+			offset 359.251
+		object
+			sprite planet/dust3
+			distance 678
+			period 45.093
+			offset 218.69
+
+system "Mil'taj Fon"
+	pos -25.5876 551.354
+	government Militaj
+	habitable 1080
+	link "Mil'taj Pon"
+	asteroids "small metal" 2 6.72
+	asteroids "medium metal" 4 7.7175
+	asteroids "large metal" 1 4.935
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 3000
+	fleet "Small Militaj" 2000
+	fleet "Cargo Militaj" 5800
+	fleet "Small Mk2 Militaj" 8500
+	object
+		sprite star/g0
+		period 10
+	object "Mil'taj Fun"
+		sprite planet/rock12
+		distance 366.962
+		period 85.5616
+		offset 68.5266
+	object
+		sprite planet/cloud8
+		distance 782.881
+		period 266.619
+		offset 245.507
+	object
+		sprite planet/gas11
+		distance 1526.04
+		period 725.596
+		offset 247.548
+		object
+			sprite planet/dust0
+			distance 255
+			period 13.4304
+			offset 35.9447
+		object
+			sprite planet/dust1
+			distance 361
+			period 22.6224
+			offset 56.7869
+	object
+		sprite planet/gas5
+		distance 2527.93
+		period 1547.02
+		offset 67.1872
+		object
+			sprite planet/oberon
+			distance 236
+			period 12.0563
+		object
+			sprite planet/dust5
+			distance 365
+			period 23.1892
 
 system "Mil'taj Gek"
 	pos -2880.87 -2866.98
@@ -5529,6 +2446,126 @@ system "Mil'taj Gek"
 			period 58.2348
 			offset 161.613
 
+system "Mil'taj Goh"
+	pos -17.8014 831.589
+	government Militaj
+	habitable 1050.92
+	link "Mil'taj Joh"
+	link "Mil'taj Poh"
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/nebula4
+		period 180
+
+system "Mil'taj Gol"
+	pos 223.485 592.36
+	government Militaj
+	habitable 486.68
+	link "Mil'taj Bol"
+	link "Mil'taj Zol"
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/nebula3
+		period 180
+
+system "Mil'taj Gon"
+	pos 100.602 513.817
+	government Militaj
+	habitable 486.68
+	link "Mil'taj Kon"
+	link "Mil'taj Von"
+	asteroids "small rock" 1 4.3529
+	asteroids "medium rock" 4 6.8324
+	asteroids "large rock" 2 6.612
+	asteroids "small metal" 3 8.1548
+	asteroids "medium metal" 6 2.755
+	asteroids "large metal" 1 8.0997
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 4000
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/k0
+		period 10
+	object "Mil'taj Gun"
+		sprite planet/desert10
+		distance 373.25
+		period 130.749
+		offset 139.529
+		object
+			sprite planet/ice8
+			distance 173
+			period 23.2957
+			offset 70.6477
+	object
+		sprite planet/gas2
+		distance 1132.25
+		period 690.799
+		offset 17.1678
+		object
+			sprite planet/dust7
+			distance 186
+			period 15.3704
+		object
+			sprite planet/dust1
+			distance 288
+			period 29.6144
+	object
+		sprite planet/gas1
+		distance 1739.34
+		period 1315.27
+		offset 5.81453
+		object
+			sprite planet/rock17
+			distance 199
+			period 11.2201
+	object
+		sprite planet/gas13
+		distance 2688.7
+		period 2527.85
+		offset 1.9451
+		object
+			sprite planet/ice0
+			distance 268
+			period 12.3855
+		object
+			sprite planet/dust4
+			distance 404
+			period 22.9236
+		object
+			sprite planet/ice7
+			distance 513
+			period 32.8009
+
 system "Mil'taj Hek"
 	pos -2743.87 -2764.98
 	government Militaj
@@ -5566,6 +2603,67 @@ system "Mil'taj Hek"
 			sprite planet/rock0
 			distance 498
 			period 58.498
+
+system "Mil'taj Hon"
+	pos 257.602 375.817
+	government Militaj
+	habitable 1715
+	link "Mil'taj Son"
+	link "Mil'taj Dol"
+	asteroids "small rock" 11 7.7168
+	asteroids "medium rock" 3 6.4064
+	asteroids "large rock" 40 9.6824
+	asteroids "small metal" 15 8.372
+	asteroids "medium metal" 11 5.5328
+	asteroids "large metal" 1 6.552
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet Quarg 2200
+	fleet "Large Militaj" 2000
+	fleet "Small Mk2 Militaj" 2000
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/dust6
+		distance 234.16
+		period 34.6096
+	object
+		sprite planet/mercury
+		distance 543
+		period 122.216
+	object
+		sprite planet/dust1
+		distance 878.44
+		period 251.476
+	object
+		sprite planet/ice3
+		distance 1346.05
+		period 477.001
+	object
+		sprite planet/gas9
+		distance 2284.29
+		period 1054.52
+		object
+			sprite planet/ice7
+			distance 228
+			period 12.909
+		object
+			sprite planet/oberon
+			distance 316
+			period 21.063
+		object
+			sprite planet/ice0
+			distance 430
+			period 33.4344
 
 system "Mil'taj Jek"
 	pos -2974.87 -2932.98
@@ -5614,6 +2712,123 @@ system "Mil'taj Jek"
 			sprite planet/dust7
 			distance 233
 			period 15.1952
+
+system "Mil'taj Joh"
+	pos -79.8014 792.589
+	government Militaj
+	habitable 1705
+	link "Mil'taj Goh"
+	link "Mil'taj Poh"
+	asteroids "small rock" 4 4.76
+	asteroids "medium rock" 4 4.862
+	asteroids "large rock" 4 5.066
+	asteroids "small metal" 3 4.182
+	asteroids "medium metal" 7 2.04
+	asteroids "large metal" 3 1.87
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/g0
+		distance 40.6891
+		period 11.3288
+	object
+		sprite star/g5
+		distance 70.3109
+		period 11.3288
+		offset 180
+	object
+		sprite planet/ice0
+		distance 232.721
+		period 34.3915
+	object
+		sprite planet/lava2
+		distance 430.561
+		period 86.5465
+	object
+		sprite planet/rock0
+		distance 613.801
+		period 147.312
+	object
+		sprite planet/rock11
+		distance 807.641
+		period 222.344
+	object
+		sprite planet/lava3
+		distance 980.641
+		period 297.483
+	object
+		sprite planet/ice7
+		distance 4765.68
+		period 3187.02
+
+system "Mil'taj Jon"
+	pos 241.602 450.817
+	government Militaj
+	habitable 1505.92
+	link "Mil'taj Son"
+	asteroids "small rock" 243 7.4
+	asteroids "medium rock" 76 6.2
+	asteroids "large rock" 1 3.2
+	asteroids "small metal" 4 2.7
+	asteroids "medium metal" 14 3.4
+	asteroids "large metal" 3 4.5
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 4000
+	object
+		sprite star/g0
+		distance 27.7174
+		period 9.99996
+	object
+		sprite star/k5
+		distance 70.2826
+		period 9.99996
+		offset 180
+	object
+		sprite planet/lava6
+		distance 251.573
+		period 41.1296
+	object
+		sprite planet/lava2
+		distance 507.573
+		period 117.871
+	object
+		sprite planet/gas8
+		distance 859.383
+		period 259.68
+	object
+		sprite planet/uranus
+		distance 2592.14
+		period 1360.34
+		object
+			sprite planet/io
+			distance 233
+			period 15.1952
+		object
+			sprite planet/callisto
+			distance 335
+			period 26.1963
+		object
+			sprite planet/luna
+			distance 449
+			period 40.6483
 
 system "Mil'taj Kek"
 	pos -2881.87 -2954.98
@@ -5669,6 +2884,172 @@ system "Mil'taj Kek"
 			period 51.2168
 			offset 301.275
 
+system "Mil'taj Koh"
+	pos -0.801003 680.589
+	government Militaj
+	habitable 9126.68
+	link "Mil'taj Loh"
+	asteroids "small rock" 32 3.8304
+	asteroids "medium rock" 136 5.1072
+	asteroids "large rock" 28 4.9704
+	asteroids "small metal" 12 4.9248
+	asteroids "medium metal" 24 6.156
+	asteroids "large metal" 16 4.4232
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/b5
+		distance 7.73212
+		period 7.31064
+	object
+		sprite star/k0
+		distance 137.268
+		period 7.31064
+		offset 180
+	object
+		sprite planet/cloud5
+		distance 506.158
+		period 47.6796
+		object
+			sprite planet/callisto
+			distance 204
+			period 19.042
+	object "Mil'taj Kuh"
+		sprite planet/rock3
+		distance 873.318
+		period 108.059
+		offset 52.7045
+	object
+		sprite planet/rock18
+		distance 1475.73
+		period 237.364
+		offset 28.4691
+		object
+			sprite planet/dust4
+			distance 153
+			period 23.7903
+	object
+		sprite planet/gas2
+		distance 2800.17
+		period 620.412
+		offset 5.69769
+		object
+			sprite planet/io
+			distance 214
+			period 18.9686
+
+system "Mil'taj Kol"
+	pos 209.485 666.36
+	government Militaj
+	habitable 320
+	link "Mil'taj Zol"
+	asteroids "large rock" 5 2.9568
+	asteroids "large metal" 1 3.6736
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/rock13
+		distance 226
+		period 75.971
+	object
+		sprite planet/dust0
+		distance 537.76
+		period 278.848
+	object
+		sprite planet/rock8
+		distance 683.32
+		period 399.412
+	object
+		sprite planet/rock7
+		distance 1373.21
+		period 1137.86
+	object
+		sprite planet/gas15
+		distance 3432.21
+		period 4496.2
+		object
+			sprite planet/io
+			distance 194
+			period 14.2233
+		object
+			sprite planet/tethys
+			distance 268
+			period 23.094
+
+system "Mil'taj Kon"
+	pos 48.6019 475.817
+	government Militaj
+	habitable 2035
+	link "Mil'taj Von"
+	link "Mil'taj Gon"
+	asteroids "small rock" 2 1.8444
+	asteroids "medium rock" 7 1.74
+	asteroids "large rock" 2 3.8976
+	asteroids "large metal" 1 2.8188
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		distance 19.027
+		period 11.802
+		offset 180
+	object
+		sprite star/m0
+		distance 101.973
+		period 11.802
+	object
+		sprite planet/mars
+		distance 246.863
+		period 34.3923
+	object
+		sprite planet/lava1
+		distance 530.023
+		period 108.198
+	object
+		sprite planet/miranda
+		distance 704.463
+		period 165.793
+	object
+		sprite planet/rock15
+		distance 1096.27
+		period 321.852
+	object
+		sprite planet/gas14
+		distance 2411.03
+		period 1049.74
+
 system "Mil'taj Lek"
 	pos -2801.87 -2856.98
 	government Militaj
@@ -5720,6 +3101,118 @@ system "Mil'taj Lek"
 			period 34.3639
 			offset 81.4657
 
+system "Mil'taj Loh"
+	pos 31.1986 626.589
+	government Militaj
+	habitable 1715
+	link "Mil'taj Koh"
+	link "Mil'taj Foh"
+	link "Mil'taj Coh"
+	asteroids "small rock" 1 3.6652
+	asteroids "medium rock" 5 5.2734
+	asteroids "large rock" 1 3.6652
+	asteroids "large metal" 1 5.1238
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/dust3
+		distance 151.16
+		period 17.9508
+	object
+		sprite planet/desert10
+		distance 380.41
+		period 71.6648
+	object
+		sprite planet/gas17
+		distance 1090.5
+		period 347.83
+		object
+			sprite planet/dust0
+			distance 203
+			period 12.3571
+		object
+			sprite planet/ice0
+			distance 321
+			period 24.5715
+	object
+		sprite planet/ocean0
+		distance 1711.46
+		period 683.877
+		object
+			sprite planet/rhea
+			distance 157
+			period 23.7721
+	object
+		sprite planet/gas15
+		distance 2289.1
+		period 1057.85
+		object
+			sprite planet/rock7
+			distance 207
+			period 15.6766
+		object
+			sprite planet/desert4
+			distance 294
+			period 26.5349
+
+system "Mil'taj Lon"
+	pos 174.967 498.624
+	government Militaj
+	habitable 233.28
+	link "Mil'taj Zon"
+	asteroids "small rock" 87 1.8564
+	asteroids "medium rock" 81 4.186
+	asteroids "large rock" 103 2.2204
+	asteroids "small metal" 17 4.5136
+	asteroids "medium metal" 17 3.822
+	asteroids "large metal" 16 5.3144
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 3500
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/rock16
+		distance 170.36
+		period 58.2335
+	object
+		sprite planet/gas3
+		distance 626.6
+		period 410.778
+		object
+			sprite planet/callisto
+			distance 285
+			period 12.2894
+	object
+		sprite planet/ganymede
+		distance 1349.6
+		period 1298.46
+	object
+		sprite planet/gas15
+		distance 2571.56
+		period 3415.2
+
 system "Mil'taj Mek"
 	pos -2992.87 -2878.98
 	government Militaj
@@ -5768,6 +3261,83 @@ system "Mil'taj Mek"
 			sprite planet/miranda
 			distance 443
 			period 39.8363
+
+system "Mil'taj Moh"
+	pos -156.801 778.589
+	government Militaj
+	habitable 1715
+	link "Mil'taj Woh"
+	asteroids "small rock" 1 5.52
+	asteroids "medium rock" 3 5.22
+	asteroids "large rock" 43 6.96
+	asteroids "small metal" 17 3.66
+	asteroids "medium metal" 17 3.36
+	asteroids "large metal" 19 4.2
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 5000
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/lava4
+		distance 231.25
+		period 33.9665
+	object
+		sprite planet/ice4
+		distance 443.94
+		period 90.3471
+	object
+		sprite planet/gas10
+		distance 1440.18
+		period 527.902
+		object
+			sprite planet/lava0
+			distance 199
+			period 14.7767
+		object
+			sprite planet/dust0
+			distance 352
+			period 34.7625
+		object
+			sprite planet/luna
+			distance 502
+			period 59.2042
+	object
+		sprite planet/gas6
+		distance 2274.22
+		period 1047.55
+
+system "Mil'taj Mon"
+	pos 166.412 372.354
+	government Militaj
+	habitable 1080
+	link "Mil'taj Ron"
+	link "Mil'taj Son"
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 2000
+	fleet "Small Mk2 Militaj" 2000
+	fleet Quarg 2200
+	object
+		sprite star/nebula2
+		period 180
 
 system "Mil'taj Nek"
 	pos -2855.87 -2728.98
@@ -5818,6 +3388,172 @@ system "Mil'taj Nek"
 			sprite planet/rock14
 			distance 326
 			period 30.983
+
+system "Mil'taj Noh"
+	pos -208.801 815.589
+	government Militaj
+	habitable 2795
+	link "Mil'taj Poh"
+	link "Mil'taj Roh"
+	link "Mil'taj Zoh"
+	asteroids "large rock" 11 4.662
+	asteroids "small metal" 1 6.216
+	asteroids "medium metal" 1 6.3
+	asteroids "large metal" 6 3.822
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		distance 44.8229
+		period 9.4527
+	object
+		sprite star/g0
+		distance 71.1771
+		period 9.4527
+		offset 180
+	object
+		sprite planet/rock11
+		distance 234.267
+		period 27.1291
+	object
+		sprite planet/desert7
+		distance 554.557
+		period 98.8072
+	object
+		sprite planet/ganymede
+		distance 857.447
+		period 189.968
+	object
+		sprite planet/luna
+		distance 1721.06
+		period 540.209
+	object
+		sprite planet/gas9
+		distance 2104.75
+		period 730.582
+
+system "Mil'taj Nol"
+	pos 186.708 699.83
+	government Militaj
+	habitable 233.28
+	link "Mil'taj Foh"
+	asteroids "small rock" 3 3.8947
+	asteroids "medium rock" 10 5.3244
+	asteroids "large rock" 21 3.0073
+	asteroids "medium metal" 8 5.9653
+	asteroids "large metal" 1 3.5496
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 3500
+	fleet "Large Militaj" 4500
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/cloud2
+		distance 222.29
+		period 86.7963
+	object "Mil'taj Nul"
+		sprite planet/lava1
+		distance 540.306
+		period 328.913
+		offset 128.986
+	object
+		sprite planet/gas4
+		distance 1132.95
+		period 998.7
+		offset 19.2683
+		object
+			sprite planet/tethys
+			distance 260
+			period 14.7862
+	object
+		sprite planet/gas3
+		distance 1859.95
+		period 2100.74
+		offset 5.48554
+		object
+			sprite planet/miranda
+			distance 307
+			period 13.7395
+
+system "Mil'taj Non"
+	pos 46.412 424.354
+	government Militaj
+	habitable 560.92
+	asteroids "small rock" 42 1.4553
+	asteroids "large rock" 27 2.1714
+	asteroids "small metal" 5 1.7094
+	asteroids "medium metal" 41 3.234
+	asteroids "large metal" 6 1.7787
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/k5
+		distance 24.7896
+		period 17.6549
+	object
+		sprite star/m8
+		distance 78.2104
+		period 17.6549
+		offset 180
+	object "Mil'taj Nun"
+		sprite planet/forest1
+		distance 364.322
+		period 117.446
+		offset 144.795
+		object
+			sprite planet/miranda
+			distance 142
+			period 18.9522
+			offset 319.963
+	object
+		sprite planet/gas14
+		distance 1000.36
+		period 534.374
+		offset 324.964
+		object
+			sprite planet/io
+			distance 243
+			period 15.4265
+		object
+			sprite planet/dust4
+			distance 369
+			period 28.8668
+	object
+		sprite planet/gas11
+		distance 1894
+		period 1392.13
+		offset 352.757
 
 system "Mil'taj Pek"
 	pos -3038 -2837.85
@@ -5872,6 +3608,104 @@ system "Mil'taj Pek"
 			distance 526
 			period 48.2163
 
+system "Mil'taj Poh"
+	pos -121.801 858.589
+	government Militaj
+	habitable 135
+	link "Mil'taj Joh"
+	link "Mil'taj Goh"
+	link "Mil'taj Noh"
+	asteroids "medium rock" 4 3.726
+	asteroids "large rock" 1 7.935
+	asteroids "medium metal" 5 8.97
+	asteroids "large metal" 2 7.59
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/m8
+		period 10
+	object "Mil'taj Puh"
+		sprite planet/ice4
+		distance 343.596
+		period 219.263
+		offset 146.42
+		object
+			sprite planet/desert4
+			distance 130
+			period 18.6328
+			offset 322.98
+	object
+		sprite planet/lava3
+		distance 805.556
+		period 787.112
+		offset 56.194
+	object
+		sprite planet/gas0
+		distance 1319.17
+		period 1649.46
+		offset 15.7588
+		object
+			sprite planet/rock14
+			distance 258
+			period 12.1447
+		object
+			sprite planet/rock3
+			distance 353
+			period 19.4365
+	object
+		sprite planet/dust2
+		distance 1822.42
+		period 2678.33
+		offset 6.9122
+	object
+		sprite planet/gas11
+		distance 2494.58
+		period 4289.32
+		offset 3.11774
+		object
+			sprite planet/rock7
+			distance 226
+			period 11.2057
+		object
+			sprite planet/ice0
+			distance 321
+			period 18.9686
+
+system "Mil'taj Pon"
+	pos -107.588 570.354
+	government Militaj
+	habitable 2372.76
+	link "Mil'taj Fon"
+	link "Mil'taj Con"
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet Quarg 1300
+	fleet "Small Mk2 Militaj" 2500
+	fleet "Large Militaj" 2000
+	fleet "Small Militaj" 1500
+	object
+		sprite star/nebula2
+		period 180
+
 system "Mil'taj Rek"
 	pos -2772.87 -2799.98
 	government Militaj
@@ -5919,6 +3753,112 @@ system "Mil'taj Rek"
 			period 34.4266
 			offset 125.508
 
+system "Mil'taj Roh"
+	pos -221.801 850.589
+	government Militaj
+	habitable 625
+	link "Mil'taj Noh"
+	asteroids "small rock" 1 3.783
+	asteroids "medium rock" 1 3.276
+	asteroids "large rock" 3 2.496
+	asteroids "medium metal" 2 3.588
+	asteroids "large metal" 2 3.822
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/cloud8
+		distance 157.29
+		period 31.5625
+	object "Mil'taj Ruh"
+		sprite planet/forest4
+		distance 702.29
+		period 297.779
+		object
+			sprite planet/dust1
+			distance 180
+			period 21.6357
+	object
+		sprite planet/gas4
+		distance 1271.54
+		period 725.463
+		object
+			sprite planet/rock7
+			distance 235
+			period 12.7057
+	object
+		sprite planet/desert1
+		distance 1826.54
+		period 1249
+		object
+			sprite planet/io
+			distance 186
+			period 22.02
+
+system "Mil'taj Ron"
+	pos 110.602 410.817
+	government Militaj
+	habitable 425.92
+	link "Mil'taj Mon"
+	asteroids "large metal" 1 2.5404
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet Quarg 2200
+	fleet "Small Mk2 Militaj" 2000
+	fleet "Large Militaj" 2000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/lava1
+		distance 135.89
+		period 30.7027
+	object
+		sprite planet/neptune
+		distance 729.53
+		period 381.91
+		object
+			sprite planet/miranda
+			distance 229
+			period 17.2657
+		object
+			sprite planet/rock3
+			distance 337
+			period 30.8232
+	object
+		sprite planet/rock14
+		distance 1534.42
+		period 1164.96
+	object
+		sprite planet/gas2
+		distance 1844.83
+		period 1535.79
+		object
+			sprite planet/desert4
+			distance 173
+			period 13.7874
+
 system "Mil'taj Sek"
 	pos -3064.87 -2902.98
 	government Militaj
@@ -5955,6 +3895,132 @@ system "Mil'taj Sek"
 		distance 3529.8
 		period 3802.45
 		offset 60.3728
+
+system "Mil'taj Soh"
+	pos 132.199 623.589
+	government Militaj
+	habitable 2140.92
+	link "Mil'taj Foh"
+	asteroids "medium metal" 7 3.22
+	asteroids "large metal" 3 2.093
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/f5
+		distance 22.8784
+		period 10.6612
+		offset 180
+	object
+		sprite star/k5
+		distance 92.1216
+		period 10.6612
+	object
+		sprite planet/rock11
+		distance 246.162
+		period 33.388
+	object
+		sprite planet/callisto
+		distance 439.122
+		period 79.5494
+	object "Mil'taj Suh"
+		sprite planet/desert10
+		distance 728.212
+		period 169.882
+	object
+		sprite planet/gas6
+		distance 1642.46
+		period 575.443
+		object
+			sprite planet/europa
+			distance 282
+			period 12.0959
+		object
+			sprite planet/io
+			distance 418
+			period 21.8288
+		object
+			sprite planet/dust0
+			distance 541
+			period 32.1411
+		object
+			sprite planet/dust1
+			distance 694
+			period 46.6986
+
+system "Mil'taj Son"
+	pos 201.602 412.817
+	government Militaj
+	habitable 5000
+	link "Mil'taj Mon"
+	link "Mil'taj Hon"
+	link "Mil'taj Jon"
+	asteroids "medium rock" 6 2.97
+	asteroids "large rock" 3 1.408
+	asteroids "small metal" 1 1.342
+	asteroids "medium metal" 6 1.452
+	asteroids "large metal" 3 1.628
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Cargo Militaj" 7000
+	fleet "Small Mk2 Militaj" 5000
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/cloud0
+		distance 365.49
+		period 39.5265
+		offset 191.798
+		object
+			sprite planet/rhea
+			distance 222.49
+			period 40.8978
+			offset 217.852
+	object
+		sprite planet/gas3
+		distance 1320.98
+		period 271.593
+		offset 161.112
+		object
+			sprite planet/dust0
+			distance 279
+			period 11.9034
+		object
+			sprite planet/ice0
+			distance 389
+			period 19.597
+		object
+			sprite planet/tethys
+			distance 548
+			period 32.7669
+	object
+		sprite planet/uranus
+		distance 2236.67
+		period 598.381
+		offset 41.4994
+		object
+			sprite planet/rock7
+			distance 218
+			period 13.7518
 
 system "Mil'taj Tah"
 	pos -3001.53 -2667.6
@@ -6038,6 +4104,104 @@ system "Mil'taj Tek"
 		distance 2171.18
 		period 2649.51
 
+system "Mil'taj Toh"
+	pos -27.801 735.589
+	government Militaj
+	habitable 625
+	asteroids "small rock" 52 5.8548
+	asteroids "medium rock" 2 4.6172
+	asteroids "large rock" 46 3.57
+	asteroids "small metal" 1 2.4276
+	asteroids "medium metal" 1 5.6168
+	asteroids "large metal" 3 5.0456
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 3000
+	fleet "Large Militaj" 3000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock12
+		distance 183.04
+		period 39.6222
+	object
+		sprite planet/dust2
+		distance 425.29
+		period 140.329
+	object
+		sprite planet/rock9
+		distance 600.65
+		period 235.533
+	object
+		sprite planet/rock19
+		distance 1536.49
+		period 963.639
+	object "Wormhole Militaj"
+		sprite planet/wormhole
+		distance 3476.9
+		period 3280.26
+
+system "Mil'taj Ton"
+	pos 118.602 561.817
+	government Militaj
+	habitable 425.92
+	link "Mil'taj Don"
+	asteroids "large rock" 1 1.8348
+	asteroids "small metal" 1 1.0296
+	asteroids "medium metal" 264 1.0428
+	asteroids "large metal" 1 1.3728
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 4000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock10
+		distance 204.81
+		period 56.8097
+	object
+		sprite planet/ice6
+		distance 646.97
+		period 318.95
+		object
+			sprite planet/rock14
+			distance 140
+			period 20.8235
+	object
+		sprite planet/desert6
+		distance 1099.97
+		period 707.078
+		object
+			sprite planet/dust1
+			distance 171
+			period 23.2981
+	object
+		sprite planet/gas1
+		distance 1558.78
+		period 1192.82
+	object
+		sprite planet/gas9
+		distance 3427.74
+		period 3889.63
+
 system "Mil'taj Vek"
 	pos -2733.87 -2846.98
 	government Militaj
@@ -6081,6 +4245,120 @@ system "Mil'taj Vek"
 			sprite planet/desert4
 			distance 234
 			period 15.2932
+
+system "Mil'taj Voh"
+	pos -202.101 703.289
+	government Militaj
+	habitable 1080
+	link "Mil'taj Yoh"
+	link "Mil'taj Zoh"
+	asteroids "small rock" 2 7.0686
+	asteroids "medium rock" 228 8.3754
+	asteroids "large rock" 7 3.5046
+	asteroids "small metal" 6 5.4648
+	asteroids "medium metal" 1 7.128
+	asteroids "large metal" 37 5.2272
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/lava5
+		distance 147
+		period 21.6932
+	object
+		sprite planet/gas9
+		distance 793.69
+		period 272.16
+		object
+			sprite planet/luna
+			distance 240
+			period 13.9414
+		object
+			sprite planet/rhea
+			distance 360
+			period 25.612
+	object
+		sprite planet/lava4
+		distance 1476.18
+		period 690.331
+		object
+			sprite planet/rock17
+			distance 115
+			period 15.8181
+	object
+		sprite planet/gas8
+		distance 1900.79
+		period 1008.67
+		object
+			sprite planet/ice8
+			distance 185
+			period 13.3947
+
+system "Mil'taj Von"
+	pos 41.6019 533.817
+	government Militaj
+	habitable 2340
+	link "Mil'taj Kon"
+	link "Mil'taj Gon"
+	asteroids "medium rock" 3 1.856
+	asteroids "large rock" 2 3.264
+	asteroids "small metal" 2 3.232
+	asteroids "medium metal" 5 3.296
+	asteroids "large metal" 9 1.888
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		distance 34.188
+		period 11.9748
+	object
+		sprite star/g5
+		distance 93.812
+		period 11.9748
+		offset 180
+	object
+		sprite planet/desert0
+		distance 281.022
+		period 38.9549
+	object
+		sprite planet/ice0
+		distance 527.662
+		period 100.227
+	object
+		sprite planet/gas1
+		distance 1026.5
+		period 271.952
+		object
+			sprite planet/europa
+			distance 217
+			period 12.7763
+	object
+		sprite planet/gas2
+		distance 1556.75
+		period 507.903
+	object
+		sprite planet/gas14
+		distance 2463.75
+		period 1011.22
 
 system "Mil'taj Wek"
 	pos -2798 -2949.85
@@ -6128,6 +4406,118 @@ system "Mil'taj Wek"
 			distance 208.819
 			period 90.5182
 			offset 64.0421
+
+system "Mil'taj Woh"
+	pos -168.101 732.289
+	government Militaj
+	habitable 425.92
+	link "Mil'taj Doh"
+	link "Mil'taj Moh"
+	asteroids "small rock" 2 2.2896
+	asteroids "medium rock" 5 6.4368
+	asteroids "large rock" 12 4.1472
+	asteroids "small metal" 2 5.616
+	asteroids "medium metal" 24 4.3632
+	asteroids "large metal" 1 6.2208
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 3500
+	fleet "Small Militaj" 3000
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/k5
+		period 10
+	object "Mil'taj Wuh"
+		sprite planet/rock13
+		distance 403.078
+		period 156.848
+		offset 189.418
+		object
+			sprite planet/rock14
+			distance 173
+			period 28.6043
+			offset 238.983
+	object
+		sprite planet/cloud0
+		distance 1077.09
+		period 685.13
+		offset 51.4576
+		object
+			sprite planet/luna
+			distance 145
+			period 21.5172
+	object
+		sprite planet/gas3
+		distance 1981.34
+		period 1709.36
+		offset 10.8169
+		object
+			sprite planet/rock17
+			distance 276
+			period 11.7119
+		object
+			sprite planet/dust7
+			distance 362
+			period 17.5925
+
+system "Mil'taj Won"
+	pos 274.602 517.817
+	government Militaj
+	habitable 1715
+	link "Mil'taj Don"
+	link "Mil'taj Yon"
+	asteroids "small rock" 1 7.6728
+	asteroids "medium rock" 8 3.4224
+	asteroids "large rock" 6 3.8088
+	asteroids "small metal" 12 7.3968
+	asteroids "medium metal" 18 3.2568
+	asteroids "large metal" 12 4.5816
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 4000
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/desert2
+		distance 247
+		period 37.495
+	object
+		sprite planet/ice3
+		distance 496.09
+		period 106.726
+	object
+		sprite planet/gas5
+		distance 1332.09
+		period 469.6
+		object
+			sprite planet/ice8
+			distance 265
+			period 14.3455
+		object
+			sprite planet/ice0
+			distance 370
+			period 23.6674
+	object
+		sprite planet/neptune
+		distance 2757.53
+		period 1398.65
 
 system "Mil'taj Yek"
 	pos -2974 -2809.85
@@ -6189,6 +4579,141 @@ system "Mil'taj Yek"
 			distance 772
 			period 54.7887
 
+system "Mil'taj Yoh"
+	pos -231.101 650.289
+	government Militaj
+	habitable 320
+	link "Mil'taj Voh"
+	asteroids "small rock" 3 2.5875
+	asteroids "medium rock" 15 3.1725
+	asteroids "large rock" 1 1.6425
+	asteroids "small metal" 1 1.44
+	asteroids "large metal" 1 2.025
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 1300
+	fleet "Small Mk2 Militaj" 2500
+	fleet "Large Militaj" 1500
+	fleet "Cargo Militaj" 6000
+	object
+		sprite star/m0
+		period 10
+	object "Mil'taj Yuh"
+		sprite planet/rock6
+		distance 403.544
+		period 181.268
+		offset 176.341
+		object
+			sprite planet/desert4
+			distance 152
+			period 23.5574
+	object
+		sprite planet/gas15
+		distance 1454.95
+		period 1240.96
+		offset 50.4858
+		object
+			sprite planet/ice8
+			distance 230
+			period 18.3607
+		object
+			sprite planet/oberon
+			distance 305
+			period 28.038
+		object
+			sprite planet/dust5
+			distance 471
+			period 53.8057
+		object
+			sprite planet/dust0
+			distance 642
+			period 85.6248
+	object
+		sprite planet/uranus
+		distance 2576.76
+		period 2924.81
+		offset 11.3928
+		object
+			sprite planet/io
+			distance 247
+			period 16.5851
+
+system "Mil'taj Yon"
+	pos 304.602 444.817
+	government Militaj
+	habitable 5000
+	link "Mil'taj Won"
+	asteroids "small rock" 20 3.468
+	asteroids "medium rock" 72 1.3515
+	asteroids "large rock" 1 3.264
+	asteroids "small metal" 27 1.581
+	asteroids "medium metal" 17 1.7085
+	asteroids "large metal" 88 2.499
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Large Militaj" 4500
+	fleet "Small Militaj" 3500
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/a0
+		period 10
+	object
+		sprite planet/desert8
+		distance 190
+		period 14.8151
+	object "Mil'taj Yun"
+		sprite planet/rock5
+		distance 446.185
+		period 53.3148
+		offset 287.777
+	object
+		sprite planet/cloud3
+		distance 860.195
+		period 142.715
+		offset 330.233
+	object
+		sprite planet/gas8
+		distance 1377.24
+		period 289.126
+		offset 350.789
+		object
+			sprite planet/dust1
+			distance 218
+			period 17.1341
+		object
+			sprite planet/luna
+			distance 324
+			period 31.0452
+	object
+		sprite planet/gas13
+		distance 2664.6
+		period 778.076
+		offset 358.226
+		object
+			sprite planet/callisto
+			distance 295
+			period 14.3035
+		object
+			sprite planet/ice7
+			distance 452
+			period 27.128
+
 system "Mil'taj Zek"
 	pos -3055 -2789.85
 	government Militaj
@@ -6242,6 +4767,177 @@ system "Mil'taj Zek"
 			sprite planet/lava0
 			distance 355
 			period 27.2396
+
+system "Mil'taj Zoh"
+	pos -240.101 755.289
+	government Militaj
+	habitable 625
+	link "Mil'taj Voh"
+	link "Mil'taj Noh"
+	asteroids "small rock" 18 3.9
+	asteroids "medium rock" 77 2.834
+	asteroids "large rock" 29 1.508
+	asteroids "small metal" 6 2.366
+	asteroids "large metal" 3 2.314
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 1300
+	fleet "Small Mk2 Militaj" 2500
+	fleet "Large Militaj" 2000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/desert5
+		distance 225.89
+		period 54.3207
+	object
+		sprite planet/ocean7
+		distance 522.7
+		period 191.205
+	object
+		sprite planet/cloud6
+		distance 1169.19
+		period 639.658
+	object
+		sprite planet/gas15
+		distance 2803.43
+		period 2374.95
+		object
+			sprite planet/ice7
+			distance 216
+			period 16.7101
+		object
+			sprite planet/europa
+			distance 365
+			period 36.706
+
+system "Mil'taj Zol"
+	pos 274.485 647.36
+	government Militaj
+	habitable 425.92
+	link "Mil'taj Gol"
+	link "Mil'taj Kol"
+	link "Mil'taj Bol"
+	asteroids "small rock" 16 3.2886
+	asteroids "medium rock" 15 5.2983
+	asteroids "large rock" 31 5.9682
+	asteroids "small metal" 71 3.5931
+	asteroids "medium metal" 91 8.526
+	asteroids "large metal" 17 4.0194
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Militaj" 3500
+	fleet "Large Militaj" 4500
+	fleet "Cargo Militaj" 7000
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/cloud2
+		distance 193.25
+		period 52.0685
+	object "Mil'taj Zul"
+		sprite planet/lava7
+		distance 468.25
+		period 196.387
+	object
+		sprite planet/gas9
+		distance 1273.81
+		period 881.156
+		object
+			sprite planet/rock17
+			distance 235
+			period 13.508
+		object
+			sprite planet/europa
+			distance 326
+			period 22.0707
+	object
+		sprite planet/gas14
+		distance 2636.02
+		period 2623.13
+		object
+			sprite planet/luna
+			distance 236
+			period 14.7648
+
+system "Mil'taj Zon"
+	pos 166.967 457.624
+	government Militaj
+	habitable 851.84
+	link "Mil'taj Lon"
+	asteroids "medium rock" 1 7.5371
+	asteroids "large rock" 3 7.4704
+	asteroids "small metal" 2 4.1354
+	asteroids "large metal" 1 5.8696
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Militaj" 3000
+	fleet "Large Militaj" 3500
+	fleet "Cargo Militaj" 6000
+	fleet "Small Mk2 Militaj" 8500
+	object
+		sprite star/k5
+		distance 49
+		period 13.296
+		offset 180
+	object
+		sprite star/k5
+		distance 49
+		period 13.296
+	object
+		sprite planet/titan
+		distance 254.234
+		period 55.5561
+		offset 0.665701
+	object
+		sprite planet/lava7
+		distance 557.474
+		period 180.392
+		offset 19.621
+	object
+		sprite planet/gas3
+		distance 1097.96
+		period 498.613
+		offset 3.59111
+		object
+			sprite planet/ice0
+			distance 265
+			period 11.0188
+		object
+			sprite planet/desert4
+			distance 397
+			period 20.2046
+	object "Mil'taj Zun"
+		sprite planet/uranus
+		distance 2374.78
+		period 1586.05
+		offset 67.4386
 
 system Minkar
 	pos -823 138
@@ -6317,6 +5013,402 @@ system "New New Providence"
 			distance 567
 			period 48.0292
 
+system Niffleheim
+	pos -126.448 433.562
+	government "Servorum Dei"
+	habitable 10355
+	link Mechanus
+	link Umbral
+	link "Eta Carinae"
+	asteroids "medium rock" 28 2.6163
+	asteroids "large rock" 1 4.5144
+	asteroids "small metal" 3 6.3612
+	asteroids "large metal" 2 4.7709
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Southern Pirates" 1000
+	fleet "Large Southern Pirates" 3000
+	fleet "Small Militaj" 9000
+	fleet "Small Servorum Dei" 900
+	object
+		sprite star/b5
+		distance 23.6837
+		period 6.72185
+		offset 180
+	object
+		sprite star/f5
+		distance 119.316
+		period 6.72185
+	object
+		sprite planet/desert1
+		distance 300.316
+		period 20.4575
+	object
+		sprite planet/desert5
+		distance 699.926
+		period 72.7886
+	object
+		sprite planet/gas3
+		distance 1853.77
+		period 313.738
+		object
+			sprite planet/luna
+			distance 272
+			period 11.4582
+		object
+			sprite planet/miranda
+			distance 384
+			period 19.2204
+		object
+			sprite planet/dust3
+			distance 492
+			period 27.8748
+
+system Novae
+	pos 131.87 345.742
+	government Quarg
+	habitable 486.68
+	link Subra
+	link Udualudu
+	asteroids "small rock" 9 2.613
+	asteroids "medium rock" 18 5.811
+	asteroids "large rock" 3 2.457
+	asteroids "medium metal" 9 5.577
+	asteroids "large metal" 1 2.691
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 700
+	fleet "Small Mk2 Militaj" 2500
+	fleet "Large Militaj" 2000
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock3
+		distance 121.56
+		period 24.301
+	object Kor'ein
+		sprite planet/lava1
+		distance 370.65
+		period 129.385
+	object
+		sprite planet/callisto
+		distance 802.54
+		period 412.229
+	object
+		sprite planet/gas17
+		distance 1781.79
+		period 1363.71
+		offset 37.7727
+		object Dupelepe
+			sprite planet/ice8
+			distance 240.35
+			period 15.9199
+			offset 0.452429
+	object
+		sprite planet/gas15
+		distance 2349.23
+		period 2064.56
+		offset 39.0348
+
+system Nunki
+	pos -391 504
+	habitable 214.375
+	link "Pax Imperius"
+	link Albaldah
+
+system "Omega Kappa"
+	pos 72.552 236.562
+	government "Plenipotent Dominion"
+	habitable 640
+	link "Omega Mu"
+	link "Kor Dok'tal"
+	link Joint
+	asteroids "medium rock" 7 2.4192
+	asteroids "large rock" 2 2.688
+	asteroids "small metal" 3 3.7632
+	asteroids "medium metal" 105 4.9152
+	asteroids "large metal" 4 3.3408
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Plenipotent Dominion" 2000
+	fleet "Small Plenipotent Dominion" 900
+	fleet "Small Core Pirates" 1500
+	object
+		sprite star/m0
+		distance 56.5
+		period 18.9927
+		offset 180
+	object
+		sprite star/m0
+		distance 56.5
+		period 18.9927
+	object
+		sprite planet/cloud2
+		distance 235.34
+		period 57.0839
+	object "Quis Custodiat"
+		sprite planet/ocean4
+		distance 549.9
+		period 203.89
+	object
+		sprite planet/ice5
+		distance 799.39
+		period 357.362
+	object
+		sprite planet/neptune
+		distance 1380.2
+		period 810.743
+		object
+			sprite planet/rock17
+			distance 214
+			period 15.5974
+		object
+			sprite planet/luna
+			distance 322
+			period 28.7883
+	object
+		sprite planet/rock0
+		distance 2028.84
+		period 1444.91
+
+system "Omega Mu"
+	pos -2.448 244.562
+	government "Plenipotent Dominion"
+	habitable 1215
+	link "Omicron Gamma"
+	link "Deus Glorificat"
+	link "Omega Kappa"
+	asteroids "small rock" 5 6.12
+	asteroids "medium rock" 21 5.4
+	asteroids "large rock" 6 6.12
+	asteroids "small metal" 9 11.88
+	asteroids "medium metal" 9 4.77
+	asteroids "large metal" 42 7.56
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Plenipotent Dominion" 1500
+	fleet "Large Plenipotent Dominion" 2500
+	object
+		sprite star/g0
+		distance 12.4444
+		period 13.6019
+	object
+		sprite star/m8
+		distance 99.5556
+		period 13.6019
+		offset 180
+	object
+		sprite planet/gas10
+		distance 429.966
+		period 102.311
+		object
+			sprite planet/dust1
+			distance 219
+			period 17.0594
+	object "Omega Mu Prime"
+		sprite planet/miranda
+		distance 906.099
+		period 312.994
+		offset 47.9554
+	object
+		sprite planet/rock12
+		distance 1143.39
+		period 443.675
+		offset 109.695
+	object
+		sprite planet/ocean8
+		distance 1765.35
+		period 851.176
+		offset 35.9056
+		object
+			sprite planet/rock7
+			distance 186
+			period 22.3686
+	object
+		sprite planet/gas9
+		distance 3074.39
+		period 1956.19
+		offset 8.76185
+		object
+			sprite planet/dust7
+			distance 239
+			period 13.8544
+		object
+			sprite planet/lava0
+			distance 378
+			period 27.5568
+
+system "Omicron Gamma"
+	pos 51.552 266.562
+	government "Plenipotent Dominion"
+	habitable 659.2
+	link "Omega Mu"
+	link Tyrant
+	asteroids "small rock" 8 8.8711
+	asteroids "large rock" 8 6.4032
+	asteroids "small metal" 7 3.4684
+	asteroids "medium metal" 11 7.1369
+	asteroids "large metal" 12 9.1379
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Mk2 Militaj" 6000
+	fleet "Small Plenipotent Dominion" 2000
+	object
+		sprite star/k5
+		distance 42.1121
+		period 20.2242
+		offset 180
+	object
+		sprite star/m4
+		distance 76.8879
+		period 20.2242
+	object "Le Morte te Deum"
+		sprite planet/cloud1
+		distance 679.987
+		period 276.25
+		offset 271.381
+		object
+			sprite planet/europa
+			distance 171
+			period 18.2578
+	object
+		sprite planet/gas16
+		distance 1305.24
+		period 734.659
+		offset 6.6078
+		object
+			sprite planet/rock17
+			distance 207
+			period 15.6766
+		object
+			sprite planet/dust1
+			distance 289
+			period 25.8609
+	object
+		sprite planet/neptune
+		distance 2407.73
+		period 1840.61
+		offset 65.9382
+		object
+			sprite planet/callisto
+			distance 214
+			period 15.5974
+		object
+			sprite planet/rock7
+			distance 317
+			period 28.1204
+	object "Wormhole Donald"
+		sprite planet/wormhole
+		distance 3551.52
+		period 3297.41
+		offset 347.886
+		
+system "Gamma Cassiopeiae"
+	pos -116 293
+	link "Omicron Zeta"
+	link Mirach
+
+system "Omicron Zeta"
+	pos -81.5488 326.022
+	government "Plenipotent Dominion"
+	habitable 320
+	link "Deus Glorificat"
+	link Gambit
+	link "Gamma Cassiopeiae"
+	asteroids "small rock" 85 5.7888
+	asteroids "medium rock" 46 4.5792
+	asteroids "large rock" 31 4.32
+	asteroids "small metal" 10 4.6224
+	asteroids "medium metal" 4 3.9312
+	asteroids "large metal" 5 4.5792
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Small Southern Pirates" 1000
+	fleet "Large Plenipotent Dominion" 2000
+	fleet "Small Plenipotent Dominion" 1000
+	fleet "Small Servorum Dei" 2000
+	fleet "Large Servorum Dei" 3500
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/rock16
+		distance 178.21
+		period 53.1965
+	object
+		sprite planet/desert1
+		distance 444.21
+		period 209.347
+	object
+		sprite planet/gas13
+		distance 1566.62
+		period 1386.53
+		object
+			sprite planet/rock14
+			distance 263
+			period 12.0405
+		object
+			sprite planet/rock17
+			distance 354
+			period 18.8025
+		object
+			sprite planet/ice0
+			distance 481
+			period 29.7802
+		object
+			sprite planet/desert4
+			distance 623
+			period 43.8978
+
 system Paloma
 	pos -950.13 317.742
 	government "Plenipotent Dominion"
@@ -6378,6 +5470,203 @@ system Paloma
 		period 3153.38
 		offset 329.581
 
+system "Pax Cruciatus"
+	pos -286.549 547.022
+	government "Plenipotent Dominion"
+	habitable 486.68
+	link "Pax Draconis"
+	link Enfin
+	asteroids "small rock" 8 2.0655
+	asteroids "medium rock" 133 4.536
+	asteroids "large rock" 4 3.6045
+	asteroids "medium metal" 6 4.4955
+	asteroids "large metal" 3 2.268
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Plenipotent Dominion" 1500
+	fleet "Small Plenipotent Dominion" 600
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/venus
+		distance 261
+		period 76.4538
+		offset 48.6675
+		object
+			sprite planet/tethys
+			distance 160
+			period 23.094
+	object
+		sprite planet/gas16
+		distance 877.819
+		period 471.569
+		offset 36.8683
+		object "Gol Gotha"
+			sprite planet/rock17
+			distance 341.907
+			period 33.2782
+			offset 329.695
+	object
+		sprite planet/gas12
+		distance 1510.73
+		period 1064.67
+		offset 299.844
+	object Gehenna
+		sprite planet/gas9
+		distance 2707.75
+		period 2554.76
+		offset 1.88078
+		object
+			sprite planet/oberon
+			distance 611.462
+			period 56.695
+			offset 135.082
+
+system "Pax Draconis"
+	pos -355.549 579.022
+	government "Plenipotent Dominion"
+	habitable 135
+	link Sadr
+	link "Pax Imperius"
+	link "Pax Cruciatus"
+	asteroids "medium rock" 3 2.5488
+	asteroids "large rock" 1 3.3264
+	asteroids "small metal" 1 5.0112
+	asteroids "large metal" 2 5.4864
+	trade Clothing 381
+	trade Electronics 747
+	trade Equipment 714
+	trade Food 252
+	trade "Heavy Metals" 923
+	trade Industrial 777
+	trade "Luxury Goods" 1128
+	trade Medical 791
+	trade Metal 329
+	trade Plastic 372
+	fleet "Large Plenipotent Dominion" 2000
+	fleet "Small Plenipotent Dominion" 1000
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/rock16
+		distance 226.25
+		period 117.159
+	object
+		sprite planet/lava7
+		distance 499.41
+		period 384.219
+	object
+		sprite planet/gas15
+		distance 979.41
+		period 1055.21
+		object
+			sprite planet/lava0
+			distance 201
+			period 15
+	object
+		sprite planet/gas4
+		distance 1818.66
+		period 2670.06
+		object
+			sprite planet/ice8
+			distance 246
+			period 13.6082
+		object
+			sprite planet/dust7
+			distance 330
+			period 21.1431
+		object
+			sprite planet/rock3
+			distance 503
+			period 39.7877
+
+system "Pax Imperius"
+	pos -412.549 549.022
+	government "Plenipotent Dominion"
+	habitable 806.68
+	link Nunki
+	link Shaula
+	link "Pax Draconis"
+	asteroids "small rock" 1 5.5875
+	asteroids "medium rock" 72 4.8
+	asteroids "large rock" 13 2.1375
+	asteroids "small metal" 3 4.65
+	asteroids "medium metal" 5 4.7625
+	asteroids "large metal" 9 2.0625
+	trade Clothing 381
+	trade Electronics 747
+	trade Equipment 714
+	trade Food 252
+	trade "Heavy Metals" 923
+	trade Industrial 777
+	trade "Luxury Goods" 1128
+	trade Medical 791
+	trade Metal 329
+	trade Plastic 372
+	fleet "Small Southern Pirates" 1300
+	fleet "Large Southern Pirates" 2700
+	fleet "Plenipotent Heavy Assault Fleet" 10000
+	fleet "Small Plenipotent Dominion" 2000
+	object
+		sprite star/k0
+		distance 40.4621
+		period 14.5081
+	object
+		sprite star/m0
+		distance 61.5379
+		period 14.5081
+		offset 180
+	object
+		sprite planet/rock9
+		distance 206.538
+		period 41.8031
+	object
+		sprite planet/oberon
+		distance 434.228
+		period 127.434
+	object
+		sprite planet/gas4
+		distance 1236.79
+		period 612.565
+		object
+			sprite planet/io
+			distance 251
+			period 14.0252
+		object
+			sprite planet/ice7
+			distance 402
+			period 28.4274
+	object
+		sprite planet/gas12
+		distance 3287.03
+		period 2654.08
+		object
+			sprite planet/miranda
+			distance 259
+			period 10.948
+		object
+			sprite planet/desert4
+			distance 339
+			period 16.394
+		object
+			sprite planet/luna
+			distance 509
+			period 30.1621
+		object
+			sprite planet/dust5
+			distance 709
+			period 49.5855
+
 system "Pi Capuli"
 	pos -163.13 -9.25757
 	government Syndicate
@@ -6426,6 +5715,59 @@ system "Pi Capuli"
 		distance 2951.16
 		period 3584.88
 		offset 356.583
+
+system "Plus De"
+	pos 275.87 274.742
+	government Quarg
+	habitable 4131.68
+	link "Eta Delphi"
+	link Wartorn
+	asteroids "large metal" 1 3.7422
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Small Mk2 Militaj" 3000
+	fleet "Small Abs" 500
+	object
+		sprite star/wr
+		distance 15.6664
+		period 9.54496
+		offset 180
+	object
+		sprite star/m8
+		distance 117.334
+		period 9.54496
+	object
+		sprite planet/gas8
+		distance 4944.09
+		period 2163.34
+		offset 253.148
+		object
+			sprite planet/ice7
+			distance 225.709
+			period 18.051
+			offset 307.5
+	object "Wormhole 100"
+		sprite planet/wormhole
+		distance 2393.69
+		period 1404.99
+		object
+	object
+		sprite planet/gas10
+		distance 10220.9
+		period 6430.25
+		offset 338.543
+		object
+			sprite planet/europa
+			distance 218
+			period 16.9427
 
 system "Psi Lumiere"
 	pos -586.13 -506.258
@@ -6476,6 +5818,69 @@ system "Psi Lumiere"
 			sprite planet/ice7
 			distance 470
 			period 38.2065
+
+system Qarn
+	pos -240.204 618.803
+	government Quarg
+	habitable 135
+	link Yarg
+	link Flar
+	asteroids "small rock" 5 1.8876
+	asteroids "medium rock" 13 1.9844
+	asteroids "large rock" 3 1.2826
+	asteroids "small metal" 5 2.9282
+	asteroids "medium metal" 20 1.331
+	asteroids "large metal" 7 2.178
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 1200
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/ice6
+		distance 140.01
+		period 57.0337
+	object
+		sprite planet/dust4
+		distance 407.01
+		period 282.684
+	object
+		sprite planet/rock1
+		distance 655.45
+		period 577.7
+	object
+		sprite planet/gas11
+		distance 1090.7
+		period 1240.08
+		object
+			sprite planet/dust3
+			distance 263
+			period 14.0673
+	object
+		sprite planet/gas0
+		distance 2084.74
+		period 3276.96
+		object
+			sprite planet/ice8
+			distance 282
+			period 13.8781
+		object
+			sprite planet/miranda
+			distance 371
+			period 20.942
+		object
+			sprite planet/rock7
+			distance 516
+			period 34.3503
 
 system Regulus
 	pos -544 25
@@ -9931,6 +9336,84 @@ system SU9
 			distance 695
 			period 78.2799
 
+system Sadalsuud
+	pos -134 508
+	government Quarg
+	habitable 1400
+	link Enif
+	link Sadalmelik
+	link Enfin
+
+system Sadr
+	pos -314 528
+	government Republic
+	habitable 3859.38
+	link "Pax Draconis"
+	link Albireo
+
+system "Sanctum Adroit"
+	pos 8.4923 387.82
+	government "Servorum Dei"
+	habitable 625
+	link "Eta Carinae"
+	link Gambit
+	asteroids "small rock" 8 11.2056
+	asteroids "medium rock" 163 8.7696
+	asteroids "large rock" 29 8.2824
+	asteroids "medium metal" 20 6.1712
+	asteroids "large metal" 9 4.1412
+	trade Clothing 250
+	trade Electronics 790
+	trade Equipment 620
+	trade Food 270
+	trade "Heavy Metals" 1060
+	trade Industrial 810
+	trade "Luxury Goods" 1150
+	trade Medical 770
+	trade Metal 430
+	trade Plastic 470
+	fleet "Large Servorum Dei" 1500
+	fleet "Small Plenipotent Dominion" 2800
+	fleet "Small Servorum Dei" 700
+	fleet "Large Plenipotent Dominion" 4000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/rock4
+		distance 171.61
+		period 35.9695
+	object
+		sprite planet/rock5
+		distance 472.62
+		period 164.395
+	object Parsine
+		sprite planet/forest0
+		distance 881.787
+		period 418.953
+		offset 356.784
+	object
+		sprite planet/desert0
+		distance 1127.8
+		period 605.991
+		offset 358.157
+	object
+		sprite planet/gas11
+		distance 2304.41
+		period 1769.94
+		offset 359.691
+		object
+			sprite planet/desert4
+			distance 229
+			period 11.4296
+
+system Shaula
+	pos -461 527
+	government Pirate
+	habitable 625
+	link "Pax Imperius"
+	link Lesath
+
 system Su40
 	pos -2612.85 -2967.1
 	government Cascadi
@@ -9965,6 +9448,68 @@ system Su40
 		sprite planet/gas9
 		distance 1996.83
 		period 1729.45
+
+system Subra
+	pos 117.87 299.742
+	government Quarg
+	habitable 1400
+	link "Zeta Nurphae"
+	link Novae
+	asteroids "small rock" 1 1.248
+	asteroids "medium rock" 9 2.7456
+	asteroids "large rock" 1 2.6688
+	asteroids "medium metal" 4 1.056
+	asteroids "large metal" 2 1.7856
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 500
+	fleet "Small Abs" 900
+	fleet "Small Pug" 2000
+	object
+		sprite star/g0
+		distance 29.4857
+		period 15.6632
+		offset 180
+	object
+		sprite star/m0
+		distance 99.5143
+		period 15.6632
+	object
+		sprite planet/dust0
+		distance 261.514
+		period 45.2105
+	object
+		sprite planet/titan
+		distance 516.724
+		period 125.57
+	object
+		sprite planet/gas15
+		distance 1499.97
+		period 621.043
+		object
+			sprite planet/oberon
+			distance 177
+			period 12.3953
+		object
+			sprite planet/lava0
+			distance 282
+			period 24.927
+		object
+			sprite planet/dust5
+			distance 412
+			period 44.0193
+	object
+		sprite planet/gas14
+		distance 2608.97
+		period 1424.63
 
 system Talita
 	pos -519 -26
@@ -10024,6 +9569,162 @@ system Teshana
 			distance 394
 			period 22.0777
 
+system Tyrant
+	pos 23.4376 289.283
+	government "Plenipotent Dominion"
+	habitable 3645
+	link "Omicron Gamma"
+	asteroids "large rock" 1 1.078
+	asteroids "small metal" 1 1.1088
+	asteroids "medium metal" 25 1.309
+	asteroids "large metal" 1 1.1704
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Large Plenipotent Dominion" 2500
+	fleet "Plenipotent Heavy Assault Fleet" 15000
+	fleet "Small Plenipotent Dominion" 1500
+	object
+		sprite star/a5
+		period 10
+	object
+		sprite planet/rhea
+		distance 214.086
+		period 20.7537
+		offset 341.994
+	object
+		sprite planet/desert7
+		distance 492.336
+		period 72.3776
+		offset 152.078
+		object "Viglado Station"
+			sprite planet/station2
+			distance 150.25
+			period 29.3701
+			offset 273.21
+	object
+		sprite planet/gas16
+		distance 1645.67
+		period 442.31
+		offset 329.752
+		object
+			sprite planet/lava0
+			distance 217
+			period 16.8262
+		object
+			sprite planet/io
+			distance 363
+			period 36.4047
+		object "Pax Station"
+			sprite planet/spacestation
+			distance 546.95
+			period 67.3315
+			offset 296.24
+	object
+		sprite planet/mercury
+		distance 2396.86
+		period 777.457
+		offset 153.573
+	object
+		sprite planet/gas12
+		distance 3673.22
+		period 1474.97
+		offset 245.734
+		object
+			sprite planet/europa
+			distance 266
+			period 11.3948
+		object
+			sprite planet/dust1
+			distance 409
+			period 21.7255
+		object
+			sprite planet/dust4
+			distance 552
+			period 34.0638
+		object
+			sprite planet/ice0
+			distance 699
+			period 48.5401
+		object "Rubido Station"
+			sprite planet/station6
+			distance 884.62
+			period 69.1067
+			offset 141.549
+
+system Udualudu
+	pos 185.87 333.742
+	government Quarg
+	habitable 486.68
+	link Novae
+	link "Eta Delphi"
+	asteroids "small rock" 45 2.7744
+	asteroids "medium rock" 81 2.4854
+	asteroids "large rock" 107 3.6414
+	asteroids "small metal" 4 1.7918
+	asteroids "medium metal" 19 4.1905
+	asteroids "large metal" 15 2.7744
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 400
+	fleet "Small Mk2 Militaj" 3000
+	fleet "Small Abs" 800
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/rock1
+		distance 152.16
+		period 34.0321
+	object
+		sprite planet/rock12
+		distance 397.52
+		period 143.707
+	object
+		sprite planet/gas9
+		distance 882.77
+		period 475.565
+	object
+		sprite planet/gas16
+		distance 1978.2
+		period 1595.3
+		offset 37.2975
+		object
+			sprite planet/rock0
+			distance 206
+			period 15.5632
+		object
+			sprite planet/rock3
+			distance 328
+			period 31.2686
+		object "Chrono Station"
+			sprite planet/station5
+			distance 464.53
+			period 52.7009
+			offset 166.158
+
+system Umbral
+	pos -163 416
+	government Republic
+	habitable 320
+	link Tarazed
+	link Niffleheim
+
 system Verika
 	pos -779.053 -56.8733
 	government Pirate
@@ -10059,12 +9760,186 @@ system Verika
 		period 3210.49
 		offset 359.147
 
+system Wartorn
+	pos 260.87 232.742
+	government Quarg
+	habitable 851.84
+	link "Plus De"
+	asteroids "large metal" 1 4.5344
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet "Korath Raid" 1600
+	fleet Quarg 500
+	object
+		sprite star/k5
+		distance 54
+		period 15.3821
+		offset 180
+	object
+		sprite star/k5
+		distance 54
+		period 15.3821
+	object
+		sprite planet/desert3
+		distance 212
+		period 42.3043
+	object
+		sprite planet/gas15
+		distance 1015.01
+		period 443.186
+		offset 15.3746
+		object
+			sprite planet/dust0
+			distance 172
+			period 11.8738
+		object Devastated
+			sprite planet/lava0
+			distance 260.301
+			period 22.1061
+			offset 162.432
+		object
+			sprite planet/callisto
+			distance 389.301
+			period 40.432
+			offset 56.7173
+		object
+			sprite planet/dust5
+			distance 522.301
+			period 62.8317
+			offset 198.334
+	object
+		sprite planet/gas11
+		distance 2054.47
+		period 1276.24
+		offset 5.09151
+
 system Wezen
 	pos -664 -433
 	habitable 2880
 	link Naos
 	link Laconda
 	fleet "Small Plenipotent Dominion" 2500
+
+system Wraithhome
+	pos -236.549 586.023
+	government Quarg
+	habitable 858.28
+	link Enfin
+	asteroids "small rock" 8 4.8438
+	asteroids "medium rock" 216 5.1948
+	asteroids "large rock" 1 2.8782
+	asteroids "small metal" 10 4.4226
+	asteroids "medium metal" 44 4.7736
+	asteroids "large metal" 7 3.7206
+	trade Clothing 381
+	trade Electronics 747
+	trade Equipment 714
+	trade Food 252
+	trade "Heavy Metals" 923
+	trade Industrial 777
+	trade "Luxury Goods" 1128
+	trade Medical 791
+	trade Metal 329
+	trade Plastic 372
+	fleet "Small Militaj" 3000
+	fleet "Small Plenipotent Dominion" 1500
+	object
+		sprite star/g5
+		distance 30.1697
+		period 15.9672
+	object
+		sprite star/m4
+		distance 80.8303
+		period 15.9672
+		offset 180
+	object
+		sprite planet/ganymede
+		distance 257.08
+		period 56.2793
+	object
+		sprite planet/cloud2
+		distance 468.49
+		period 138.451
+	object
+		sprite planet/rock10
+		distance 991.74
+		period 426.425
+		object
+			sprite planet/rock7
+			distance 158
+			period 16.7148
+	object
+		sprite planet/lava2
+		distance 1326.63
+		period 659.736
+	object
+		sprite planet/uranus
+		distance 2175.99
+		period 1385.9
+
+system Yarg
+	pos -262.204 681.803
+	government Quarg
+	habitable 233.28
+	link Qarn
+	link Flar
+	link Bera
+	asteroids "small rock" 8 7.5
+	asteroids "medium rock" 5 4.5
+	asteroids "large rock" 8 4.9
+	asteroids "small metal" 1 5.1
+	asteroids "medium metal" 66 2.6
+	asteroids "large metal" 9 7.45
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	fleet Quarg 1500
+	object
+		sprite star/m4
+		period 10
+	object Florug
+		sprite planet/ice6
+		distance 447.128
+		period 247.61
+		offset 200.166
+		object
+			sprite planet/dust4
+			distance 170
+			period 27.8635
+	object
+		sprite planet/miranda
+		distance 852.378
+		period 651.733
+		offset 147.754
+	object
+		sprite planet/europa
+		distance 1132.79
+		period 998.491
+		offset 68.8934
+	object
+		sprite planet/gas7
+		distance 2621.04
+		period 3514.24
+		offset 7.77386
+		object
+			sprite planet/desert4
+			distance 252
+			period 14.2309
 
 system Zaurak
 	pos -109 -34
@@ -10073,6 +9948,78 @@ system Zaurak
 	link Alcyone
 	link Menkar
 	link Durax
+
+system "Zeta Nurphae"
+	pos 48.87 313.742
+	government Quarg
+	habitable 1505.92
+	link Subra
+	asteroids "small rock" 2 2.5143
+	asteroids "medium rock" 8 2.7166
+	asteroids "large rock" 11 1.9941
+	asteroids "small metal" 2 4.0749
+	asteroids "medium metal" 7 2.3698
+	asteroids "large metal" 1 2.2542
+	trade Clothing 375
+	trade Electronics 852
+	trade Equipment 569
+	trade Food 385
+	trade "Heavy Metals" 801
+	trade Industrial 812
+	trade "Luxury Goods" 1468
+	trade Medical 915
+	trade Metal 297
+	trade Plastic 454
+	object
+		sprite star/g0
+		distance 27.7174
+		period 9.99996
+	object
+		sprite star/k5
+		distance 70.2826
+		period 9.99996
+		offset 180
+	object
+		sprite planet/forest4
+		distance 387.173
+		period 78.5265
+		offset 255.814
+		object
+			sprite planet/rock0
+			distance 163
+			period 18.6442
+	object
+		sprite planet/rock19
+		distance 723.613
+		period 200.64
+		offset 144.703
+	object
+		sprite planet/gas2
+		distance 1520.79
+		period 611.312
+		offset 349.512
+		object
+			sprite planet/ice8
+			distance 210
+			period 18.4393
+		object Genchok
+			sprite planet/io
+			distance 340.493
+			period 38.0695
+			offset 266.177
+	object
+		sprite planet/gas4
+		distance 2831.04
+		period 1552.67
+		offset 195.007
+		object
+			sprite planet/desert4
+			distance 254
+			period 14.2774
+		object
+			sprite planet/oberon
+			distance 345
+			period 22.6009
 
 system Zorica
 	pos -709.56 -120.384
@@ -10189,140 +10136,54 @@ system Zosma
 	fleet "Large Deep" 3500
 	fleet "Small Deep" 1500
 
-planet "Dead Man's Refuge"
-	landscape land/bwerner8
-	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
-	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
-	shipyard "Northern Pirates"
-	shipyard "Southern Pirates"
-	shipyard "FTek Basics"
-	outfitter "Basic Outfits"
-	outfitter "Basic Weapons"
-	outfitter "FTek Basics"
-	outfitter "Ammo North"
-	outfitter "Ammo South"
-	outfitter "Pirate Outfits"
-	"required reputation" 1
-	bribe 0.05
-	security 0
-	tribute 400
-		threshold 4000
-		fleet "Large Southern Pirates" 10
+system Zubrik
+	pos 178.407 250.164
+	government "Pug (Research)"
+	habitable 320
+	asteroids "small rock" 4 2.1546
+	asteroids "medium rock" 58 3.2508
+	asteroids "large rock" 4 4.2714
+	asteroids "small metal" 59 4.2336
+	asteroids "medium metal" 22 3.9312
+	asteroids "large metal" 109 5.0274
+	fleet Pug 1000
+	fleet Pug1 1500
+	object
+		sprite star/m0
+		period 10
+	object Puggldute
+		sprite planet/desert1
+		distance 325.373
+		period 131.237
+		offset 160.953
+	object
+		sprite planet/ocean7
+		distance 718.533
+		period 430.68
+		offset 193.862
+		object
+			sprite planet/rhea
+			distance 183
+			period 27.2214
+	object
+		sprite planet/jupiter
+		distance 1186.42
+		period 913.782
+		offset 132.012
+	object
+		sprite planet/gas8
+		distance 2198.23
+		period 2304.6
+		offset 25.2494
+		object
+			sprite planet/europa
+			distance 202
+			period 15.2828
+		object
+			sprite planet/oberon
+			distance 308
+			period 28.7742
 
-planet Mojave
-	landscape land/bwerner8
-	description `A barren wasteland covered in a massive desert, the planetoid recieved it's name from an old Earth desert that was terraformed into farmland.`
-
-planet "Nubia Station"
-	landscape land/space1
-	description `A small broadcasting center for the Plenipotent Dominion located very close to Free World's territory. Using relay beacons on the southern planets planted by loyal supporters, it sends information to and from the main Dominion territory.`
-	spaceport `There are no places for your ship to land in the station, so you have to dock with it, making use of rarely used monitors displaying docking cameras on your ship to carefully manuever and eventually dock with the station.`
-	"required reputation" 10
-	bribe 0
-	security 0.2
-
-planet "Outpost Bek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Cek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Gek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Jek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Kek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Lek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Nek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Rek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Sek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Wek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet "Outpost Yek"
-	landscape ""
-	description Blank
-	spaceport Blank
-
-planet "Outpost Zek"
-	landscape ""
-	description Blank
-	spaceport Blank
-	outfitter "Common Outfits"
-
-planet Rodin
-	attributes "The Deep"
-	landscape land/forest2
-	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
-	description `	Despite not claiming responsibility, the Plenipotent Dominion has been funding pirate attacks in the Zorica system, in the hopes of gaining control of the Deep's largest military producer. These attacks often include a super ship designed by the Dominion called a "Battlestar."`
-	spaceport `The spaceport is heavily guarded by ground personel weilding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
-	shipyard "Basic Ships"
-	shipyard "Lionheart Basics"
-	shipyard "Lionheart Advanced"
-	outfitter "Common Outfits"
-	outfitter "Basic Weapons"
-	outfitter "Deep Sky Basics"
-	"required reputation" 2
-	bribe 0.5
-	security 0.8
-
-planet Sanctus
-	landscape land/desert7
-	description `An endless blanket of golden grass glistens from the light of it's parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
-	"required reputation" 0
-	bribe 0
-	security 0
-
-planet "Stark Station"
-	landscape land/space4
-	description `The cramped quarters of this relay station are home of Plenipotent Dominion transmitters. The transmitters broadcast radio channels to and from different locations, and this station somehow allows radio transmittions from here back to Dominion territory way in the south-east, which shouldn't be possible without somehow getting the signal to go all the way through Human space.`
-	spaceport `A very limited number of docking bays are located on the station, all a very small size. Larger ships have no choice but to dock with the station from the outside or don't attach to the station, instead constantly moving at the same trajectory as the station to keep the two objects side by side.`
-	"required reputation" 10
-	bribe 0
-	security 0.2
-	
 planet "Chrono Station"
 	attributes quargworld
 	landscape land/space1
@@ -10343,6 +10204,26 @@ planet "Cruciatus Station"
 	"required reputation" 0
 	bribe 0.01
 	security 0.1
+
+planet "Dead Man's Refuge"
+	landscape land/bwerner8
+	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
+	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
+	shipyard "Northern Pirates"
+	shipyard "Southern Pirates"
+	shipyard "FTek Basics"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "FTek Basics"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Pirate Outfits"
+	"required reputation" 1
+	bribe 0.05
+	security 0
+	tribute 400
+		threshold 4000
+		fleet "Large Southern Pirates" 10
 
 planet Devastated
 	attributes uninhabited
@@ -10619,15 +10500,98 @@ planet "Minas Tekel"
 	bribe 0.02
 	security 0.1
 
+planet Mojave
+	landscape land/bwerner8
+	description `A barren wasteland covered in a massive desert, the planetoid recieved it's name from an old Earth desert that was terraformed into farmland.`
+
 planet "Novum Cardius"
 	attributes quarg forest tourism
 	landscape land/mountain3
 	description `The Quarg have a good taste in planets, all around you is just beautiful, clean air. The planet is not suitable for Quarg to live on it, so it instead acts as a tourist attraction. It offers a unique way of allowing toursits in as well, there is no spaceport which allows people to land their ship wherever they feel like, making the planet a perfect place for a vacation away from any planetary development.`
 
+planet "Nubia Station"
+	landscape land/space1
+	description `A small broadcasting center for the Plenipotent Dominion located very close to Free World's territory. Using relay beacons on the southern planets planted by loyal supporters, it sends information to and from the main Dominion territory.`
+	spaceport `There are no places for your ship to land in the station, so you have to dock with it, making use of rarely used monitors displaying docking cameras on your ship to carefully manuever and eventually dock with the station.`
+	"required reputation" 10
+	bribe 0
+	security 0.2
+
 planet "Omega Mu Prime"
 	attributes uninhabited
 	landscape land/snow2
 	description `An uninhabited frozen wasteland. The only factor that could bring people here would be the views from the peaks of it's numerous mountains, however with the pirates and hostilities with the Plenipotent Dominion, this isn't the ideal place for civilians.`
+
+planet "Outpost Bek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Cek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Gek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Jek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Kek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Lek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Nek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Rek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Sek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Wek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Yek"
+	landscape ""
+	description Blank
+	spaceport Blank
+
+planet "Outpost Zek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
 
 planet Parsine
 	attributes Forest Servorum
@@ -10666,6 +10630,22 @@ planet "Quis Custodiat"
 		threshold 20000
 		fleet "Large Plenipotent Dominion" 10
 
+planet Rodin
+	attributes "The Deep"
+	landscape land/forest2
+	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
+	description `	Despite not claiming responsibility, the Plenipotent Dominion has been funding pirate attacks in the Zorica system, in the hopes of gaining control of the Deep's largest military producer. These attacks often include a super ship designed by the Dominion called a "Battlestar."`
+	spaceport `The spaceport is heavily guarded by ground personel weilding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
+	shipyard "Basic Ships"
+	shipyard "Lionheart Basics"
+	shipyard "Lionheart Advanced"
+	outfitter "Common Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Deep Sky Basics"
+	"required reputation" 2
+	bribe 0.5
+	security 0.8
+
 planet "Rubido Station"
 	landscape land/station4
 	description `The station was built by the Plenipotent Dominion as one of it's primary orbital manufactories for ships.`
@@ -10679,6 +10659,21 @@ planet "Rubido Station"
 	"required reputation" 2
 	bribe 0.3
 	security 0.78
+
+planet Sanctus
+	landscape land/desert7
+	description `An endless blanket of golden grass glistens from the light of it's parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
+	"required reputation" 0
+	bribe 0
+	security 0
+
+planet "Stark Station"
+	landscape land/space4
+	description `The cramped quarters of this relay station are home of Plenipotent Dominion transmitters. The transmitters broadcast radio channels to and from different locations, and this station somehow allows radio transmittions from here back to Dominion territory way in the south-east, which shouldn't be possible without somehow getting the signal to go all the way through Human space.`
+	spaceport `A very limited number of docking bays are located on the station, all a very small size. Larger ships have no choice but to dock with the station from the outside or don't attach to the station, instead constantly moving at the same trajectory as the station to keep the two objects side by side.`
+	"required reputation" 10
+	bribe 0
+	security 0.2
 
 planet "Viglado Station"
 	landscape land/space2
@@ -10696,3 +10691,4 @@ planet "Wayshrine Station"
 	"required reputation" 2
 	bribe 0.2
 	security 0.2
+
