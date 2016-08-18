@@ -88,6 +88,7 @@ outfit "M50-400 Slug"
 outfit "400mm Railgun"
 	category "Guns"
 	cost 2490000
+	thumbnail "outfit/400mm Railgun" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
 	"mass" 60
 	"outfit space" -60
 	"weapon capacity" -60
