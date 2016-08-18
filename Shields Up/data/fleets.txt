@@ -171,8 +171,6 @@ fleet "Small Southern Merchants"
 	variant 15
 		"Skybus" 3
 	variant 15
-		"Pirated Frigate"
-	variant 15
 		"Headhunter" 2
 	variant 30
 		"Freighter"
@@ -423,7 +421,7 @@ fleet "Large Free Worlds"
 		"Modified Argosy (Laser)" 3
 		
 fleet "Large Southern Pirates"
-	government "Pirate (South)"
+	government "Pirate"
 	names "pirate"
 	cargo 1
 	personality
