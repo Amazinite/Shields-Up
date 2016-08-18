@@ -225,6 +225,7 @@ ship "Zibruka"
 		"shield generation" 6
 		"heat generation" 20
 		"energy capacity" 1000
+		"self destruct" 1
 		weapon
 			"blast radius" 100
 			"shield damage" 400
@@ -267,6 +268,7 @@ ship "Enfolta"
 		"shield generation" 8000
 		"heat generation" 32
 		"energy capacity" 20000
+		"self destruct" 1
 		weapon
 			"blast radius" 180
 			"shield damage" 720
@@ -314,6 +316,7 @@ ship "Maboro"
 		"shield generation" 10000
 		"heat generation" 48
 		"energy capacity" 4000
+		"self destruct" 1
 		weapon
 			"blast radius" 300
 			"shield damage" 1200
