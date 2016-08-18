@@ -181,7 +181,7 @@ system "Tuk'ux Gor"
 		sprite star/k5
 		distance 48.5293
 		period 11.4943
-	object "Wormhole ZetaTengoTengoAplhaCharlie"
+	object "Tuk'ux Wormhole"
 		sprite planet/wormhole
 		distance 4208.63
 		period 2158.5
@@ -229,7 +229,7 @@ system "Tuk'ux Lef"
 		distance 147.527
 		period 34.7298
 		offset 330.66
-	object "Wormhole ZetaTengoTengoAplhaCharlie"
+	object "Tuk'ux Wormhole"
 		sprite planet/wormhole
 		distance 4208.63
 		period 2158.5
@@ -376,7 +376,7 @@ planet Opefirle
 	description `The Tuk'ux roam around and pay you know mind. It's best you let them do their own thing.`
 	spaceport `You walk around through the crowd. Although this spaceport is not as crowded as other planets, you still have to fight to make your way through the crowd of the strange creatures. Shadows are cast down on you as the tall creatures walk by you.`
 
-planet Wormhole
+planet "Tuk'ux Wormhole"
 	landscape ""
 
 planet Yuh'kuj
