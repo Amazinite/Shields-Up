@@ -11,7 +11,7 @@
 ship "Lightning Bug"
 	outfits
 		"Ion Cannon"
-		"Bullfrog Anti-Missile Turret" 2
+		"Bullfrog Anti-Missile" 2
 		"Geode Reactor"
 		"Hai Gorge Batteries"
 		"Hai Corundum Regenerator"
@@ -49,7 +49,7 @@ ship "Aphid"
 
 ship "Aphid" "Aphid (Anti-Missile)"
 	outfits
-		"Chameleon Anti-Missile Turret"
+		"Chameleon Anti-Missile"
 		"Pebble Core"
 		"Hai Fissure Batteries"
 		"Hai Corundum Regenerator"
@@ -64,7 +64,7 @@ ship "Water Bug"
 		"Hai Tracker Pod" 2
 		"Hai Tracker" 112
 		"Pulse Turret"
-		"Chameleon Anti-Missile Turret" 2
+		"Chameleon Anti-Missile" 2
 		"Geode Reactor"
 		"Hai Gorge Batteries"
 		"Hai Chasm Batteries"
@@ -95,7 +95,7 @@ ship "Water Bug" "Water Bug (Jump)"
 		"Hai Tracker Pod" 2
 		"Hai Tracker" 112
 		"Pulse Turret"
-		"Chameleon Anti-Missile Turret" 2
+		"Chameleon Anti-Missile" 2
 		"Geode Reactor"
 		"Hai Gorge Batteries"
 		"Hai Chasm Batteries"
@@ -111,7 +111,7 @@ ship "Shield Beetle"
 		"Ion Cannon" 4
 		"Hai Tracker Pod" 4
 		"Hai Tracker" 224
-		"Chameleon Anti-Missile Turret" 2
+		"Chameleon Anti-Missile" 2
 		"Boulder Reactor"
 		"Geode Reactor"
 		"Hai Valley Batteries"
@@ -142,7 +142,7 @@ ship "Shield Beetle" "Shield Beetle (Jump)"
 		"Ion Cannon" 4
 		"Hai Tracker Pod" 4
 		"Hai Tracker" 224
-		"Chameleon Anti-Missile Turret" 2
+		"Chameleon Anti-Missile" 2
 		"Boulder Reactor" 2
 		"Hai Ravine Batteries"
 		"Mass Expansion" 4
@@ -161,8 +161,8 @@ ship "Shield Beetle" "Shield Beetle (Jump)"
 	gun "Hai Tracker Pod"
 	gun "Hai Tracker Pod"
 	gun "Hai Tracker Pod"
-	turret "Chameleon Anti-Missile Turret"
-	turret "Chameleon Anti-Missile Turret"
+	turret "Chameleon Anti-Missile"
+	turret "Chameleon Anti-Missile"
 
 ship "Shield Beetle" "Shield Beetle (Jump, Tracker)"
 	outfits
