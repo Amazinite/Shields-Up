@@ -100,7 +100,7 @@ system Almach
 	link Schedar
 
 system "Alpha Uzara"
-	pos -792.13 61.7424
+	pos -793.13 108.742
 	government Pirate
 	habitable 486.68
 	link Minkar
@@ -212,7 +212,7 @@ system Bera
 		period 180
 
 system "Beta Uzara"
-	pos -776.13 -12.2576
+	pos -807.13 4.7424
 	government Pirate
 	habitable 2201.68
 	link Teshana
@@ -840,7 +840,7 @@ system Hamal
 	link "Pi Capuli"
 
 system Harner
-	pos -801.899 16.8514
+	pos -804.899 76.8514
 	government Pirate
 	habitable 486.68
 	link "Alpha Uzara"
@@ -4795,7 +4795,7 @@ system Mirzam
 	link Mebsuta
 
 system "New New Providence"
-	pos -810.176 -26.9298
+	pos -857.176 37.0702
 	government Pirate
 	habitable 1111.68
 	link Verika
@@ -9136,7 +9136,7 @@ system Talita
 	link Flamsteed
 
 system Teshana
-	pos -716.13 -17.2576
+	pos -753.13 -37.2576
 	government "Deep Sky"
 	habitable 486.68
 	link "Beta Uzara"
@@ -9282,7 +9282,7 @@ system Umbral
 	link Niffleheim
 
 system Verika
-	pos -767.053 -40.8733
+	pos -924.053 26.1267
 	government Pirate
 	habitable 486.68
 	link "New New Providence"
