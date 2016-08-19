@@ -75,8 +75,6 @@ system Agon
 		distance 4636.11
 		period 1785.69
 		offset 104.543
-		
-planet "Wormhole Donald"
 
 system Algieba
 	pos -691 -52
@@ -102,7 +100,7 @@ system Almach
 	link Schedar
 
 system "Alpha Uzara"
-	pos -814.13 68.7424
+	pos -792.13 61.7424
 	government Pirate
 	habitable 486.68
 	link Minkar
@@ -189,8 +187,6 @@ system Beltane
 		distance 2340.82
 		period 1658.7
 		offset 11.5476
-		
-planet "Wormhole Zynga"
 
 system Bera
 	pos -290.892 738.228
@@ -831,6 +827,12 @@ system Gami
 			distance 275
 			period 13.3646
 
+system "Gamma Cassiopeiae"
+	pos -116 293
+	habitable nan
+	link "Omicron Zeta"
+	link Mirach
+
 system Hamal
 	pos -129 24
 	habitable 1080
@@ -838,7 +840,7 @@ system Hamal
 	link "Pi Capuli"
 
 system Harner
-	pos -816.899 13.8514
+	pos -801.899 16.8514
 	government Pirate
 	habitable 486.68
 	link "Alpha Uzara"
@@ -4793,7 +4795,7 @@ system Mirzam
 	link Mebsuta
 
 system "New New Providence"
-	pos -827.176 -27.9298
+	pos -810.176 -26.9298
 	government Pirate
 	habitable 1111.68
 	link Verika
@@ -5126,11 +5128,6 @@ system "Omicron Gamma"
 		distance 3551.52
 		period 3297.41
 		offset 347.886
-		
-system "Gamma Cassiopeiae"
-	pos -116 293
-	link "Omicron Zeta"
-	link Mirach
 
 system "Omicron Zeta"
 	pos -81.5488 326.022
@@ -5498,8 +5495,6 @@ system "Pi Capuli"
 		distance 2951.16
 		period 3584.88
 		offset 356.583
-		
-planet "Wormhole Wyvern"
 
 system Qarn
 	pos -240.204 618.803
@@ -9287,7 +9282,7 @@ system Umbral
 	link Niffleheim
 
 system Verika
-	pos -779.053 -56.8733
+	pos -767.053 -40.8733
 	government Pirate
 	habitable 486.68
 	link "New New Providence"
@@ -10071,4 +10066,13 @@ planet "Wayshrine Station"
 	"required reputation" 2
 	bribe 0.2
 	security 0.2
+
+planet "Wormhole Donald"
+	landscape ""
+
+planet "Wormhole Wyvern"
+	landscape ""
+
+planet "Wormhole Zynga"
+	landscape ""
 
