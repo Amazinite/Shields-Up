@@ -209,7 +209,7 @@ system "Tuk'ux Gor"
 			period 37.0715
 
 system "Tuk'ux Lef"
-	pos -944.978 49.7309
+	pos -945.978 132.731
 	government Tuk'ux
 	habitable 1080
 	asteroids "small rock" 10 2.8776
@@ -383,3 +383,4 @@ planet Yuh'kuj
 	landscape land/fields0
 	description `A large spaceport filled with many Tuk'ux. Several landing pads and many shops suggest this is one of the main trading centers for the Tuk'ux.`
 	spaceport `Shops to the left, shops to the right, a lot of Tuk'ux inbetween. You have to almost shove your way through the crowd.`
+
