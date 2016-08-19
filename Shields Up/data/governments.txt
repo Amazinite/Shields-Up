@@ -47,9 +47,6 @@ government "Republic"
 		"Merchant" .25
 		"Militia" .1
 		"Pirate" -.3
-		"Pirate (Core)" -.15
-		"Pirate (North)" -.2
-		"Pirate (South)" -.15
 		"Plenipotent Dominion" -.1
 	"friendly hail" "friendly navy"
 	"hostile hail" "hostile navy"
@@ -69,19 +66,6 @@ government "Pirate"
 	"fine" 0
 	"hostile hail" "hostile pirate"
 	raid "Large Southern Pirates"
-	
-government "Quarg"
-	swizzle 0
-	color .88 .77 0
-	
-	"attitude toward"
-		"Merchant" .1
-		"Pirate" -.1
-		"Korath" -.1
-		"Pirate (Core)" -.1
-		"Pirate (North)" -.1
-		"Pirate (South)" -.1
-	"hostile hail" "hostile quarg"
 
 government "Servorum Dei"
 	swizzle 4
@@ -106,9 +90,6 @@ government "Deep Sky"
 		"Merchant" .1
 		"Pirate" -.3
 		"Republic" .1
-		"Pirate (Core)" -.1
-		"Pirate (North)" -.2
-		"Pirate (South)" -.15
 		"Plenipotent Dominion" -.2
 	"friendly hail" "friendly deep sky"
 	"hostile hail" "hostile deep sky"
@@ -126,75 +107,3 @@ government "Plenipotent Dominion"
 	"fine" 0
 	"friendly hail" "friendly dominion"
 	"hostile hail" "hostile dominion"
-
-government "Pirate (Core)"
-	swizzle 6
-	color .78 0 0
-	
-	"player reputation" -10
-	"attitude toward"
-		"Merchant" -.1
-		"Syndicate" -.1
-		"Free Worlds" -.1
-		"Republic" -.1
-		"Deep Sky" -.1
-		"Quarg" -.1
-		"Militia" -.1
-		"Pug" -.1
-		"Korath" -.1
-		"Navy Intelligence" -.1
-		"Neutral" -.1
-		"Independent" -.1
-		"Navy (Oathkeeper)" -.1
-		"Plenipotent Dominion" .1
-	"bribe" .05
-	"fine" 0
-	"hostile hail" "hostile pirate"
-	
-government "Pirate (North)"
-	swizzle 6
-	color .78 0 0
-	
-	"player reputation" -10
-	"attitude toward"
-		"Merchant" -.1
-		"Syndicate" -.1
-		"Free Worlds" -.1
-		"Republic" -.1
-		"Deep Sky" -.1
-		"Quarg" -.1
-		"Militia" -.1
-		"Pug" -.1
-		"Korath" -.1
-		"Navy Intelligence" -.1
-		"Neutral" -.1
-		"Independent" -.1
-		"Navy (Oathkeeper)" -.1
-		"Plenipotent Dominion" .1
-	"bribe" .05
-	"fine" 0
-	"hostile hail" "hostile pirate"
-	
-government "Pirate (South)"
-	swizzle 6
-	color .78 0 0
-	
-	"player reputation" -10
-	"attitude toward"
-		"Merchant" -.1
-		"Syndicate" -.1
-		"Free Worlds" -.1
-		"Republic" -.1
-		"Deep Sky" -.1
-		"Quarg" -.1
-		"Militia" -.1
-		"Pug" -.1
-		"Korath" -.1
-		"Navy Intelligence" -.1
-		"Neutral" -.1
-		"Independent" -.1
-		"Navy (Oathkeeper)" -.1
-		"Plenipotent Dominion" .1
-	"bribe" .05
-	"fine" 0
-	"hostile hail" "hostile pirate"
