@@ -115,3 +115,13 @@ planet Human
 	outfitter "SU Others"
 	shipyard "SU Human"
 	shipyard "SU Others"
+
+outfit "Plenipotent License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
+
+outfit "Deep Sky License"
+	category Special
+	cost 50000
+	thumbnail outfit/license

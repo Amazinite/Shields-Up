@@ -181,3 +181,28 @@ planet Forge
 planet Human
 	outfitter "AE Human"
 	shipyard "AE Human"
+
+outfit "Alr Military License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
+
+outfit "Alr Mixed License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
+
+outfit "Alr Civilian License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
+
+outfit "Terror of the Galaxy License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
+
+outfit "Tarazed License"
+	category Special
+	cost 50000
+	thumbnail outfit/license
