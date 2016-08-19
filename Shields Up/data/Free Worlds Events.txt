@@ -2,6 +2,7 @@
 			
 mission "SU hostilities check"
 	landing
+	invisible
 	to offer
 		has "event: start of hostilities"
 	on offer
@@ -20,6 +21,7 @@ event "shields up hostilities start"
 
 mission "SU ceasefire check"
     landing
+	invisible
     to offer
         has "event: temporary cease fire"
     on offer
@@ -38,6 +40,7 @@ event "shields up tempoarary cease fire"
 
 mission "SU prisoner parole check"
 	landing
+	invisible
 	to offer
 		has "FW Prisoner Parole 2: done"
 	on offer
@@ -46,6 +49,7 @@ mission "SU prisoner parole check"
 
 mission "SU Rastaban"
 	landing
+	invisible
 	to offer
 		has "event: battle for Rastaban"
 	on offer
@@ -54,6 +58,7 @@ mission "SU Rastaban"
 
 mission "SU Zeta Aquilae"
 	landing
+	invisible
 	to offer
 		has "event: battle for zeta aquilae"
 	on offer
@@ -62,6 +67,7 @@ mission "SU Zeta Aquilae"
 
 mission "SU New Tibet"
 	landing
+	invisible
 	to offer
 		has "FW Defend New Tibet: done"
 	on offer
@@ -70,6 +76,7 @@ mission "SU New Tibet"
 
 mission "SU safe passage start check"
 	landing
+	invisible
 	to offer
 		has "event: fw safe passage starts"
 	on offer
@@ -78,6 +85,7 @@ mission "SU safe passage start check"
 
 mission "SU safe passage ends check"
 	landing
+	invisible
 	to offer
 		has "event: fw safe passage ends"
 	on offer
@@ -88,6 +96,7 @@ mission "SU safe passage ends check"
 
 mission "SU syndicate war check"
 	landing
+	invisible
 	to offer
 		has "event: fw at war with Syndicate"
 	on offer
@@ -103,6 +112,7 @@ event "shields up hostilities start"
 
 mission "SU fw armistice"
 	landing
+	invisible
 	to offer
 		has "event: fw armistice"
 	on offer
@@ -121,6 +131,7 @@ event "shields up fw armistice"
 
 mission "SU fw syndicate welcoming"
 	landing
+	invisible
 	to offer
 		has "event: fw armistice"
 	on offer
@@ -136,6 +147,7 @@ event "shields up fw syndicate welcoming"
 
 mission "SU at war with the pug"
 	landing
+	invisible
 	to offer
 		has "event: fw armistice"
 	on offer
@@ -151,6 +163,7 @@ event "shields up at war with the pug"
 
 mission "SU fwc peace with the navy"
 	landing
+	invisible
 	to offer
 		has "event: fw armistice"
 	on offer
@@ -170,6 +183,7 @@ event "shields up fwc peace with the navy"
 
 mission "SU fwc battle for rasalhague"
 	landing
+	invisible
 	to offer
 		has "event: fw armistice"
 	on offer
@@ -185,6 +199,7 @@ event "shields up fwc battle for rasalhague"
 
 mission "SU fwc peace with the navy"
 	landing
+	invisible
 	to offer
 		has "FWC End: done"
 	on offer
