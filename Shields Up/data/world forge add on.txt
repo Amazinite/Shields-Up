@@ -125,3 +125,7 @@ outfit "Deep Sky License"
 	category Special
 	cost 50000
 	thumbnail outfit/license
+
+outfitter licenses
+	"Plenipotent License"
+	"Deep Sky License"

@@ -206,3 +206,10 @@ outfit "Tarazed License"
 	category Special
 	cost 50000
 	thumbnail outfit/license
+	
+outfitter licenses
+	"Tarazed License"
+	"Terror of the Galaxy License"
+	"Alr Civilian License"
+	"Alr Mixed License"
+	"Alr Military License"
