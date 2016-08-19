@@ -5498,6 +5498,8 @@ system "Pi Capuli"
 		distance 2951.16
 		period 3584.88
 		offset 356.583
+		
+planet "Wormhole Wyvern"
 
 system Qarn
 	pos -240.204 618.803
