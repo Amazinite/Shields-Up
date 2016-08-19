@@ -75,6 +75,8 @@ system Agon
 		distance 4636.11
 		period 1785.69
 		offset 104.543
+		
+planet "Wormhole Donald"
 
 system Algieba
 	pos -691 -52
@@ -145,9 +147,6 @@ system Beltane
 	asteroids "large rock" 2 0.984
 	asteroids "medium metal" 29 1.092
 	asteroids "large metal" 2 1.104
-	fleet "Large Northern Pirates" 3000
-	fleet "Small Southern Pirates" 2000
-	fleet "Small Northern Pirates" 2000
 	object
 		sprite star/k5
 		distance 41.613
@@ -190,6 +189,8 @@ system Beltane
 		distance 2340.82
 		period 1658.7
 		offset 11.5476
+		
+planet "Wormhole Zynga"
 
 system Bera
 	pos -290.892 738.228
