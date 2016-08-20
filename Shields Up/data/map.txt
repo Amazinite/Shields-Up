@@ -10009,7 +10009,6 @@ planet Rodin
 	attributes "The Deep"
 	landscape land/forest2
 	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
-	description `	Despite not claiming responsibility, the Plenipotent Dominion has been funding pirate attacks in the Zorica system, in the hopes of gaining control of the Deep's largest military producer. These attacks often include a super ship designed by the Dominion called a "Battlestar."`
 	spaceport `The spaceport is heavily guarded by ground personel weilding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
 	shipyard "Basic Ships"
 	shipyard "Lionheart Basics"
