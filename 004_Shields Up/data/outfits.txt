@@ -99,7 +99,7 @@ outfit "FTek Jump Drive"
 	"jump speed" .10
 	"jump drive" .6
 	unplunderable 1
-	description "A secret experiment by the FTek™ corperation to replicate the Jump Drive technology. Whih the help of the Militaj, they found a way to reproduce the drive, although it does not have the full effectiveness or speed of the standard jump drive."
+	description "A secret experiment by the FTek™ corperation to replicate the Jump Drive technology. They found a way to reproduce the drive, although it does not have the full effectiveness or speed of the standard jump drive."
 	
 outfit "FTek Slipspace Drive"
 	category "Systems"

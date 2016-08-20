@@ -9626,7 +9626,6 @@ planet "Epica Citadel"
 	outfitter "Basic Weapons"
 	outfitter "Common Outfits"
 	outfitter "Plenipotent Dominion"
-	outfitter "FTek Drive"
 	"required reputation" 3
 	bribe 0.085
 	security 0.45
@@ -9711,7 +9710,6 @@ planet Kullat
 	outfitter "Basic Outfits"
 	outfitter "FTek Basics"
 	outfitter "FTek Advanced"
-	outfitter "FTek Drive"
 	"required reputation" 3
 	bribe 0.075
 	security 0.3
