@@ -60,7 +60,7 @@ mission "Ext Intro [1]"
 	on offer
 		conversation
 			`You find the man you had dropped off in the spaceport after a while of searching, since a lot of the people here are dressed similarly.`
-			`	"Ah, my friend, there you are! You should really check out the systems north of here, they have some pretty advanced technology. But anyways, I'm ready to go assuming you are still interested in helping me."`
+			`	"Ah, my friend, there you are! You should really check out the systems north of here, they have some pretty advanced technology. But anyways, I'm ready to go, assuming you are still interested in helping me."`
 			choice
 				`	"Yes, I'd like to continue helping you."`
 					goto "accept"
@@ -70,15 +70,15 @@ mission "Ext Intro [1]"
 					goto "decline"
 					
 			label "accept"
-			`	"That's great! If you could bring me to the planet 'Splashdown' in the Canpous system, I have to talk to an associate of mine. To get there you have to head back to Talita, then head north."`
+			`	"That's great! If you could bring me to the planet 'Splashdown' in the Canpous system, I have to talk to an associate of mine. To get there you have to head back to the Talita system, then head north."`
 				goto "take off"
 				
 			label "destination"
-			`	"I have to go to the Canopus system, a planet by the name of 'Splashdown' to talk to a friend of mine. You'll have to go back to Talita, then head north."`
+			`	"I have to go to the Canopus system, a planet by the name of 'Splashdown' to talk to a friend of mine. You'll have to go back to the Talita system, then head north."`
 				goto "take off"
 			
 			label "decline"
-			`	"That is very unforunate. Very well then."`
+			`	"That is unforunate. Very well then."`
 				decline
 				
 			label "take off"
@@ -90,7 +90,7 @@ mission "Ext Intro [1]"
 		conversation
 			`You arrive at the fairly unpopulated planet and Paul tells you where to land.`
 			`	`
-			`	"Okay," he says as your ship finally settles down and the engine shuts off, "I'll be back in a bit."`
+			`	"Okay," he says as your ship finally settles down and the engine shuts off, "I'll be back in a short while, wait for me at the spaceport."`
 			`	`
 			`	(Click "spaceport" to continue the mission)`
 			
@@ -98,7 +98,7 @@ mission "Ext Intro [Cargo 1]"
 	priority
 	name "Deliver Paul's cargo to Prime"
 	description "Paul has a quick cargo run he wants you to perform to the planet Prime in the Betelgeuse system."
-	blocked `You find Paul in the spaceport, "Ah, captain, I'm afraid your ship needs more space to perform the job I have for you. We have a delivery that will weigh about 15 tons."`
+	blocked `You find Paul in the spaceport, "Ah captain, I'm afraid your ship needs more cargo space to perform the job I have for you. We have a delivery that will weigh about 15 tons."`
 	cargo "explosives" 15
 	passengers 1
 	source "Splashdown"
@@ -112,7 +112,7 @@ mission "Ext Intro [Cargo 1]"
 	on offer
 		conversation
 			`Due to the small size of the spaceport, finding Paul is fairly easy. He notices you and walks up to you.`
-			`	You see that he isn't very happy, "These people can be so annoying sometimes! The galaxy would be better off without some of them... Anyways, I have another job for you. I need about 15 pounds of electronic supplies delivered to Prime in the Betelgeuse system just north of here. You in?"`
+			`	You see that he isn't very happy, "These people can be so annoying sometimes! The galaxy would be better off without some of them. Anyways, I have another job for you. I need about 15 pounds of electronic supplies delivered to Prime in the Betelgeuse system just north of here. You in?"`
 			choice
 				`	"Sure, I'll be glad to assist you."`
 					goto "accept"
@@ -122,17 +122,17 @@ mission "Ext Intro [Cargo 1]"
 					goto "decline"
 					
 			label "accept"
-			`	"Awesome! Betelgeuse is just a couple jumps north of here."`
+			`	"Great! Betelgeuse is just a couple jumps north of here."`
 				goto "take off"
 				
 			label "supplies"
-			`	"I'm afraid the company I work for would much rather have their cargo be kept secret, you understand with all the pirate attacks going on lately, right?"`
+			`	"I'm afraid the company I work for would much rather have their cargo be kept secret due to the increased piracy in this area, I'm sure you understand."`
 			choice
 				`	"I understand."`
 					goto "accept"
-				`	"Sorry, I would've just liked to know what's being put on my ship."`
+				`	"Of course, I was just curious."`
 					goto "understand"
-				`	"No way, this seems way too shady."`
+				`	"No way, I'm not going to continue being your pack mule."`
 					goto "decline"
 			
 			label "decline"
@@ -140,11 +140,11 @@ mission "Ext Intro [Cargo 1]"
 				decline
 				
 			label "understand"
-			`	"Of course, that makes perfect sense. However certain things have to be kept secret to avoid the ever-watching eye of pirates."`
+			`	"Yes, that makes perfect sense. However certain things have to be kept secret to avoid the ever-watching eye of pirates."`
 				goto "take off"
 				
 			label "take off"
-			`	You enter you ship, ready to take off. Paul said your destination was a few jumps north, so it shouldn't be very difficult.`
+			`	You enter you ship, ready to take off. Paul said your destination was just a few jumps north, but the pirate activity in that area has been growing lately. You'd best be on your guard.`
 				accept
 			
 	on complete
@@ -152,19 +152,19 @@ mission "Ext Intro [Cargo 1]"
 		event "betelgeuse bomb attempt" 73
 		conversation
 			`You land your ship on an open landing pad. You and Paul get out and unload the crate you brought here.`
-			`	"Thank you for your help with this, we just have to wait for my client to arrive..."`
+			`	"Thank you for your help with this, we just have to wait for my client to arrive."`
 			`	`
-			`	About 10 minutes pass when a couple of people run over to you. They grab the crate and look at Paul.`
-			`	They say "Thanks" and walk away with the crate, leaving you and Paul alone.`
+			`	About 10 minutes pass, then a couple of people run over to you. They grab the crate and exchange glances with Paul.`
+			`	They nod and walk away with the crate, leaving you and Paul alone.`
 			`	`
-			`	Paul looks at you and says, "Okay, I have another stop to make before my final destination, think you can bring me there? I'm not in a rush so if you'd like you can take your time. I hear they sell some pretty good transport ships here."`
+			`	Paul looks at you, "Alright, I have another stop to make before my final destination, think you can bring me there? I'm not in a rush so if you'd like you can take your time. I hear they sell some pretty good transport ships here."`
 			`	`
 			`	(Click "spaceport" to continue the mission)`
 
 mission "Ext Intro [Cargo 2]"
 	priority
 	name "Transport Paul to Hephaestus"
-	description "Paul want's you to take him to the Syndicate capital of Hephaestus in the Markab system."
+	description "Paul wants you to take him to the Syndicate capital of Hephaestus in the Markab system."
 	passengers 1
 	source "Prime"
 	waypoint "Phact"
@@ -177,9 +177,9 @@ mission "Ext Intro [Cargo 2]"
 	
 	on offer
 		conversation
-			`"Okay captain, are you ready to go? My next stop is pretty far from here, the planet Hephaestus in the Markab system. It's the home of that large buisness corporation the Syndicate, those guys who own a quarter of the galaxy." He says that rather despicably.`
+			`"Okay captain, are you ready to go? My next stop is pretty far from here, the planet Hephaestus in the Markab system." He continues on, in a condesending tone; "Ff you weren't aware, it's the seat of the Syndicate's government."`
 			choice
-				`	"I'd be happy to help!"`
+				`	"That's fine, I can take you there."`
 					goto "accept"
 				`	"You don't sound too fond of them."`
 					goto "syndicate"
@@ -189,20 +189,20 @@ mission "Ext Intro [Cargo 2]"
 					goto "decline"
 					
 			label "accept"
-			`	"That's great! I'm ready to go whenever you're ready!"`
+			`	"Thank you, I'm ready to go whenever you're done here."`
 				goto "take off"
 				
 			label "syndicate"
-			`	"Yeah, that corrupt buisness is the main supplier of almost everything in this galaxy. They have all the jobs, all the influence with the Republic's government on Earth. Honestly, the people in this galaxy need to see how the Syndicate has all the power."`
-			`	He stops for a second to breathe. "So anyways, are you still willing to help me?"`
+			`	"Of course not, that corrupt buisness is the main supplier of almost everything in this galaxy. They have all the jobs, all the influence with the Republic's government on Earth, and people don't seem to care. Honestly, the people in this galaxy need to see how the Syndicate has all the power."`
+			`	His eyes travel around the spaceport, until they finally return to you. "So anyways, are you still willing to help me?"`
 			choice
-				`	"Of course!"`
+				`	"Yes, I am."`
 					goto "accept"
 				`	"No thanks, I'm good."`
 					goto "decline"
 				
 			label "distance"
-			`	"Well, it's around maybe 10 jumps if you were to head back to Canopus, then go south-east."`
+			`	"If memory serves, its around ten jumps if you were to head back to Canopus, then go south-east."`
 			choice
 				`	"Well, that's not too bad. Let's get going."`
 					goto "take off"
@@ -212,19 +212,19 @@ mission "Ext Intro [Cargo 2]"
 					goto "decline"
 			
 			label "decline"
-			`	"Very well. Have it your way, I won't bother you any more."`
+			`	"Very well. Have it your way, but you won't be seeing me again."`
 				decline
 				
 			label "shortcut"
 			`	"I'm afraid not, that's the quickest route."`
 			choice
-				`	"Alright then, let's go"`
+				`	"Alright then, let's go."`
 					goto "accept"
 				`	"In that case, I won't be taking you there. Sorry."`
 					goto "decline"
 				
 			label "take off"
-			`	Once inside your ship, Paul tells you, "Make sure you avoid heading too far east of here, all those systems are uninhabited, wouldn't want to get stuck with no fuel. To help you avoid the systems I'll set some waypoints on you ship's map to avoid any... unfortunate accidents."`
+			`	Once inside your ship, Paul turns to you, "Make sure you avoid heading too far east of here, all those systems are uninhabited, wouldn't want to get stuck with no fuel. To help you avoid the systems I'll set some waypoints on you ship's map to avoid any... unfortunate accidents."`
 				accept
 
 	on complete
@@ -233,10 +233,10 @@ mission "Ext Intro [Cargo 2]"
 		conversation
 			`As soon as you land on the planet, Paul rushes to get out of your ship. "I already contacted my associate while we were landing, he should be here soon."`
 			`	`
-			`	As he had said, his associate, a tall middle-aged man wearing a buisness suit with a little pin that said 'Syndicate of Tomorrow!' on it, came up to your ship a couple of minutes after you had landed.`
-			`	Paul was quick to greet the man. "Ah, Kal, it's been too long! I brought you that Vodka you always like, straight from the paradise worlds! Talita to be precise."`
-			`	Paul hands the suitcase he's been carrying along the whole trip to Kal, who is extremely pleased once he opens the case.`
-			`	"Thank you so much Paul! If there's anything I can do for you, don't hesitate to call!"`
+			`	As he had said, his associate, a tall middle-aged man wearing a buisness suit with a pin that boldly proclaimed: 'The Syndicate: Supplying jobs since 2660!', came up to your ship a couple of minutes after you had landed.`
+			`	Paul was quick to greet the man. "Ah, Kal, it's been too long! I brought you that wine you always like, straight from the paradise worlds! Talita to be precise."`
+			`	Paul hands the suitcase he'd been carrying along the whole trip to Kal, whose eyes light up with glee once the case is opened.`
+			`	"Paul, this is why you're my good friend, you know me so well! If there's anything I can do for you, don't hesitate to call!"`
 			`	`
 			`	(Click "spaceport" to continue the mission)`
 			
@@ -253,13 +253,13 @@ mission "Ext Intro [Cargo 3]"
 	
 	on offer
 		conversation
-			`Once Kal leaves the area, Paul looks at you and says "I hate that guy so much."`
+			`Once Kal leaves the area, Paul looks at you. "What a dirtbag."`
 			choice
 				`	"He seemed like a real bureaucrat."`
 					goto "bureaucrat"
 				`	"He didn't seem that bad."`
 					goto "okay"
-				`	"What? You seemed like good friends!"`
+				`	"What's with the sudden mood change?"`
 					goto "friends"
 				`	"You aren't gonna say that about me once we go our seperate ways, are you?"`
 					goto "question"
@@ -274,7 +274,7 @@ mission "Ext Intro [Cargo 3]"
 					goto "decline"
 				
 			label "okay"
-			`	"If that's what you think, you have a lot to learn about people. But enough about him, how do you feel about taking me to one more planet?"`
+			`	"If that's what you think, you have a lot to learn about people. But enough about him, how do you feel about taking me to one last destination?"`
 			choice
 				`	"Sure, why not."`
 					goto "accept"
@@ -292,19 +292,19 @@ mission "Ext Intro [Cargo 3]"
 					goto "decline"
 			
 			label "accept"
-			`	"Great! I only need you to take me to Hippocrates in the Alnair system. It's just a few jumps south of us."`
+			`	"That's great, I only need you to take me to Hippocrates in the Alnair system. It's just a few jumps south of us. Although you'd do best to avoid the south-eastern path, it isn't the safest of routes."`
 				accept
 			
 			label "decline"
-			`	"Wow. Here I was thinking we had a good relationship going on. But no matter, I've already done everything I need to do anyways."`
+			`	"Here I was thinking we had a good business relationship going on. But no matter, I've already done everything I need to do anyways."`
 				decline
 				
 			label "question"
-			`	"You're pretty smart, but I won't say that about you unless you become a corrupt bureaucrat like him."`
+			`	"You're pretty smart, however you have to be a very select type of stupid for me to waste precious oxygen in that way."`
 			choice
-				`	"If that's the case, I'll continue helping you."`
+				`	"Well I couldn't decline someone as inteligent as you my help, I'll take you where you need to go."`
 					goto "accept"
-				`	"Alright, well I think I'm done helping you anyways."`
+				`	"In that case, I'm out of here."`
 					goto "decline"
 				
 			label "destination"
@@ -320,13 +320,13 @@ mission "Ext Intro [Cargo 3]"
 			choice
 				`	"What? He looks nothing like the kind of person who would be in charge of that!"`
 					goto "looks"
-				`	"Seriously? I would've though he was in charge of something else!"`
+				`	"Seriously? You've got to be joking!"`
 					goto "looks"
 				`	"So he's pretty important, right?"`
 					goto "important"
 					
 			label "looks"
-			`	"Yeah, hard to believe someone like that could get a role such as that. But enough of that, Can you take me a few jumps south of here to Hippocrates in the Alnair system?"`
+			`	"Yeah, hard to believe someone like that could get a role of such importance. But enough of that, Can you take me a few jumps south of here to Hippocrates in the Alnair system?"`
 			`	He pauses for a second. "Don't worry, the pirates are much farther south than Alnair."`
 			choice
 				`	"I suppose I could help you with one more trip."`
@@ -335,7 +335,7 @@ mission "Ext Intro [Cargo 3]"
 					goto "decline"
 					
 			label "important"
-			`	"You better believe he's important, even though he may not look it, he's been causing problems for those pirates ever since he got control over the Syndicate's southern-most defences. But enough anout that, why don't we get back to the matter at hand? I just need you to take me to Hippocrates in the Alnair system, a few jumps south of here."`
+			`	"You better believe he's important, even though he may not look it, he's been causing problems for those pirates ever since he got control over the Syndicate's southern-most defences. But enough about that, why don't we get back to the matter at hand? I just need you to take me to Hippocrates in the Alnair system, a few jumps south of here."`
 			choice
 				`	"Sure, I'll help you out."`
 					goto "accept"
@@ -348,10 +348,12 @@ mission "Ext Intro [Cargo 3]"
 			`You make another easy landing, and you and Paul both get out of your ship.`
 			`	He turns to you, "Well captain, I thank you for your excellent services. Although I never did get your name."`
 			`	`
-			`	(you tell him your name)`
+			`	(You state your name)`
 			`	"So your name is <first> <last>? That's a pretty nice name, I'll try to remember it."`
 			`	`
-			`	(You have completed the extended tutorial)`
+			`	Paul takes one last look at you and your ship, then turns and walks into a crowd of people.`
+			`	`
+			`	(You have completed this mission chain)`
 			
 mission "Ext Intro [Interceptor 1]"
 	priority
