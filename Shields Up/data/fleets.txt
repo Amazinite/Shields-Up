@@ -676,7 +676,7 @@ fleet "Large Plenipotent Dominion"
 		
 fleet "Small Plenipotent Dominion"
 	government "Plenipotent Dominion"
-		names "plenipotent"
+	names "plenipotent"
 	cargo 1
 	personality
 		heroic
@@ -713,7 +713,7 @@ fleet "Small Plenipotent Dominion"
 		
 fleet "Plenipotent Dominion Scout"
 	government "Plenipotent Dominion"
-		names "plenipotent"
+	names "plenipotent"
 	cargo 1
 	personality
 		surveillance
@@ -722,7 +722,7 @@ fleet "Plenipotent Dominion Scout"
 		
 fleet "Plenipotent Heavy Assault Fleet"
 	government "Plenipotent Dominion"
-		names "plenipotent"
+	names "plenipotent"
 	cargo 1
 	personality
 		heroic
