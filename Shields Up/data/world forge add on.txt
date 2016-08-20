@@ -1,6 +1,6 @@
 outfitter "SU Human"
-	"FTek Active Blaster"
 	"FTek Active Blaster Turret"
+	"FTek Active Blaster"
 	"FTek Heavy Blaster"
 	"FTek Heavy Blaster Turret"
 	"FTek Homing Blaster"

@@ -1,27 +1,4 @@
-﻿outfit "FTek Active Blaster"
-	category "Guns"
-	cost 75000
-	thumbnail "outfit/active blaster"
-	"mass" 5
-	"outfit space" -5
-	"weapon capacity" -5
-	"gun ports" -1
-	weapon
-		sprite "projectile/active blaster"
-		sound "mod blaster"
-		"hit effect" "blaster impact"
-		"inaccuracy" 3
-		"velocity" 8
-		"lifetime" 70
-		"reload" 6
-		"firing energy" 24
-		"firing heat" 30
-		"shield damage" 14.5
-		"hull damage" 12.5
-	description "A standard Energy Blaster refitted with a new core, increasing it's accuracy, range and damage while also decreasing firing heat. However, it's energy useage is impacted negatively as a result."
-	description "Remember, FTek builds murder weapons, so you don't have to!™"
-	
-outfit "FTek Active Blaster Turret"
+﻿outfit "FTek Active Blaster Turret"
 	category "Turrets"
 	cost 250000
 	thumbnail "outfit/active blaster turret"
@@ -44,7 +21,30 @@ outfit "FTek Active Blaster Turret"
 		"hull damage" 12.5
 	description "A standard Energy Blaster Turret refitted with a new core, increasing it's accuracy, range and damage while also decreasing firing heat. However, it's energy useage is impacted negatively as a result."
 	description "Remember, FTek builds murder weapons, so you don't have to!™"
-	
+
+outfit "FTek Active Blaster"
+	category "Guns"
+	cost 75000
+	thumbnail "outfit/active blaster"
+	"mass" 5
+	"outfit space" -5
+	"weapon capacity" -5
+	"gun ports" -1
+	weapon
+		sprite "projectile/active blaster"
+		sound "mod blaster"
+		"hit effect" "blaster impact"
+		"inaccuracy" 3
+		"velocity" 8
+		"lifetime" 70
+		"reload" 6
+		"firing energy" 24
+		"firing heat" 30
+		"shield damage" 14.5
+		"hull damage" 12.5
+	description "A standard Energy Blaster refitted with a new core, increasing it's accuracy, range and damage while also decreasing firing heat. However, it's energy useage is impacted negatively as a result."
+	description "Remember, FTek builds murder weapons, so you don't have to!™"
+
 outfit "FTek Heavy Blaster"
 	category "Guns"
 	cost 90000
