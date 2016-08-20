@@ -829,7 +829,7 @@ system Gami
 
 system "Gamma Cassiopeiae"
 	pos -116 293
-	habitable nan
+	habitable 455.625
 	link "Omicron Zeta"
 	link Mirach
 
