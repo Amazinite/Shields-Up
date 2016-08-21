@@ -385,6 +385,7 @@ outfit "Anti-Ship Battery"
     thumbnail "outfit/asb"
 	"turret mounts" -1
 	"outfit space" -50
+	"weapon capacity" -50
 	weapon
 		icon "icon/tbd"
 		sprite "projectile/asb"

@@ -326,8 +326,8 @@ outfit "Meteor Missile Depot"
 	category "Systems"
 	cost 7500
 	thumbnail "outfit/unknown"
-	"mass" 5
-	"outfit space" -5
+	"mass" 2
+	"outfit space" -7
 	"meteor capacity" 25
 	description "For anyone who wants to shoots more missiles but has no gun ports left install more launchers, this outfit stores an extra 25 Meteor Missiles."
 	
@@ -335,8 +335,8 @@ outfit "Sidewinder Missile Depot"
 	category "Systems"
 	cost 30000
 	thumbnail "outfit/unknown"
-	"mass" 7
-	"outfit space" -7
+	"mass" 2
+	"outfit space" -9
 	"sidewinder capacity" 35
 	description "For anyone who wants to shoot more missiles but has no gun ports left to install more launchers, this outfit stores an extra 35 Sidewinder Missiles."
 	
@@ -344,8 +344,8 @@ outfit "Javelin Secondary Magazine"
 	category "Systems"
 	cost 10000
 	thumbnail "outfit/javelin pod"
-	"mass" 6
-	"outfit space" -6
+	"mass" 2
+	"outfit space" -10
 	"javelin capacity" 200
 	description "Even with the large amount of Javelins the stock launcher can hold, sometimes you just need more gun but don't have enough space. That's where the secondary magazine comes in, offering space for an extra 200 Javelin Missiles."
 	
@@ -353,8 +353,8 @@ outfit "Hai Tracker Secondary Magazine"
 	category "Systems"
 	cost 75000
 	thumbnail "outfit/hai tracker pod"
-	"mass" 9
-	"outfit space" -9
+	"mass" 2
+	"outfit space" -14
 	"tracker capacity" 40
 	description "Tracker Pods already hold a decent amount of Trackers but sometimes you need even more. This outfit offers you an extra 40 Trackers to hold."
 	
@@ -362,7 +362,7 @@ outfit "Torpedo Supply Depot"
 	category "Systems"
 	cost 40000
 	thumbnail "outfit/unknown"
-	"mass" 12
+	"mass" 2
 	"outfit space" -12
 	"torpedo capacity" 25
 	description "Personally requested by a Navy officer, it has been made available to civilians as well."
@@ -371,8 +371,8 @@ outfit "Typhoon Supply Depot"
 	category "Systems"
 	cost 130000
 	thumbnail "outfit/unknown"
-	"mass" 18
-	"outfit space" -18
+	"mass" 2.5
+	"outfit space" -15
 	"typhoon capacity" 25
 	description "The advent of Typhoons also calls for a supply depot similar to that of the Torpedo. This request was quickly turned into reality."
 	
@@ -380,8 +380,8 @@ outfit "Heavy Rocket Depot"
 	category "Systems"
 	cost 20000
 	thumbnail "outfit/unknown"
-	"mass" 10
-	"outfit space" -10
+	"mass" 2
+	"outfit space" -7
 	"rocket capacity" 10
 	description "More gun is better than less gun, so install this outfit if you wish to stay in the fight longer with an extra 10 Heavy Rockets."
 	
@@ -389,17 +389,17 @@ outfit "Intelligent Rocket Depot"
 	category "Systems"
 	cost 45000
 	thumbnail "outfit/unknown"
-	"mass" 10
-	"outfit space" -10
-	"rocket capacity" 10
+	"mass" 2.5
+	"outfit space" -5
+	"intelrock capacity" 10
 	description "More gun is better than less gun, so install this outfit if you wish to stay in the fight longer with an extra 10 Intelligent Rockets."
 	
 outfit "Khorne Rocket Depot"
 	category "Systems"
 	cost 87500
 	thumbnail "outfit/unknown"
-	"mass" 20
-	"outfit space" -20
+	"mass" 2
+	"outfit space" -7
 	"khorne capacity" 20
 	description "This won't be implemented yet."
 	
@@ -407,8 +407,8 @@ outfit "Soaker Missile Depot"
 	category "Systems"
 	cost 325000
 	thumbnail "outfit/unknown"
-	"mass" 15
-	"outfit space" -15
+	"mass" 2
+	"outfit space" -12
 	"soaker capacity" 10
 	description "The want to protect yourself or your allies gave rise to this extra storage that allows 10 more Soakers."
 	
@@ -416,8 +416,8 @@ outfit "Grenade Depot"
 	category "Systems"
 	cost 40000
 	thumbnail "outfit/unknown"
-	"mass" 15
-	"outfit space" -15
+	"mass" 2
+	"outfit space" -7
 	"grenade capacity" 25
 	description "For anyone who wants to hold more Grenade to make things go boom. Holds an extra 25 Grenades."
 	
@@ -425,8 +425,8 @@ outfit "Rail Slug Depot"
 	category "Systems"
 	cost 40000
 	thumbnail "outfit/unknown"
-	"mass" 20
-	"outfit space" -20
+	"mass" 2
+	"outfit space" -17
 	"slug capacity" 30
 	description "Hold 30 extra slugs for blasting enemies away for longer."
 	
@@ -460,7 +460,7 @@ outfit "SC15s Shield Capacitor"
 	thumbnail "outfit/tiny battery"
 	"mass" 10
 	"outfit space" -10
-	"shields" 400
+	"shields" 600
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 
 outfit "SC30s Shield Capacitor"
@@ -469,7 +469,7 @@ outfit "SC30s Shield Capacitor"
 	thumbnail "outfit/small battery"
 	"mass" 20
 	"outfit space" -20
-	"shields" 1200
+	"shields" 1800
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
 outfit "SC60s Shield Capacitor"
@@ -478,7 +478,7 @@ outfit "SC60s Shield Capacitor"
 	thumbnail "outfit/medium battery"
 	"mass" 40
 	"outfit space" -40
-	"shields" 2800
+	"shields" 4400
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
 outfit "SC120s Shield Capacitor"
@@ -487,7 +487,7 @@ outfit "SC120s Shield Capacitor"
 	thumbnail "outfit/large battery"
 	"mass" 80
 	"outfit space" -80
-	"shields" 6000
+	"shields" 9000
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
 outfit "SC240s Shield Capacitor"
@@ -496,10 +496,10 @@ outfit "SC240s Shield Capacitor"
 	thumbnail "outfit/huge battery"
 	"mass" 160
 	"outfit space" -160
-	"shields" 15000
+	"shields" 22500
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
-outfit "He-30 Heat Sink"
+outfit "Nalabidium Heat Sink"
 	category "Systems"
 	cost 30000
 	mass 30

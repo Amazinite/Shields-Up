@@ -7,3 +7,18 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfitter "Hai Intermediate"
+	"Hai Crew Member"
+
+outfitter "Hai Advanced"
+	"Hai Crew Member"
+	
+outfit "Hai Crew Member"
+	category "Hand to Hand"
+	cost 2000
+	thumbnail "outfit/unknown"
+	"capture attack" 0.3
+	"capture defense" 0.3
+	unplunderable 1
+	description "A Hai crew member. Slightly stronger than humans."

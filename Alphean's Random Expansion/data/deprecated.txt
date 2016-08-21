@@ -8,16 +8,10 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-effect "jump die"
-	sprite "effect/jump drive"
-		"no repeat"
-		"frame rate" 4
-	"lifetime" 36
-	"random angle" 360
-	"random velocity" 1
-	"random spin" 5
-	"random frame rate" 5
-	"velocity scale" .4
-
-effect "jump die sound"
-	sound "jump drive"
+outfit "Nalabidium Heat Sink"
+	category "Systems"
+	cost 30000
+	mass 30
+	"outfit space" -10
+	"thumbnail" "outfit/unknown"
+	description "Heat Sinks increase the maximum heat a ship can handle. This comes at the cost of 30000 credits to install a 30 ton chunk of Nalabidium."

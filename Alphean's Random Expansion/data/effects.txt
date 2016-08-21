@@ -8,17 +8,16 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfitter "Hai Intermediate"
-	"Hai Crew Member"
+effect "jump die"
+	sprite "effect/jump drive"
+		"no repeat"
+		"frame rate" 4
+	"lifetime" 36
+	"random angle" 360
+	"random velocity" 1
+	"random spin" 5
+	"random frame rate" 5
+	"velocity scale" .4
 
-outfitter "Hai Advanced"
-	"Hai Crew Member"
-	
-outfit "Hai Crew Member"
-	category "Hand to Hand"
-	cost 2000
-	thumbnail "outfit/unknown"
-	"capture attack" 0.3
-	"capture defense" 0.3
-	unplunderable 1
-	description "A Hai crew member. Slightly stronger than humans."
+effect "jump die sound"
+	sound "jump drive"

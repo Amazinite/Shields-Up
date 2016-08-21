@@ -206,7 +206,7 @@ outfit "Tarazed License"
 	category Special
 	cost 50000
 	thumbnail outfit/license
-	
+
 outfitter licenses
 	"Tarazed License"
 	"Terror of the Galaxy License"

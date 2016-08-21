@@ -7,18 +7,11 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-		
-phrase "unknown drones"
-	word
-		"DR-"
-	phrase "digit"
-	phrase "digit"
-	phrase "digit"
-		
-phrase "sentar"
-	word
-		"Sentarian Unit "
-	phrase "digit"
-	phrase "digit"
-	phrase "digit"
-	
+
+outfit "Korath Crew Member"
+	category "Hand to Hand"
+	thumbnail "outfit/unknown"
+	"capture defense" 3.5
+	"capture attack" 3.5
+	unplunderable 1
+	description "The Korath are very violent against their attackers."
