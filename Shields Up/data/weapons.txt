@@ -1,4 +1,5 @@
-﻿outfit "FTek Active Blaster Turret"
+﻿
+outfit "FTek Active Blaster Turret"
 	category "Turrets"
 	cost 250000
 	thumbnail "outfit/active blaster turret"
