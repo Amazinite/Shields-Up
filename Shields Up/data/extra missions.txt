@@ -29,10 +29,10 @@ mission "Colonizing Sanctus Part 1"
 		"reputation: Deep Sky" > 10
 	on offer
 		conversation
-			`After easing your ship into the large hanger bay, you exit your ship and are soon met with the prying eyes of a man wearing a black suit. He aproaches you and you get a good look at him; brown hair, blue eyes, and you can recognize the smell of alcohol emanating from him. He begins speaking in a somewhat slurred voice:`
-			`	"Hey, captain <last> I noticed your ship come in for a landing over there" he attempts to point in the direction of your ship, but mistakingly points at a tiny fighter a few feet away. "I must say, you've certainly downgraded from whatever warship you used in the war there, but I guess I won't judge"`
+			`After easing your ship into the large hanger bay, you exit your ship and are soon met with the prying eyes of a man wearing a black suit. He aproaches you and you get a good look at him: brown hair, blue eyes; you also can recognize the smell of alcohol emanating from him. He begins speaking in a somewhat slurred voice:`
+			`	"Hey, Captain <last>! I noticed your ship coming in for a landing over there." He attempts to point in the direction of your ship, but mistakenly points at a tiny fighter parked a few feet away. "I must say, you've certainly downgraded from whatever warship you used in the war there, but I guess I won't judge."`
 			choice
-				`	"Oh, that's not my ship"`
+				`	"Oh, that's not my ship."`
 					goto ship
 				`	"Are you drunk?"`
 					goto drunk
@@ -40,11 +40,11 @@ mission "Colonizing Sanctus Part 1"
 					goto know
 
 			label ship
-			`	You attempt to explain to him how that wasn't you ship, but he simply dismisses it and continues on. "So I heard about all your..." he struggles to find the correct word, until finally coming up with a replacment, "Job doing, and I was thinking you could maybe help us out." He stares at you in silence, and just as you're about to respond he starts talking again. "Great! So listen, we're planning on colonizing a planet out in the Teshana system, and we need a guy to go and kill all the pirate guys there, you got it? There's this one asswipe going around blowin' up all our shit, and we need you to kill him. Maybe even some of his buddies as well."`
+			`	You attempt to explain to him how that wasn't you ship, but he simply dismisses it and continues on. "So I've heard about all your..." He struggles to find the correct word, but finally comes up with a replacment, "Job doing, and I was thinking you could maybe help us out." He stares at you in silence, and just as you're about to respond, he starts talking again. "Great! So listen, we're planning on colonizing a planet out in the Teshana system, and we need a guy to go and kill all the pirate guys there, you got it? There's this one asswipe going around blowin' up all our shit, and we need you to kill him. Maybe even some of his buddies as well."`
 			choice
-				`	Help him`
+				`	(Help him.)`
 					goto help
-				`	Decline his offer`
+				`	(Decline his offer.)`
 					goto deny
 
 			label help
