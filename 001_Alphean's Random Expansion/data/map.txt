@@ -21,7 +21,7 @@ system Waypoint
 		
 #Tyil Corporation
 system Aurum
-	pos -735.204 154.972
+	pos -750.204 138.972
 	government Republic
 	habitable 1505.92
 	link Silicium
@@ -87,7 +87,7 @@ system Gacrux
 	link Aurum
 	
 system Silicium
-	pos -758.204 175.972
+	pos -779.204 165.972
 	government Republic
 	habitable 368.28
 	link Aurum
