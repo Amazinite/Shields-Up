@@ -266,9 +266,8 @@ outfit "Hull Repair Nano-Bots"
 	thumbnail "outfit/medium fuel cell"
 	"mass" 40
 	"outfit space" -40
-	"shield generation" -.4
 	"hull repair rate" .6
-	"energy generation" -1
+	"hull energy" .6
 	description "In a galaxy full of shields, armor repair has become more and more marginalized. However, for those that still cling to the old ways, Tufton Robotics recently released an armor maintenance outfit for use on space combat vessels, city maintenance crews, and your family hovercar. The armor repair bots draw energy from any shield systems equipped on the vessel, as well as placing a mild drain on any energy generation systems. Most captains find the shied drain to be too inefficient for use on shield-based vessels."
 
 outfit "Hedgehog Ion Mine"
