@@ -11,7 +11,7 @@
 outfit "Intelligent Rocket"
 	category "Ammunition"
 	cost 4000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/intell rocket" # Image by Derpy Horse
 	"intelrock capacity" -1
 	mass .25
 	description "Intelligent Rockets are ammunition for the Intelligent Rocket Launcher. You cannot install one unless you have first installed a launcher to fire it from. Each launcher holds up to 20 rockets."
@@ -19,7 +19,7 @@ outfit "Intelligent Rocket"
 outfit "Intelligent Rocket Launcher"
 	category "Secondary Weapons"
 	cost 90000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/intell launcher" # Image by Derpy Horse
 	"mass" 15
 	"outfit space" -20
 	"weapon capacity" -20
@@ -215,24 +215,24 @@ outfit "Soaker Shield"
 outfit "Energy Chaingun"
 	category "Guns"
 	cost 116000
-	thumbnail "outfit/unknown"
-	"mass" 30
-	"outfit space" -30
-	"weapon capacity" -30
+	thumbnail "outfit/energy chaingun" # Image by Derpy Horse
+	"mass" 35
+	"outfit space" -35
+	"weapon capacity" -35
 	"gun ports" -1
 	weapon
 		sprite "projectile/blaster"
 		sound "blaster"
 		"hit effect" "blaster impact"
-		"inaccuracy" 3
-		"velocity" 7
+		"inaccuracy" 6
+		"velocity" 8
 		"lifetime" 60
-		"reload" 2.30
-		"firing energy" 12
-		"firing heat" 86
-		"shield damage" 9
-		"hull damage" 6
-	description "A powerful weapon, this modified Blaster does not tamper with the firepower. Instead, it mounts five energy blaster on a rotating base, effectively making it a chaingun."
+		"reload" 2
+		"firing energy" 22
+		"firing heat" 68
+		"shield damage" 15
+		"hull damage" 10
+	description "Taking blaster technology to the next level, the Energy Chaingun is sure to mow down any ship unfortunate enough to get too close. The Energy Chaingun uses four overclocked blasters to fire an almost continuous stream of energy. Although, the amount of space and power required to weild such a weapon is difficult to achieve by many."
 	
 outfit "Nebulon Beam Turret"
 	category "Turrets"
