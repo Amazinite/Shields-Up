@@ -36,7 +36,7 @@ outfit "Ion Torpedo Bay"
 	category "Secondary Weapons"
 	cost 2500000
 	thumbnail "outfit/iontorpedobay"
-	"mass" 45
+	"mass" 35
 	"outfit space" -45
 	"weapon capacity" -45
 	"gun ports" -1
@@ -72,6 +72,7 @@ outfit "Ion Torpedo"
 	cost 2000000
 	thumbnail "outfit/iontorpedo"
 	"ion torpedo capacity" -1
+	"mass" 2
 	description "Ion Torpedos are ammunition for the Ion Torpedo Bay. A single one of these torpedos can completely drain any ships energy reserves while doing no damage to the shields or hull of the ship."
 	
 outfit "Tuk'ux Shield Decimator"

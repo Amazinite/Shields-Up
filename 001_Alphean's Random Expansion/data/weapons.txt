@@ -55,7 +55,7 @@ outfit "Khorne Rocket Turret"
 	category "Turrets"
 	cost 175000
 	thumbnail "outfit/unknown"
-	"mass" 35
+	"mass" 30
 	"outfit space" -40
 	"weapon capacity" -40
 	"turret mounts" -1
@@ -412,14 +412,14 @@ outfit "EMP Bomb"
 	cost 8000
 	thumbnail "outfit/emp bomb"
 	"empbomb capacity" -1
-	mass .357
+	mass .4
 	description "EMP Bombs designed to overload electical systems."
 	
 outfit "EMP Bomb Launcher"
 	category "Secondary Weapons"
 	cost 650000
 	thumbnail "outfit/emp bomb launcher"
-	"mass" 20
+	"mass" 19
 	"outfit space" -25
 	"weapon capacity" -25
 	"gun ports" -1
@@ -455,7 +455,7 @@ outfit "Pulse EMP Bomb Launcher"
 	category "Secondary Weapons"
 	cost 720000
 	thumbnail "outfit/emp bomb launcher"
-	"mass" 30
+	"mass" 31
 	"outfit space" -45
 	"weapon capacity" -45
 	"gun ports" -1

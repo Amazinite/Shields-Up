@@ -32,19 +32,19 @@ outfit "M50-400 Slug"
 	category "Ammunition"
 	cost 1000
 	thumbnail "outfit/unknown"
-	"torpedo capacity" -1
+	"m50 capacity" -1
+	"mass" .5
 	description "400mm Railgun Slug"
 
 outfit "400mm Railgun"
 	category "Guns"
 	cost 2490000
 	thumbnail "outfit/400mm Railgun" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
-	"mass" 60
+	"mass" 35
 	"outfit space" -60
 	"weapon capacity" -60
 	"gun ports" -1
-	"drag" 1
-	"torpedo capacity" 50
+	"m50 capacity" 50
 	weapon
 		sprite "projectile/tracker"
 			"frame rate" 18
@@ -274,18 +274,19 @@ outfit "Hedgehog Ion Mine"
 	category "Ammunition"
 	cost 1400
 	thumbnail "outfit/medium shield"
-	"torpedo capacity" -1
+	"hedgehog capacity" -1
+	"mass" .5
 	description "Hedgehog Ion Mines are ammunition for the Hedgehog Ion Mine Launcher."
 
 outfit "Hedgehog Ion Mine Launcher"
 	category "Secondary Weapons"
 	cost 110000
 	thumbnail "outfit/torpedo launcher"
-	"mass" 50
+	"mass" 35
 	"outfit space" -50
 	"weapon capacity" -50
 	"gun ports" -1
-	"torpedo capacity" 30
+	"hedgehog capacity" 30
 	weapon
 		sprite "projectile/seeker"
 			"frame rate" 16
