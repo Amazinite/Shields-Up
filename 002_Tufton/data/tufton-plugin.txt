@@ -39,7 +39,7 @@ outfit "M50-400 Slug"
 outfit "400mm Railgun"
 	category "Guns"
 	cost 2490000
-	thumbnail "outfit/400mm Railgun" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
+	thumbnail "outfit/400mm Railgun" # Image by Derpy Horse
 	"mass" 35
 	"outfit space" -60
 	"weapon capacity" -60
@@ -72,32 +72,26 @@ outfit "400mm Railgun"
 outfit "Plasma Gatling"
 	category "Guns"
 	cost 410000
-	thumbnail "outfit/plasma gattling" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
-	"mass" 40
-	"outfit space" -40
-	"weapon capacity" -40
+	thumbnail "outfit/plasma gatling"  # Image by Derpy Horse
+	"mass" 75
+	"outfit space" -75
+	"weapon capacity" -75
 	"gun ports" -1
-	"heat generation" 15
 	weapon
 		sprite "projectile/plasma"
 			"frame rate" 3
 		sound "plasma"
 		"hit effect" "plasma explosion"
-		"inaccuracy" 13
-		"velocity" 7
-		"acceleration" -.05
-		"lifetime" 90
-		"reload" 5
-		"firing energy" 10
+		"inaccuracy" 8
+		"velocity" 12
+		"lifetime" 40
+		"reload" 6
+		"firing energy" 30
 		"firing heat" 180
-		"turn" 0
-		"homing" 0
-		"firing force" 0
-		"shield damage" 45
-		"hull damage" 20
-		"heat damage" 55
-		"hit force" 0
-		"missile strength" 0
+		"hit force" 30
+		"shield damage" 63
+		"hull damage" 25
+		"heat damage" 340
 	description "The Plasma Gatling is designed to eviscerate your enemies with a hail of superheated plasma singularities. As a trade-off, the integrated particle hyperaccelerator puts a significant strain on your ship's cooling systems."
 
 ship "Monolith"
@@ -237,7 +231,7 @@ outfit "Tractor Beam Turret"
 outfit "Bighorn Energy Ram"
 	category "Guns"
 	cost 4050000
-	thumbnail "outfit/energy ram" # Thumbnail by Derpy Horse, image located inside of Shields Up folder.
+	thumbnail "outfit/energy ram"  # Image by Derpy Horse
 	"mass" 90
 	"outfit space" -90
 	"weapon capacity" -90
