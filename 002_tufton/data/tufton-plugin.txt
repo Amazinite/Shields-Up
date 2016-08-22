@@ -79,12 +79,10 @@ outfit "Plasma Gatling"
 	"gun ports" -1
 	"heat generation" 15
 	weapon
-		sprite "projectile/grab-strike"
-			"frame rate" 25
-			"random start frame"
-		sound "particle"
-		"hit effect" "grab-strike impact"
-		"die effect" "grab-strike impact"
+		sprite "projectile/plasma"
+			"frame rate" 3
+		sound "plasma"
+		"hit effect" "plasma explosion"
 		"inaccuracy" 13
 		"velocity" 7
 		"acceleration" -.05
@@ -247,11 +245,11 @@ outfit "Bighorn Energy Ram"
 	"required crew" 1
 	weapon
 		sprite "projectile/ram"
-			"frame rate" 1
+			"frame rate" 60
 		sound "laser"
 		"hit effect" "beam laser impact"
 		"inaccuracy" 0
-		"velocity" 90
+		"velocity" 100
 		"lifetime" 1
 		"reload" 1
 		"firing energy" 25.0
