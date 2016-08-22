@@ -106,37 +106,21 @@ outfit "FTek Homing Blaster"
 		sound "proton"
 		"hit effect" "proton impact"
 		"split range" 27
-		"submunition" "FTek Homing Fragment" 5
 		"inaccuracy" 1
-		"velocity" 20
-		"lifetime" 200
+		"velocity" 35
+		"lifetime" 400
 		"reload" 8
 		"acceleration" 1.2
 		"drag" .15
 		"turn" 2.5
 		"homing" 4
-		"hit force" 3
+		"hit force" 10.5
 		"firing energy" 20
 		"firing heat" 28.5
-		"shield damage" 15
-		"hull damage" 13
+		"shield damage" 40
+		"hull damage" 33
 	description "What's the point of a blaster if you can't hit your target? If you find yourself lacking the ability to aim at a target correctly, boy does FTek have a product for you!"
 	description "Remember, FTek builds murder weapons, so you don't have to!™"
-	
-outfit "FTek Homing Fragment"
-	weapon
-		sprite "projectile/blue blaster"
-		"hit effect" "proton impact"
-		"inaccuracy" 1
-		"lifetime" 200
-		"hit force" 1.5
-		"shield damage" 5
-		"hull damage" 4
-		"homing" 4
-		"turn" 2.5
-		"drag" .15
-		"acceleration" 1
-		"velocity" 15
 	
 outfit "Turbo Laser Turret"
 	category "Turrets"
