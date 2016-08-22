@@ -232,7 +232,7 @@ outfit "Energy Chaingun"
 		"firing heat" 68
 		"shield damage" 15
 		"hull damage" 10
-	description "Taking blaster technology to the next level, the Energy Chaingun is sure to mow down any ship unfortunate enough to get too close. The Energy Chaingun uses four overclocked blasters to fire an almost continuous stream of energy. Although, the amount of space and power required to weild such a weapon is difficult to achieve by many."
+	description "Taking blaster technology to the next level, the Energy Chaingun is sure to mow down any ship unfortunate enough to get too close. The Energy Chaingun uses four overclocked blasters to fire an almost continuous stream of energy. Although, the amount of space and power required to weild such a weapon is difficult to achieve for many."
 	
 outfit "Nebulon Beam Turret"
 	category "Turrets"
