@@ -267,7 +267,7 @@ outfit "Hull Repair Nano-Bots"
 outfit "Hedgehog Ion Mine"
 	category "Ammunition"
 	cost 1400
-	thumbnail "outfit/medium shield"
+	thumbnail "outfit/mine"
 	"hedgehog capacity" -1
 	"mass" .5
 	description "Hedgehog Ion Mines are ammunition for the Hedgehog Ion Mine Launcher."
@@ -275,7 +275,7 @@ outfit "Hedgehog Ion Mine"
 outfit "Hedgehog Ion Mine Launcher"
 	category "Secondary Weapons"
 	cost 110000
-	thumbnail "outfit/torpedo launcher"
+	thumbnail "outfit/minelayer"
 	"mass" 35
 	"outfit space" -50
 	"weapon capacity" -50
