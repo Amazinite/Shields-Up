@@ -352,12 +352,13 @@ outfit "Mil'taj Point-Defence Turret"
 	"turret mounts" -1
 	"required crew" 1
 	weapon
-		sprite "projectile/green blaster"
-		sound "particle"
-		"hit effect" "pulse impact"
+		sprite "projectile/point defence"
+			"frame rate" 60
+		sound "heavy anti-missile"
+		"hit effect" "slicer impact"
 		"inaccuracy" 1
-		"velocity" 25
-		"lifetime" 30
+		"velocity" 500
+		"lifetime" 1
 		"reload" 7
 		"firing energy" 15
 		"firing heat" 30
