@@ -12,8 +12,8 @@ ship "Bodkin"
 		"heat dissipation" .9
 		"fuel capacity" 600
 		"cargo space" 30
-		"outfit space" 360
-		"weapon capacity" 100
+		"outfit space" 375
+		"weapon capacity" 120
 		"engine capacity" 100
 		weapon
 			"blast radius" 36
@@ -166,8 +166,8 @@ ship "Curtana"
 		"mass" 50
 		"drag" .6
 		"heat dissipation" .9
-		"outfit space" 120
-		"weapon capacity" 30
+		"outfit space" 125
+		"weapon capacity" 35
 		"engine capacity" 40
 		weapon
 			"blast radius" 12

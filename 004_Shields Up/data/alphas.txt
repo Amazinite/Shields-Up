@@ -67,7 +67,7 @@ ship "Napoo"
 		"heat dissipation" .6
 		"fuel capacity" 600
 		"cargo space" 40
-		"outfit space" 550
+		"outfit space" 600
 		"weapon capacity" 230
 		"engine capacity" 200
 		"self destruct" .6
@@ -120,8 +120,8 @@ ship "Sica"
 		"heat dissipation" .9
 		"fuel capacity" 400
 		"cargo space" 15
-		"outfit space" 330
-		"weapon capacity" 100
+		"outfit space" 340
+		"weapon capacity" 120
 		"engine capacity" 120
 		"self destruct" .3
 		weapon
@@ -167,8 +167,8 @@ ship "Corvo"
 		"heat dissipation" .75
 		"fuel capacity" 400
 		"cargo space" 70
-		"outfit space" 250
-		"weapon capacity" 50
+		"outfit space" 255
+		"weapon capacity" 70
 		"engine capacity" 100
 		"self destruct" .2
 		weapon
@@ -311,8 +311,8 @@ ship "Nefandous"
 		"heat dissipation" .8
 		"fuel capacity" 400
 		"cargo space" 20
-		"outfit space" 370
-		"weapon capacity" 110
+		"outfit space" 390
+		"weapon capacity" 130
 		"engine capacity" 120
 		"self destruct" .3
 		weapon
@@ -356,8 +356,8 @@ ship "Gourami"
 		"heat dissipation" .6
 		"fuel capacity" 600
 		"cargo space" 120
-		"outfit space" 550
-		"weapon capacity" 200
+		"outfit space" 610
+		"weapon capacity" 220
 		"engine capacity" 160
 		"self destruct" .4
 		weapon
@@ -409,7 +409,7 @@ ship "Albacore"
 		"heat dissipation" .8
 		"fuel capacity" 500
 		"cargo space" 35
-		"outfit space" 315
+		"outfit space" 355
 		"weapon capacity" 100
 		"engine capacity" 100
 		"self destruct" .3
@@ -454,7 +454,7 @@ ship "Arowana"
 		"mass" 90
 		"drag" .7
 		"heat dissipation" .8
-		"outfit space" 120
+		"outfit space" 125
 		"weapon capacity" 50
 		"engine capacity" 50
 		weapon
@@ -493,8 +493,8 @@ ship "Cisco"
 		"heat dissipation" .55
 		"fuel capacity" 800
 		"cargo space" 130
-		"outfit space" 540
-		"weapon capacity" 180
+		"outfit space" 625
+		"weapon capacity" 190
 		"engine capacity" 150
 		"self destruct" .4
 		weapon
@@ -550,7 +550,7 @@ ship "Catla"
 		"fuel capacity" 600
 		"cargo space" 100
 		"outfit space" 355
-		"weapon capacity" 90
+		"weapon capacity" 100
 		"engine capacity" 95
 		"self destruct" .3
 		weapon

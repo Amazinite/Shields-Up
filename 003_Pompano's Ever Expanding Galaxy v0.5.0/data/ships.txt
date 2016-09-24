@@ -32,7 +32,7 @@ ship "Quarg Rover"
 			"hull damage" 500
 			"hit force" 1500
 	outfits
-		"Quarg Skydagger" 4
+		"Quarg Skydagger" 2
 		"Quarg Anti-Missile" 2
 		"Nanotech Battery"
 		"Quantum Shield Generator"
@@ -44,8 +44,6 @@ ship "Quarg Rover"
 	engine 15 117
 	gun -18 -80 "Quarg Skydagger"
 	gun	18 -80 "Quarg Skydagger"
-	gun -12 -80 "Quarg Skydagger"
-	gun 12 -80 "Quarg Skydagger"
 	turret 33.5 24.5 "Quarg Anti-Missile"
 	turret -33.5 24.5 "Quarg Anti-Missile"
 	explode "tiny explosion" 12
@@ -79,7 +77,7 @@ ship "Quarg Warbird"
 			"hull damage" 500
 			"hit force" 1500
 	outfits
-		"Quarg Skydagger" 4
+		"Quarg Skydagger" 2
 		"Quarg Anti-Missile" 2
 		"Nanotech Battery"
 		"Quantum Shield Generator"
@@ -91,8 +89,6 @@ ship "Quarg Warbird"
 	engine 14 47
 	gun -35 6 "Quarg Skydagger"
 	gun 35 6 "Quarg Skydagger"
-	gun -29 6 "Quarg Skydagger"
-	gun 29 6 "Quarg Skydagger"
 	turret -28 7 "Quarg Anti-Missile"
 	turret 28 7 "Quarg Anti-Missile"
 	explode "tiny explosion" 12
@@ -239,6 +235,7 @@ ship "Tuk'ux Frigate"
 		"outfit space" 1400
 		"weapon capactiy" 160
 		"engine capacity" 230
+		weapon
 			"blast radius" 450
 			"shield damage" 2300
 			"hull damage" 1400
@@ -279,6 +276,7 @@ ship "Tuk'ux Cargo Ship"
 		"outfit space" 800
 		"weapon capacity" 150
 		"engine capactiy" 200
+		weapon
 			"blast radius" 300
 			"shield damage" 800
 			"hull damage" 600
