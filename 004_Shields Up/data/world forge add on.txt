@@ -117,16 +117,42 @@ planet Human
 	shipyard "SU Human"
 	shipyard "SU Others"
 
-outfit "Plenipotent License"
-	category Special
-	cost 50000
-	thumbnail outfit/license
+mission "Add Plenipotent License License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Plenipotent License license."
+	on accept
+		set "license: Plenipotent License"
+		fail
 
-outfit "Deep Sky License"
-	category Special
-	cost 50000
-	thumbnail outfit/license
+mission "Remove Plenipotent License License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Plenipotent License license."
+	on accept
+		clear "license: Plenipotent License"
+		fail
 
-outfitter licenses
-	"Plenipotent License"
-	"Deep Sky License"
+mission "Add Deep Sky License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Deep Sky license."
+	on accept
+		set "license: Deep Sky"
+		fail
+
+mission "Remove Deep Sky License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Deep Sky license."
+	on accept
+		clear "license: Deep Sky"
+		fail
