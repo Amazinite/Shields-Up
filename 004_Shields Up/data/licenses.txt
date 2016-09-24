@@ -19,7 +19,7 @@ mission "Syndicate Grants License"
 	landing
 	autosave
 	to offer
-		has "event: battle of algenib"
+		has "main plot completed"
 	on offer
 		event "S license"
 		set "license: Syndicate"

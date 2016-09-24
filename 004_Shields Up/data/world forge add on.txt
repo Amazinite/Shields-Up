@@ -156,3 +156,23 @@ mission "Remove Deep Sky License"
 	on accept
 		clear "license: Deep Sky"
 		fail
+
+mission "Add Syndicate License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Syndicate license."
+	on accept
+		set "license: Syndicate"
+		fail
+
+mission "Remove Syndicate License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Syndicate license."
+	on accept
+		clear "license: Syndicate"
+		fail
