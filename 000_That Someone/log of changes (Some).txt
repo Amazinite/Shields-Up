@@ -1,0 +1,14 @@
+The following keeps track of all changes to this individual mod since the creation of the Shields Up Repository.
+
+Shields Up Reborn v1
+	New Content
+	Content Changes
+		* Pug research ships now self destruct when you attempt to capture them.
+		* Moved a number of systems as to not conflict with Shields Up systems (for if the mods are installed individually instead of needing to be in the pack to work together).
+	Bug Fixes
+		* Fixed some quote errors.
+		* Fixed a mistake that was causing Hai Absconded to have no hails.
+	Misc
+		* Removed redundant government information.
+		* Added a World Forge add on, allowing ships and outfits in this mod to be purchased from World Forge planets.
+		* Removed map.txt.ignore file.

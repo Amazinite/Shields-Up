@@ -1,0 +1,17 @@
+The following keeps track of all changes to this individual mod since the creation of the Shields Up Repository.
+
+Shields Up Reborn v1
+	New Content
+		* Added a projectile sprite for the Energy Ram.
+		* Created an outfit image for the Plasma Gatling and changed the stats up.
+	Content Changes
+		* Renamed the "Ion Beam Turret" to "Ion Laser Turret" as to keep compatibility with Ursa Polaris.
+		* Arachnid and Mite are no longer available through normal means, as the Solifuge and Violin Spiders, which were inspired by the Arachnid and Mite, have been added to the vanilla game.
+		* Changed the Plasma Gatling to use actual plasma projectiles.
+		* The Hull Repair Nano-bots outfit no longer reduce your shield generation and take energy to repair instead of requiring constant energy.
+		* Used some unused images from Shields Up for the Hedgehog Ion Mine.
+	Bug Fixes
+		* Fixed a number of missing quote errors.
+	Misc
+		* Removed duplicate information in the shipyards and outfitters.
+		* Added a World Forge add on, allowing ships and outfits in this mod to be purchased from World Forge planets.

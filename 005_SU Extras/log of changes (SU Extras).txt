@@ -1,0 +1,12 @@
+The following keeps track of all changes to this individual mod since the creation of the Shields Up Repository.
+
+Shields Up Reborn v1
+	New Content
+	Content Changes
+		* The extended bunk room is now unplunderable to keep compatibility with the vanilla game.
+	Bug Fixes
+		* Fixed a missing quote error.
+	Misc
+		* Added a World Forge add on, allowing ships and outfits in this mod to be purchased from World Forge planets.
+		
+	

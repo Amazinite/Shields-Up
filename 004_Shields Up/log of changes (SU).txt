@@ -1,0 +1,36 @@
+The following keeps track of all changes to this individual mod since the creation of the Shields Up Repository.
+
+Shields Up Reborn v1
+	New Content
+		* New images for the FTek blasters! (Not yet the blaster turrets).
+		* New projectile image for the Mil'taj Point-Defence Turret, along with some small stat changes.
+	Content Changes
+		* Removed a ton of duplicate images and merged duplicate files.
+		* Removed the "Milky Way" system to keep compatibility with Enigma Corp.
+		* Changed Omicron Zeta from being linked to Algenib to being linked to Gamma Cassiopeaie (lore reasons).
+		* Moved a number of systems so that the names of systems don't run into eachother.
+		* Removed a number of systems to the north of the Deep (lore reasons).
+		* Removed any remaining regional pirate fleets.
+		* Removed any changes that SU made to vanilla outfits.
+		* Set some wormholes to create purple lines when visited.
+		* Removed some not-so-true words in the Rodin planet description.
+		* Changed the FTek shield images to be green.
+		* Removed the submunitions on the Homing Blaster to cause no more lag.
+		* Removed the FTek Drive from being for sale.
+		* Moved some Shields Up campaign missions into their own file.
+	Bug Fixes
+		* Fixed a number of errors, from mising "shipyard" lines to completely improperly formatted missions.
+		* Fixed a bug that was causing strange errors and for the FTek Active Blaster to not appear.
+		* Fixed a bug that was making Plenipotent Dominion fleets not have proper names.
+	Misc
+		* Merged the content of Friendly Technology into the Shields Up folder, as Friendly pretty much resides over both now.
+		* Removed the out dated commodities and interface file.
+		* Removed the hai file, as it was a duplicate of what is in That Someone.
+		* Removed other misc redundant information.
+		* Added a World Forge add on, allowing ships and outfits in this mod to be purchased from World Forge planets.
+		* Removed sprites.txt and sent the sprites and information to their proper locations.
+		* Removed the "that_someone_fixes" file.
+		* Simplified the Free Worlds Events file to allow compatibility with vanilla changes.
+		* Removed map information for systems in other mod folders.
+		* Removed old outfit images and shrunk the Militaj Grey Generator image.
+	
