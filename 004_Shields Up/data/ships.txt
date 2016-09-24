@@ -132,11 +132,11 @@ ship "Vagrant"
 		
 	engine -8 49
 	engine 8 49
-	gun -27 -5 "Beam Laser"
-	gun 27 -5 "Beam Laser"
-	turret -17 -5 "Anti-Missile Turret"
-	turret -17 30 "Laser Turret"
-	turret 17 30 "Laser Turret"
+	gun -9 -50 "Beam Laser"
+	gun 9 -50 "Beam Laser"
+	turret 0 5 "Anti-Missile Turret"
+	turret -16 30 "Laser Turret"
+	turret 16 30 "Laser Turret"
 	explode "tiny explosion" 10
 	explode "small explosion" 20
 	explode "medium explosion" 15
@@ -344,15 +344,15 @@ ship "Phoenix"
 		
 	engine -25 115
 	engine 25 115
-	gun -51 -21 "400mm Railgun"
-	gun 51 -21 "400mm Railgun"
-	gun -39 -33 "Torpedo Launcher"
-	gun 39 -33 "Torpedo Launcher"
-	turret -15 -50 "Heavy Laser Turret"
-	turret 15 -50 "Heavy Laser Turret"
-	turret 0 -75 "Heavy Laser Turret"
-	turret -25 10 "Heavy Anti-Missile Turret"
-	turret 25 10 "Heavy Anti-Missile Turret"
+	gun -55 -38 "400mm Railgun"
+	gun 55 -38 "400mm Railgun"
+	gun -26 -13 "Torpedo Launcher"
+	gun 26 -13 "Torpedo Launcher"
+	turret -54 -4 "Heavy Laser Turret"
+	turret 54 -4 "Heavy Laser Turret"
+	turret 0 -9 "Heavy Laser Turret"
+	turret -30 27 "Heavy Anti-Missile Turret"
+	turret 30 27 "Heavy Anti-Missile Turret"
 	fighter -16 -9
 	fighter 16 -9
 	drone 32 -9
@@ -548,16 +548,15 @@ ship "Archangel"
 		"Security Station" 5
 		"Breacher Cannon" 3
 		
-		
-	engine -12 123
-	engine 12 123
-	gun -36 -119 "Torpedo Launcher"
-	gun 36 -119 "Torpedo Launcher"
-	turret 0 -65 "Heavy Laser Turret"
-	turret -37 -21 "Heavy Laser Turret"
-	turret 39 35 "Heavy Laser Turret"
-	turret 37 -21 "Heavy Anti-Missile Turret"
-	turret -39 35 "Anti-Missile Turret"
+	engine -20 111
+	engine 20 111
+	gun -4 -110 "Torpedo Launcher"
+	gun 4 -110 "Torpedo Launcher"
+	turret 0 -60 "Heavy Laser Turret"
+	turret -29 -39 "Heavy Laser Turret"
+	turret 29 -39 "Heavy Laser Turret"
+	turret -40 26 "Heavy Anti-Missile Turret"
+	turret 40 26 "Anti-Missile Turret"
 	fighter -16 -9
 	fighter 16 -9
 	explode "tiny explosion" 10
@@ -636,11 +635,11 @@ ship "Ironclad Battleship"
 		"energy capacity" 300
 	outfits
 		"Quad Blaster Turret" 4
-		"Meteor Missile Launcher" 3
+		"Meteor Missile Launcher" 4
 		"Meteor Missile" 105
-		"Torpedo Launcher" 3
+		"Torpedo Launcher" 2
 		"Torpedo" 90
-		"Heavy Anti-Missile Turret" 2
+		"Heavy Anti-Missile Turret" 4
 
 		"D67-TM Shield Generator"
 		"LP288a Battery Pack"
@@ -655,21 +654,22 @@ ship "Ironclad Battleship"
 		"Tactical Armor" 30
 		"Security Station" 30
 
-
 	engine -40 140
 	engine 40 140
-	gun 60 -30 "Meteor Missile Launcher"
-	gun 10 -30 "Meteor Missile Launcher"
-	gun -60 -30 "Meteor Missile Launcher"
-	gun 60 -30 "Torpedo Launcher"
-	gun 30 -30 "Torpedo Launcher"
-	gun -30 -30 "Torpedo Launcher"
-	turret 0 -60 "Heavy Anti-Missile Turret"
-	turret 0 85 "Quad Blaster Turret"
-	turret 0 70 "Heavy Anti-Missile Turret"
-	turret 40 -24 "Quad Blaster Turret"
-	turret -40 -24 "Quad Blaster Turret"
-	turret -60 -18 "Quad Blaster Turret"
+	gun -75 -28 "Meteor Missile Launcher"
+	gun 75 -28 "Meteor Missile Launcher"
+	gun -20 -46 "Meteor Missile Launcher"
+	gun 20 -46 "Meteor Missile Launcher"
+	gun -7 -108 "Torpedo Launcher"
+	gun 7 -108 "Torpedo Launcher"
+	turret 0 -56 "Anti-Missile Turret"
+	turret 0 46 "Anti-Missile Turret"
+	turret 0 68 "Anti-Missile Turret"
+	turret 0 88 "Anti-Missile Turret"
+	turret -76 0 "Quad Blaster Turret"
+	turret 76 0 "Quad Blaster Turret"
+	turret -42 -13 "Quad Blaster Turret"
+	turret 42 -13 "Quad Blaster Turret"
 	fighter -45 -30
 	fighter 45 -30
 	explode "small explosion" 25
@@ -718,14 +718,14 @@ ship "Ironclad Carrier"
 		
 	engine -35 160
 	engine 35 160
-	gun -20 -130 "Meteor Missile Launcher"
-	gun 20 -130 "Meteor Missile Launcher"
-	gun -10 -130 "Meteor Missile Launcher"
-	gun 10 -130 "Meteor Missile Launcher"
-	turret -16 -146 "Laser Turret"
-	turret 16 -146 "Laser Turret"
-	turret 0 157 "Heavy Anti-Missile Turret"
-	turret 0 103 "Heavy Anti-Missile Turret"
+	gun -50 -82 "Meteor Missile Launcher"
+	gun 50 -82 "Meteor Missile Launcher"
+	gun -24 -88 "Meteor Missile Launcher"
+	gun 24 -88 "Meteor Missile Launcher"
+	turret -45 50 "Laser Turret"
+	turret 45 50 "Laser Turret"
+	turret -17 -51 "Heavy Anti-Missile Turret"
+	turret 17 -51 "Heavy Anti-Missile Turret"
 	fighter -37 -65
 	fighter 37 -65
 	fighter -46 40
@@ -838,20 +838,20 @@ ship "Samurai"
 		
 	engine -29 156
 	engine 29 156
-	gun -46 -52 "Ion Cannon"
-	gun 46 -52 "Ion Cannon"
-	gun -66 -63 "Ion Cannon"
-	gun 66 -63 "Ion Cannon"
-	gun -44 -44 "Typhoon Launcher"
-	gun 44 -44 "Typhoon Launcher"
-	gun -22 -44 "Typhoon Launcher"
-	gun 22 -44 "Typhoon Launcher"
-	turret 86 54 "Plasma Turret"
-	turret -90 -16 "Plasma Turret"
-	turret 86 -16 "Plasma Turret"
-	turret -90 54 "Plasma Turret"
-	turret 0 60 "Heavy Anti-Missile Turret"
-	turret 0 -20 "Heavy Anti-Missile Turret"
+	gun -56 -98 "Ion Cannon"
+	gun 56 -98 "Ion Cannon"
+	gun -44 -84 "Ion Cannon"
+	gun 44 -84 "Ion Cannon"
+	gun -18 -142 "Typhoon Launcher"
+	gun -18 -142 "Typhoon Launcher"
+	gun 18 -142 "Typhoon Launcher"
+	gun 18 -142 "Typhoon Launcher"
+	turret -100 -3 "Plasma Turret"
+	turret 100 -3 "Plasma Turret"
+	turret -100 -71 "Plasma Turret"
+	turret 100 -71 "Plasma Turret"
+	turret -53 34 "Heavy Anti-Missile Turret"
+	turret 53 34 "Heavy Anti-Missile Turret"
 	fighter -30 -44 
 	fighter -44 18
 	fighter 44 18 
@@ -891,8 +891,8 @@ ship "FTek Destroyer"
 			"hull damage" 200
 			"hit force" 600
 	outfits
-		"FTek Active Blaster Turret" 3
-		"FTek Homing Blaster" 2
+		"FTek Active Blaster Turret"
+		"FTek Homing Blaster" 4
 		"Heavy Anti-Missile Turret"
 		
 		"Fusion Reactor"
@@ -907,11 +907,11 @@ ship "FTek Destroyer"
 	engine -9 97
 	engine 9 97
 	turret 0 -58 "FTek Active Blaster Turret"
-	turret 0 -42 "FTek Active Blaster Turret"
-	turret 0 -26 "FTek Active Blaster Turret"
 	turret 0 23 "Heavy Anti-Missile Turret"
-	gun -30 -9 "FTek Homing Blaster"
-	gun 30 -9 "FTek Homing Blaster"
+	gun -30 -8 "FTek Homing Blaster"
+	gun 30 -8 "FTek Homing Blaster"
+	gun -40 2 "FTek Homing Blaster"
+	gun 40 2 "FTek Homing Blaster"
 	explode "tiny explosion" 10
 	explode "small explosion" 30
 	explode "medium explosion" 20

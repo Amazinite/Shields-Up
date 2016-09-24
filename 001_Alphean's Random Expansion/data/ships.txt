@@ -524,8 +524,8 @@ ship "Erebus"
 		"heat dissipation" 1
 		"cargo space" 500
 		"fuel capacity" 500
-		"outfit space" 2000
-		"weapon capacity" 755
+		"outfit space" 2600
+		"weapon capacity" 1600
 		"engine capacity" 350
 		"identification" -1
 	outfits
@@ -599,8 +599,8 @@ ship "Capitalis Viatoris"
 		"heat dissipation" .45
 		"fuel capacity" 900
 		"cargo space" 125
-		"outfit space" 2120
-		"weapon capacity" 430
+		"outfit space" 2125
+		"weapon capacity" 440
 		"engine capacity" 440
 		"identification" -1
 		weapon

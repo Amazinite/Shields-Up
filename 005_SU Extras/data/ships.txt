@@ -87,16 +87,16 @@ ship "Kestrel-M"
 		"Hyperdrive"
 	engine -14 177
 	engine 14 177
-	gun -31 66 "Particle Cannon"
-	gun 31 66 "Particle Cannon"
-	gun -53 61 "Particle Cannon"
-	gun 53 61 "Particle Cannon"
-	gun -75 57 "Torpedo Launcher"
-	gun 75 57 "Torpedo Launcher"
-	turret -7 -4 "Heavy Laser Turret"
-	turret 7 4 "Heavy Laser Turret"
-	turret -23	14 "Heavy Laser Turret"
-	turret 23 14 "Heavy Laser Turret"
+	gun -88 95 "Torpedo Launcher"
+	gun 88 95 "Torpedo Launcher"
+	gun -69 88 "Particle Cannon"
+	gun 69 88 "Particle Cannon"
+	gun -50 81 "Particle Cannon"
+	gun 50 81 "Particle Cannon"
+	turret -27 48 "Heavy Laser Turret"
+	turret 27 48 "Heavy Laser Turret"
+	turret 0 48 "Heavy Laser Turret"
+	turret 0 48 "Heavy Laser Turret"
 	explode "small explosion" 25
 	explode "medium explosion" 35
 	explode "big explosion" 45
