@@ -1,8 +1,6 @@
 ship "Bactrian"
 	licenses
 		"Deep Sky"
-	attributes
-		"cost" 18600000
 	
 ship "Skybus"
 	sprite "ship/skybus"
@@ -448,11 +446,6 @@ ship "Sky Dinghy" "Sky Dinghy (Heavy)"
 		"D23-QP Shield Generator"
 		"XF-111 Ship Core"
 		"Laser Rifle"
-
-ship "Mule"
-	attributes
-		"cost" 5580000
-		
 
 ship "Hauler XV"
 	sprite "ship/haulerxv"
