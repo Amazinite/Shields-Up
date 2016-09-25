@@ -233,7 +233,7 @@ ship "Tuk'ux Frigate"
 		"fuel capacity" 600
 		"cargo space" 240
 		"outfit space" 1400
-		"weapon capactiy" 160
+		"weapon capacity" 160
 		"engine capacity" 230
 		weapon
 			"blast radius" 450
@@ -275,7 +275,7 @@ ship "Tuk'ux Cargo Ship"
 		"cargo space" 560
 		"outfit space" 800
 		"weapon capacity" 150
-		"engine capactiy" 200
+		"engine capacity" 200
 		weapon
 			"blast radius" 300
 			"shield damage" 800
