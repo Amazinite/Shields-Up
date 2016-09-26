@@ -1,3 +1,299 @@
+
+ship "Stiletto"
+	sprite "ship/Stiletto"
+	attributes
+		category "Transport"
+		"cost" 500000
+		"shields" 3000
+		"hull" 800
+		"required crew" 1
+		"bunks" 8
+		"mass" 220
+		"drag" 2.6
+		"heat dissipation" .75
+		"fuel capacity" 500
+		"cloak" .05
+		"cloaking energy" 4
+		"cargo space" 20
+		"outfit space" 270
+		"weapon capacity" 70
+		"engine capacity" 110
+		"self destruct" .8
+		weapon
+			"blast radius" 30
+			"shield damage" 300
+			"hull damage" 150
+			"hit force" 450
+	outfits
+		"Particle Accelerator"
+		"Mil'taj Anti-Missile Turret"
+		
+		"Mil'taj Grey Generator"
+		"FTek021 Rechargable Battery"
+		"Mil'taj Cooling Cell" 2
+		"Toaster Bot" 7
+		
+		"X3700 Ion Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+		
+	engine 0 62
+	gun 0 -33 "Particle Accelerator"
+	turret 0 9 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 10
+	explode "small explosion" 15
+	description "Somewhere in between a transport and an intercepter, the Stiletto is a stealth craft capable of rendering itself invisible to sneak behind enemy lines, performing undercover mssions for the Dominion. Although if needed, it can handle other craft of similar size."
+
+ship "Corvo"
+	sprite "ship/Corvo"
+	attributes
+		category "Light Freighter"
+		"cost" 700000
+		"shields" 3000
+		"hull" 600
+		"required crew" 3
+		"bunks" 30
+		"mass" 160
+		"drag" 1.5
+		"heat dissipation" .75
+		"fuel capacity" 400
+		"cargo space" 70
+		"outfit space" 255
+		"weapon capacity" 70
+		"engine capacity" 100
+		"self destruct" .2
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
+	outfits
+		"Particle Accelerator" 2
+		
+		"FTek021 Rechargable Battery"
+		"Mil'taj Grey Generator" 2
+		"Mil'taj Cooling Cell" 2
+		"Toaster Bot" 4
+		
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+	engine 0 49.5
+	gun -27 -13.5 "Particle Accelerator"
+	gun 27 -13.5 "Particle Accelerator"
+	explode "tiny explosion" 10
+	explode "small explosion" 5
+	description "The Corvo is FTek's interpretation of a small freighter mixed with a transport. So in other words, it's basically interceptor."
+
+ship "Sica"
+	sprite "ship/Sica"
+	attributes
+		category "Light Warship"
+		"cost" 1000000
+		"shields" 3500
+		"hull" 800
+		"required crew" 2
+		"bunks" 5
+		"mass" 170
+		"drag" 2.4
+		"heat dissipation" .9
+		"fuel capacity" 400
+		"cargo space" 15
+		"outfit space" 340
+		"weapon capacity" 120
+		"engine capacity" 120
+		"self destruct" .3
+		weapon
+			"blast radius" 30
+			"shield damage" 300
+			"hull damage" 150
+			"hit force" 450
+	outfits
+		"Particle Accelerator" 2
+		"FTek Heavy Blaster Turret"
+		"Mil'taj Anti-Missile Turret"
+		
+		"Mil'taj Grey Generator" 2
+		"FTek021 Rechargable Battery"
+		"Mil'taj Cooling Cell" 2
+		"Toaster Bot" 6
+		
+		"X3700 Ion Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+		
+	engine 0 63.5
+	gun -14 -12.5 "Particle Accelerator"
+	gun 14 -12.5 "Particle Accelerator"
+	turret 0 -17.5 "FTek Heavy Blaster Turret"
+	turret 0 24.5 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 10
+	explode "small explosion" 15
+	description "FTek's attempts to create an interceptor that is not only capable of handling it's energy usage and it's coolant levels, but also capable of dealing serious amounts of damage finally pays off in the Sica model."
+	description "If piloted by the right person, the Sica has the capability to take out an entire frigate single-handedly."
+
+ship "Nefandous"
+	sprite "ship/Nefandous"
+	attributes
+		category "Medium Warship"
+		"cost" 1500000
+		"shields" 4500
+		"hull" 900
+		"required crew" 3
+		"bunks" 10
+		"mass" 250
+		"drag" 3.2
+		"shield generation" 1
+		"heat dissipation" .8
+		"fuel capacity" 400
+		"cargo space" 20
+		"outfit space" 390
+		"weapon capacity" 130
+		"engine capacity" 120
+		"self destruct" .3
+		weapon
+			"blast radius" 30
+			"shield damage" 300
+			"hull damage" 150
+			"hit force" 450
+	outfits
+		"Particle Accelerator" 3
+		"Mil'taj Anti-Missile Turret"
+		
+		"FTek021 Rechargable Battery"
+		"Mil'taj Grey Generator" 3
+		"Mil'taj Cooling Cell" 2
+		"Toaster Bot" 8
+		
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Hyperdrive"
+		
+	engine 0 70
+	gun -11 -72 "Particle Accelerator"
+	gun 11 -72 "Particle Accelerator"
+	gun 0 20 "Particle Accelerator"
+	turret 0 33 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 10
+	explode "small explosion" 15
+	description "The Nefandous used primarily as a support craft for larger fleets. Alone is can support itself to an extent, but it can be easily overrun by enemies, making it better to be used in fleets."
+
+ship "Napoo"
+	sprite "ship/Napoo"
+	attributes
+		category "Heavy Warship"
+		"cost" 11200000
+		"shields" 100000
+		"hull" 5500
+		"required crew" 45
+		"bunks" 85
+		"mass" 630
+		"drag" 14.3
+		"heat dissipation" .6
+		"fuel capacity" 600
+		"cargo space" 40
+		"outfit space" 600
+		"weapon capacity" 230
+		"engine capacity" 200
+		"self destruct" .6
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Particle Accelerator" 4
+		"Mil'taj Plasma Cannon"
+		"Mil'taj Anti-Missile Turret" 2
+		
+		"Mil'taj Black Generator" 2
+		"Mil'taj Cooling Unit" 3
+		"Mil'taj Condensed Battery"
+		"Toaster Bot" 15
+		
+		"A520 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Jump Drive"
+		"Hyperdrive"
+		
+	engine 0 115
+	gun -65 47 "Particle Accelerator"
+	gun 65 47 "Particle Accelerator"
+	gun -26 -83 "Particle Accelerator"
+	gun 26 -83 "Particle Accelerator"
+	gun 0 -88 "Mil'taj Plasma Cannon"
+	turret 0 16 "Mil'taj Anti-Missile Turret"
+	turret 0 45 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "big explosion" 40
+	explode "huge explosion" 10
+	description "A fusion of both human and alien design, creating an ideal warship for the Plenipotent Dominion to handle both humans and lesser alien species."
+
+# ship "Gunong"
+
+ship "Kukri"
+	sprite "ship/Kukri"
+	attributes
+		category "Medium Warship"
+		"cost" 8000000
+		"shields" 85000
+		"hull" 4700
+		"required crew" 25
+		"bunks" 60
+		"mass" 580
+		"drag" 11.4
+		"heat dissipation" .7
+		"energy generation" 1.5
+		"fuel capacity" 800
+		"cargo space" 40
+		"outfit space" 560
+		"weapon capacity" 205
+		"engine capacity" 180
+		"self destruct" .5
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Particle Accelerator"
+		"Mil'taj Point-Defence Turret" 4
+		"Mil'taj Anti-Missile Turret" 2
+		
+		"Mil'taj Black Generator"
+		"Mil'taj Grey Generator" 2
+		"Mil'taj Cooling Unit" 2
+		"Mil'taj Condensed Battery"
+		"Catalytic Ramscoop"
+		"Toaster Bot" 17
+		
+		"A520 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Jump Drive"
+		"Hyperdrive"
+		
+	engine 0 57
+	gun 0 -26 "Particle Accelerator"
+	turret -40 12 "Mil'taj Point-Defence Turret"
+	turret 40 12 "Mil'taj Point-Defence Turret"
+	turret -47 37 "Mil'taj Point-Defence Turret"
+	turret 47 37 "Mil'taj Point-Defence Turret"
+	turret -11 -1 "Mil'taj Anti-Missile Turret"
+	turret 11 -1 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "big explosion" 40
+	explode "huge explosion" 10
+	description "The FTek Kukri light warship was originally designed to be used by the Servorum Dei, however after a slight mix-up (and a few threats) the design was eventually give to the Plenipotent Dominion. With a fair supply of fuel and firepower, this ship is ideal for making quick jumps into enemy territory to launch quick assaults, then escape before the enemy could really react."
+
+# ship "Pugio"
+
+# ship "Dirk"
+
 ship "Spetum"
 	sprite "ship/Spetum"
 	attributes
@@ -52,295 +348,141 @@ ship "Spetum"
 	explode "medium explosion" 60
 	explode "big explosion" 50
 	description "The crown jewel of FTek inginuity, a beast capable of shredding everything in it's path if piloted by the right crew."
-	
-ship "Napoo"
-	sprite "ship/Napoo"
+
+ship "Arowana"
+	sprite "ship/arowana"
 	attributes
-		category "Medium Warship"
-		"cost" 11200000
-		"shields" 100000
-		"hull" 5500
-		"required crew" 45
-		"bunks" 85
-		"mass" 630
-		"drag" 14.3
-		"heat dissipation" .6
-		"fuel capacity" 600
-		"cargo space" 40
-		"outfit space" 600
-		"weapon capacity" 230
-		"engine capacity" 200
-		"self destruct" .6
-		weapon
-			"blast radius" 260
-			"shield damage" 2600
-			"hull damage" 1300
-			"hit force" 3900
-	outfits
-		"Particle Accelerator" 4
-		"Mil'taj Plasma Cannon"
-		"Mil'taj Anti-Missile Turret" 2
-		
-		"Mil'taj Black Generator" 2
-		"Mil'taj Cooling Unit" 3
-		"Mil'taj Condensed Battery"
-		"Toaster Bot" 15
-		
-		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Jump Drive"
-		"Hyperdrive"
-		
-	engine 0 115
-	gun -65 47 "Particle Accelerator"
-	gun 65 47 "Particle Accelerator"
-	gun -26 -83 "Particle Accelerator"
-	gun 26 -83 "Particle Accelerator"
-	gun 0 -88 "Mil'taj Plasma Cannon"
-	turret 0 16 "Mil'taj Anti-Missile Turret"
-	turret 0 45 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 20
-	explode "small explosion" 45
-	explode "medium explosion" 50
-	explode "big explosion" 40
-	explode "huge explosion" 10
-	description "A fusion of both human and alien design, creating an ideal warship for the Plenipotent Dominion to handle both humans and lesser alien species."
-	
-ship "Sica"
-	sprite "ship/Sica"
-	attributes
-		category "Interceptor"
-		"cost" 1000000
-		"shields" 3500
-		"hull" 800
-		"required crew" 2
-		"bunks" 5
-		"mass" 170
-		"drag" 2.4
-		"heat dissipation" .9
-		"fuel capacity" 400
-		"cargo space" 15
-		"outfit space" 340
-		"weapon capacity" 120
-		"engine capacity" 120
-		"self destruct" .3
-		weapon
-			"blast radius" 30
-			"shield damage" 300
-			"hull damage" 150
-			"hit force" 450
-	outfits
-		"Particle Accelerator" 2
-		"FTek Heavy Blaster Turret"
-		"Mil'taj Anti-Missile Turret"
-		
-		"Mil'taj Grey Generator" 2
-		"FTek021 Rechargable Battery"
-		"Mil'taj Cooling Cell" 2
-		"Toaster Bot" 6
-		
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-		
-	engine 0 63.5
-	gun -14 -12.5 "Particle Accelerator"
-	gun 14 -12.5 "Particle Accelerator"
-	turret 0 -17.5 "FTek Heavy Blaster Turret"
-	turret 0 24.5 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 10
-	explode "small explosion" 15
-	description "FTek's attempts to create an interceptor that is not only capable of handling it's energy usage and it's coolant levels, but also capable of dealing serious amounts of damage finally pays off in the Sica model."
-	description "If piloted by the right person, the Sica has the capability to take out an entire frigate single-handedly."
-	
-ship "Corvo"
-	sprite "ship/Corvo"
-	attributes
-		category "Light Freighter"
-		"cost" 700000
+		category "Fighter"
+		"cost" 70000
 		"shields" 3000
-		"hull" 600
-		"required crew" 3
-		"bunks" 30
-		"mass" 160
-		"drag" 1.5
-		"heat dissipation" .75
-		"fuel capacity" 400
-		"cargo space" 70
-		"outfit space" 255
-		"weapon capacity" 70
-		"engine capacity" 100
-		"self destruct" .2
+		"hull" 750
+		"required crew" 1
+		"bunks" 1
+		"mass" 90
+		"drag" .7
+		"heat dissipation" .8
+		"outfit space" 125
+		"weapon capacity" 50
+		"engine capacity" 50
 		weapon
 			"blast radius" 12
-			"shield damage" 120
-			"hull damage" 60
+			"shield damage" 130
+			"hull damage" 55
 			"hit force" 180
 	outfits
-		"Particle Accelerator" 2
-		
-		"FTek021 Rechargable Battery"
-		"Mil'taj Grey Generator" 2
-		"Mil'taj Cooling Cell" 2
-		"Toaster Bot" 4
-		
-		"Greyhound Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 49.5
-	gun -27 -13.5 "Particle Accelerator"
-	gun 27 -13.5 "Particle Accelerator"
-	explode "tiny explosion" 10
-	explode "small explosion" 5
-	description "The Corvo is FTek's interpretation of a small freighter mixed with a transport. So in other words, it's basically interceptor."
-		
-ship "Stiletto"
-	sprite "ship/Stiletto"
-	attributes
-		category "Transport"
-		"cost" 500000
-		"shields" 3000
-		"hull" 800
-		"required crew" 1
-		"bunks" 8
-		"mass" 220
-		"drag" 2.6
-		"heat dissipation" .75
-		"fuel capacity" 500
-		"cloak" .05
-		"cloaking energy" 4
-		"cargo space" 20
-		"outfit space" 270
-		"weapon capacity" 70
-		"engine capacity" 110
-		"self destruct" .8
-		weapon
-			"blast radius" 30
-			"shield damage" 300
-			"hull damage" 150
-			"hit force" 450
-	outfits
 		"Particle Accelerator"
-		"Mil'taj Anti-Missile Turret"
 		
 		"Mil'taj Grey Generator"
-		"FTek021 Rechargable Battery"
-		"Mil'taj Cooling Cell" 2
-		"Toaster Bot" 7
+		"Mil'taj Curtana Battery"
+		"Mil'taj Cooling Cell"
+		"Toaster Bot" 3
 		
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
+		"A120 Atomic Thruster"
+		"A125 Atomic Steering"
 		
-	engine 0 62
-	gun 0 -33 "Particle Accelerator"
-	turret 0 9 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 10
-	explode "small explosion" 15
-	description "Somewhere in between a transport and an intercepter, the Stiletto is a stealth craft capable of rendering itself invisible to sneak behind enemy lines, performing undercover mssions for the Dominion. Although if needed, it can handle other craft of similar size."
+	engine 0 30
+	gun 0 -38 "Particle Accelerator"
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	description "An attempt to replicate the functionality of the Curtana to provide the Servorum Dei with a fighter capable of protecting their carriers."
 
-ship "Kukri"
-	sprite "ship/Kukri"
-	attributes
-		category "Light Warship"
-		"cost" 8000000
-		"shields" 85000
-		"hull" 4700
-		"required crew" 25
-		"bunks" 60
-		"mass" 580
-		"drag" 11.4
-		"heat dissipation" .7
-		"energy generation" 1.5
-		"fuel capacity" 800
-		"cargo space" 40
-		"outfit space" 560
-		"weapon capacity" 205
-		"engine capacity" 180
-		"self destruct" .5
-		weapon
-			"blast radius" 260
-			"shield damage" 2600
-			"hull damage" 1300
-			"hit force" 3900
-	outfits
-		"Particle Accelerator"
-		"Mil'taj Point-Defence Turret" 4
-		"Mil'taj Anti-Missile Turret" 2
-		
-		"Mil'taj Black Generator"
-		"Mil'taj Grey Generator" 2
-		"Mil'taj Cooling Unit" 2
-		"Mil'taj Condensed Battery"
-		"Catalytic Ramscoop"
-		"Toaster Bot" 17
-		
-		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Jump Drive"
-		"Hyperdrive"
-		
-	engine 0 57
-	gun 0 -26 "Particle Accelerator"
-	turret -40 12 "Mil'taj Point-Defence Turret"
-	turret 40 12 "Mil'taj Point-Defence Turret"
-	turret -47 37 "Mil'taj Point-Defence Turret"
-	turret 47 37 "Mil'taj Point-Defence Turret"
-	turret -11 -1 "Mil'taj Anti-Missile Turret"
-	turret 11 -1 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 20
-	explode "small explosion" 45
-	explode "medium explosion" 50
-	explode "big explosion" 40
-	explode "huge explosion" 10
-	description "The FTek Kukri light warship was originally designed to be used by the Servorum Dei, however after a slight mix-up (and a few threats) the design was eventually give to the Plenipotent Dominion. With a fair supply of fuel and firepower, this ship is ideal for making quick jumps into enemy territory to launch quick assaults, then escape before the enemy could really react."
-	
-ship "Nefandous"
-	sprite "ship/Nefandous"
+ship "Albacore"
+	sprite "ship/albacore"
 	attributes
 		category "Interceptor"
-		"cost" 1500000
-		"shields" 4500
-		"hull" 900
-		"required crew" 3
-		"bunks" 10
-		"mass" 250
-		"drag" 3.2
-		"shield generation" 1
+		"cost" 450000
+		"shields" 10000
+		"hull" 3000
+		"required crew" 7
+		"bunks" 20
+		"mass" 500
+		"drag" 7
 		"heat dissipation" .8
-		"fuel capacity" 400
-		"cargo space" 20
-		"outfit space" 390
-		"weapon capacity" 130
-		"engine capacity" 120
+		"fuel capacity" 500
+		"cargo space" 35
+		"outfit space" 355
+		"weapon capacity" 100
+		"engine capacity" 100
 		"self destruct" .3
 		weapon
-			"blast radius" 30
-			"shield damage" 300
-			"hull damage" 150
-			"hit force" 450
+			"blast radius" 36
+			"shield damage" 360
+			"hull damage" 180
+			"hit force" 540
 	outfits
-		"Particle Accelerator" 3
+		"Particle Accelerator" 2
 		"Mil'taj Anti-Missile Turret"
 		
-		"FTek021 Rechargable Battery"
-		"Mil'taj Grey Generator" 3
-		"Mil'taj Cooling Cell" 2
+		"Mil'taj Condensed Battery"
+		"Mil'taj Black Generator"
+		"Mil'taj Black Generator"
+		"Mil'taj Cooling Cell" 3
 		"Toaster Bot" 8
 		
-		"X3700 Ion Thruster"
-		"X4200 Ion Steering"
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
 		"Hyperdrive"
 		
-	engine 0 70
-	gun -11 -72 "Particle Accelerator"
-	gun 11 -72 "Particle Accelerator"
-	gun 0 20 "Particle Accelerator"
-	turret 0 33 "Mil'taj Anti-Missile Turret"
+	engine -22 60
+	engine 22 60
+	gun -19 -73 "Particle Accelerator"
+	gun 19 -73 "Particle Accelerator"
+	turret 0 0 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 15
+	explode "small explosion" 20
+	explode "medium explosion" 10
+	description "The Albacore is the Servorum Dei's attempts at creating an interceptor capable of defending it's land from enemy ships of similar variety."
+
+ship "Catla"
+	sprite "ship/Catla"
+	attributes
+		category "Light Freighter"
+		"cost" 1560000
+		"shields" 8000
+		"hull" 2500
+		"required crew" 5
+		"bunks" 15
+		"mass" 450
+		"drag" 7
+		"heat dissipation" .75
+		"fuel capacity" 600
+		"cargo space" 100
+		"outfit space" 355
+		"weapon capacity" 100
+		"engine capacity" 95
+		"self destruct" .3
+		weapon
+			"blast radius" 60
+			"shield damage" 600
+			"hull damage" 300
+			"hit force" 900
+	outfits
+		"Particle Accelerator"
+		"FTek Active Blaster Turret" 2
+		"Mil'taj Anti-Missile Turret"
+
+		"Mil'taj Condensed Battery"
+		"Mil'taj Black Generator"
+		"Mil'taj Grey Generator"
+		"Mil'taj Cooling Unit"
+		"Mil'taj Cooling Cell"
+		"Toaster Bot" 10
+
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+		
+	engine -16 113
+	engine 16 113
+	gun 0 -42 "Particle Accelerator"
+	turret 0 -5 "Mil'taj Anti-Missile Turret"
+	turret -15 24 "FTek Active Blaster Turret"
+	turret 15 24 "FTek Active Blaster Turret"
 	explode "tiny explosion" 10
-	explode "small explosion" 15
-	description "The Nefandous used primarily as a support craft for larger fleets. Alone is can support itself to an extent, but it can be easily overrun by enemies, making it better to be used in fleets."
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "big explosion" 10
+	description "The standard cargo ship for the Servorum Dei. Capable of carrying a medium load, while still being able to protect itself, the Servorum Dei use this ship in their fleets to extend their trad across the galaxy."
 
 ship "Gourami"
 	sprite "ship/gourami"
@@ -394,91 +536,7 @@ ship "Gourami"
 	explode "medium explosion" 35
 	explode "big explosion" 20
 	description "The Gourami is one of the biggest ships the Servorum Dei have to offer, as they don't typically focus on military might. However, it is a perfectly capable ship, able to survive against a Dominion Napoo for a large amount of time."
-	
-ship "Albacore"
-	sprite "ship/albacore"
-	attributes
-		category "Interceptor"
-		"cost" 450000
-		"shields" 10000
-		"hull" 3000
-		"required crew" 7
-		"bunks" 20
-		"mass" 500
-		"drag" 7
-		"heat dissipation" .8
-		"fuel capacity" 500
-		"cargo space" 35
-		"outfit space" 355
-		"weapon capacity" 100
-		"engine capacity" 100
-		"self destruct" .3
-		weapon
-			"blast radius" 36
-			"shield damage" 360
-			"hull damage" 180
-			"hit force" 540
-	outfits
-		"Particle Accelerator" 2
-		"Mil'taj Anti-Missile Turret"
-		
-		"Mil'taj Condensed Battery"
-		"Mil'taj Black Generator"
-		"Mil'taj Black Generator"
-		"Mil'taj Cooling Cell" 3
-		"Toaster Bot" 8
-		
-		"A370 Atomic Thruster"
-		"A375 Atomic Steering"
-		"Hyperdrive"
-		
-	engine -22 60
-	engine 22 60
-	gun -19 -73 "Particle Accelerator"
-	gun 19 -73 "Particle Accelerator"
-	turret 0 0 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 15
-	explode "small explosion" 20
-	explode "medium explosion" 10
-	description "The Albacore is the Servorum Dei's attempts at creating an interceptor capable of defending it's land from enemy ships of similar variety."
-	
-ship "Arowana"
-	sprite "ship/arowana"
-	attributes
-		category "Fighter"
-		"cost" 70000
-		"shields" 3000
-		"hull" 750
-		"required crew" 1
-		"bunks" 1
-		"mass" 90
-		"drag" .7
-		"heat dissipation" .8
-		"outfit space" 125
-		"weapon capacity" 50
-		"engine capacity" 50
-		weapon
-			"blast radius" 12
-			"shield damage" 130
-			"hull damage" 55
-			"hit force" 180
-	outfits
-		"Particle Accelerator"
-		
-		"Mil'taj Grey Generator"
-		"Mil'taj Curtana Battery"
-		"Mil'taj Cooling Cell"
-		"Toaster Bot" 3
-		
-		"A120 Atomic Thruster"
-		"A125 Atomic Steering"
-		
-	engine 0 30
-	gun 0 -38 "Particle Accelerator"
-	explode "tiny explosion" 15
-	explode "small explosion" 5
-	description "An attempt to replicate the functionality of the Curtana to provide the Servorum Dei with a fighter capable of protecting their carriers."
-	
+
 ship "Cisco"
 	sprite "ship/cisco"
 	attributes
@@ -534,78 +592,3 @@ ship "Cisco"
 	explode "big explosion" 40
 	explode "huge explosion" 10
 	description "The Cisco is the largest, multi-purpose ship the Servorum Dei have designed. It serves as a destroyer, as well as a carrier all at the same time. With it's fighters, it has the capability to provide the backbone support for a fleet."
-	
-ship "Catla"
-	sprite "ship/Catla"
-	attributes
-		category "Light Freighter"
-		"cost" 1560000
-		"shields" 8000
-		"hull" 2500
-		"required crew" 5
-		"bunks" 15
-		"mass" 450
-		"drag" 7
-		"heat dissipation" .75
-		"fuel capacity" 600
-		"cargo space" 100
-		"outfit space" 355
-		"weapon capacity" 100
-		"engine capacity" 95
-		"self destruct" .3
-		weapon
-			"blast radius" 60
-			"shield damage" 600
-			"hull damage" 300
-			"hit force" 900
-	outfits
-		"Particle Accelerator"
-		"FTek Active Blaster Turret" 2
-		"Mil'taj Anti-Missile Turret"
-
-		"Mil'taj Condensed Battery"
-		"Mil'taj Black Generator"
-		"Mil'taj Grey Generator"
-		"Mil'taj Cooling Unit"
-		"Mil'taj Cooling Cell"
-		"Toaster Bot" 10
-
-		"A370 Atomic Thruster"
-		"A375 Atomic Steering"
-		"Hyperdrive"
-		
-	engine -16 113
-	engine 16 113
-	gun 0 -42 "Particle Accelerator"
-	turret 0 -5 "Mil'taj Anti-Missile Turret"
-	turret -15 24 "FTek Active Blaster Turret"
-	turret 15 24 "FTek Active Blaster Turret"
-	explode "tiny explosion" 10
-	explode "small explosion" 25
-	explode "medium explosion" 25
-	explode "big explosion" 10
-	description "The standard cargo ship for the Servorum Dei. Capable of carrying a medium load, while still being able to protect itself, the Servorum Dei use this ship in their fleets to extend their trad across the galaxy."
-	
-outfit "Particle Accelerator"
-	category "Guns"
-	cost 250000
-	thumbnail "outfit/particle cannon"
-	"mass" 35
-	"outfit space" -35
-	"weapon capacity" -35
-	"gun ports" -1
-	weapon
-		sprite "projectile/particle beam"
-		sound "particle"
-		"hit effect" "particle impact"
-		"inaccuracy" .2
-		"velocity" 45
-		"lifetime" 35
-		"reload" 13
-		"firing energy" 30
-		"firing force" 10
-		"firing heat" 100
-		"hit force" 60
-		"shield damage" 60
-		"hull damage" 26.7
-	description "An advanced weapon capable of dealing large amounts of damage in a short amount of time."

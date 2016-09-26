@@ -168,3 +168,28 @@ outfit "Light Turbo Laser Turret"
 		"shield damage" 120
 		"hull damage" 50
 	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
+
+outfit "Particle Accelerator"
+	category "Guns"
+	cost 250000
+	thumbnail "outfit/particle cannon"
+	"mass" 35
+	"outfit space" -35
+	"weapon capacity" -35
+	"gun ports" -1
+	weapon
+		sprite "projectile/particle beam"
+		sound "particle"
+		"hit effect" "particle impact"
+		"inaccuracy" .2
+		"velocity" 45
+		"lifetime" 35
+		"reload" 13
+		"firing energy" 30
+		"firing force" 10
+		"firing heat" 100
+		"hit force" 60
+		"shield damage" 60
+		"hull damage" 26.7
+	description "An advanced weapon capable of dealing large amounts of damage in a short amount of time."
+
