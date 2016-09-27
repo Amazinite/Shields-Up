@@ -1,36 +1,127 @@
-# Copyright (c) 2014 by Michael Zahniser
-#
-# Endless Sky is free software: you can redistribute it and/or modify it under the
-# terms of the GNU General Public License as published by the Free Software
-# Foundation, either version 3 of the License, or (at your option) any later version.
-#
-# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
-# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Quarg Skydagger"
-	category "Guns"
-	cost 8000000
+outfit "Tuk'ux Internal Defenses"
+	category "Hand to Hand"
+	cost 1000000
+	thumbnail "outfit/unknown"
+	"capture defense" 30
+	description "The Tuk'ux's Internal Defenses were made to help repel any attacking force."
+	
+outfit "Darkmatter Steering"
+	category "Engines"
+	"cost" 35000000
+	thumbnail "outfit/unknown"
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"turn" 3000
+	"turning energy" 10
+	"turning heat" 5
+	
+outfit "Darkmatter Thruster"
+	category "Engines"
+	"cost" 65000000
+	thumbnail "outfit/unknown"
+	"mass" 85
+	"outfit space" -85
+	"engine capacity" -85
+	"thrust" 220
+	"thrusting energy" 16
+	"thrusting heat" 8
+	"flare sprite" "effect/medium graviton flare"
+	
+outfit "Redmatter Steering"
+	category "Engines"
+	"cost" 18000000
+	thumbnail "outfit/unknown"
+	"mass" 30
+	"outfit space" -30
+	"engine capacity" -30
+	"turn" 900
+	"turning energy" 8
+	"turning heat" 4
+	
+outfit "Redmatter Thruster"
+	category "Engines"
+	"cost" 65000000
+	thumbnail "outfit/unknown"
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"thrust" 90
+	"thrusting energy" 12
+	"thrusting heat" 6
+	"flare sprite" "effect/medium graviton flare"
+	
+outfit "Darkmatter Fusion Chamber"
+	category "Systems"
+	cost 20000000
+	thumbnail "outfit/unknown"
+	"mass" 45
+	"outfit space" -45
+	"energy generation" 45
+	"heat generation" 80
+	description "The Tuk'ux use this powerful chamber core to power their large ships."
+	
+outfit "Redmatter Fusion Chamber"
+	category "Systems"
+	cost 12000000
+	thumbnail "outfit/unknown"
+	"mass" 25
+	"outfit space" -25
+	"energy generation" 24
+	"heat generation" 36
+	
+outfit "Dry Ice Cooling Cell"
+	category "Systems"
+	cost 10000000
+	thumbnail "outfit/unknown"
+	"mass" 35
+	"outfit space" -35
+	"cooling" 70
+	
+outfit "Liquid Glacier Cooling Cell"
+	category "Systems"
+	cost 5000000
+	thumbnail "outfit/unknown"
+	"mass" 20
+	"outfit space" -20
+	"cooling" 35
+	
+outfit "Tuk'ux Energy Unit"
+	category "Power"
+	"cost" 10000000
+	thumbnail "outfit/unknown"
+	"mass" 25
+	"outfit space" -25
+	"energy capacity" 13000
+	
+outfit "Tuk'ux Energy Cell"
+	category "Power"
+	"cost" 6000000
+	thumbnail "outfit/unknown"
+	"mass" 18
+	"outfit space" -18
+	"energy capacity" 6800
+	
+outfit "JF-2031 Shield Generator"
+	category "Systems"
+	"cost" 14000000
 	thumbnail "outfit/unknown"
 	"mass" 60
 	"outfit space" -60
-	"weapon capacity" -60
-	"gun ports" -1
-	weapon
-		sprite "projectile/skylance"
-			"frame rate" 1
-		sound "skylance"
-		"hit effect" "skylance impact"
-		"inaccuracy" .4
-		"velocity" 500
-		"lifetime" 1
-		"reload" 1
-		"firing energy" 15
-		"firing heat" 5
-		"shield damage" 25
-		"hull damage" 30
-		"ion damage" .1
-	description "The gun port version of the Quarg Skylance, these are currently only obtainable by boarding the Quarg Rover and the Quarg Warbird."
+	"shield generation" 5.6
+	"energy generation" -1.2
+	"heat generation" 8
+	
+outfit "EP-341 Shield Generator"
+	category "Systems"
+	"cost" 8000000
+	thumbnail "outfit/unknown"
+	"mass" 35
+	"outfit space" -35
+	"shield generation" 3.7
+	"energy generation" -.8
+	"heat generation" 6.5
 
 outfit "Ion Torpedo Bay"
 	category "Secondary Weapons"
@@ -74,7 +165,8 @@ outfit "Ion Torpedo"
 	"ion torpedo capacity" -1
 	"mass" 2
 	description "Ion Torpedos are ammunition for the Ion Torpedo Bay. A single one of these torpedos can completely drain any ships energy reserves while doing no damage to the shields or hull of the ship."
-	
+
+
 outfit "Tuk'ux Shield Decimator"
 	category "Secondary Weapons"
 	cost 2000000
