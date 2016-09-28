@@ -8,130 +8,130 @@ outfit "Tuk'ux Internal Defenses"
 	
 outfit "Darkmatter Steering"
 	category "Engines"
-	"cost" 35000000
+	"cost" 25000000
 	thumbnail "outfit/unknown"
 	"mass" 55
 	"outfit space" -55
 	"engine capacity" -55
-	"turn" 3000
-	"turning energy" 10
-	"turning heat" 5
+	"turn" 1950
+	"turning energy" 5
+	"turning heat" 9
 	
 outfit "Darkmatter Thruster"
 	category "Engines"
-	"cost" 65000000
+	"cost" 35000000
 	thumbnail "outfit/unknown"
 	"mass" 85
 	"outfit space" -85
 	"engine capacity" -85
-	"thrust" 220
-	"thrusting energy" 16
-	"thrusting heat" 8
+	"thrust" 100
+	"thrusting energy" 15
+	"thrusting heat" 30
 	"flare sprite" "effect/medium graviton flare"
 	
 outfit "Redmatter Steering"
 	category "Engines"
-	"cost" 18000000
+	"cost" 10000000
 	thumbnail "outfit/unknown"
 	"mass" 30
 	"outfit space" -30
 	"engine capacity" -30
-	"turn" 900
-	"turning energy" 8
-	"turning heat" 4
+	"turn" 1000
+	"turning energy" 3
+	"turning heat" 7
 	
 outfit "Redmatter Thruster"
 	category "Engines"
-	"cost" 65000000
+	"cost" 20000000
 	thumbnail "outfit/unknown"
 	"mass" 55
 	"outfit space" -55
 	"engine capacity" -55
-	"thrust" 90
-	"thrusting energy" 12
-	"thrusting heat" 6
+	"thrust" 60
+	"thrusting energy" 10
+	"thrusting heat" 20
 	"flare sprite" "effect/medium graviton flare"
 	
 outfit "Darkmatter Fusion Chamber"
-	category "Systems"
-	cost 20000000
+	category "Power"
+	cost 35000000
 	thumbnail "outfit/unknown"
-	"mass" 45
-	"outfit space" -45
-	"energy generation" 45
-	"heat generation" 80
+	"mass" 113
+	"outfit space" -113
+	"energy generation" 94
+	"heat generation" 213
 	description "The Tuk'ux use this powerful chamber core to power their large ships."
 	
 outfit "Redmatter Fusion Chamber"
-	category "Systems"
-	cost 12000000
+	category "Power"
+	cost 27500000
 	thumbnail "outfit/unknown"
-	"mass" 25
-	"outfit space" -25
-	"energy generation" 24
-	"heat generation" 36
+	"mass" 73
+	"outfit space" -73
+	"energy generation" 47
+	"heat generation" 95
 	
 outfit "Dry Ice Cooling Cell"
 	category "Systems"
-	cost 10000000
+	cost 5000000
 	thumbnail "outfit/unknown"
-	"mass" 35
-	"outfit space" -35
-	"cooling" 70
+	"mass" 50
+	"outfit space" -50
+	"cooling" 170
 	
 outfit "Liquid Glacier Cooling Cell"
 	category "Systems"
-	cost 5000000
+	cost 3500000
 	thumbnail "outfit/unknown"
-	"mass" 20
-	"outfit space" -20
-	"cooling" 35
+	"mass" 30
+	"outfit space" -30
+	"cooling" 75
 	
 outfit "Tuk'ux Energy Unit"
 	category "Power"
-	"cost" 10000000
+	"cost" 7250000
 	thumbnail "outfit/unknown"
-	"mass" 25
-	"outfit space" -25
-	"energy capacity" 13000
+	"mass" 43
+	"outfit space" -43
+	"energy capacity" 23666
 	
 outfit "Tuk'ux Energy Cell"
 	category "Power"
-	"cost" 6000000
+	"cost" 3000000
 	thumbnail "outfit/unknown"
 	"mass" 18
 	"outfit space" -18
-	"energy capacity" 6800
-	
-outfit "JF-2031 Shield Generator"
+	"energy capacity" 9000
+
+outfit "JF-2031 Hull Mender"
 	category "Systems"
-	"cost" 14000000
+	"cost" 15000000
 	thumbnail "outfit/unknown"
 	"mass" 60
 	"outfit space" -60
-	"shield generation" 5.6
-	"energy generation" -1.2
-	"heat generation" 8
+	"hull repair rate" 6
+	"hull energy" 3
+	"hull heat" 18
 	
-outfit "EP-341 Shield Generator"
+outfit "EP-341 Hull Mender"
 	category "Systems"
-	"cost" 8000000
+	"cost" 12000000
 	thumbnail "outfit/unknown"
-	"mass" 35
+	"mass" 36
 	"outfit space" -35
-	"shield generation" 3.7
-	"energy generation" -.8
-	"heat generation" 6.5
+	"hull repair rate" 12
+	"hull energy" 6
+	"hull heat" 36
 
 outfit "Ion Torpedo Bay"
 	category "Secondary Weapons"
-	cost 2500000
+	cost 5000000
 	thumbnail "outfit/iontorpedobay"
 	"mass" 35
 	"outfit space" -45
 	"weapon capacity" -45
 	"gun ports" -1
-	"ion torpedo capacity" 5
+	"ion torpedo capacity" 20
 	weapon
 		sprite "projectile/iontorpedo"
 			"frame rate" 4
@@ -142,34 +142,32 @@ outfit "Ion Torpedo Bay"
 		"fire effect" "typhoon fire"
 		"hit effect" "iontorpedoexplosion"
 		"die effect" "tiny explosion"
-		"inaccuracy" 1
-		"velocity" 40
+		"inaccuracy" 5
+		"velocity" 8
 		"lifetime" 1000
-		"reload" 375
-		"firing energy" 10
-		"firing heat" 20
-		"acceleration" 1.25
-		"drag" .01
-		"turn" .75
-		"homing" 100
-		"trigger radius" 30
-		"blast radius" 100
-		"ion damage" 2750
-		"missile strength" 1000000
-	description "An invention created by the Deep. The Ion Torpedo Launcher launches Ion Torpedos that completely drains a ships energy while doing no damage at all to the hull or shields. A ship carrying one of these could potentially change the tide of a battle."
+		"reload" 300
+		"firing energy" 5
+		"firing heat" 60
+		"acceleration" 0.8
+		"drag" 0.1
+		"turn" 1
+		"homing" 4
+		"optical tracking" 1
+		"trigger radius" 10
+		"blast radius" 25
+		"ion damage" 100
+		"missile strength" 100
 
 outfit "Ion Torpedo"
 	category "Ammunition"
-	cost 2000000
+	cost 500000
 	thumbnail "outfit/iontorpedo"
 	"ion torpedo capacity" -1
-	"mass" 2
-	description "Ion Torpedos are ammunition for the Ion Torpedo Bay. A single one of these torpedos can completely drain any ships energy reserves while doing no damage to the shields or hull of the ship."
-
+	"mass" 0.5
 
 outfit "Tuk'ux Shield Decimator"
 	category "Secondary Weapons"
-	cost 2000000
+	cost 15000000
 	thumbnail "outfit/unknown"
 	"mass" 55
 	"outfit space" -55
@@ -184,14 +182,14 @@ outfit "Tuk'ux Shield Decimator"
 		"velocity" 300
 		"lifetime" 1
 		"reload" 1
-		"firing energy" 65
-		"firing heat" 120
-		"shield damage" 250
+		"firing energy" 30
+		"firing heat" 10
+		"shield damage" 100
 	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the shields of any enemy ship, giving them an edge over any oponent."
 	
 outfit "Tuk'ux Plasma Laser"
 	category "Guns"
-	cost 20000000
+	cost 30000000
 	thumbnail "outfit/unknown"
 	"mass" 80
 	"outfit space" -80
@@ -206,13 +204,15 @@ outfit "Tuk'ux Plasma Laser"
 		"velocity" 300
 		"lifetime" 1
 		"reload" 1
-		"firing energy" 60
-		"firing heat" 200
-		"hull damage" 100
+		"firing energy" 20
+		"firing heat" 120
+		"shield damage" 5
+		"hull damage" 60
+		"heat damage" 100
 
 outfit "Tuk'ux Quad-Blaster Turret"
 	category "Turrets"
-	cost 500000
+	cost 10000000
 	thumbnail "outfit/unknown"
 	"mass" 35
 	"outfit space" -35
@@ -224,10 +224,10 @@ outfit "Tuk'ux Quad-Blaster Turret"
 		sound "blaster"
 		"hit effect" "blaster impact"
 		"inaccuracy" 2
-		"velocity" 7
+		"velocity" 8
 		"lifetime" 60
-		"reload" 1.8
+		"reload" 2
 		"firing energy" 20
-		"firing heat" 45
+		"firing heat" 65
 		"shield damage" 25
 		"hull damage" 14
