@@ -77,7 +77,7 @@ outfit "Dry Ice Cooling Cell"
 	thumbnail "outfit/unknown"
 	"mass" 50
 	"outfit space" -50
-	"cooling" 170
+	"cooling" 250
 	
 outfit "Liquid Glacier Cooling Cell"
 	category "Systems"
@@ -85,7 +85,7 @@ outfit "Liquid Glacier Cooling Cell"
 	thumbnail "outfit/unknown"
 	"mass" 30
 	"outfit space" -30
-	"cooling" 75
+	"cooling" 100
 	
 outfit "Tuk'ux Energy Unit"
 	category "Power"
@@ -182,7 +182,7 @@ outfit "Tuk'ux Shield Decimator"
 		"velocity" 300
 		"lifetime" 1
 		"reload" 1
-		"firing energy" 30
+		"firing energy" 25
 		"firing heat" 10
 		"shield damage" 100
 	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the shields of any enemy ship, giving them an edge over any oponent."
@@ -205,7 +205,7 @@ outfit "Tuk'ux Plasma Laser"
 		"lifetime" 1
 		"reload" 1
 		"firing energy" 20
-		"firing heat" 120
+		"firing heat" 100
 		"shield damage" 2
 		"hull damage" 22.5
 		"heat damage" 60
@@ -228,6 +228,6 @@ outfit "Tuk'ux Quad-Blaster Turret"
 		"lifetime" 60
 		"reload" 2
 		"firing energy" 20
-		"firing heat" 65
+		"firing heat" 50
 		"shield damage" 25
 		"hull damage" 14

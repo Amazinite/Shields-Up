@@ -29,7 +29,7 @@ ship "Tuk'ux Battle Carrier"
 		"Darkmatter Fusion Chamber"
 		"Redmatter Fusion Chamber"
 		"Tuk'ux Energy Unit"
-		"Dry Ice Cooling Cell" 2
+		"Dry Ice Cooling Cell" 3
 		"JF-2031 Hull Mender"
 		"EP-341 Hull Mender"
 
