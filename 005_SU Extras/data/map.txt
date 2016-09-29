@@ -1,2 +1,0 @@
-planet Wayfarer
-	outfitter "Tarazed Technologies"

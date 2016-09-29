@@ -8,3 +8,15 @@ shipyard "Lionheart Advanced"
 outfitter "Tarazed Technologies"
 	"Boarding Cannon"
 	"Ship Armory"
+
+outfitter "Common Outfits"
+	"Extended Bunk Room"
+
+outfitter "Lovelace Advanced"
+	"NDR-114 Android"
+	
+outfitter "Syndicate Advanced"
+	"NDR-114 Android"
+
+planet Wayfarer
+	outfitter "Tarazed Technologies"

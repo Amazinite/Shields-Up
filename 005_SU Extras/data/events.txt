@@ -2,10 +2,12 @@ event "kestrel available: more weapons"
 	set "kestrel available"
 	shipyard "Tarazed Advanced"
 		"Kestrel-M"
+
 event "kestrel available: more engines"
 	set "kestrel available"
 	shipyard "Tarazed Advanced"
 		"Kestrel-M"
+
 event "kestrel available: more shields"
 	set "kestrel available"
 	shipyard "Tarazed Advanced"
