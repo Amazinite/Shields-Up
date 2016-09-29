@@ -4,6 +4,7 @@ outfit "Tuk'ux Internal Defenses"
 	cost 1000000
 	thumbnail "outfit/unknown"
 	"capture defense" 30
+	"unplunderable" 1
 	description "The Tuk'ux's Internal Defenses were made to help repel any attacking force."
 	
 outfit "Darkmatter Steering"
