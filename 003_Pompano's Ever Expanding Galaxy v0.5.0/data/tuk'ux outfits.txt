@@ -166,12 +166,12 @@ outfit "Ion Torpedo"
 	"mass" 0.5
 
 outfit "Tuk'ux Shield Decimator"
-	category "Secondary Weapons"
+	category "Guns"
 	cost 15000000
 	thumbnail "outfit/unknown"
-	"mass" 55
-	"outfit space" -55
-	"weapon capacity" -55
+	"mass" 60
+	"outfit space" -60
+	"weapon capacity" -60
 	"gun ports" -1
 	weapon
 		sprite "projectile/tukux decimatorlaser"
@@ -191,9 +191,9 @@ outfit "Tuk'ux Plasma Laser"
 	category "Guns"
 	cost 30000000
 	thumbnail "outfit/unknown"
-	"mass" 80
-	"outfit space" -80
-	"weapon capacity" -80
+	"mass" 30
+	"outfit space" -30
+	"weapon capacity" -30
 	"gun ports" -1
 	weapon
 		sprite "projectile/tukux plasmalaser"
@@ -206,9 +206,9 @@ outfit "Tuk'ux Plasma Laser"
 		"reload" 1
 		"firing energy" 20
 		"firing heat" 120
-		"shield damage" 5
-		"hull damage" 60
-		"heat damage" 100
+		"shield damage" 2
+		"hull damage" 22.5
+		"heat damage" 60
 
 outfit "Tuk'ux Quad-Blaster Turret"
 	category "Turrets"
