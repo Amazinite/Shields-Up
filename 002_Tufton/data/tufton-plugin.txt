@@ -28,72 +28,6 @@ outfitter "Deep Sky Advanced"
 	"Ion Laser Turret"
 	"Polaric Slide Thrusters"
 
-outfit "M50-400 Slug"
-	category "Ammunition"
-	cost 1000
-	thumbnail "outfit/unknown"
-	"m50 capacity" -1
-	"mass" .5
-	description "400mm Railgun Slug"
-
-outfit "400mm Railgun"
-	category "Guns"
-	cost 2490000
-	thumbnail "outfit/400mm Railgun" # Image by Derpy Horse
-	"mass" 35
-	"outfit space" -60
-	"weapon capacity" -60
-	"gun ports" -1
-	"m50 capacity" 50
-	weapon
-		sprite "projectile/tracker"
-			"frame rate" 18
-			"random start frame"
-		sound "torpedo"
-		icon "icon/tracker"
-		ammo "M50-400 Slug"
-		"die effect" "tiny explosion"
-		"hit effect" "large explosion"
-		"inaccuracy" 3
-		"velocity" 30
-		"lifetime" 130
-		"reload" 100
-		"firing energy" 480
-		"firing heat" 20
-		"turn" 0
-		"homing" 0
-		"firing force" 80
-		"shield damage" 700
-		"hull damage" 800
-		"hit force" 450
-		"missile strength" 500
-	description "The 400mm Railgun is a modern marvel. Using advanced Neodynium-alloy electromagnets, the Railgun hurls an M50-400 depleted Uranium slug at near relativistic speeds almost 4000 kilometers towards the intended target using quantum computer-enhanced targeting algorithms. The size of these guns necessitates a long reload time, while the electromagnets consume a significant amount of a ship's energy with every shot fired."
-
-outfit "Plasma Gatling"
-	category "Guns"
-	cost 410000
-	thumbnail "outfit/plasma gatling"  # Image by Derpy Horse
-	"mass" 75
-	"outfit space" -75
-	"weapon capacity" -75
-	"gun ports" -1
-	weapon
-		sprite "projectile/plasma"
-			"frame rate" 3
-		sound "plasma"
-		"hit effect" "plasma explosion"
-		"inaccuracy" 8
-		"velocity" 12
-		"lifetime" 40
-		"reload" 6
-		"firing energy" 30
-		"firing heat" 180
-		"hit force" 30
-		"shield damage" 63
-		"hull damage" 25
-		"heat damage" 340
-	description "The Plasma Gatling is designed to eviscerate your enemies with a hail of superheated plasma singularities. As a trade-off, the integrated particle hyperaccelerator puts a significant strain on your ship's cooling systems."
-
 ship "Monolith"
 	sprite "ship/monolith"
 	attributes
@@ -203,66 +137,46 @@ ship "Tactical Assault Fighter"
 	explode "small explosion" 20
 	description "The Tactical Assault Fighter is a specially designed Fighter/Interceptor for deployment in Capital-class fighter bays.  With speed, defenses, and armament equivalent to a hyperspace capable Interceptor-class starship, the TAF is a powerful complement to any fleet and a stalwart protector of the lumbering Capital-class behemoths."
 
-outfit "Tractor Beam Turret"
-	category "Turrets"
-	cost 1050000
-	thumbnail "outfit/electron turret"
-	"mass" 60
+outfit "M50-400 Slug"
+	category "Ammunition"
+	cost 1000
+	thumbnail "outfit/unknown"
+	"m50 capacity" -1
+	"mass" .5
+	description "400mm Railgun Slug"
+
+outfit "400mm Railgun"
+	category "Guns"
+	cost 2490000
+	thumbnail "outfit/400mm Railgun" # Image by Derpy Horse
+	"mass" 35
 	"outfit space" -60
 	"weapon capacity" -60
-	"turret mounts" -1
-	"required crew" 1
+	"gun ports" -1
+	"m50 capacity" 50
 	weapon
-		sprite "projectile/2x electron"
-			"frame rate" 60
-		sound "heavy_laser"
-		"hit effect" "electron impact"
+		sprite "projectile/tracker"
+			"frame rate" 18
+			"random start frame"
+		sound "torpedo"
+		icon "icon/tracker"
+		ammo "M50-400 Slug"
+		"die effect" "tiny explosion"
+		"hit effect" "large explosion"
 		"inaccuracy" 3
-		"velocity" 450
-		"lifetime" 1
-		"reload" 1
-		"firing energy" 8.0
-		"firing heat" 5.2
-		"shield damage" 1.0
-		"hull damage" .5
-		"hit force" -40
-	description "TRACTOR PLACEHOLDER"
-
-outfit "Bighorn Energy Ram"
-	category "Guns"
-	cost 4050000
-	thumbnail "outfit/energy ram"  # Image by Derpy Horse
-	"mass" 90
-	"outfit space" -90
-	"weapon capacity" -90
-	"gun ports" -2
-	"required crew" 1
-	weapon
-		sprite "projectile/ram"
-			"frame rate" 60
-		sound "laser"
-		"hit effect" "beam laser impact"
-		"inaccuracy" 0
-		"velocity" 100
-		"lifetime" 1
-		"reload" 1
-		"firing energy" 25.0
-		"firing heat" 10.2
-		"firing force" 10
-		"shield damage" 200.0
-		"hull damage" 200
-		"hit force" 160
-	description "The Bighorn Energy Ram is the largest energy-based mass displacement device on the market. Originally designed to be mounted at the head of deep-core planet mining drills, the Bighorn has been haphazardly adapted for ship to ship combat. However, due to its mass it cannot be mounted on anything smaller than a Light Warship. Requires 2 gun slots to accomodate the Modular Oppositional Underslung Nuclear Transipositors or M.O.U.N.T, for short. Keeping the Bighorn ignited requires a massive amount of energy, so the wielder only has a small window to strike his intended target. Try to make it count."
-
-outfit "Hull Repair Nano-Bots"
-	category "Systems"
-	cost 400000
-	thumbnail "outfit/medium fuel cell"
-	"mass" 40
-	"outfit space" -40
-	"hull repair rate" .6
-	"hull energy" .6
-	description "In a galaxy full of shields, armor repair has become more and more marginalized. However, for those that still cling to the old ways, Tufton Robotics recently released an armor maintenance outfit for use on space combat vessels, city maintenance crews, and your family hovercar. The armor repair bots draw energy from any shield systems equipped on the vessel, as well as placing a mild drain on any energy generation systems. Most captains find the shied drain to be too inefficient for use on shield-based vessels."
+		"velocity" 30
+		"lifetime" 130
+		"reload" 100
+		"firing energy" 480
+		"firing heat" 20
+		"turn" 0
+		"homing" 0
+		"firing force" 80
+		"shield damage" 700
+		"hull damage" 800
+		"hit force" 450
+		"missile strength" 500
+	description "The 400mm Railgun is a modern marvel. Using advanced Neodynium-alloy electromagnets, the Railgun hurls an M50-400 depleted Uranium slug at near relativistic speeds almost 4000 kilometers towards the intended target using quantum computer-enhanced targeting algorithms. The size of these guns necessitates a long reload time, while the electromagnets consume a significant amount of a ship's energy with every shot fired."
 
 outfit "Hedgehog Ion Mine"
 	category "Ammunition"
@@ -308,23 +222,55 @@ outfit "Hedgehog Ion Mine Launcher"
 		"missile strength" 25
 	description `Hedgehog Ion Mines are powerful tools to "dissuade" any pursuers from continuing the chase.`
 
-outfit "Polaric Slide Thrusters"
-	category "Engines"
-	"cost" 10000000
-	thumbnail "outfit/unknown"
-	"mass" 170
-	"outfit space" -130
-	"engine capacity" -100
-	"weapon capacity" -30
-	"drag" 30
-	"thrust" 210
-	"thrusting energy" 20
-	"thrusting heat" 25
-	"reverse thrust" 170
-	"reverse thrusting energy" 20
-	"reverse thrusting heat" 25
-	"flare sprite" "effect/medium graviton flare"
-	description "The Polaric Slide Thruster may appear to be a normal engine, but it is in fact moving the fabric of spacetime itself around your vessel through means unknown"
+outfit "Plasma Gatling"
+	category "Guns"
+	cost 410000
+	thumbnail "outfit/plasma gatling"  # Image by Derpy Horse
+	"mass" 75
+	"outfit space" -75
+	"weapon capacity" -75
+	"gun ports" -1
+	weapon
+		sprite "projectile/plasma"
+			"frame rate" 3
+		sound "plasma"
+		"hit effect" "plasma explosion"
+		"inaccuracy" 8
+		"velocity" 12
+		"lifetime" 40
+		"reload" 6
+		"firing energy" 30
+		"firing heat" 180
+		"hit force" 30
+		"shield damage" 63
+		"hull damage" 25
+		"heat damage" 340
+	description "The Plasma Gatling is designed to eviscerate your enemies with a hail of superheated plasma singularities. As a trade-off, the integrated particle hyperaccelerator puts a significant strain on your ship's cooling systems."
+
+outfit "Tractor Beam Turret"
+	category "Turrets"
+	cost 1050000
+	thumbnail "outfit/electron turret"
+	"mass" 60
+	"outfit space" -60
+	"weapon capacity" -60
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/2x electron"
+			"frame rate" 60
+		sound "heavy_laser"
+		"hit effect" "electron impact"
+		"inaccuracy" 3
+		"velocity" 450
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 8.0
+		"firing heat" 5.2
+		"shield damage" 1.0
+		"hull damage" .5
+		"hit force" -40
+	description "TRACTOR PLACEHOLDER"
 
 outfit "Ion Laser Turret"
 	category "Turrets"
@@ -350,3 +296,57 @@ outfit "Ion Laser Turret"
 		"hull damage" 1
 		"ion damage" .12
 	description "Tired of firing stupid ion blobs straight ahead? Try the new Ion Laser Turret, a favorite of pirate kings the galaxy over! Lown shield and hull damage means this turret works best when paired with high damage outfits to disable that prized merchant vessel."
+
+outfit "Bighorn Energy Ram"
+	category "Guns"
+	cost 4050000
+	thumbnail "outfit/energy ram"  # Image by Derpy Horse
+	"mass" 90
+	"outfit space" -90
+	"weapon capacity" -90
+	"gun ports" -2
+	"required crew" 1
+	weapon
+		sprite "projectile/ram"
+			"frame rate" 60
+		sound "laser"
+		"hit effect" "beam laser impact"
+		"inaccuracy" 0
+		"velocity" 100
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 25.0
+		"firing heat" 10.2
+		"firing force" 10
+		"shield damage" 200.0
+		"hull damage" 200
+		"hit force" 160
+	description "The Bighorn Energy Ram is the largest energy-based mass displacement device on the market. Originally designed to be mounted at the head of deep-core planet mining drills, the Bighorn has been haphazardly adapted for ship to ship combat. However, due to its mass it cannot be mounted on anything smaller than a Light Warship. Requires 2 gun slots to accomodate the Modular Oppositional Underslung Nuclear Transipositors or M.O.U.N.T, for short. Keeping the Bighorn ignited requires a massive amount of energy, so the wielder only has a small window to strike his intended target. Try to make it count."
+
+outfit "Hull Repair Nano-Bots"
+	category "Systems"
+	cost 400000
+	thumbnail "outfit/medium fuel cell"
+	"mass" 40
+	"outfit space" -40
+	"hull repair rate" .6
+	"hull energy" .6
+	description "In a galaxy full of shields, armor repair has become more and more marginalized. However, for those that still cling to the old ways, Tufton Robotics recently released an armor maintenance outfit for use on space combat vessels, city maintenance crews, and your family hovercar. The armor repair bots draw energy from any shield systems equipped on the vessel, as well as placing a mild drain on any energy generation systems. Most captains find the shied drain to be too inefficient for use on shield-based vessels."
+
+outfit "Polaric Slide Thrusters"
+	category "Engines"
+	"cost" 10000000
+	thumbnail "outfit/unknown"
+	"mass" 170
+	"outfit space" -130
+	"engine capacity" -100
+	"weapon capacity" -30
+	"drag" 30
+	"thrust" 210
+	"thrusting energy" 20
+	"thrusting heat" 25
+	"reverse thrust" 170
+	"reverse thrusting energy" 20
+	"reverse thrusting heat" 25
+	"flare sprite" "effect/medium graviton flare"
+	description "The Polaric Slide Thruster may appear to be a normal engine, but it is in fact moving the fabric of spacetime itself around your vessel through means unknown"
