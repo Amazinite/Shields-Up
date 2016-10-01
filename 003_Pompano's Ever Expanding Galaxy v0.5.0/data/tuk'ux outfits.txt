@@ -110,19 +110,19 @@ outfit "JF-2031 Hull Mender"
 	thumbnail "outfit/unknown"
 	"mass" 60
 	"outfit space" -60
-	"hull repair rate" 6
-	"hull energy" 3
-	"hull heat" 18
-	
+	"hull repair rate" 12
+	"hull energy" 12
+	"hull heat" 36
+
 outfit "EP-341 Hull Mender"
 	category "Systems"
 	"cost" 12000000
 	thumbnail "outfit/unknown"
 	"mass" 36
 	"outfit space" -35
-	"hull repair rate" 12
+	"hull repair rate" 6
 	"hull energy" 6
-	"hull heat" 36
+	"hull heat" 18
 
 outfit "Ion Torpedo Bay"
 	category "Secondary Weapons"
