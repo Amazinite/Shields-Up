@@ -119,7 +119,7 @@ outfit "EP-341 Hull Mender"
 	"cost" 12000000
 	thumbnail "outfit/unknown"
 	"mass" 36
-	"outfit space" -35
+	"outfit space" -36
 	"hull repair rate" 6
 	"hull energy" 6
 	"hull heat" 18
