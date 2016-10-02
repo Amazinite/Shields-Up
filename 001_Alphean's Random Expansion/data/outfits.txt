@@ -460,7 +460,7 @@ outfit "SC015s Shield Capacitor"
 	thumbnail "outfit/tiny battery"
 	"mass" 10
 	"outfit space" -10
-	"shields" 600
+	"shields" 300
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 
 outfit "SC030s Shield Capacitor"
@@ -469,34 +469,34 @@ outfit "SC030s Shield Capacitor"
 	thumbnail "outfit/small battery"
 	"mass" 20
 	"outfit space" -20
-	"shields" 1800
+	"shields" 750
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
-	
+
 outfit "SC060s Shield Capacitor"
 	category "Systems"
 	cost 67000
 	thumbnail "outfit/medium battery"
 	"mass" 40
 	"outfit space" -40
-	"shields" 4400
+	"shields" 1800
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
-	
+
 outfit "SC120s Shield Capacitor"
 	category "Systems"
 	cost 150000
 	thumbnail "outfit/large battery"
 	"mass" 80
 	"outfit space" -80
-	"shields" 9000
+	"shields" 4200
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
-	
+
 outfit "SC240s Shield Capacitor"
 	category "Systems"
 	cost 380000
 	thumbnail "outfit/huge battery"
 	"mass" 160
 	"outfit space" -160
-	"shields" 22500
+	"shields" 9600
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
 outfit "Nalabidium Heat Sink"

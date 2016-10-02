@@ -139,50 +139,60 @@ outfit "Expanded Map"
 	thumbnail "outfit/map"
 	"map" 36
 	description "A data chip containing a large amount of data on the nearby systems."
-	
+
 outfit "FTek Tiny Shield System"
 	category "Systems"
 	cost 30000
 	thumbnail "outfit/ftek tiny shield"
 	"mass" 5
 	"outfit space" -5
-	"shields" 500
+	"shields" 75
+	"shield generation" 0.05
+	"shield energy" 0.05
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
 
 outfit "FTek Small Shield System"
 	category "Systems"
 	cost 51000
 	thumbnail "outfit/ftek small shield"
-	"mass" 10
-	"outfit space" -10
-	"shields" 1200
+	"mass" 12
+	"outfit space" -12
+	"shields" 228
+	"shield generation" 0.13
+	"shield energy" 0.13
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
-	
+
 outfit "FTek Medium Shield System"
 	category "Systems"
 	cost 86700
 	thumbnail "outfit/ftek medium shield"
-	"mass" 22
-	"outfit space" -22
-	"shields" 2500
+	"mass" 20
+	"outfit space" -20
+	"shields" 460
+	"shield generation" 0.26
+	"shield energy" 0.26
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
-	
+
 outfit "FTek Large Shield System"
 	category "Systems"
 	cost 148000
 	thumbnail "outfit/ftek large shield"
 	"mass" 35
 	"outfit space" -35
-	"shields" 5000
+	"shields" 910
+	"shield generation" 0.48
+	"shield energy" 0.48
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
-	
+
 outfit "FTek Huge Shield System"
 	category "Systems"
 	cost 251000
 	thumbnail "outfit/ftek huge shield"
-	"mass" 49
-	"outfit space" -49
-	"shields" 10000
+	"mass" 50
+	"outfit space" -50
+	"shields" 1500
+	"shield generation" 0.83
+	"shield energy" 0.83
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
 	
 outfit "Scrap Shield Generator"
