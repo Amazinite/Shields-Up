@@ -454,7 +454,7 @@ outfit "Special Agent"
 	unplunderable 1
 	description "A specially trained agent for boarding ships. They use a personal cloaking device to infiltrate the enemy ship and take out important targets."
 
-outfit "SC15s Shield Capacitor"
+outfit "SC015s Shield Capacitor"
 	category "Systems"
 	cost 12000
 	thumbnail "outfit/tiny battery"
@@ -463,7 +463,7 @@ outfit "SC15s Shield Capacitor"
 	"shields" 600
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 
-outfit "SC30s Shield Capacitor"
+outfit "SC030s Shield Capacitor"
 	category "Systems"
 	cost 30000
 	thumbnail "outfit/small battery"
@@ -472,7 +472,7 @@ outfit "SC30s Shield Capacitor"
 	"shields" 1800
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
 	
-outfit "SC60s Shield Capacitor"
+outfit "SC060s Shield Capacitor"
 	category "Systems"
 	cost 67000
 	thumbnail "outfit/medium battery"

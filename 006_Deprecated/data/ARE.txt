@@ -1,0 +1,26 @@
+outfit "SC15s Shield Capacitor"
+	category "Systems"
+	cost 12000
+	thumbnail "outfit/tiny battery"
+	"mass" 10
+	"outfit space" -10
+	"shields" 600
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."
+
+outfit "SC30s Shield Capacitor"
+	category "Systems"
+	cost 30000
+	thumbnail "outfit/small battery"
+	"mass" 20
+	"outfit space" -20
+	"shields" 1800
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."
+	
+outfit "SC60s Shield Capacitor"
+	category "Systems"
+	cost 67000
+	thumbnail "outfit/medium battery"
+	"mass" 40
+	"outfit space" -40
+	"shields" 4400
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."

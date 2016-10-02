@@ -7,30 +7,20 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-outfit "Surveillance Pod"
-	category "Systems"
-	cost 42000
-	thumbnail "outfit/outfit scanner"
-	"mass" 5
-	"outfit space" -5
-	"outfit scan" 600
-	"cargo scan" 600
-	"atmosphere scan" 100
 	
 outfit "X900 Experimental Micro-Propulsion"
 	category "Engines"
 	"cost" 100000
 	thumbnail "outfit/tiny ion steering"
 	"mass" 12
-	"outfit space" -20
-	"engine capacity" -20
-	"turn" 120
-	"turning energy" .3
+	"outfit space" -12
+	"engine capacity" -12
+	"turn" 60
+	"turning energy" .2
 	"turning heat" .5
-	"thrust" 5.0
-	"thrusting energy" .6
-	"thrusting heat" .9
+	"thrust" 2
+	"thrusting energy" .45
+	"thrusting heat" .6
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
@@ -41,7 +31,7 @@ outfit "Tactical Armor"
 	category "Hand to Hand"
 	cost 50000
 	thumbnail "outfit/Assault Armor"
-	"mass" 0
+	"mass" 1
 	"outfit space" -1
 	"capture attack" 1.6
 	"capture defense" 1.8
@@ -84,10 +74,10 @@ outfit "FTek021 Rechargable Battery"
 	cost 94000
 	thumbnail "outfit/ftek021 battery"
 	"mass" 30
-	"outfit space" -35
-	"energy capacity" 3500
-	"heat generation" 9
-	"energy generation" 4.7
+	"outfit space" -30
+	"energy capacity" 3000
+	"heat generation" 5
+	"energy generation" 2.5
 	description "Using super sciency conductor things, FTek™ is proud to present the FTek021 Rechargable Battery™!"
 
 outfit "FTek Jump Drive"
