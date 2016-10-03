@@ -142,7 +142,7 @@ outfit "Expanded Map"
 
 outfit "FTek Tiny Shield System"
 	category "Systems"
-	cost 30000
+	cost 20000
 	thumbnail "outfit/ftek tiny shield"
 	"mass" 5
 	"outfit space" -5
@@ -153,7 +153,7 @@ outfit "FTek Tiny Shield System"
 
 outfit "FTek Small Shield System"
 	category "Systems"
-	cost 51000
+	cost 35000
 	thumbnail "outfit/ftek small shield"
 	"mass" 12
 	"outfit space" -12
@@ -164,7 +164,7 @@ outfit "FTek Small Shield System"
 
 outfit "FTek Medium Shield System"
 	category "Systems"
-	cost 86700
+	cost 65000
 	thumbnail "outfit/ftek medium shield"
 	"mass" 20
 	"outfit space" -20
@@ -175,7 +175,7 @@ outfit "FTek Medium Shield System"
 
 outfit "FTek Large Shield System"
 	category "Systems"
-	cost 148000
+	cost 120000
 	thumbnail "outfit/ftek large shield"
 	"mass" 35
 	"outfit space" -35
@@ -186,7 +186,7 @@ outfit "FTek Large Shield System"
 
 outfit "FTek Huge Shield System"
 	category "Systems"
-	cost 251000
+	cost 200000
 	thumbnail "outfit/ftek huge shield"
 	"mass" 50
 	"outfit space" -50
