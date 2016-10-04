@@ -143,10 +143,6 @@ outfitter "Pirate Outfits"
 outfitter "Syndicate Advanced"
 	"Hedgehog Ion Mine"
 	"Hedgehog Ion Mine Launcher"
-	"X900 Experimental Micro-Propulsion"
-	
-outfitter "Tarazed Advanced"
-	"X900 Experimental Micro-Propulsion"
 	
 outfitter "Lovelace Advanced"
 	"Plasma Minelayer"
@@ -165,7 +161,6 @@ outfitter "Kraz Advanced"
 	"Hull Repair Nano-Bots"
 	"Tactical Armor"
 	"Breacher Cannon"
-	"X900 Experimental Micro-Propulsion"
 
 outfitter "Delta V Advanced"
 	"Plasma Minelayer"

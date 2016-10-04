@@ -1,6 +1,7 @@
 outfitter deprecated
 	"EP-341 Shield Generator"
 	"JF-2031 Shield Generator"
+	"X900 Experimental Micro-Propulsion"
 
 shipyard deprecated
 	"Tuk'ux Battle Cruiser"
