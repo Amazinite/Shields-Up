@@ -1,0 +1,59 @@
+outfitter "Deep Sky Advanced"
+	clear
+		"Rail Cannon"
+		"Rail Slug"
+	
+outfitter "Deep Sky Advanced"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
+
+outfitter "Pirate Outfits"
+	clear
+		"400mm Railgun"
+	
+outfitter "Pirate Outfits"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
+	
+outfitter "Lovelace Advanced"
+	clear
+		"Rail Cannon"
+		"Rail Slug"
+		"EMP Bomb Launcher"
+		"EMP Bomb"
+		"Pulse EMP Bomb Launcher"
+		
+outfitter "Lovelace Advanced"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
+	"Ion Torpedo Bay"
+	"Ion Torpedo"
+	
+outfitter "Ammo North"
+	clear
+		"Rail Slug"
+		"EMP Bomb"
+	
+outfitter "Ammo North"
+	"400mm Slug"
+	"Ion Torpedo"
+	
+outfitter "Syndicate Basics"
+	clear
+		"EMP Bomb Launcher"
+		"EMP Bomb"
+		"Pulse EMP Bomb Launcher"
+		
+outfitter "Syndicate Basics"
+	"Ion Torpedo Bay"
+	"Ion Torpedo"
+	
+outfitter "Ammo South"
+	clear
+		"EMP Bomb"
+		
+outfitter "Ammo South"
+	"Ion Torpedo"
+	
+planet Relic
+	outfitter "Basic Outfits"

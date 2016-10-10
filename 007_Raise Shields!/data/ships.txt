@@ -1,0 +1,63 @@
+ship "Phoenix"
+	sprite "ship/phoenix"
+	attributes
+		category "Heavy Warship"
+		"cost" 17800000
+		"shields" 16400
+		"hull" 12400
+		"required crew" 86
+		"bunks" 139
+		"mass" 980
+		"drag" 9.9
+		"heat dissipation" .5
+		"fuel capacity" 600
+		"cargo space" 190
+		"outfit space" 855
+		"weapon capacity" 350
+		"engine capacity" 190
+		weapon
+			"blast radius" 80
+			"shield damage" 800
+			"hull damage" 400
+			"hit force" 1200
+	outfits
+		"400mm Mag Rail Cannon" 2
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Heavy Laser Turret" 3
+		"Heavy Anti-Missile Turret" 2
+		"400mm Slug" 100
+		
+		"Fusion Reactor"
+		"LP072a Battery Pack"
+		"D94-YV Shield Generator"
+		"Liquid Nitrogen Cooler"
+		
+		"Orca Plasma Thruster"
+		"Orca Plasma Steering"
+		"Scram Drive"
+		
+		"Breacher Cannon" 25
+		"Tactical Armor" 50
+		"Laser Rifle" 60
+		
+		
+	engine -25 115
+	engine 25 115
+	gun -55 -38 "400mm Mag Rail Cannon"
+	gun 55 -38 "400mm Mag Rail Cannon"
+	gun -26 -13 "Torpedo Launcher"
+	gun 26 -13 "Torpedo Launcher"
+	turret -54 -4 "Heavy Laser Turret"
+	turret 54 -4 "Heavy Laser Turret"
+	turret 0 -9 "Heavy Laser Turret"
+	turret -30 27 "Heavy Anti-Missile Turret"
+	turret 30 27 "Heavy Anti-Missile Turret"
+	fighter -16 -9
+	fighter 16 -9
+	drone 32 -9
+	drone -32 -9
+	explode "tiny explosion" 18
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "big explosion" 8

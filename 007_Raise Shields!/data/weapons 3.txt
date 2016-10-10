@@ -1,0 +1,65 @@
+outfit "Tuk'ux Decimator"
+	category "Guns"
+	cost 15000000
+	thumbnail "outfit/decimator"
+	"mass" 60
+	"outfit space" -60
+	"weapon capacity" -60
+	"gun ports" -1
+	"pod capacity" 20
+	weapon
+		sprite "projectile/tukux decimator"
+			"frame rate" 6
+			"rewind"
+		sound "decimator"
+		ammo "Decimator Pod"
+		icon "icon/decimator"
+		"hit effect" "tukux mega impact"
+		"die effect" "mega death"
+		"inaccuracy" 3
+		"velocity" 8
+		"lifetime" 600
+		"reload" 180
+		"firing energy" 850
+		"firing heat" 300
+		"split range" 400
+		"trigger range" 10
+		"blast radius" 50
+		"missile strength" 200
+		"homing" 4
+		"optical tracking" .7
+		"turn" 4
+		"acceleration" 3
+		"drag" .3
+		"submunition" "Bu'rax Fish Warhead" 12
+	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the defenses of any enemy ship. A single blast can is all it takes before most captains surrender unconditionally."
+	
+outfit "Bu'rax Fish Warhead"
+	weapon
+		sprite "projectile/fish"
+		"live sound" "fish"
+		"hit effect" "fish impact" 40
+		"live effect" "fish scales" 60
+		"inaccuracy" 110
+		"velocity" 3
+		"lifetime" 180
+		"missile strength" 50
+		"homing" 4
+		"infrared tracking" .7
+		"turn" 8
+		"drag" .1
+		"acceleration" 1
+		"shield damage" 800
+		"hull damage" 100
+		"disruption damage" 4
+		"ion damage" 50
+		
+outfit "Decimator Pod"
+	thumbnail "outfits/decimator pod"
+	category "Ammunition"
+	"pod capacity" -1
+	"mass" 1
+	"cost" 100000
+	description "A pod filled with decimating warheads."
+	
+		

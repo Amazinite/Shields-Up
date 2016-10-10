@@ -1,0 +1,128 @@
+outfit "Ion Torpedo Bay"
+	category "Secondary Weapons"
+	cost 5000000
+	thumbnail "outfit/iontorpedobay"
+	"mass" 35
+	"outfit space" -35
+	"weapon capacity" -35
+	"gun ports" -1
+	"ion torpedo capacity" 12
+	weapon
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
+		sound "typhoon"
+		ammo "Ion Torpedo"
+		icon "icon/iontorpedo"
+		"fire effect" "typhoon fire"
+		"hit effect" "iontorpedoexplosion"
+		"die effect" "tiny explosion"
+		"inaccuracy" 5
+		"submunition" "Ion Torpedo Blast" 75
+		"velocity" 8
+		"lifetime" 1000
+		"reload" 300
+		"firing energy" 5
+		"firing heat" 60
+		"acceleration" 0.8
+		"drag" 0.1
+		stream
+		"turn" 1
+		"homing" 4
+		"optical tracking" 1
+		"split range" 200
+		"missile strength" 100
+		"blast radius" 10
+		
+outfit "400mm Mag Rail Cannon"
+	category "Secondary Weapons"
+	cost 625000
+	thumbnail "outfit/railgun"
+	"mass" 35
+	"outfit space" -35
+	"weapon capacity" -35
+	"gun ports" -1
+	"m50 capacity" 50
+	weapon
+		sprite "projectile/slug"
+		sound "railgun"
+		icon "icon/rail gun"
+		ammo "400mm Slug"
+		"hit effect" "rail explosion 1"
+		"live effect" "rail smoke" 48
+		"submunition" "Railgun Slug 2"
+		"submunition" "Railgun Aim"
+		"inaccuracy" 2
+		"velocity" 30
+		stream
+		"lifetime" 6
+		"reload" 120
+		"firing energy" 480
+		"firing force" 50
+		"firing heat" 50
+		"shield damage" 800
+		"hull damage" 1200
+		"hit force" 400
+		"missile strength" 400
+	description "The 400mm Railgun is a modern marvel. Using advanced Neodynium-alloy electromagnets, the Railgun hurls an M50-400 depleted Uranium slug at near relativistic speeds almost 4000 kilometers towards the intended target using quantum computer-enhanced targeting algorithms. The size of these guns necessitates a long reload time, while the electromagnets consume a significant amount of a ship's energy with every shot fired."
+		
+outfit "Railgun Slug 2"
+	weapon
+		sprite "projectile/slug"
+		"hit effect" "rail explosion 2"
+		"live effect" "rail smoke" 24
+		"submunition" "Railgun Slug 3"
+		"velocity" -8
+		"lifetime" 12
+		"shield damage" 350
+		"hull damage" 500
+		"hit force" 250
+		"missile strength" 200
+		
+outfit "Railgun Slug 3"
+	weapon
+		sprite "projectile/slug"
+		"hit effect" "rail explosion 3"
+		"live effect" "rail smoke" 12
+		"submunition" "Railgun Slug 4"
+		"velocity" -8
+		"lifetime" 18
+		"shield damage" 275
+		"hull damage" 400
+		"hit force" 100
+		"missile strength" 100
+		
+outfit "Railgun Slug 4"
+	weapon
+		sprite "projectile/slug"
+		"die effect" "tiny explosion"
+		"hit effect" "rail explosion 4"
+		"live effect" "rail smoke" 6
+		"velocity" -8
+		"lifetime" 24
+		"shield damage" 175
+		"hull damage" 300
+		"hit force" 50
+		"missile strength" 50
+		
+outfit "Ion Torpedo Blast"
+	weapon
+		sprite "projectile/iontorpedoblast"
+			"random start frame"
+		"hit effect" "ion impact"
+		"inaccuracy" 360
+		"ion damage" 1
+		"shield damage" 50
+		"drag" 0.1
+		"velocity scale" -.001
+		"velocity" 8
+		"lifetime" 18
+		
+outfit "400mm Slug"
+	category "Ammunition"
+	cost 1000
+	thumbnail "outfit/railslug"
+	"m50 capacity" -1
+	"mass" .5
+	description "400mm Railgun Slug"
+	
