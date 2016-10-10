@@ -1,0 +1,73 @@
+outfit "Turbo Laser Turret"
+	category "Turrets"
+	cost 230000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 20
+	"outfit space" -20
+	"weapon capacity" -20
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/green turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "green impact"
+		stream
+		"inaccuracy" .1
+		"velocity" 19
+		"lifetime" 90
+		"reload" 38
+		"firing energy" 10
+		"firing heat" 25
+		"shield damage" 50
+		"hull damage" 120
+	description "A heavy laser turret that deals large amounts of damage to ship hulls."
+	
+outfit "Light Turbo Laser Turret"
+	category "Turrets"
+	cost 230000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 20
+	"outfit space" -20
+	"weapon capacity" -20
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/blue turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "blue impact"
+		"inaccuracy" .1
+		"velocity" 19
+		stream
+		"lifetime" 90
+		"reload" 38
+		"firing energy" 10
+		"firing heat" 25
+		"shield damage" 120
+		"hull damage" 50
+	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
+	
+outfit "Mil'taj Shield Decimator"
+	category "Guns"
+	cost 6000000
+	thumbnail "outfit/shield decimator"
+	"mass" 55
+	"outfit space" -55
+	"weapon capacity" -55
+	"gun ports" -1
+	weapon
+		sprite "projectile/militaj laser"
+			"frame rate" 1
+		sound "electron beam"
+		"hit effect" "militaj decimator impact"
+		"inaccuracy" .3
+		"velocity" 300
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 40
+		"firing heat" 23
+		"shield damage" 12.50
+		"disruption damage" .12
+	description "A technology designed by the Mil'taj, this weapon was built to help battle the Quarg. By sacrificing any and all damage it could deal to the ship, it instead is energy based and is used primarily to 'decimate' the Quarg's shields."
+
