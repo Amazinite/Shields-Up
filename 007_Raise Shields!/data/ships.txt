@@ -9,7 +9,7 @@ ship "Dragoon"
 		"bunks" 124
 		"mass" 889
 		"drag" 11.2
-		"heat dissipation" .6
+		"heat dissipation" .45
 		"fuel capacity" 800
 		"cargo space" 120
 		"outfit space" 850

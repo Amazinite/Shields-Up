@@ -83,7 +83,7 @@ ship "Unknown Ship" "Lionheart Prototype"
 		"bunks" 124
 		"mass" 889
 		"drag" 11.2
-		"heat dissipation" .6
+		"heat dissipation" .45
 		"fuel capacity" 800
 		"cargo space" 120
 		"outfit space" 850
@@ -95,31 +95,33 @@ ship "Unknown Ship" "Lionheart Prototype"
 			"hull damage" 1950
 			"hit force" 5850
 	outfits
+		"FTek Huge Shield System"
+		"Liquid Nitrogen Cooler"
+		"Dwarf Core"
+		"X4700 Ion Thruster"
+		Hyperdrive
+		"X5200 Ion Steering"
+		"LP144a Battery Pack"
+		"Fusion Reactor"
+		"D94-YV Shield Generator"
+		"Particle Cannon" 2
+		"Heavy Anti-Missile Turret" 2
+		"Ion Torpedo" 40
+		"Ion Torpedo Bay" 2
+		"Light Turbo Laser Turret"
+		"Turbo Laser Turret"
 		"400mm Mag Rail Cannon" 2
 		"400mm Slug" 100
-		"Heavy Anti-Missile Turret" 2
-		"Ion Torpedo Bay" 2
-		"Ion Torpedo" 40
-		"Particle Cannon" 2
-		"Turbo Laser Turret"
-		"Light Turbo Laser Turret"
-		"Fusion Reactor"
-		"LP144a Battery Pack" 
-		"D94-YV Shield Generator"
-		"X4700 Ion Thruster"
-		"X5200 Ion Steering"
-		"Hyperdrive"
-		
-	gun -8 -132.5
-	gun 8.5 -133.5
-	gun -19.5 -99
-	gun 22 -98
-	gun -49 4.5
-	gun 49 5
-	turret -45 85
-	turret 45.5 85
-	turret -37 33.5
-	turret 37.5 33
+	gun -8 -132.5 "Particle Cannon"
+	gun 8.5 -133.5 "Particle Cannon"
+	gun -19.5 -99 "400mm Mag Rail Cannon"
+	gun 22 -98 "400mm Mag Rail Cannon"
+	gun -49 4.5 "Ion Torpedo Bay"
+	gun 49 5 "Ion Torpedo Bay"
+	turret -45 85 "Heavy Anti-Missile Turret"
+	turret 45.5 85 "Heavy Anti-Missile Turret"
+	turret -37 33.5 "Light Turbo Laser Turret"
+	turret 37.5 33 "Turbo Laser Turret"
 	engine -22.5 176
 	engine 23 176
 	explode "small explosion" 25
