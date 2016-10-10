@@ -83,8 +83,8 @@ effect "fish impact"
 		"frame rate" 4
 		"no repeat"
 	sound "fish impact"
-	"velocity scale" -.3
+	"velocity scale" -.003
 	"random angle" 180
-	"random velocity" 6
-	"lifetime" 20
+	"random velocity" .2
+	"lifetime" 85
 	
