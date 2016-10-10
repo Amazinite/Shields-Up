@@ -48,9 +48,10 @@ outfit "400mm Mag Rail Cannon"
 		sound "railgun"
 		icon "icon/rail gun"
 		ammo "M50-400 Slug"
-		"hit effect" "rail explosion"
-		"live effect" "rail smoke" 12
+		"hit effect" "rail explosion 1"
+		"live effect" "rail smoke" 48
 		"submunition" "Railgun Slug 2"
+		"submunition" "Railgun Aim"
 		"inaccuracy" 2
 		"velocity" 30
 		stream
@@ -64,12 +65,12 @@ outfit "400mm Mag Rail Cannon"
 		"hit force" 400
 		"missile strength" 400
 	description "The 400mm Railgun is a modern marvel. Using advanced Neodynium-alloy electromagnets, the Railgun hurls an M50-400 depleted Uranium slug at near relativistic speeds almost 4000 kilometers towards the intended target using quantum computer-enhanced targeting algorithms. The size of these guns necessitates a long reload time, while the electromagnets consume a significant amount of a ship's energy with every shot fired."
-
+		
 outfit "Railgun Slug 2"
 	weapon
 		sprite "projectile/slug"
-		"hit effect" "rail explosion"
-		"live effect" "rail smoke" 12
+		"hit effect" "rail explosion 2"
+		"live effect" "rail smoke" 24
 		"submunition" "Railgun Slug 3"
 		"velocity" -8
 		"lifetime" 12
@@ -81,7 +82,7 @@ outfit "Railgun Slug 2"
 outfit "Railgun Slug 3"
 	weapon
 		sprite "projectile/slug"
-		"hit effect" "rail explosion"
+		"hit effect" "rail explosion 3"
 		"live effect" "rail smoke" 12
 		"submunition" "Railgun Slug 4"
 		"velocity" -8
@@ -95,8 +96,8 @@ outfit "Railgun Slug 4"
 	weapon
 		sprite "projectile/slug"
 		"die effect" "tiny explosion"
-		"hit effect" "rail explosion"
-		"live effect" "rail smoke" 12
+		"hit effect" "rail explosion 4"
+		"live effect" "rail smoke" 6
 		"velocity" -8
 		"lifetime" 24
 		"shield damage" 175

@@ -40,7 +40,43 @@ effect "rail smoke"
 	"random spin" 5
 	"velocity scale" -.001
 	
-effect "rail explosion"
+effect "rail explosion 1"
+	sprite "effect/explosion/huge"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 2"
+	sprite "effect/explosion/large"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 3"
+	sprite "effect/explosion/medium"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 4"
 	sprite "effect/explosion/small"
 		"no repeat"
 		"frame rate" 15
@@ -60,7 +96,7 @@ effect "tukux mega impact"
 	sound "explosion large"
 	"velocity scale" -.001
 	"lifetime" 120
-	"random spin" 10
+	"random spin" 24
 	
 effect "mega death"
 	sprite "projectile/tukux decimator"

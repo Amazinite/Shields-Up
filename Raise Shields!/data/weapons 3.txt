@@ -46,7 +46,7 @@ outfit "Bu'rax Fish Warhead"
 		"missile strength" 50
 		"homing" 4
 		"infrared tracking" .7
-		"turn" 40
+		"turn" 8
 		"drag" .1
 		"acceleration" 1
 		"shield damage" 800
@@ -62,3 +62,4 @@ outfit "Decimator Pod"
 	"cost" 100000
 	description "A pod filled with decimating warheads."
 	
+		
