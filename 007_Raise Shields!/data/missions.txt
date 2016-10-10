@@ -106,7 +106,7 @@ ship "Unknown Ship" "Lionheart Prototype"
 		"D94-YV Shield Generator"
 		"Particle Cannon" 2
 		"Heavy Anti-Missile Turret" 2
-		"Ion Torpedo" 40
+		"Ion Torpedo" 24
 		"Ion Torpedo Bay" 2
 		"Light Turbo Laser Turret"
 		"Turbo Laser Turret"
