@@ -28,6 +28,16 @@ outfitter "Lovelace Advanced"
 	"400mm Slug"
 	"Ion Torpedo Bay"
 	"Ion Torpedo"
+
+outfitter "Syndicate Advanced"
+	clear
+		"EMP Bomb"
+		"EMP Bomb Launcher"
+		"Pulse EMP Bomb Launcher"
+		
+outfitter "Syndicate Advanced"
+	"Ion Torpedo Bay"
+	"Ion Torpedo"
 	
 outfitter "Ammo North"
 	clear
