@@ -34,7 +34,7 @@ outfit "Ion Torpedo Bay"
 		"missile strength" 100
 		"blast radius" 10
 		
-outfit "400mm Railgun"
+outfit "400mm Mag Rail Cannon"
 	category "Secondary Weapons"
 	cost 625000
 	thumbnail "outfit/railgun"
