@@ -1,63 +1,57 @@
-ship "Phoenix"
-	sprite "ship/phoenix"
+ship "Dragoon"
+	sprite "ship/Dragoon"
 	attributes
 		category "Heavy Warship"
-		"cost" 17800000
-		"shields" 16400
-		"hull" 12400
-		"required crew" 86
-		"bunks" 139
-		"mass" 980
-		"drag" 9.9
-		"heat dissipation" .5
-		"fuel capacity" 600
-		"cargo space" 190
-		"outfit space" 855
-		"weapon capacity" 350
-		"engine capacity" 190
+		"cost" 25000000
+		"shields" 28000
+		"hull" 11000
+		"required crew" 78
+		"bunks" 124
+		"mass" 889
+		"drag" 11.2
+		"heat dissipation" .6
+		"fuel capacity" 800
+		"cargo space" 120
+		"outfit space" 850
+		"weapon capacity" 400
+		"engine capacity" 195
 		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
+			"blast radius" 390
+			"shield damage" 3900
+			"hull damage" 1950
+			"hit force" 5850
 	outfits
-		"400mm Mag Rail Cannon" 2
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"Heavy Laser Turret" 3
-		"Heavy Anti-Missile Turret" 2
-		"400mm Slug" 100
-		
-		"Fusion Reactor"
-		"LP072a Battery Pack"
-		"D94-YV Shield Generator"
+		"FTek Huge Shield System"
 		"Liquid Nitrogen Cooler"
-		
-		"Orca Plasma Thruster"
-		"Orca Plasma Steering"
-		"Scram Drive"
-		
-		"Breacher Cannon" 25
-		"Tactical Armor" 50
-		"Laser Rifle" 60
-		
-		
-	engine -25 115
-	engine 25 115
-	gun -55 -38 "400mm Mag Rail Cannon"
-	gun 55 -38 "400mm Mag Rail Cannon"
-	gun -26 -13 "Torpedo Launcher"
-	gun 26 -13 "Torpedo Launcher"
-	turret -54 -4 "Heavy Laser Turret"
-	turret 54 -4 "Heavy Laser Turret"
-	turret 0 -9 "Heavy Laser Turret"
-	turret -30 27 "Heavy Anti-Missile Turret"
-	turret 30 27 "Heavy Anti-Missile Turret"
-	fighter -16 -9
-	fighter 16 -9
-	drone 32 -9
-	drone -32 -9
-	explode "tiny explosion" 18
-	explode "small explosion" 36
-	explode "medium explosion" 24
-	explode "big explosion" 8
+		"Dwarf Core"
+		"X4700 Ion Thruster"
+		Hyperdrive
+		"X5200 Ion Steering"
+		"LP144a Battery Pack"
+		"Fusion Reactor"
+		"D94-YV Shield Generator"
+		"Particle Cannon" 2
+		"Heavy Anti-Missile Turret" 2
+		"Ion Torpedo" 40
+		"Ion Torpedo Bay" 2
+		"Light Turbo Laser Turret"
+		"Turbo Laser Turret"
+		"400mm Mag Rail Cannon" 2
+		"400mm Slug" 100
+	gun -8 -132.5 "Particle Cannon"
+	gun 8.5 -133.5 "Particle Cannon"
+	gun -19.5 -99 "400mm Mag Rail Cannon"
+	gun 22 -98 "400mm Mag Rail Cannon"
+	gun -49 4.5 "Ion Torpedo Bay"
+	gun 49 5 "Ion Torpedo Bay"
+	turret -45 85 "Heavy Anti-Missile Turret"
+	turret 45.5 85 "Heavy Anti-Missile Turret"
+	turret -37 33.5 "Light Turbo Laser Turret"
+	turret 37.5 33 "Turbo Laser Turret"
+	engine -22.5 176
+	engine 23 176
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "large explosion" 45
+	explode "huge explosion" 30
+	"final explode" "final explosion large"

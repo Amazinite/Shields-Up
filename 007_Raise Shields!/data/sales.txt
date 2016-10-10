@@ -67,3 +67,7 @@ outfitter "Ammo South"
 	
 planet Relic
 	outfitter "Basic Outfits"
+	
+shipyard "Betelgeuse Advanced"
+	clear
+		"Dragoon"
