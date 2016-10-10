@@ -37,12 +37,12 @@ outfit "Tuk'ux Decimator"
 outfit "Bu'rax Fish Warhead"
 	weapon
 		sprite "projectile/fish"
-		sound "fish"
+		"live sound" "fish"
 		"hit effect" "fish impact" 40
 		"live effect" "fish scales" 60
 		"inaccuracy" 110
 		"velocity" 3
-		"lifetime" 60
+		"lifetime" 180
 		"missile strength" 50
 		"homing" 4
 		"infrared tracking" .7

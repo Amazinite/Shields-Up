@@ -57,6 +57,7 @@ effect "tukux mega impact"
 		"frame rate" 6
 		"rewind"
 		"no repeat"
+	sound "explosion large"
 	"velocity scale" -.001
 	"lifetime" 120
 	"random spin" 10
@@ -66,6 +67,7 @@ effect "mega death"
 	"random spin" 8
 	"lifetime" 100
 	"velocity scale" -.03
+	sound "decideath"
 	
 effect "fish scales"
 	sprite "effect/scale"
@@ -74,11 +76,13 @@ effect "fish scales"
 	"random spin" 50
 	"lifetime" 30
 	"velocity scale" -.001
+	sound "fish"
 	
 effect "fish impact"
 	sprite "effect/scale"
 		"frame rate" 4
 		"no repeat"
+	sound "fish impact"
 	"velocity scale" -.3
 	"random angle" 180
 	"random velocity" 6
