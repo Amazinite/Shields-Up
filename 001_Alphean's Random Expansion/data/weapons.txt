@@ -430,7 +430,7 @@ outfit "EMP Bomb Launcher"
 			"frame rate" 4
 			"random start frame"
 		sound "typhoon"
-		ammo "Ion Torpedo"
+		ammo "EMP Bomb"
 		icon "icon/iontorpedo"
 		"fire effect" "typhoon fire"
 		"hit effect" "iontorpedoexplosion"
