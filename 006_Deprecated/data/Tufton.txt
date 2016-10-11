@@ -111,9 +111,9 @@ outfit "M50-400 Slug"
 	description "400mm Railgun Slug"
 
 outfit "400mm Railgun"
-	category "Guns"
+	category "Secondary Weapons"
 	cost 625000
-	thumbnail "outfit/400mm Railgun" # Image by Derpy Horse
+	thumbnail "outfit/mag railgun" # Image by Derpy Horse
 	"mass" 35
 	"outfit space" -60
 	"weapon capacity" -60
