@@ -67,6 +67,12 @@ outfitter "Ammo South"
 	
 planet Relic
 	outfitter "Basic Outfits"
+
+planet Oblivion
+	outfitter "Basic Outfits"
+	
+planet Lichen
+	outfitter "Basic Outfits"
 	
 shipyard "Betelgeuse Advanced"
 	clear

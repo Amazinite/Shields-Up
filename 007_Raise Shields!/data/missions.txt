@@ -4,7 +4,7 @@ mission "Dragoon Testing"
 	description "Travel to the Epsilon Leonis system and meet with the Lionheart liason."
 	destination "Valhalla"
 	to offer
-		has "FW Syndicate Extremists 1C: done"
+		has "main plot completed"
 		delay 182
 	on offer
 		dialog `You recieve a message from the Lionheart Corporation.`
