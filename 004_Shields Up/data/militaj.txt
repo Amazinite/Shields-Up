@@ -393,6 +393,7 @@ outfit "Mil'taj Plasma Cannon"
 	description "Designed to cause immense amounts of heat to hostile systems, making disabling targets much easier."
 	
 #Shield Decimator by PompanoZombie, an awesome human
+#Recreated by Spiral03
 #Sprite by Derpy Horse
 	
 outfit "Mil'taj Shield Decimator"
@@ -414,7 +415,8 @@ outfit "Mil'taj Shield Decimator"
 		"reload" 1
 		"firing energy" 40
 		"firing heat" 23
-		"shield damage" 215
+		"shield damage" 12.50
+		"disruption damage" .12
 	description "A technology designed by the Mil'taj, this weapon was built to help battle the Quarg. By sacrificing any and all damage it could deal to the ship, it instead is energy based and is used primarily to 'decimate' the Quarg's shields."
 
 shipyard "Militaj Basics"

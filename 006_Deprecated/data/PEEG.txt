@@ -74,3 +74,46 @@ ship "Tuk'ux Battle Cruiser"
 	explode "big explosion" 40
 	explode "huge explosion" 10
 	description "The Tuk'ux's main ship for any engagements with the enemy. This ship will wreak havoc on any opposing force."
+
+outfit "Ion Torpedo Bay"
+	category "Secondary Weapons"
+	cost 5000000
+	thumbnail "outfit/iontorpedobay"
+	"mass" 35
+	"outfit space" -45
+	"weapon capacity" -45
+	"gun ports" -1
+	"ion torpedo capacity" 20
+	weapon
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
+		sound "typhoon"
+		ammo "Ion Torpedo"
+		icon "icon/iontorpedo"
+		"fire effect" "typhoon fire"
+		"hit effect" "iontorpedoexplosion"
+		"die effect" "tiny explosion"
+		"inaccuracy" 5
+		"velocity" 8
+		"lifetime" 1000
+		"reload" 300
+		"firing energy" 5
+		"firing heat" 60
+		"acceleration" 0.8
+		"drag" 0.1
+		"turn" 1
+		"homing" 4
+		"optical tracking" 1
+		"trigger radius" 10
+		"blast radius" 25
+		"ion damage" 100
+		"missile strength" 100
+
+outfit "Ion Torpedo"
+	category "Ammunition"
+	cost 500000
+	thumbnail "outfit/iontorpedo"
+	"ion torpedo capacity" -1
+	"mass" 0.5
+

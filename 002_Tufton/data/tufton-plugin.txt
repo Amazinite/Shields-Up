@@ -16,17 +16,32 @@ shipyard "Lionheart Advanced"
 #	"Monolith"	
 	"Tactical Assault Fighter"
 
+outfitter "Deep Sky Basics"
+	"400mm Slug"
+
 outfitter "Deep Sky Advanced"
-	"M50-400 Slug"
 	"Hedgehog Ion Mine"
 	"Hedgehog Ion Mine Launcher"
 	"Hull Repair Nano-Bots"
-	"400mm Railgun"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
 	"Bighorn Energy Ram"
-	"Plasma Gatling"
 	"Tractor Beam Turret"
 	"Ion Laser Turret"
 	"Polaric Slide Thrusters"
+
+outfitter "Lovelace Advanced"
+	"Hedgehog Ion Mine"
+	"Hedgehog Ion Mine Launcher"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
+
+outfitter "Pirate Outfits"
+	"Plasma Gatling"
+	"Hull Repair Nano-Bots"
+
+oufitter "Kraz Basics"
+	"Hull Repair Nano-Bots"
 
 ship "Monolith"
 	sprite "ship/monolith"
@@ -137,43 +152,144 @@ ship "Tactical Assault Fighter"
 	explode "small explosion" 20
 	description "The Tactical Assault Fighter is a specially designed Fighter/Interceptor for deployment in Capital-class fighter bays.  With speed, defenses, and armament equivalent to a hyperspace capable Interceptor-class starship, the TAF is a powerful complement to any fleet and a stalwart protector of the lumbering Capital-class behemoths."
 
-outfit "M50-400 Slug"
+# 400mm Slug and Mag Rail Cannon balanced by Spiral03 + the projectile sprite, effect, and sound
+outfit "400mm Slug"
 	category "Ammunition"
 	cost 1000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/railslug"
 	"m50 capacity" -1
 	"mass" .5
 	description "400mm Railgun Slug"
 
-outfit "400mm Railgun"
-	category "Guns"
+outfit "400mm Mag Rail Cannon"
+	category "Secondary Weapons"
 	cost 625000
-	thumbnail "outfit/400mm Railgun" # Image by Derpy Horse
+	thumbnail "outfit/mag railgun" # Image by Derpy Horse
 	"mass" 35
 	"outfit space" -60
 	"weapon capacity" -60
 	"gun ports" -1
 	"m50 capacity" 50
 	weapon
-		sprite "projectile/tracker"
-			"frame rate" 18
-			"random start frame"
-		sound "torpedo"
-		icon "icon/tracker"
-		ammo "M50-400 Slug"
-		"die effect" "tiny explosion"
-		"hit effect" "large explosion"
+		sprite "projectile/slug"
+		sound "railgun"
+		icon "icon/rail gun"
+		ammo "400mm Slug"
+		"hit effect" "rail explosion 1"
+		"live effect" "rail smoke" 48
+		"submunition" "Railgun Slug 2"
+		"submunition" "Railgun Aim"
 		"inaccuracy" 2
 		"velocity" 30
-		"lifetime" 130
-		"reload" 100
+		stream
+		"lifetime" 6
+		"reload" 120
 		"firing energy" 480
 		"firing force" 50
 		"firing heat" 50
-		"shield damage" 700
-		"hull damage" 1000
-		"hit force" 500
+		"shield damage" 800
+		"hull damage" 1200
+		"hit force" 400
+		"missile strength" 400
 	description "The 400mm Railgun is a modern marvel. Using advanced Neodynium-alloy electromagnets, the Railgun hurls an M50-400 depleted Uranium slug at near relativistic speeds almost 4000 kilometers towards the intended target using quantum computer-enhanced targeting algorithms. The size of these guns necessitates a long reload time, while the electromagnets consume a significant amount of a ship's energy with every shot fired."
+		
+outfit "Railgun Slug 2"
+	weapon
+		sprite "projectile/slug"
+		"hit effect" "rail explosion 2"
+		"live effect" "rail smoke" 24
+		"submunition" "Railgun Slug 3"
+		"velocity" -8
+		"lifetime" 12
+		"shield damage" 350
+		"hull damage" 500
+		"hit force" 250
+		"missile strength" 200
+		
+outfit "Railgun Slug 3"
+	weapon
+		sprite "projectile/slug"
+		"hit effect" "rail explosion 3"
+		"live effect" "rail smoke" 12
+		"submunition" "Railgun Slug 4"
+		"velocity" -8
+		"lifetime" 18
+		"shield damage" 275
+		"hull damage" 400
+		"hit force" 100
+		"missile strength" 100
+		
+outfit "Railgun Slug 4"
+	weapon
+		sprite "projectile/slug"
+		"die effect" "tiny explosion"
+		"hit effect" "rail explosion 4"
+		"live effect" "rail smoke" 6
+		"velocity" -8
+		"lifetime" 24
+		"shield damage" 175
+		"hull damage" 300
+		"hit force" 50
+		"missile strength" 50
+	
+effect "rail smoke"
+	sprite "effect/rail smoke"
+		"no repeat"
+		"random start frame"
+		"frame rate" 8
+	"lifetime" 60
+	"random angle" 360
+	"random spin" 5
+	"velocity scale" -.001
+	
+effect "rail explosion 1"
+	sprite "effect/explosion/huge"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 2"
+	sprite "effect/explosion/large"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 3"
+	sprite "effect/explosion/medium"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
+effect "rail explosion 4"
+	sprite "effect/explosion/small"
+		"no repeat"
+		"frame rate" 15
+	sound "explosion small"
+	"lifetime" 24
+	"random angle" 360
+	"random velocity" .4
+	"random spin" 2
+	"random frame rate" 5
+	"velocity scale" .05
+	
 
 outfit "Hedgehog Ion Mine"
 	category "Ammunition"

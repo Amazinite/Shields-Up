@@ -1,3 +1,5 @@
+Redundant outfits in different mods that need to be addressed
+
 #Alphean's Random Expansion
 outfit "S-45 Lamprey"
 	category "Hand to Hand"

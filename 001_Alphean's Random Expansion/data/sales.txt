@@ -415,6 +415,7 @@ outfitter "Tyil Advanced"
 	
 outfitter "Ammo North"
 	"Rail Slug"
+	"EMP Bomb"
 	
 outfitter "Hai Advanced"
 	"Hai Tracker Secondary Magazine"

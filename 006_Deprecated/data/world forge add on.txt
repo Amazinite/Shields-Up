@@ -2,6 +2,10 @@ outfitter deprecated
 	"EP-341 Shield Generator"
 	"JF-2031 Shield Generator"
 	"X900 Experimental Micro-Propulsion"
+	"400mm Railgun"
+	"M50-400 Slug"
+	"Ion Torpedo Bay"
+	"Ion Torpedo"
 
 shipyard deprecated
 	"Tuk'ux Battle Cruiser"
