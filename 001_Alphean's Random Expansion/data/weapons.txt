@@ -414,42 +414,57 @@ outfit "EMP Bomb"
 	"empbomb capacity" -1
 	mass .4
 	description "EMP Bombs designed to overload electical systems."
-	
+
+# EMP bomb stats and submunition by Spiral03
 outfit "EMP Bomb Launcher"
 	category "Secondary Weapons"
 	cost 650000
 	thumbnail "outfit/emp bomb launcher"
-	"mass" 19
-	"outfit space" -25
-	"weapon capacity" -25
+	"mass" 24
+	"outfit space" -30
+	"weapon capacity" -30
 	"gun ports" -1
 	"empbomb capacity" 15
 	weapon
-		sprite "projectile/asb"
-			"frame rate" 60
-		sound "torpedo"
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
+		sound "typhoon"
 		ammo "EMP Bomb"
-		icon "icon/torpedo"
-		"submunition" "ion pulse" 65
-		"die effect" "missile death"
-		"inaccuracy" 0.1
-		"lifetime" 50
-		"reload" 60
-		"firing energy" 53
-		"firing heat" 27
-		"shield damage" 200
-		"ion damage" 650
-		drag 15
+		icon "icon/iontorpedo"
+		"fire effect" "typhoon fire"
+		"hit effect" "iontorpedoexplosion"
+		"die effect" "tiny explosion"
+		"inaccuracy" 5
+		"submunition" "Ion Torpedo Blast" 75
+		"velocity" 8
+		"lifetime" 1000
+		"reload" 300
+		"firing energy" 5
+		"firing heat" 60
+		"acceleration" 0.8
+		"drag" 0.1
+		stream
+		"turn" 1
+		"homing" 4
+		"optical tracking" 1
+		"split range" 200
+		"missile strength" 100
+		"blast radius" 10
 	description "The Electromagnetic Pulse Bomb Launcher, EMPL for short, cuts off foes' energy generation, forcing them to rely on batteries until they lie helpless under heavy fire."
 	
-outfit "ion pulse"
+outfit "Ion Torpedo Blast"
 	weapon
-		sprite "projectile/asb"
-			"frame rate" .1
-		"inaccuracy" 2000
-		velocity 10
-		"lifetime" 60
-		"ion damage" 25
+		sprite "projectile/iontorpedoblast"
+			"random start frame"
+		"hit effect" "ion impact"
+		"inaccuracy" 360
+		"ion damage" 1
+		"shield damage" 50
+		"drag" 0.1
+		"velocity scale" -.001
+		"velocity" 8
+		"lifetime" 18
 		
 outfit "Pulse EMP Bomb Launcher"
 	category "Secondary Weapons"
@@ -466,7 +481,7 @@ outfit "Pulse EMP Bomb Launcher"
 		sound "torpedo"
 		ammo "EMP Bomb"
 		icon "icon/torpedo"
-		"submunition" "ion pulse" 65
+		submunition "Ion Torpedo Blast" 65
 		submunition "pulse first"
 		"die effect" "missile death"
 		"inaccuracy" 0.1
@@ -479,15 +494,6 @@ outfit "Pulse EMP Bomb Launcher"
 		drag 15
 	description "The Electromagnetic Pulse Bomb Launcher, EMPL for short, cuts off foes' energy generation, forcing them to rely on batteries until they lie helpless under heavy fire."
 	description "	This version of the EMPL contains several charges of ion bursts, so releasing one on even a capital nearly always puts it out of commission."
-	
-outfit "ion pulse"
-	weapon
-		sprite "projectile/asb"
-			"frame rate" .1
-		"inaccuracy" 2000
-		velocity 10
-		"lifetime" 60
-		"ion damage" 25
 
 outfit "pulse first"
 	weapon

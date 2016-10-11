@@ -133,9 +133,11 @@ outfit "Turbo Laser Turret"
 	"turret mounts" -1
 	"required crew" 1
 	weapon
-		sprite "projectile/green blaster"
-		sound "torpedo"
-		"hit effect" "blaster impact"
+		sprite "projectile/green turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "green impact"
+		stream
 		"inaccuracy" .1
 		"velocity" 19
 		"lifetime" 90
@@ -156,11 +158,13 @@ outfit "Light Turbo Laser Turret"
 	"turret mounts" -1
 	"required crew" 1
 	weapon
-		sprite "projectile/blue blaster"
-		sound "torpedo"
-		"hit effect" "blaster impact"
+		sprite "projectile/blue turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "blue impact"
 		"inaccuracy" .1
 		"velocity" 19
+		stream
 		"lifetime" 90
 		"reload" 38
 		"firing energy" 10

@@ -166,65 +166,66 @@ ship "Bactrian T2"
 	explode "huge explosion" 30
 	description "Based on its predecessor, the famous Lionheart Bactrian, the Bactrian T2 attempts to revitalize a past era of ship building. Modeled to have all the specifications of the former Bactrian, the T2 is the dream ship of merchant captains and explorers alike."
 	description "The Premium hull makes it very expensive."
-	
+
+# Rebalanced and image touched up by Spiral03
 ship "Dragoon"
 	sprite "ship/Dragoon"
 	attributes
 		category "Heavy Warship"
-		"cost" 112100195
-		"shields" 60000
-		"hull" 33000
-		"required crew" 624
-		"bunks" 945
-		"mass" 1630
-		"drag" 15.2
-		"heat dissipation" .4
+		"cost" 25000000
+		"shields" 28000
+		"hull" 11000
+		"required crew" 78
+		"bunks" 124
+		"mass" 889
+		"drag" 11.2
+		"heat dissipation" .45
 		"fuel capacity" 800
-		"cargo space" 722
-		"outfit space" 745
-		"weapon capacity" 355
-		"engine capacity" 240
+		"cargo space" 120
+		"outfit space" 850
+		"weapon capacity" 400
+		"engine capacity" 195
 		weapon
-			"blast radius" 700
-			"shield damage" 7500
-			"hull damage" 5500
-			"hit force" 10000
+			"blast radius" 390
+			"shield damage" 3900
+			"hull damage" 1950
+			"hit force" 5850
 	outfits
-		"Torpedo Launcher" 5
-		"Torpedo" 150
-		"Heavy Anti-Missile Turret" 3
+		"Particle Cannon" 2
+		"Heavy Anti-Missile Turret" 2
+		"Typhoon Launcher" 2
+		"Typhoon Torpedo" 60
+		"Light Turbo Laser Turret"
+		"Turbo Laser Turret"
+		"400mm Mag Rail Cannon" 2
+		"400mm Slug" 100
+
 		"Fusion Reactor"
-		"LP144a Battery Pack" 2
+		"Dwarf Core"
+		"LP144a Battery Pack"
+		"Liquid Nitrogen Cooler"
 		"D94-YV Shield Generator"
-		"Ramscoop"
+		"FTek Huge Shield System"
+
 		"X4700 Ion Thruster"
 		"X5200 Ion Steering"
-		"Hyperdrive"
-		
-	engine -43 359
-	engine 45 358.5
-	turret 3 35.5
-	turret 3.5 5
-	turret 3.5 -26
-	gun 47 19
-	gun -46.5 18
-	gun -55.5 76.5
-	gun 58.5 76
-	gun 0 -359.5
-	fighter -38 -26
-	fighter -38 -26
-	fighter -38 -26
-	fighter -38 -26
-	fighter 35 36
-	fighter 35 36
-	fighter 35 36
-	fighter 35 36
-	fighter -47 97
-	fighter -47 97
-	fighter -47 97
-	fighter -47 97
+		Hyperdrive
+
+	gun -8 -132.5 "Particle Cannon"
+	gun 8.5 -133.5 "Particle Cannon"
+	gun -19.5 -99 "400mm Mag Rail Cannon"
+	gun 22 -98 "400mm Mag Rail Cannon"
+	gun -49 4.5 "Typhoon Launcher"
+	gun 49 5 "Typhoon Launcher"
+	turret -45 85 "Heavy Anti-Missile Turret"
+	turret 45.5 85 "Heavy Anti-Missile Turret"
+	turret -37 33.5 "Light Turbo Laser Turret"
+	turret 37.5 33 "Turbo Laser Turret"
+	engine -22.5 176
+	engine 23 176
 	explode "small explosion" 25
 	explode "medium explosion" 35
-	explode "big explosion" 45
+	explode "large explosion" 45
 	explode "huge explosion" 30
+	"final explode" "final explosion large"
 	description "Few ships of this scale have ever been devised, the Dragoon's massive frame is enough to eclipes a planet's sun and leave a world in darkness."

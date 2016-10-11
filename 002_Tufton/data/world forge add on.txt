@@ -1,6 +1,6 @@
 outfitter "Tufton Human"
-	"M50-400 Slug"
-	"400mm Railgun"
+	"400mm Slug"
+	"400mm Mag Rail Cannon"
 	"Hedgehog Ion Mine"
 	"Hedgehog Ion Mine Launcher"
 	"Tractor Beam Turret"
