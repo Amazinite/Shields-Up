@@ -36,7 +36,7 @@ outfit "Incinerator Beam"
 
 outfit "Boarding Cannon"
 	category "Hand to Hand"
-	cost 100000
+	cost 300000
 	thumbnail "outfit/boarding cannon"
 	"armory capacity" -20
 	"capture attack" 7.23

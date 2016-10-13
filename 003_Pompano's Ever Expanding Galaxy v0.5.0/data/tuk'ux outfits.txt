@@ -193,7 +193,7 @@ outfit "Tuk'ux Quad-Blaster Turret"
 
 # Weapon by Spirl03
 outfit "Tuk'ux Decimator"
-	category "Secondary Weapons"
+	category "Guns"
 	cost 15000000
 	thumbnail "outfit/decimator"
 	"mass" 40
@@ -226,7 +226,6 @@ outfit "Tuk'ux Decimator"
 		"acceleration" 3
 		"drag" .3
 		"submunition" "Bu'rax Fish Warhead" 12
-		"stream"
 	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the defenses of any enemy ship. A single blast can is all it takes before most captains surrender unconditionally."
 	
 outfit "Bu'rax Fish Warhead"

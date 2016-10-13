@@ -5,12 +5,13 @@ shipyard "Betelgeuse Advanced"
 shipyard "Lionheart Advanced"
 	"Bactrian T2"
 	
-outfitter "Tarazed Technologies"
+outfitter "Navy H2H"
 	"Boarding Cannon"
 	"Ship Armory"
 
 outfitter "Common Outfits"
 	"Extended Bunk Room"
+	"Ship Armory"
 
 outfitter "Lovelace Advanced"
 	"NDR-114 Android"
@@ -18,5 +19,5 @@ outfitter "Lovelace Advanced"
 outfitter "Syndicate Advanced"
 	"NDR-114 Android"
 
-planet Wayfarer
-	outfitter "Tarazed Technologies"
+planet Pilot
+	outfitter "Navy H2H"
