@@ -1,0 +1,458 @@
+system Adhara
+	government "Deep Sky"
+	
+system Aludra
+	government "Deep Sky"
+	
+system Aspidiske
+	government "Deep Sky"
+	
+system Avior
+	government "Deep Sky"
+	
+system Dubhe
+	government "Deep Sky"
+	
+system "Epsilon Leonis"
+	government "Deep Sky"
+	
+system Gomeisa
+	government "Deep Sky"
+
+system Gomeisa
+	government "Deep Sky"
+	
+system Markeb
+	government "Deep Sky"
+
+system Naos
+	government "Deep Sky"
+	
+system Regor
+	government "Deep Sky"
+	
+system Suhail
+	government "Deep Sky"
+
+system Wezen
+	pos -664 -433
+	government "Deep Sky"
+
+system Zosma
+	pos -640 -123
+	government "Deep Sky"
+	
+mission "Escort (Small, Northern)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	npc accompany save
+		fleet
+			names "civilian"
+			variant
+				"Freighter"
+			variant
+				"Clipper"
+			variant
+				"Vagabond"
+			variant
+				"Sky Bus"
+			variant
+				"Sky Barge"
+		
+mission "Escort (Medium, Northern)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	npc accompany save
+		fleet
+			names "civilian"
+			variant
+				"Freighter"
+			variant
+				"Clipper" 
+			variant
+				"Vagabond"
+			variant
+				"Sky Bus"
+			variant
+				"Sky Barge"
+			variant
+				"Star Queen"
+		
+mission "Escort (Large, Northern)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	npc accompany save
+		fleet
+			names "civilian"
+			variant
+				"Arrow"
+			variant
+				"Headhunter" 
+			variant
+				"Clipper"
+			variant
+				"Blackbird"
+			variant
+				"Mule"
+			variant
+				"Archangel"
+			variant
+				"Star Queen"
+			variant
+				"Aerie"
+mission "Escort (Extra Large, Northern)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	npc accompany save
+		fleet
+			names "civilian"
+			variant
+				"Behemoth"
+			variant
+				"Aerie" 4
+			variant
+				"Bactrian"
+			variant
+				"Ironclad Carrier"
+			variant
+				"Phoenix"
+			variant
+				"Star Queen"
+			variant
+				"Water Bug"
+			variant
+				"Archangel"
+
+mission "Escort (Small, Core)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+		
+mission "Escort (Medium, Core)"
+	source
+		government "Deep Sky" "Servorum Dei"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+		
+mission "Bounty Hunting (Big)"
+	source
+		government "Deep Sky" "Servorum Dei"=
+mission "Bounty Hunting (Medium)"	
+	source
+		government "Deep Sky" "Servorum Dei"=
+mission "Bounty Hunting (Small)"
+	source
+		government "Deep Sky" "Servorum Dei"=
+mission "Northern Pirate Attack"
+	source
+		government "Deep Sky" "Servorum Dei"
+	to offer
+		random < 15
+mission "Cargo [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Cargo [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Cargo [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Cargo [3]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Cargo [4]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Bulk Delivery [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Bulk Delivery [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Bulk Delivery [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Rush Delivery [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Rush Delivery [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Rush Delivery [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Rush Delivery [3]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Passengers [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Passengers [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Passengers [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Passengers [3]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Passengers [4]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Transport miners to <planet>"
+	source
+		government "Deep Sky" "Servorum Dei"
+mission "Transport farmers to <planet>"
+	source
+		government "Deep Sky" "Servorum Dei"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Transport mill workers to <planet>"
+	source
+		government "Deep Sky" "Servorum Dei"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Transport workers to <planet>"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Tourists out [0]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Tourists out [1]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Tourists out [2]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Tourists back [0]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Tourists back [1]"
+	source
+		government "Deep Sky"
+mission "Tourists back [2]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Family [0]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Family [1]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Family [2]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+mission "Family [3]"
+	source
+		government "Deep Sky"
+	destination
+		government "Deep Sky"
+		
+mission "Strike Breakers [mining]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Strike Breakers [textile]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"	
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"	
+mission "Strike Breakers [factory]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Colonists [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Colonists [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Bulk Delivery [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Bulk Delivery [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Bulk Delivery [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Rush Delivery [0]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Rush Delivery [1]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Rush Delivery [2]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+mission "Large Rush Delivery [3]"
+	source
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		government "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+
+mission "Peacekeepers [0]"
+	name "Rush Peacekeepers to <planet>"
+	job
+	repeat
+	deadline
+	description "These <bunks> officers are being deployed <destination>. They will pay you <payment> to take them there by <date>."
+	passengers 10 4 .1
+	to offer
+		random < 10
+		"passenger space" > 30
+	source
+		attributes "urban" "near earth" "core" "factory"
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai"
+	destination
+		attributes "frontier" "dirt belt" "south" "farming" "mining" "rim" "forest"
+		distance 2 20
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	on complete
+		payment
+		payment 95000
+		dialog "The peacekeepers grimly depart your ship after paying you <payment>."
+
+mission "Peacekeepers [1]"
+	name "Rush Peacekeepers to <planet>"
+	job
+	repeat
+	deadline
+	description "These <bunks> officers are being deployed <destination>. They will pay you <payment> to take them there by <date>."
+	passengers 10 4 .1
+	to offer
+		random < 15
+		"passenger space" > 30
+	source
+		attributes "urban" "near earth" "core" "factory"
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		attributes "frontier" "dirt belt" "south" "farming" "mining" "rim" "forest"
+		distance 4 30
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	on complete
+		payment
+		payment 130000
+		dialog "The peacekeepers grimly depart your ship after paying you <payment>."
+		
+mission "Courier [0]"
+	name "Rush courier to <planet>"
+	job
+	repeat
+	deadline
+	description "This speeded courier must get to <destination> by <date>, and will pay you <payment>."
+	passengers 1
+	to offer
+		random < 15
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		distance 6 35
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	on complete
+		payment
+		payment 26000
+		dialog "You wish the courier the best of luck on <planet>, and collect your payment of <payment>."
+mission "Courier [2]"
+	name "Rush passengers to <planet>"
+	job
+	repeat
+	deadline
+	description "These <bunks> passengers must get to <destination> by <date>, and will pay you <payment>."
+	passengers 2 10 .9
+	to offer
+		random < 10
+	source
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	destination
+		distance 6 35
+		government "Republic" "Free Worlds" "Syndicate" "Quarg" "Neutral" "Hai" "Deep Sky" "Servorum Dei" "Plenipotent Dominion"
+	on complete
+		payment
+		payment 56000
+		dialog "You wish your passengers the best of luck on <planet>, and collect your payment of <payment>."
+
+mission "Assisting"
+	assisting
+	repeat
+	to offer
+		random < 15
+	source
+		government Republic "Free Worlds" "Syndicate" "Deep Sky" "Servorum Dei"
+	on offer
+		payment 15000
+		conversation
+			`When you repair the <origin>, the pilot thanks you for your assistance and pays you <payment>.`
+				decline
+	# A mission with no destination will not be offered, so give it one.
+	# What the destination is doesn't matter, because you always 'decline' this.
+	destination Earth

@@ -1,0 +1,178 @@
+outfitter "SU Human"
+	"FTek Active Blaster Turret"
+	"FTek Active Blaster"
+	"FTek Heavy Blaster"
+	"FTek Heavy Blaster Turret"
+	"FTek Homing Blaster"
+	"Turbo Laser Turret"
+	"Light Turbo Laser Turret"
+	"X900 Experimental Micro-Propulsion"
+	"Surveillance Pod"
+	"Tactical Armor"
+	"Breacher Cannon"
+	"FTek Capacitor"
+	"FTek021 Rechargable Battery"
+	"FTek Jump Drive"
+	"FTek Slipspace Drive"
+	"FTek Bot Shelf"
+	"FTek UMDB"
+	"Toaster Bot"
+	"Expanded Map"
+	"FTek Tiny Shield System"
+	"FTek Small Shield System"
+	"FTek Medium Shield System"
+	"FTek Large Shield System"
+	"FTek Huge Shield System"
+	"Scrap Shield Generator"
+	
+outfitter "SU Mil'taj"
+	"Mil'taj Black Generator"
+	"Mil'taj Grey Generator"
+	"Mil'taj Cooling Cell"
+	"Mil'taj Cooling Unit"
+	"Mil'taj Condensed Battery"
+	"Mil'taj Curtana Battery"
+	"Mil'taj Particle Cannon"
+	"Mil'taj Anti-Missile Turret"
+	"Mil'taj Point-Defence Turret"
+	"Mil'taj Plasma Cannon"
+	"Mil'taj Shield Decimator"
+
+outfitter "SU Alphas"
+	"Particle Accelerator"
+
+outfitter "SU Others"
+	"Rock Wall"
+	"Star Destroyer Shield Generator"
+
+shipyard "SU Human"
+	"Skybus"
+	"Vagabond"
+	"Vagrant"
+	"Ancient Hulk"
+	"Derelict"
+	"Predator Drone"
+	"Phoenix"
+	"Switchblade"
+	"Sky Dinghy"
+	"Hauler XV"
+	"Archangel"
+	"Legionnaire"
+	"Ironclad Battleship"
+	"Ironclad Carrier"
+	"Pirated Frigate"
+	"Samurai"
+	"FTek Destroyer"
+	"FTek Hornet"
+	"FTek Girl Scout"
+	
+shipyard "SU Mil'taj"
+	"Bodkin"
+	"Ballista"
+	"Halberd"
+	"Curtana"
+	"Pilum"
+	
+shipyard "SU Alphas"
+	"Spetum"
+	"Napoo"
+	"Sica"
+	"Corvo"
+	"Stiletto"
+	"Kukri"
+	"Nefandous"
+	"Gourami"
+	"Albacore"
+	"Arowana"
+	"Cisco"
+	"Catla"
+
+shipyard "SU Others"
+	"Star Destroyer"
+	"Battlestar"
+	
+planet Mods
+	outfitter "SU Human"
+	outfitter "SU Mil'taj"
+	outfitter "SU Alphas"
+	outfitter "SU Others"
+	shipyard "SU Human"
+	shipyard "SU Mil'taj"
+	shipyard "SU Alphas"
+	shipyard "SU Others"
+
+planet Forge
+	outfitter "SU Human"
+	outfitter "SU Mil'taj"
+	outfitter "SU Alphas"
+	outfitter "SU Others"
+	shipyard "SU Human"
+	shipyard "SU Mil'taj"
+	shipyard "SU Alphas"
+	shipyard "SU Others"
+	
+planet Human
+	outfitter "SU Human"
+	outfitter "SU Others"
+	shipyard "SU Human"
+	shipyard "SU Others"
+
+mission "Add Plenipotent License License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Plenipotent License license."
+	on accept
+		set "license: Plenipotent License"
+		fail
+
+mission "Remove Plenipotent License License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Plenipotent License license."
+	on accept
+		clear "license: Plenipotent License"
+		fail
+
+mission "Add Deep Sky License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Deep Sky license."
+	on accept
+		set "license: Deep Sky"
+		fail
+
+mission "Remove Deep Sky License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Deep Sky license."
+	on accept
+		clear "license: Deep Sky"
+		fail
+
+mission "Add Syndicate License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives you a Syndicate license."
+	on accept
+		set "license: Syndicate"
+		fail
+
+mission "Remove Syndicate License"
+	repeat
+	job
+	source
+		attributes forgelicenses
+	description "Gives your Syndicate license."
+	on accept
+		clear "license: Syndicate"
+		fail

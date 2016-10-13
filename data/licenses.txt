@@ -1,0 +1,32 @@
+mission "Deep Sky Grants License"
+        landing
+	autosave
+	to offer
+		has "event: deep sky tech available"
+	on offer
+		event "DS license"
+		set "license: Deep Sky"
+		conversation
+			`The Deep Sky has granted you access to their best ship, the Bactrian. There are rumors that there is also a new type of Mule available.`
+				decline
+
+event "DS licence"
+	shipyard "Lionheart Basics"
+		"Legionaire"
+	
+	
+mission "Syndicate Grants License"
+	landing
+	autosave
+	to offer
+		has "main plot completed"
+	on offer
+		event "S license"
+		set "license: Syndicate"
+		conversation
+			`The Syndicate has granted you access to their secret battleship, the Samurai.`
+				decline
+	
+event "S license"
+	shipyard "Syndicate Advanced"
+		"Samurai"

@@ -1,0 +1,41 @@
+# Effects all by Spiral03
+
+effect "green impact"
+	sprite "effect/green impact"
+		"no repeat"
+		"frame rate" 10
+	"random framerate" 4
+	"lifetime" 20
+	"random angle" 2
+	"random spin" 1
+	"random velocity" 1
+	"velocity scale" -.007
+	
+effect "blue impact"
+	sprite "effect/blue impact"
+		"no repeat"
+		"frame rate" 10
+	"random framerate" 4
+	"lifetime" 20
+	"random angle" 2
+	"random spin" 1
+	"random velocity" 1
+	"velocity scale" -.007
+	
+effect "militaj decimator impact"
+	sprite "effect/militaj decimator impact"
+		"random start frame"
+	"lifetime" 5
+	"random angle" 180
+	"random spin" 6
+	"spin" 4
+	"velocity scale" -.01
+	"random velocity" 2
+	
+effect "homing impact"
+	sprite "effect/homing impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 7
+	"random angle" 40
+	"velocity scale" -.05

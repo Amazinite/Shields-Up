@@ -1,0 +1,985 @@
+fleet "Small Deep"
+	government "Deep Sky"
+	names "deep"
+	cargo 0
+	personality
+		heroic
+	variant 4
+		"Aerie"
+		"Switchblade" 2
+	variant 3
+		"Raven"
+	variant 1
+		"Raven (Heavy)"
+	variant 1
+		"Raven (Afterburner)"
+	variant 6
+		"Mule"
+		"Dagger"
+	variant 2
+		"Mule (Heavy)"
+		"Dagger"
+	variant 2
+		"Mule"
+		"Dagger"
+		"Raven"
+	variant 1
+		"Mule (Heavy)"
+		"Dagger"
+		"Raven (Heavy)"
+	variant 3
+		"Headhunter"
+	variant 2
+		"Headhunter (Particle)"
+	variant 4
+		"Corvette"
+	variant 2
+		"Corvette (Speedy)"
+	variant 2
+		"Corvette (Missile)"
+	
+fleet "Large Deep"
+	government "Deep Sky"
+	names "deep"
+	fighters "deep fighter"
+	cargo 0
+	personality
+		heroic
+	variant 5
+		"Aerie"
+		"Switchblade" 2
+		"Corvette"
+	variant 2
+		"Aerie"
+		"Dagger" 2
+		"Corvette (Missile)"
+	variant 2
+		"Aerie"
+		"Switchblade" 2
+		"Corvette (Speedy)"
+	variant 3
+		"Aerie"
+		"Dagger" 2
+		"Raven"
+	variant 1
+		"Aerie"
+		"Dagger" 2
+		"Raven (Heavy)"
+	variant 1
+		"Aerie"
+		"Dagger" 2
+		"Raven (Afterburner)"
+	variant 4
+		"Raven" 2
+	variant 2
+		"Raven (Heavy)" 2
+	variant 3
+		"Headhunter" 2
+	variant 2
+		"Headhunter (Particle)" 2
+	variant 3
+		"Aerie" 2
+		"Dagger" 4
+	variant 8
+		"Corvette"
+		"Raven"
+	variant 4
+		"Corvette (Speedy)"
+		"Raven (Afterburner)"
+	variant 4
+		"Corvette (Missile)"
+		"Raven (Heavy)"
+	variant 5
+		"Corvette" 2
+	variant 3
+		"Corvette (Speedy)"
+		"Corvette (Missile)"
+	variant 8
+		"Bactrian"
+		"Dagger" 3
+	variant 2
+		"Bactrian"
+		"Dagger" 3
+		"Raven"
+		"Aerie"
+		"Dagger" 2
+	variant 2
+		"Bactrian"
+		"Dagger" 3
+		"Raven (Heavy)"
+		"Aerie"
+		"Dagger" 2
+	variant 5
+		"Bactrian"
+		"Dagger" 3
+		"Mule" 2
+		"Dagger" 2
+	variant 2
+		"Bactrian"
+		"Dagger" 3
+		"Mule (Heavy)" 2
+		"Dagger" 2
+	variant 1
+		"Star Queen"
+		"Raven" 2
+	variant 1
+		"Star Queen"
+		"Raven (Heavy)" 2
+	variant 1
+		"Star Queen"
+		"Headhunter" 2
+	variant 1
+		"Star Queen"
+		"Raven (Afterburner)" 2
+	variant 5
+		"Ironclad Battleship"
+		"Switchblade" 2
+		"Legionare" 2
+		"Switchblade" 2
+	
+fleet "Small Southern Merchants"
+	government "Merchant"
+	names "civilian"
+	cargo 3
+	personality
+		confusion 40
+		timid frugal
+	variant 60
+		"Shuttle"
+	variant 30
+		"Star Barge"
+	variant 20
+		"Star Barge (Armed)"
+	variant 20
+		"Clipper"
+	variant 10
+		"Clipper (Heavy)"
+	variant 10
+		"Clipper (Speedy)"
+	variant 10
+		"Star Barge" 2
+		"Sparrow"
+	variant 10
+		"Star Barge (Armed)" 2
+		"Sparrow"
+	variant 10
+		"Star Barge (Armed)"
+		"Star Barge"
+		"Sparrow"
+	variant 15
+		"Vagabond" 2
+	variant 15
+		"Skybus" 3
+	variant 15
+		"Headhunter" 2
+	variant 30
+		"Freighter"
+	variant 10
+		"Freighter (Fancy)"
+	variant 10
+		"Freighter"
+		"Sparrow"
+	variant 10
+		"Freighter (Fancy)"
+		"Sparrow"
+	variant 20
+		"Blackbird"
+	variant 1
+		"Mule"
+		"Dagger"
+	variant 1
+		"Mule (Heavy)"
+		"Dagger"
+	variant 2
+		"Bounder"
+	variant 4
+		"Heavy Shuttle"
+	variant 2
+		"Heavy Shuttle (Armed)"
+	variant 3
+		"Hauler III"
+	variant 5
+		"Hauler II"
+	variant 7
+		"Hauler"
+		"Berserker"
+	variant 16
+		"Derelict"
+		"Sky Dinghy"
+		"Vagabond" 2
+	variant 22
+		"Ironclad Carrier"
+		"Switchblade" 2
+		"Sky Dinghy" 4
+		"Freighter" 3
+		
+fleet "Large Southern Merchants"
+	government "Merchant"
+	names "civilian"
+	cargo 4
+	personality
+		confusion 20
+		timid frugal
+	variant 20
+		"Freighter"
+		"Hawk"
+	variant 10
+		"Freighter (Fancy)"
+		"Hawk"
+	variant 30
+		"Freighter" 2
+		"Sparrow" 2
+	variant 10
+		"Freighter (Fancy)"
+		"Freighter"
+		"Sparrow" 2
+	variant 30
+		"Argosy"
+	variant 20
+		"Argosy (Laser)"
+	variant 15
+		"Argosy (Missile)"
+	variant 25
+		"Argosy (Blaster)"
+	variant 15
+		"Argosy (Turret)"
+	variant 10
+		"Bastion"
+		"Freighter" 3
+	variant 10
+		"Bastion (Heavy)"
+		"Freighter (Fancy)" 3
+	variant 10
+		"Bastion (Laser)"
+		"Freighter" 3
+	variant 20
+		"Bastion"
+		"Argosy"
+	variant 10
+		"Bastion (Heavy)"
+		"Argosy (Missile)"
+	variant 10
+		"Bastion (Laser)"
+		"Argosy (Laser)"
+	variant 10
+		"Bastion"
+		"Freighter" 3
+		"Star Barge" 4
+		"Fury"
+		"Sparrow" 2
+	variant 3
+		"Bastion (Heavy)"
+		"Freighter (Fancy)" 3
+		"Star Barge (Armed)" 4
+		"Fury (Missile)"
+		"Sparrow" 2
+	variant 20
+		"Argosy" 2
+	variant 20
+		"Skybus" 2
+	variant 20
+		"Vagabond" 2
+	variant 10
+		"Skybus" 3
+	variant 10
+		"Argosy (Blaster)"
+		"Argosy (Laser)"
+		"Skybus"
+	variant 10
+		"Argosy (Turret)"
+		"Argosy (Missile)"
+		"Vagabond"
+	variant 10
+		"Blackbird"
+		"Sparrow" 2
+	variant 2
+		"Bactrian"
+		"Dagger" 3
+	variant 12
+		"Hauler III"
+		"Hauler II"
+		"Hauler"
+	variant 8
+		"Hauler II"
+		"Vagabond" 2
+	variant 6
+		"Hauler III"
+		"Skybus" 3
+		"Berserker" 2
+	variant 21
+		"Derelict"
+		"Vagabond" 2
+	variant 22
+		"Ironclad Carrier"
+		"Switchblade" 2
+		"Sky Dinghy" 4
+		"Freighter" 3
+		
+fleet "Large Free Worlds"
+	government "Free Worlds"
+	names "free worlds capital"
+	cargo 1
+	personality
+		heroic disables frugal
+	variant 10
+		"Bastion"
+	variant 5
+		"Bastion (Heavy)"
+	variant 5
+		"Bastion (Laser)"
+	variant 8
+		"Osprey"
+		"Fury"
+	variant 4
+		"Osprey (Missile)"
+		"Fury (Missile)"
+	variant 4
+		"Osprey (Laser)"
+		"Fury (Laser)"
+	variant 4
+		"Argosy"
+	variant 3
+		"Argosy (Blaster)"
+	variant 3
+		"Vagabond" 2
+	variant 2
+		"Argosy (Laser)"
+	variant 2
+		"Argosy (Missile)"
+	variant 2
+		"Argosy (Turret)"
+	variant 6
+		"Bastion"
+		"Osprey"
+	variant 6
+		"Skybus" 4
+	variant 3
+		"Bastion (Heavy)"
+		"Osprey (Missile)"
+	variant 3
+		"Bastion (Laser)"
+		"Osprey (Laser)"
+	variant 4
+		"Bastion"
+		"Sparrow" 2
+	variant 2
+		"Bastion (Heavy)"
+		"Sparrow" 2
+	variant 2
+		"Bastion (Laser)"
+		"Sparrow" 2
+	variant 2
+		"Falcon"
+	variant 1
+		"Falcon (Heavy)"
+	variant 1
+		"Falcon (Laser)"
+	variant 2
+		"Falcon"
+		"Hawk" 2
+		"Sparrow" 3
+	variant 1
+		"Falcon (Heavy)"
+		"Hawk" 2
+		"Sparrow" 3
+	variant 1
+		"Falcon (Laser)"
+		"Hawk" 2
+		"Sparrow" 3
+	variant 4
+		"Falcon"
+		"Bastion"
+		"Hawk"
+	variant 2
+		"Falcon (Heavy)"
+		"Bastion (Heavy)"
+		"Hawk (Rocket)"
+	variant 2
+		"Falcon (Laser)"
+		"Bastion (Laser)"
+		"Hawk (Speedy)"
+	variant 2
+		"Skybus" 3
+	variant 10
+		"Derelict"
+		"Switchblade"
+		"Vagabond"
+		"Clipper (Heavy)" 1
+		"Skybus" 3
+	variant 11
+		"Osprey (Missile)"
+		"Fury (Missile)"
+	variant 9
+		"Ironclad Carrier"
+		"Lance" 2
+		"Switchblade" 2
+		"Sky Dinghy" 2
+		"Modified Argosy (Laser)" 3
+	variant 11
+		"Ironclad Battleship"
+		"Sky Dinghy (Heavy)" 2
+		"Modified Argosy (Laser)" 3
+		
+fleet "Large Southern Pirates"
+	government "Pirate"
+	names "pirate"
+	cargo 1
+	personality
+		plunders
+	variant 3
+		"Sparrow" 4
+	variant 5
+		"Argosy"
+	variant 5
+		"Vagabond" 2
+	variant 3
+		"Argosy (Blaster)"
+	variant 3
+		"Pirated Frigate"
+	variant 2
+		"Pirated Frigate"
+	variant 4
+		"Pirated Frigate"
+	variant 2
+		"Argosy (Laser)"
+	variant 2
+		"Argosy (Missile)"
+	variant 2
+		"Argosy (Turret)"
+	variant 1
+		"Modified Argosy"
+	variant 1
+		"Modified Argosy (Heavy)"
+	variant 1
+		"Modified Argosy (Laser)"
+	variant 1
+		"Modified Argosy (Missile)"
+	variant 4
+		"Clipper"
+	variant 4
+		"Vagabond" 2
+	variant 2
+		"Clipper (Heavy)"
+	variant 2
+		"Clipper (Speedy)"
+	variant 2
+		"Clipper"
+		"Hawk"
+	variant 1
+		"Clipper (Heavy)"
+		"Hawk (Rocket)"
+	variant 1
+		"Clipper (Speedy)"
+		"Hawk (Speedy)"
+	variant 3
+		"Argosy"
+		"Hawk"
+	variant 1
+		"Argosy (Blaster)"
+		"Hawk (Rocket)"
+	variant 1
+		"Argosy (Laser)"
+		"Hawk (Speedy)"
+	variant 1
+		"Argosy (Turret)"
+		"Hawk (Speedy)"
+	variant 1
+		"Argosy (Missile)"
+		"Hawk (Rocket)"
+	variant 1
+		"Modified Argosy"
+		"Sparrow" 2
+	variant 1
+		"Modified Argosy (Heavy)"
+		"Sparrow" 2
+	variant 1
+		"Modified Argosy (Laser)"
+		"Sparrow" 2
+	variant 1
+		"Modified Argosy (Missile)" 2
+	variant 4
+		"Bastion"
+	variant 2
+		"Bastion (Heavy)"
+	variant 2
+		"Bastion (Laser)"
+	variant 2
+		"Falcon"
+	variant 1
+		"Falcon (Heavy)"
+	variant 1
+		"Falcon (Laser)"
+	variant 4
+		"Derelict"
+		"Sky Dinghy (Heavy)"
+	variant 4
+		"Hawk (Rocket)"
+		"Fury (Missile)"
+		"Sparrow"
+	variant 4
+		"Clipper (Heavy)" 2
+	variant 7
+		"Hawk (Rocket)"
+		"Fury (Missile)"
+		"Sparrow"
+	variant 7
+		"Bastion (Heavy)"
+	variant 7
+		"Bastion (Laser)"
+	variant 7
+		"Falcon"
+	variant 8
+		"Hawk (Rocket)"
+		"Fury (Missile)"
+		"Sparrow"
+	variant 8
+		"Bastion (Heavy)"
+	variant 8
+		"Bastion (Laser)"
+	variant 8
+		"Falcon"
+	variant 7
+		"Ironclad Carrier"
+		"Switchblade" 2
+		"Lance" 2
+		"Sky Dinghy" 2
+		"Hawk (Rocket)"
+		"Fury (Missile)"
+		"Sparrow"
+	variant 7
+		"Ironclad Battleship"
+		"Dagger" 1
+		"Sky Dinghy (Heavy)" 1
+		"Hawk (Rocket)"
+		"Fury (Missile)"
+		"Sparrow"
+	variant 8
+		"Ironclad Carrier"
+		"Lance" 3
+		"Sky Dinghy" 3
+		"Modified Argosy (Missile)" 2
+	variant 8
+		"Ironclad Battleship"
+		"Lance" 1
+		"Switchblade" 1
+		"Modified Argosy (Missile)" 2
+	
+fleet "Large Plenipotent Dominion"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		heroic disables
+	variant 3
+		"Nefandous" 2
+	variant 3
+		"Sica" 3
+		"Corvo"
+	variant 2
+		"Napoo"
+		"Corvo"
+	variant 2
+		"Napoo"
+	variant 2
+		"Kukri"
+	variant 1
+		"Napoo"
+	variant 1
+		"Napoo" 2
+	variant 1
+		"Napoo"
+		"Nefandous"
+	variant 1
+		"Napoo"
+	variant 4
+		"Nefandous"
+	variant 4
+		"Nefandous"
+	variant 2
+		"Nefandous"
+	variant 2
+		"Nefandous" 4
+	variant 2
+		"Corvo"
+		"Sica" 3
+	variant 1
+		"Napoo"
+	variant 1
+		"Kukri"
+		"Nefandous" 3
+	variant 3
+		"Sica"
+	variant 1
+		"Napoo" 2
+	variant 1
+		"Sica" 7
+		"Nefandous" 4
+	variant 1
+		"Napoo"
+	variant 1
+		"Napoo"
+		"Sica" 2
+	variant 1
+		"Napoo" 2
+	variant 1
+		"Napoo"
+		"Kukri"
+	variant 1
+		"Kukri"
+		"Nefandous" 2
+	variant 1
+		"Nefandous" 6
+		"Sica" 3
+	variant 4
+		"Corvo" 5
+	variant 2
+		"Nefandous" 3
+	variant 2
+		"Sica" 4
+	variant 2
+		"Nefandous" 2
+		"Sica" 3
+	variant 1
+		"Napoo"
+		"Kukri"
+	variant 1
+		"Napoo"
+		"Sica" 3
+	variant 4
+		"Sica" 4
+	variant 4
+		"Sica" 3
+		"Corvo" 2
+	variant 4
+		"Nefandous" 2
+	variant 7
+		"Sica" 2
+		"Corvo"
+	variant 7
+		"Sica" 2
+	variant 7
+		"Sica"
+		"Corvo" 3
+	variant 7
+		"Nefandous"
+		"Sica"
+		"Corvo" 2
+	variant 8
+		"Sica"
+		"Corvo"
+	variant 8
+		"Corvo" 3
+	variant 8
+		"Sica" 2
+	variant 8
+		"Nefandous"
+		
+fleet "Small Plenipotent Dominion"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		heroic
+	variant 4
+		"Sica"
+		"Corvo" 2
+	variant 3
+		"Nefandous"
+	variant 1
+		"Napoo"
+	variant 1
+		"Sica" 2
+	variant 4
+		"Sica"
+		"Corvo"
+	variant 2
+		"Sica"
+		"Corvo"
+	variant 2
+		"Sica" 2
+	variant 1
+		"Corvo" 2
+		"Sica"
+	variant 3
+		"Sica"
+	variant 2
+		"Sica" 
+	variant 4
+		"Nefandous"
+	variant 2
+		"Nefandous" 2
+	variant 2
+		"Nefandous"
+		
+fleet "Plenipotent Dominion Scout"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		surveillance
+	variant 4
+		"Stiletto"
+		
+fleet "Plenipotent Heavy Assault Fleet"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		heroic
+	variant 4
+		"Spetum"
+		"Nefandous" 2
+	variant 3
+		"Kukri"
+	variant 1
+		"Sica" 4
+		"Nefandous" 2
+	variant 1
+		"Nefandous" 3
+		"Sica" 3
+	variant 4
+		"Spetum"
+		"Sica" 3
+	variant 2
+		"Kukri" 2
+		"Sica" 3
+	variant 2
+		"Napoo"
+		"Nefandou" 2
+	variant 1
+		"Sica" 7
+	variant 3
+		"Kukri"
+		"Nefandous" 2
+	variant 2
+		"Napoo" 2
+	variant 4
+		"Spetum"
+	variant 2
+		"Nefandous" 5
+	variant 2
+		"Nefandous" 4
+		"Sica" 2
+		
+fleet "Large Servorum Dei"
+	government "Servorum Dei"
+	names "pirate"
+	cargo 1
+	personality
+		heroic disables
+	variant 3
+		"Albacore" 2
+	variant 3
+		"Albacore"
+	variant 2
+		"Gourami"
+		"Albacore"
+	variant 2
+		"Albacore" 2
+	variant 2
+		"Albacore" 2
+	variant 1
+		"Cisco"
+		"Arowana" 2
+	variant 1
+		"Gourami" 2
+	variant 1
+		"Cisco"
+		"Arowana" 2
+	variant 1
+		"Gourami"
+	variant 4
+		"Albacore"
+	variant 4
+		"Albacore"
+	variant 2
+		"Gourami"
+		"Albacore"
+	variant 2
+		"Albacore" 2
+	variant 2
+		"Gourami"
+		"Albacore"
+	variant 1
+		"Gourami" 2
+	variant 1
+		"Albacore" 2
+	variant 3
+		"Albacore"
+	variant 1
+		"Gourami"
+	variant 1
+		"Cisco"
+		"Arowana" 2
+	variant 1
+		"Cisco"
+		"Arowana" 2
+	variant 1
+		"Albacore" 2
+	variant 1
+		"Gourami"
+	variant 1
+		"Albacore" 3
+	variant 1
+		"Gourami"
+	variant 1
+		"Cisco"
+		"Arowana" 2
+	variant 4
+		"Albacore"
+	variant 2
+		"Albacore" 2
+	variant 2
+		"Gourami" 2
+	variant 2
+		"Albacore"
+	variant 1
+		"Albacore" 3
+	variant 1
+		"Gourami" 2
+	variant 4
+		"Albacore"
+	variant 4
+		"Albacore"
+	variant 4
+		"Albacore"
+	variant 7
+		"Cisco"
+		"Arowana" 2
+	variant 7
+		"Gourami"
+	variant 7
+		"Catla" 2
+	variant 7
+		"Catla"
+	variant 8
+		"Catla"
+	variant 8
+		"Catla" 2
+	variant 8
+		"Catla"
+	variant 8
+		"Catla" 2
+
+fleet "Small Servorum Dei"
+	government "Servorum Dei"
+	names "pirate"
+	cargo 1
+	personality
+		heroic disables
+	variant 4
+		"Albacore"
+	variant 3
+		"Albacore"
+	variant 1
+		"Gourami"
+	variant 1
+		"Albacore" 2
+	variant 4
+		"Albacore"
+	variant 2
+		"Catla"
+	variant 2
+		"Albacore" 2
+	variant 1
+		"Albacore" 2
+	variant 3
+		"Albacore"
+	variant 2
+		"Catla" 2
+	variant 4
+		"Albacore"
+	variant 2
+		"Albacore" 2
+	variant 2
+		"Catla"
+		
+fleet "Small Militaj"
+	government "Militaj"
+	names "pug"
+	cargo 1
+	personality
+		heroic
+	variant 1
+		"Bodkin"
+	variant 2
+		"Bodkin" 2
+	variant 2
+		"Ballista"
+	variant 1
+		"Ballista"
+		"Bodkin"
+		
+fleet "Small Mk2 Militaj"
+	government "Militaj"
+	names "pug"
+	cargo 1
+	personality
+		heroic
+	variant 1
+		"Bodkin" 2
+	variant 2
+		"Pilum"
+	variant 2
+		"Ballista"
+	variant 1
+		"Ballista"
+		"Bodkin"
+		
+fleet "Cargo Militaj"
+	government "Militaj"
+	names "pug"
+	cargo 4
+	personality
+		confusion 20
+		heroic 
+	variant 1
+		"Halberd"
+		"Curtana" 3
+	variant 1
+		"Halberd"
+		"Curtana" 4
+	variant 1
+		"Halberd"
+		"Curtana" 2
+	variant 2
+		"Bodkin"
+	variant 3
+		"Bodkin"
+	variant 2
+		"Bodkin" 2
+	variant 1
+		"Ballista"
+		"Bodkin"
+
+fleet "Large Militaj"
+	government "Militaj"
+	names "pug"
+	cargo 1
+	personality
+		heroic timid
+	variant 1
+		"Ballista"
+		"Bodkin" 2
+	variant 1
+		"Ballista" 2
+	variant 1
+		"Bodkin" 5
+	variant 2
+		"Bodkin" 2
+		"Halberd"
+		"Curtana" 4
+	variant 3
+		"Ballista"
+		"Bodkin"
+		"Halberd"
+		"Curtana" 2
+	variant 2
+		"Ballista" 2
+		"Halberd"
+		"Curtana" 2
+	variant 1
+		"Ballista"
+		"Bodkin" 2
+		"Halberd"
+		"Curtana" 2
