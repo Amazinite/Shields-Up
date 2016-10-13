@@ -31,3 +31,11 @@ effect "militaj decimator impact"
 	"spin" 4
 	"velocity scale" -.01
 	"random velocity" 2
+	
+effect "homing impact"
+	sprite "effect/homing impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 7
+	"random angle" 40
+	"velocity scale" -.05

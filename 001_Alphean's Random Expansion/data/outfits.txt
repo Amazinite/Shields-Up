@@ -136,19 +136,23 @@ outfit "S-45 Lamprey"
 	category "Hand to Hand"
 	cost 15000
 	thumbnail "outfit/unknown"
-	"outfit space" -2
+	"bot capacity" -1
 	"capture attack" 1
 	"capture defense" 2
+	"mass" 2
 	unplunderable 1
 	description "A more defence based guard bot, it is used mostly in freighters."
 
 outfit "R-120 Warbird"
 	category "Hand to Hand"
+	licenses
+		"Navy"
 	cost 20000
 	thumbnail "outfit/unknown"
-	"outfit space" -7
+	"bot capacity" -1
 	"capture attack" 5.2
 	"capture defense" 2.6
+	"mass" 7
 	unplunderable 1
 	description "The Republic Navy uses this model of boarding bots for boarding pirates or capturing other enemy ships."
 
@@ -166,7 +170,8 @@ outfit "P-75 Archangel"
 	category "Hand to Hand"
 	cost 85000
 	thumbnail "outfit/unknown"
-	"outfit space" -10
+	"bot capacity" -1
+	"mass" 10
 	"capture attack" 4.3
 	"capture defense" 8.5
 	unplunderable 1
@@ -176,7 +181,8 @@ outfit "Engineer Bot"
 	category "Special"
 	cost 20000
 	thumbnail "outfit/unknown"
-	"outfit space" -2
+	"bot capacity" -1
+	"mass" 2
 	"energy generation" 0.3
 	"shield generation" 0.1
     "shield energy" 1
@@ -187,7 +193,8 @@ outfit "Repair Bot"
 	category "Special"
 	cost 15000
 	thumbnail "outfit/unknown"
-	"outfit space" -1
+	"bot capacity" -1
+	"mass"
 	"hull repair rate" 0.2
     "hull energy" 1
 	unplunderable 1
@@ -272,6 +279,8 @@ outfit "HN-7 Thorn Coolant System"
 	description "The cooling system used by Fed Thorn Carriers. You have no idea how it works."
 	
 outfit "Navy Cloaking Device"
+	licenses
+		"Navy"
 	category "Systems"
 	cost 3200000
 	"mass" 12
@@ -446,10 +455,12 @@ outfit "Ship Armory"
 	
 outfit "Special Agent"
 	category "Hand to Hand"
-	cost 50000
+	cost 500000
 	thumbnail "outfit/unknown"
 	"required crew" 1
+	"bunks" -1
 	"capture attack" 6
+	"energy generation" -.1
 	"capture defense" 6
 	unplunderable 1
 	description "A specially trained agent for boarding ships. They use a personal cloaking device to infiltrate the enemy ship and take out important targets."

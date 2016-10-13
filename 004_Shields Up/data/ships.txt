@@ -320,7 +320,8 @@ ship "Phoenix"
 			"hull damage" 400
 			"hit force" 1200
 	outfits
-		"400mm Railgun" 2
+		"400mm Mag Rail Cannon" 2
+		"400mm Slug" 100
 		"Torpedo Launcher" 2
 		"Torpedo" 60
 		"Heavy Laser Turret" 3
@@ -340,8 +341,8 @@ ship "Phoenix"
 		"Laser Rifle" 60
 		
 		
-	engine -25 115
-	engine 25 115
+	engine -31 81
+	engine 32.5 81
 	gun -55 -38 "400mm Railgun"
 	gun 55 -38 "400mm Railgun"
 	gun -26 -13 "Torpedo Launcher"
