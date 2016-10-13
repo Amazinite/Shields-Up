@@ -7,6 +7,7 @@ outfitter "Plenipotent Dominion"
 	"S-45 Lamprey"
 	"Sentry Gun"
 	"Energy Chaingun"
+	"FTek Bot Shelf"
 	
 shipyard "Plenipotent Advanced"
 	"Ironclad Battleship"
@@ -128,7 +129,6 @@ outfitter "Syndicate Basics"
 	"FTek Tiny Shield System"
 	"FTek Small Shield System"
 	"FTek Medium Shield System"
-	"FTek UMDB"
 
 outfitter "Pirate Outfits"
 	"Tactical Armor"
@@ -136,14 +136,12 @@ outfitter "Pirate Outfits"
 outfitter "Lovelace Advanced"
 	"Plasma Minelayer"
 	"Plasma Mine"
-	"Tactical Armor"
-	"Breacher Cannon"
+
 
 outfitter "Kraz Advanced"
 	"Plasma Minelayer"
 	"Plasma Mine"
-	"Tactical Armor"
-	"Breacher Cannon"
+
 
 outfitter "Delta V Advanced"
 	"Plasma Minelayer"
@@ -151,6 +149,7 @@ outfitter "Delta V Advanced"
 	"Plasma Gatling"
 	"Tactical Armor"
 	"Breacher Cannon"
+	"Ship Armory"
 
 
 shipyard "Lionheart Basics"

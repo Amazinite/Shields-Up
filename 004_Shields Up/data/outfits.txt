@@ -41,7 +41,7 @@ outfit "Tactical Armor"
 	cost 50000
 	thumbnail "outfit/Assault Armor"
 	"mass" 1
-	"outfit space" -1
+	"armory capacity" -5
 	"capture attack" 1.6
 	"capture defense" 1.8
 	unplunderable 1
@@ -55,7 +55,7 @@ outfit "Breacher Cannon"
 	"capture attack" 3.4
 	"capture defense" 1.3
 	"mass" 1
-	"outfit space" -2
+	"armory capacity" -10
 	unplunderable 1
 	description "Breacher cannons are the most dangerous man-portable weapon that money can buy, although that's not the same thing as being the most dangerous weapon out there. Of course, for the cost of equipping an entire crew with them, it is cheaper to simply buy another ship."
 	description "The purchase price of a breacher cannon generally includes specialized training in its use, and it requires a moderate amount of outfit space for maintenance and training areas."
@@ -79,6 +79,7 @@ outfit "FTek UMDB"
 	"bot capacity" -1
 	"capture attack" 6
 	"capture defense" 3.5
+	"mass" 1
 	unplunderable 1
 	description "The FTek Un-Manned Death Bot™ is a small drone that automatically patrols the halls of your ship and brings peace to those who dare invade."
 	description "	FTek™ is not responsible for any injuries sustained from false targeting of this product on you or your crew."
@@ -88,7 +89,8 @@ outfit "Toaster Bot"
 	thumbnail "outfit/unknown"
 	"capture attack" 9
 	"capture defense" 10
-	"outfit space" -1
+	"bot capacity" -1
+	"mass" 1
 	unplunderable 1
 	description "'Well you see, when we created this product we initially were working on a way to make toast fast and easy, unfortunatly it ended up being a deathbot.' - FTek™ employee who got a raise soon after T-Bot hit the shelves."
 

@@ -103,23 +103,25 @@ outfit "FTek Homing Blaster"
 	"weapon capacity" -11
 	"gun ports" -1
 	weapon
-		sprite "projectile/blue blaster"
-		sound "proton"
-		"hit effect" "proton impact"
-		"split range" 27
+		sprite "projectile/homing blaster"
+			"frame rate" 2
+			"random start frame"
+		sound "fhoming"
+		"hit effect" "homing impact"
 		"inaccuracy" 1
-		"velocity" 35
-		"lifetime" 400
-		"reload" 8
-		"acceleration" 1.2
-		"drag" .15
+		"velocity" 10
+		"lifetime" 200
+		"reload" 45
 		"turn" 2.5
-		"homing" 4
+		"homing" 3
+		"infrared tracking" .7
+		"acceleration" 1
+		"drag" .1
 		"hit force" 10.5
-		"firing energy" 20
-		"firing heat" 28.5
-		"shield damage" 40
-		"hull damage" 33
+		"firing energy" 200
+		"firing heat" 150
+		"shield damage" 60
+		"hull damage" 40
 	description "What's the point of a blaster if you can't hit your target? If you find yourself lacking the ability to aim at a target correctly, boy does FTek have a product for you!"
 	description "Remember, FTek builds murder weapons, so you don't have to!™"
 	
