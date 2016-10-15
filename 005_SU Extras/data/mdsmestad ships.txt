@@ -106,6 +106,9 @@ ship "Kestrel-M"
 	
 ship "Bactrian T2"
 	sprite "ship/T2Bactrian"
+		"frame rate" 30
+		"rewind"
+		"delay" 85
 	licenses
 		"Deep Sky"
 	attributes

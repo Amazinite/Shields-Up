@@ -16,3 +16,16 @@ event "kestrel available: more shields"
 event "deep sky tech available"
 	outfitter "Deep Sky Advanced"
 		"Incinerator Beam"
+		
+event "BT2"
+	shipyard "Lionheart Advanced"
+		"Bactrian T2"
+
+mission "BT2"
+	invisible
+	landing
+	destination "Valhalla"
+	to offer
+		has "main plot completed"
+	on offer
+		event "BT2"

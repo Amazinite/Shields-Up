@@ -607,26 +607,24 @@ ship Legionnaire
 	explode "medium explosion" 20
 	description "The Legionnaire is a Mule modified for heavy combat, with upgraded engines, power, weaponry, and defenses. All that power comes at a price, though; the Legionnaire is extremely expensive."
 
+#Rebalance down to T1.  Same HP as modern variants, but with the focus on armor they maintain a 'dated' feel
 ship "Ironclad Battleship"
 	sprite "ship/battleship"
 	attributes
 		category "Heavy Warship"
-		"cost" 21435000
+		"cost" 10200000
 		shields 1700
-		"hull" 48700
+		"hull" 28000
 		"required crew" 94
 		"bunks" 154
 		"mass" 4440
-		"drag" 29.8
+		"drag" 17.7
 		"heat dissipation" .3
 		"fuel capacity" 900
 		"cargo space" 240
-		"outfit space" 940
+		"outfit space" 950
 		"weapon capacity" 400
 		"engine capacity" 310
-		"hull repair rate" 1.6
-		"heat generation" 5
-		"energy capacity" 300
 	outfits
 		"Quad Blaster Turret" 4
 		"Meteor Missile Launcher" 4
@@ -634,22 +632,20 @@ ship "Ironclad Battleship"
 		"Torpedo Launcher" 2
 		"Torpedo" 90
 		"Heavy Anti-Missile Turret" 4
-
-		"D67-TM Shield Generator"
-		"LP288a Battery Pack"
-		"Fission Reactor" 2
-
+		"Hull Repair Nano-Bots" 2
+		"Fission Reactor"
+		"Fusion Reactor"
+		"LP144a Battery Pack"
 		"Tyrant Plasma Thruster"
 		"Tyrant Plasma Steering"
 		"Hyperdrive"
-		"Afterburner"
 
 		"Laser Rifle" 30
 		"Tactical Armor" 30
-		"Security Station" 30
+		"Ship Armory"
 
-	engine -40 140
-	engine 40 140
+	engine -25 118.5
+	engine 29.5 119.5
 	gun -75 -28 "Meteor Missile Launcher"
 	gun 75 -28 "Meteor Missile Launcher"
 	gun -20 -46 "Meteor Missile Launcher"
@@ -670,28 +666,25 @@ ship "Ironclad Battleship"
 	explode "medium explosion" 30
 	explode "big explosion" 20
 	explode "huge explosion" 10
-	description "An ancient warship that last saw active service as the flagship of the Imperium of Mankind's main battle fleet in the first human Hyperspace Wars. At this point in human history, shields had not yet been invented, so this battleship relied on thick ablative Nano-Mesh™ armor plating to survive the primitive blasts of early human space weaponry.  Modern iterations of this ship include a unique on-board army of repair nano-bots that constantly maintain the vessel's armor and a small shield generator."
+	description "An ancient warship that last saw active service as the flagship of the Imperium of Mankind's main battle fleet in the first human Hyperspace Wars. At this point in human history, shields had not yet been invented, so this battleship relied on thick ablative Nano-Mesh™ armor plating to survive the primitive blasts of early human space weaponry.  Modern iterations of this ship include a small shield generator."
 
 ship "Ironclad Carrier"
 	sprite "ship/imperialcarrier"
 	attributes
 		category "Heavy Warship"
-		"cost" 18500000
-		shield 1700
-		"hull" 29700
-		"required crew" 65
-		"bunks" 350
-		"mass" 2540
-		"drag" 20.8
+		"cost" 8200000
+		shields 1700
+		"hull" 23000
+		"required crew" 85
+		"bunks" 191
+		"mass" 3886
+		"drag" 16.8
 		"heat dissipation" .3
-		"fuel capacity" 700
+		"fuel capacity" 800
 		"cargo space" 150
 		"outfit space" 720
 		"weapon capacity" 230
 		"engine capacity" 256
-		"hull repair rate" 1.2
-		"heat generation" 5
-		"energy capacity" 3000
 	outfits
 		"Meteor Missile Launcher" 4
 		"Meteor Missile" 120
@@ -699,19 +692,16 @@ ship "Ironclad Carrier"
 		"Laser Turret" 2
 
 		"Fission Reactor"
-		"LP288a Battery Pack"
-		"Water Coolant System" 2
-		"D67-TM Shield Generator" 3
-		"Afterburner"
+		"Fusion Reactor"
+		"LP144a Battery Pack"
 		"Hyperdrive"
 		"Laser Rifle" 50
-		"Security Station" 5
-
+		"Hull Repair Nano-Bots" 2
 		"Orca Plasma Thruster"
 		"Tyrant Plasma Steering"
 		
-	engine -35 160
-	engine 35 160
+	engine -14.5 160
+	engine 9.5 160
 	gun -50 -82 "Meteor Missile Launcher"
 	gun 50 -82 "Meteor Missile Launcher"
 	gun -24 -88 "Meteor Missile Launcher"
@@ -731,7 +721,7 @@ ship "Ironclad Carrier"
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	description "An ancient warship that last saw active service as a mobile fighter platform for the Imperium of Mankind's main battle fleet in the first human Hyperspace Wars. At this point in human history, shields had not yet been invented, so this battleship relied on thick ablative Nano-Mesh™ armor plating to survive.  Modern iterations of this ship include a unique on-board army of repair nano-bots that constantly maintain the vessel's armor and a few small shield generators.  One thing this ship still does exceptionally well in the modern galaxy is transport men and material, with a passenger capacity far higher than nearly any modern ship.  Designed to remain in the back lines and influence the course of a battle through fighter superiority, the Imperial Carrier sports less armor and fewer weapons than its battleship bretheren."
+	description "An ancient warship that last saw active service as a mobile fighter platform for the Imperium of Mankind's main battle fleet in the first human Hyperspace Wars. At this point in human history, shields had not yet been invented, so this battleship relied on thick ablative Nano-Mesh™ armor plating to survive.  Modern iterations of this ship include a small shield generator.  Designed to remain in the back lines and influence the course of a battle through fighter superiority, the Imperial Carrier sports less armor and fewer weapons than its battleship bretheren."
 
 
 ship "Pirated Frigate"
