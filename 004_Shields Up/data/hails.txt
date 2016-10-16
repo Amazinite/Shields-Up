@@ -1,6 +1,8 @@
 phrase "friendly deep sky"
 	word
 		"The Deep fleet"
+		"The Deep"
+		"My ship"
 	word
 		" is here to "
 		"'s mission is to "
@@ -14,7 +16,6 @@ phrase "friendly deep sky"
 	word
 		" and "
 	word
-		"serve"
 		"assist"
 		"help"
 		"aid"
@@ -24,26 +25,30 @@ phrase "friendly deep sky"
 
 phrase "friendly deep sky"
 	word
-		"Join "
+		"Stay in "
+		"Work for "
 		"Become part of "
 	word
 		"the Deep, home of"
 	word
 		" the greatest "
+		" the best "
+		" the most efficient "
+		" the strongest "
 	word
 		"weapons "
+		"technology "
 	word
 		" in the galaxy!"
-		" in the Deep!"
+		" in the universe!"
 
 phrase "friendly deep sky"
 	word
 		"United, humanity stands. Divided we will fall."
 		"Home of the most advanced Human technology!"
 		"For honor! For glory!"
-		"Bring the fight to the Dominion!"
-		"Help protect the Deep, get the cool weapons!"
-		"The Deep is always in need of helpers"
+		"Help protect the Deep, get cool weapons!"
+		"The Deep is always in need of workers."
 		
 phrase "hostile deep sky"
 	word
@@ -128,7 +133,6 @@ phrase "hostile deep sky"
 		"of the "
 	word
 		"Deep."
-		"Deep Sky."
 
 phrase "hostile deep sky"
 	word
@@ -180,6 +184,7 @@ phrase "friendly dominion"
 		"This is"
 	word
 		" Dominion"
+		" Plenipotent Dominion"
 	word
 		" territory"
 		" space"
@@ -191,7 +196,9 @@ phrase "friendly dominion"
 	word
 		" behave yourself."
 		" abide by our rules."
-		" don't bother official buisness."
+		" don't interupt official buisness."
+		" stay out of trouble."
+		" watch your behaviour."
 		" don't cause trouble."
 		
 phrase "friendly dominion"
@@ -261,6 +268,7 @@ phrase "friendly servorum"
 		"This is"
 	word
 		" Servorum"
+		" Servorum Dei"
 	word
 		" territory"
 		" space"
@@ -272,7 +280,8 @@ phrase "friendly servorum"
 	word
 		" behave yourself."
 		" abide by our rules."
-		" don't bother official buisness."
+		" don't interupt official buisness."
+		" watch your behaviour."
 		" don't cause trouble."
 		
 phrase "friendly servorum"
@@ -317,20 +326,21 @@ phrase "friendly servorum"
 		" that the Alphas"
 	word
 		" to the north"
-		" above our space"
+		" near our territory"
 	word
 		" do not take kindly"
 		" will not be so kind"
 		" are not as welcoming"
 	word
 		" to Humans."
+		" to your kind."
 		
 phrase "hostile militaj"
 	word
 		"Vol"
 	word
-		" je'tel ca foh"
-		" hol ca foh'tal"
+		" je'tel ca foh wa gar'tal to hap"
+		" hol ca foh'tal wa gar'tal to hap"
 		
 	word
 		" gon ca nan'tel can konda?"
@@ -353,7 +363,7 @@ phrase "hostile militaj"
 		" apen'tal soh"
 	word
 		" bo nan'tal"
-		" bo com'tal"
+		" bo com'tal il"
 	word
 		" can konda?"
 		" can kon?"
@@ -363,6 +373,7 @@ phrase "hostile militaj"
 		"Ca"
 	word
 		" man"
+		" dan"
 	word
 		" se ug."
 		" se tuf."
