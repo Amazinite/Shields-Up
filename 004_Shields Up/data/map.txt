@@ -9562,7 +9562,7 @@ system Zosma
 planet "Chrono Station"
 	attributes quargworld
 	landscape land/space1
-	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refuelling station. `
+	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refueling station. `
 	spaceport `The same strange organic looking tentacles attach to your ship again, though you feel more relaxed walking down the tube this time. The spaceport is completely sealed off from the rest of the station. This station is completely clean like the last one, you see that any speck of dust or dirt that comes off of your body disappears in an instant.`
 
 planet Clark
@@ -9583,7 +9583,7 @@ planet "Cruciatus Station"
 planet "Dead Man's Refuge"
 	landscape land/bwerner8
 	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
-	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuellers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
+	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
 	shipyard "Northern Pirates"
 	shipyard "Southern Pirates"
 	shipyard "FTek Basics"
@@ -9742,7 +9742,7 @@ planet "Mil'taj Ful"
 	attributes Militaj
 	landscape land/mfield5
 	description `A small moon on the outer edge of Militaj space. So insignificant that not even the Drak bothered to destroy it.`
-	spaceport `A small refuelling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Militaj.`
+	spaceport `A small refueling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Militaj.`
 	"required reputation" 0
 	bribe 0.02
 	security 0.1
@@ -9761,7 +9761,7 @@ planet "Mil'taj Gun"
 	attributes Militaj
 	landscape land/bwerner3
 	description `The surface of the planet is completely undeveloped apart from a single structure, which is a spire stretching about 1 kilometer into the sky. Along the sides of the spire there are landing pads for ships. The airspace around the spire is jam-packed with Militaj ships flying in all directions.`
-	spaceport `As you land your ship, there are about half a dozen of the Militaj aliens who run over to your ship and hook refuelling cables into it. As they perform this job, they often look back at you. The Militaj here probably don't see too many humans.`
+	spaceport `As you land your ship, there are about half a dozen of the Militaj aliens who run over to your ship and hook refueling cables into it. As they perform this job, they often look back at you. The Militaj here probably don't see too many humans.`
 	"required reputation" 1
 	bribe 0.1
 	security 0.2
@@ -9814,7 +9814,7 @@ planet "Mil'taj Suh"
 	attributes Militaj
 	landscape land/badlands3
 	description `One of the planets taking the series blunt of the attack by the Drak, all that's left is sand and rocks from the once sprawling cities that were completely vaporized.`
-	spaceport `There is a small outpost set up that provides refuelling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
+	spaceport `There is a small outpost set up that provides refueling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
 	"required reputation" 0
 	bribe 0.6
 	security 0.1
@@ -9839,7 +9839,7 @@ planet "Mil'taj Yun"
 	attributes Militaj
 	landscape land/canyon2
 	description `Another remnant of the Militaj's encounter with the Drak. The air is near unbreathable as a result of the destruction dealt to the planet.`
-	spaceport `A small refuelling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
+	spaceport `A small refueling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
 	"required reputation" 0
 	bribe 0.03
 	security 0
@@ -9995,7 +9995,7 @@ planet "Quis Custodiat"
 	attributes plenipotent ocean luxuries
 	landscape land/fog3
 	description `Although a massive ocean blankets the entire planet, there are many rigs on the water set up to harvest the plentiful oil supply. The planet is very undeveloped and it's only population are the workers who live on the oil platforms.`
-	spaceport `You are allowed passage onto an oil rig where the workers; comprised of a mix of races that includes Humans and Alphas, hook up refuelling cables to your ship.`
+	spaceport `You are allowed passage onto an oil rig where the workers; comprised of a mix of races that includes Humans and Alphas, hook up refueling cables to your ship.`
 	"required reputation" 0.1
 	bribe 0.03
 	security 0.1
