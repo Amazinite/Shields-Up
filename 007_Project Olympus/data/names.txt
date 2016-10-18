@@ -1,0 +1,13 @@
+phrase "cyclops"
+	word
+		Noble
+		Intrepid
+		Valiant
+		Magnificent
+		Stalwart
+	word
+		" Child"
+		" Gnome"
+		" Dwarf"
+		" Halfling"
+		" Badger"

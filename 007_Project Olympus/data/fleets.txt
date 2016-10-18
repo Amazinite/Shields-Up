@@ -1,0 +1,10 @@
+fleet "Patrol 1"
+	government "JRVS"
+	names "cyclops"
+	cargo 10
+	personality
+		confusion 5
+		timid plunders surveillance coward
+	variant
+		"Cyclops"
+	
