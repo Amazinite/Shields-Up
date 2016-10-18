@@ -9562,8 +9562,8 @@ system Zosma
 planet "Chrono Station"
 	attributes quargworld
 	landscape land/space1
-	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refueling station. `
-	spaceport `The same strange organic looking tentacles attach to your ship again, though you feel more relaxed walking down the tube this time. The spaceport is completely sealed off from the rest of the station. This station is completely clean like the last one, you see that any speck of dust or dirt that comes off of your body disapears in an instant.`
+	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refuelling station. `
+	spaceport `The same strange organic looking tentacles attach to your ship again, though you feel more relaxed walking down the tube this time. The spaceport is completely sealed off from the rest of the station. This station is completely clean like the last one, you see that any speck of dust or dirt that comes off of your body disappears in an instant.`
 
 planet Clark
 	attributes "dirt belt" forest factory
@@ -9583,7 +9583,7 @@ planet "Cruciatus Station"
 planet "Dead Man's Refuge"
 	landscape land/bwerner8
 	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
-	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
+	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuellers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
 	shipyard "Northern Pirates"
 	shipyard "Southern Pirates"
 	shipyard "FTek Basics"
@@ -9609,13 +9609,13 @@ planet Dupelepe
 	attributes quargworld
 	landscape land/sky7
 	description `The planet is a small moon, orbiting a gas planet with small amounts of water vapor and methane in its atmosphere giving it the blue-green color. The moon itself is typical of the Quarg, small with a thin atmosphere, however it is heavily populated with sprawling cities covering the surface. Each of the cities are a different color and texture. There are ships of various colors and designs flying around the planet, some are tens of kilometers long. `
-	spaceport `The spaceport is a lofty structure, both towering into the sky and plunging several miles beneath the surface. There are sections of landing pads for various species' ship hulls, there is even a section for humans, though it is unfinished. You dock your ship in one of the hangars designed for a ship twice the size of yours, because the proportions are so odd you face banging an antenae off versus inconveniencing an alien freighter. `
+	spaceport `The spaceport is a lofty structure, both towering into the sky and plunging several miles beneath the surface. There are sections of landing pads for various species' ship hulls, there is even a section for humans, though it is unfinished. You dock your ship in one of the hangars designed for a ship twice the size of yours, because the proportions are so odd you face banging an antennae off versus inconveniencing an alien freighter. `
 	security 0.9
 
 planet "Epica Citadel"
 	attributes fortress plenipotent factory
 	landscape land/water6
-	description `A manufacturing planet owned by the Plenitpotent Dominion, a collection of Alphas that have developed a society. Although the planet is mostly filled with factories and military bases, there are quite a few large cities, putting the total population of the planet around two billion, although people often get sick due to the pollution from the many factories. The factories generate a purple smoke that is very visible at certain times of day. It's rather beautiful until you remind yourself how many toxic fumes you're inhailing.`
+	description `A manufacturing planet owned by the Plenitpotent Dominion, a collection of Alphas that have developed a society. Although the planet is mostly filled with factories and military bases, there are quite a few large cities, putting the total population of the planet around two billion, although people often get sick due to the pollution from the many factories. The factories generate a purple smoke that is very visible at certain times of day. It's rather beautiful until you remind yourself how many toxic fumes you're inhaling.`
 	spaceport `The spaceport is rather run down, it is poorly managed, which is rather evident when exiting your ship, you can see that the landing pad is not well supported. It's hard to believe that this is the capital of a race hoping to wipe out most of humanity.`
 	shipyard "Plenipotent Basic"
 	shipyard "FTek Basics"
@@ -9635,8 +9635,8 @@ planet "Epica Citadel"
 
 planet Exemption
 	landscape land/Fimage8
-	description `A beautifully calm planet owned by the Plenipotent Dominion. The main source of food for their planets, Exemption is rightfully named for the relaxing getaway from the typical Dominion planet due to it's lack of factories. Instead, Exemption is the breadbasket of the Dominion, producing most of it's food.`
-	spaceport `You land in one of the many small towns scattered across the planet. Even though it's a small town, the technologically advanced Alphas go all out with their constructions, the largest structure here being a large, five story high spire with beams sticking out of the side which are supporting landing pads.`
+	description `A beautifully calm planet owned by the Plenipotent Dominion. The main source of food for their planets, Exemption is rightfully named for the relaxing getaway from the typical Dominion planet due to its lack of factories. Instead, Exemption is the breadbasket of the Dominion, producing most of its food.`
+	spaceport `You land in one of the many small towns scattered across the planet. Even though its a small town, the technologically advanced Alphas go all out with their constructions, the largest structure here being a large, five story high spire with beams sticking out of the side which are supporting landing pads.`
 	shipyard "Plenipotent Basic"
 	shipyard "FTek Basics"
 	outfitter "FTek Basics"
@@ -9669,13 +9669,13 @@ planet Gehenna
 planet Genchok
 	attributes quargworld
 	landscape land/desert4
-	description `A slightly montainous moon, the Quarg use this moon for power generation, using the planet's violent volcanic and tectonic activity as a power source. Energy is harvested through submantle turbines, made of tungsten. Operations here have been going on for longer than humans have existed, the automated machines that work here have only been replaced twice in the moon's service. Though outdated by Quarg standards, it still sends power to planets with low energy consumption.`
-	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refueled by pilotless drones while you look at the barren landscape before you. `
+	description `A slightly mountainous moon, the Quarg use this moon for power generation, using the planet's violent volcanic and tectonic activity as a power source. Energy is harvested through submantle turbines, made of tungsten. Operations here have been going on for longer than humans have existed, the automated machines that work here have only been replaced twice in the moon's service. Though outdated by Quarg standards, it still sends power to planets with low energy consumption.`
+	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refuelled by pilotless drones while you look at the barren landscape before you. `
 
 planet "Gol Gotha"
 	attributes plenipotent factory ocean
 	landscape land/badlands2
-	description `An endless wastland of sand and rock. Or at least, that's what it looks like from outside. Deep underground are many factories building weapons for the Plenipotent Dominion, however no one has ever been down there except for alphas and humasn who work for the Dominion.`
+	description `An endless wasteland of sand and rock. Or at least, that's what it looks like from outside. Deep underground are many factories building weapons for the Plenipotent Dominion, however no one has ever been down there except for alphas and humans who work for the Dominion.`
 	spaceport `The only structure on the surface of the planet is a heavily guarded military base. The only section of the base opened to the public is watched closely, and sells a rather limited supply of weapons.`
 	shipyard "Plenipotent Basic"
 	shipyard "FTek Basics"
@@ -9693,7 +9693,7 @@ planet Hoirk'n
 	attributes quargworld
 	landscape land/myrabella6
 	description `The moon is a small farming world, crops are grown and harvested several times a day. There are large dome structures around the moon, which occasionally spray bacteria into the atmosphere that are genetically modified to duplicate into whatever plant they come in contact with. There is one city on the planet, it sits on an island far away enough from the main continent that the bacteria can't get to the inhabitants. `
-	spaceport `The spaceport is a large closed dome, hovering a few thousand meters above the city. All visitors are required to wear a spandex-like suit that will prevent you from stealing any bacteria, and also keeps track of what bacteria are on you at all times.  The spaceport itself is filled with luscious blue foliage, perhaps to showoff the crops on the main continent. The Hai frequent this moon alot, as it is the first gas station on the way to Novae. `
+	spaceport `The spaceport is a large closed dome, hovering a few thousand meters above the city. All visitors are required to wear a spandex-like suit that will prevent you from stealing any bacteria, and also keeps track of what bacteria are on you at all times.  The spaceport itself is filled with luscious blue foliage, perhaps to showoff the crops on the main continent. The Hai frequent this moon a lot, as it is the first gas station on the way to Novae. `
 
 planet Kor'ein
 	attributes uninhabited
@@ -9704,7 +9704,7 @@ planet Kullat
 	attributes Servorum
 	landscape land/Fimage13
 	description `Perhaps the most misleading of the Servorum Dei's planets; Kullat looks like a beautiful, undeveloped planet from the surface. It makes it hard to believe that this is their capital, however there are a few towns scattered around, each with a huge circular hole in the middle large enough for something even of a Bactrian's size to fit in. Deep inside those holes are large spherical openings for ships to land, with tunnels connecting all the towns on the surface together, and all the tunnels eventually converging at the Servorum Dei's capital city built deep under one of the many tall mountains.`
-	spaceport `The air is thick with a smoke eminating from the underground factories around the landing pads, with Alphas and Humans alike walking here and there to the different merchants and structures.`
+	spaceport `The air is thick with a smoke emanating from the underground factories around the landing pads, with Alphas and Humans alike walking here and there to the different merchants and structures.`
 	shipyard "FTek Basics"
 	shipyard "FTek Advanced"
 	outfitter "Basic Outfits"
@@ -9733,7 +9733,7 @@ planet "Mil'taj Dun"
 	attributes Militaj
 	landscape land/canyon0
 	description `Extraordinarily barren, there are only a few pockets of life on this planet due to an encounter with the Drak that didn't go too well for the Militaj. What was once populated with the Militaj's cities of what was their homeplanet, is left as a memory of past mistakes, along with the dozens of other planets destroyed by the Drak leaving the once great Militaj as a small mark on the galaxy.`
-	spaceport `The only thing here is a small station with a few Mil'taj wanderering about. They don't seem to care about you being here, or that you are taking some of their fuel for yourself.`
+	spaceport `The only thing here is a small station with a few Mil'taj wandering about. They don't seem to care about you being here, or that you are taking some of their fuel for yourself.`
 	"required reputation" 0
 	bribe 0.035
 	security 0
@@ -9742,7 +9742,7 @@ planet "Mil'taj Ful"
 	attributes Militaj
 	landscape land/mfield5
 	description `A small moon on the outer edge of Militaj space. So insignificant that not even the Drak bothered to destroy it.`
-	spaceport `A small refueling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interuption from the nearby Militaj.`
+	spaceport `A small refuelling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Militaj.`
 	"required reputation" 0
 	bribe 0.02
 	security 0.1
@@ -9751,7 +9751,7 @@ planet "Mil'taj Fun"
 	attributes Militaj
 	landscape land/forest1
 	description `The capital of the Militaj is relatively undeveloped. Most of the planet is left blanketed by mountains and forests, however there are large cities situated here and there.`
-	description `	Upon entering the atmosphere you are immediately scanned by a Millitaj ship. After a moment, the ship flys away.`
+	description `	Upon entering the atmosphere you are immediately scanned by a Millitaj ship. After a moment, the ship flies away.`
 	spaceport `A large glass dome surrounded by landing pads. Although you are not allowed into the dome, but looking inside you can see all kinds of weapons and outfits being sold.`
 	"required reputation" 3
 	bribe 0.3
@@ -9761,7 +9761,7 @@ planet "Mil'taj Gun"
 	attributes Militaj
 	landscape land/bwerner3
 	description `The surface of the planet is completely undeveloped apart from a single structure, which is a spire stretching about 1 kilometer into the sky. Along the sides of the spire there are landing pads for ships. The airspace around the spire is jam-packed with Militaj ships flying in all directions.`
-	spaceport `As you land your ship, there are about half a dozen of the Militaj aliens who run over to your ship and hook refueling cables into it. As they perform this job, they often look back at you. The Militaj here probably don't see too many humans.`
+	spaceport `As you land your ship, there are about half a dozen of the Militaj aliens who run over to your ship and hook refuelling cables into it. As they perform this job, they often look back at you. The Militaj here probably don't see too many humans.`
 	"required reputation" 1
 	bribe 0.1
 	security 0.2
@@ -9814,7 +9814,7 @@ planet "Mil'taj Suh"
 	attributes Militaj
 	landscape land/badlands3
 	description `One of the planets taking the series blunt of the attack by the Drak, all that's left is sand and rocks from the once sprawling cities that were completely vaporized.`
-	spaceport `There is a small outpost set up that provides refueling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
+	spaceport `There is a small outpost set up that provides refuelling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
 	"required reputation" 0
 	bribe 0.6
 	security 0.1
@@ -9839,7 +9839,7 @@ planet "Mil'taj Yun"
 	attributes Militaj
 	landscape land/canyon2
 	description `Another remnant of the Militaj's encounter with the Drak. The air is near unbreathable as a result of the destruction dealt to the planet.`
-	spaceport `A small refueling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
+	spaceport `A small refuelling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
 	"required reputation" 0
 	bribe 0.03
 	security 0
@@ -9856,7 +9856,7 @@ planet "Mil'taj Zun"
 	attributes Militaj
 	landscape land/Fimage10
 	description `An extremely rare case of a Drak attack that didn't work all the way through. While the planet was turned into a frozen wasteland of ice and rock across the entire surface, the Drak had not anticipated that the Militaj had hollowed out portions of the planet and developed a military outpost underground. The world is completely off limits to anything that isn't Militaj, although you appear to be an exception due to your support of the Militaj and your shared hate with their enemies.`
-	spaceport `The 'outpost' turned out to be more like a massive room with large collums supporting the roof, which was metal that held up the surface of the planet directly above it. It wouldn't be surprising if the room went on for many kilometers, and the distance from the floor to the ceiling was near impossible to measure, however even the largest of the Militaj ships had room to take off and fly around with room to spare, although you find it hard to land due to the room's floor being filled to the max with Militaj ships and weapons, and there are some for sale, even to you.`
+	spaceport `The 'outpost' turned out to be more like a massive room with large columns supporting the roof, which was metal that held up the surface of the planet directly above it. It wouldn't be surprising if the room went on for many kilometers, and the distance from the floor to the ceiling was near impossible to measure, however even the largest of the Militaj ships had room to take off and fly around with room to spare, although you find it hard to land due to the room's floor being filled to the max with Militaj ships and weapons, and there are some for sale, even to you.`
 	shipyard "Militaj Basics"
 	outfitter "Militaj Basics"
 	"required reputation" 100
@@ -9875,17 +9875,17 @@ planet "Minas Tekel"
 
 planet Mojave
 	landscape land/bwerner8
-	description `A barren wasteland covered in a massive desert, the planetoid recieved it's name from an old Earth desert that was terraformed into farmland.`
+	description `A barren wasteland covered in a massive desert, the planetoid received it's name from an old Earth desert that was terraformed into farmland.`
 
 planet "Novum Cardius"
 	attributes quarg forest tourism
 	landscape land/mountain3
-	description `The Quarg have a good taste in planets, all around you is just beautiful, clean air. The planet is not suitable for Quarg to live on it, so it instead acts as a tourist attraction. It offers a unique way of allowing toursits in as well, there is no spaceport which allows people to land their ship wherever they feel like, making the planet a perfect place for a vacation away from any planetary development.`
+	description `The Quarg have a good taste in planets, all around you is just beautiful, clean air. The planet is not suitable for Quarg to live on it, so it instead acts as a tourist attraction. It offers a unique way of allowing tourists in as well, there is no spaceport which allows people to land their ship wherever they feel like, making the planet a perfect place for a vacation away from any planetary development.`
 
 planet "Nubia Station"
 	landscape land/space1
 	description `A small broadcasting center for the Plenipotent Dominion located very close to Free World's territory. Using relay beacons on the southern planets planted by loyal supporters, it sends information to and from the main Dominion territory.`
-	spaceport `There are no places for your ship to land in the station, so you have to dock with it, making use of rarely used monitors displaying docking cameras on your ship to carefully manuever and eventually dock with the station.`
+	spaceport `There are no places for your ship to land in the station, so you have to dock with it, making use of rarely used monitors displaying docking cameras on your ship to carefully manoeuvre and eventually dock with the station.`
 	"required reputation" 10
 	bribe 0
 	security 0.2
@@ -9893,7 +9893,7 @@ planet "Nubia Station"
 planet "Omega Mu Prime"
 	attributes uninhabited
 	landscape land/snow2
-	description `An uninhabited frozen wasteland. The only factor that could bring people here would be the views from the peaks of it's numerous mountains, however with the pirates and hostilities with the Plenipotent Dominion, this isn't the ideal place for civilians.`
+	description `An uninhabited frozen wasteland. The only factor that could bring people here would be the views from the peaks of its numerous mountains, however with the pirates and hostilities with the Plenipotent Dominion, this isn't the ideal place for civilians.`
 
 planet "Outpost Bek"
 	landscape ""
@@ -9988,14 +9988,14 @@ planet "Pax Station"
 planet Puggldute
 	attributes pug(quarg)
 	landscape land/sky2
-	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on pricisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
-	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
+	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on precisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
+	spaceport `The spaceport consists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
 
 planet "Quis Custodiat"
 	attributes plenipotent ocean luxuries
 	landscape land/fog3
 	description `Although a massive ocean blankets the entire planet, there are many rigs on the water set up to harvest the plentiful oil supply. The planet is very undeveloped and it's only population are the workers who live on the oil platforms.`
-	spaceport `You are allowed passage onto an oil rig where the workers; comprised of a mix of races that includes Humans and Alphas, hook up refueling cables to your ship.`
+	spaceport `You are allowed passage onto an oil rig where the workers; comprised of a mix of races that includes Humans and Alphas, hook up refuelling cables to your ship.`
 	"required reputation" 0.1
 	bribe 0.03
 	security 0.1
@@ -10007,7 +10007,7 @@ planet Rodin
 	attributes "The Deep"
 	landscape land/forest2
 	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
-	spaceport `The spaceport is heavily guarded by ground personel weilding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
+	spaceport `The spaceport is heavily guarded by ground personnel wielding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
 	shipyard "Basic Ships"
 	shipyard "Lionheart Basics"
 	shipyard "Lionheart Advanced"
@@ -10034,14 +10034,14 @@ planet "Rubido Station"
 
 planet Sanctus
 	landscape land/desert7
-	description `An endless blanket of golden grass glistens from the light of it's parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
+	description `An endless blanket of golden grass glistens from the light of its parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
 	"required reputation" 0
 	bribe 0
 	security 0
 
 planet "Stark Station"
 	landscape land/space4
-	description `The cramped quarters of this relay station are home of Plenipotent Dominion transmitters. The transmitters broadcast radio channels to and from different locations, and this station somehow allows radio transmittions from here back to Dominion territory way in the south-east, which shouldn't be possible without somehow getting the signal to go all the way through Human space.`
+	description `The cramped quarters of this relay station are home of Plenipotent Dominion transmitters. The transmitters broadcast radio channels to and from different locations, and this station somehow allows radio transmissions from here back to Dominion territory way in the south-east, which shouldn't be possible without somehow getting the signal to go all the way through Human space.`
 	spaceport `A very limited number of docking bays are located on the station, all a very small size. Larger ships have no choice but to dock with the station from the outside or don't attach to the station, instead constantly moving at the same trajectory as the station to keep the two objects side by side.`
 	"required reputation" 10
 	bribe 0
