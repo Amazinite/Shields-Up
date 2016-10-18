@@ -9636,7 +9636,7 @@ planet "Epica Citadel"
 planet Exemption
 	landscape land/Fimage8
 	description `A beautifully calm planet owned by the Plenipotent Dominion. The main source of food for their planets, Exemption is rightfully named for the relaxing getaway from the typical Dominion planet due to its lack of factories. Instead, Exemption is the breadbasket of the Dominion, producing most of its food.`
-	spaceport `You land in one of the many small towns scattered across the planet. Even though its a small town, the technologically advanced Alphas go all out with their constructions, the largest structure here being a large, five story high spire with beams sticking out of the side which are supporting landing pads.`
+	spaceport `You land in one of the many small towns scattered across the planet. Even though it is a small town, the technologically advanced Alphas go all out with their constructions, the largest structure here being a large, five story high spire with beams sticking out of the side which are supporting landing pads.`
 	shipyard "Plenipotent Basic"
 	shipyard "FTek Basics"
 	outfitter "FTek Basics"
@@ -9670,7 +9670,7 @@ planet Genchok
 	attributes quargworld
 	landscape land/desert4
 	description `A slightly mountainous moon, the Quarg use this moon for power generation, using the planet's violent volcanic and tectonic activity as a power source. Energy is harvested through submantle turbines, made of tungsten. Operations here have been going on for longer than humans have existed, the automated machines that work here have only been replaced twice in the moon's service. Though outdated by Quarg standards, it still sends power to planets with low energy consumption.`
-	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refuelled by pilotless drones while you look at the barren landscape before you. `
+	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refueled by pilotless drones while you look at the barren landscape before you. `
 
 planet "Gol Gotha"
 	attributes plenipotent factory ocean
