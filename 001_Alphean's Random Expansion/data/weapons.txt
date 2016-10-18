@@ -381,31 +381,43 @@ outfit "Rail Slug"
 
 outfit "Anti-Ship Battery"
     category "Turrets"
-    cost 1000000
+    cost 2000000
     thumbnail "outfit/asb"
 	"turret mounts" -1
-	"outfit space" -50
-	"weapon capacity" -50
+	"outfit space" -80
+	"weapon capacity" -80
+	mass 50
+	"Shell capacity" 36
 	weapon
 		icon "icon/tbd"
-		sprite "projectile/asb"
+		sprite "projectile/asbc"
 			"frame rate" 10
-		sound "typhoon"
-		"fire effect" "typhoon fire"
-		"hit effect" "big explosion"
-		"inaccuracy" 32
+		sound "ion impact"
+		"fire effect" "small explosion"
+		"hit effect" "asb explosion"
+		"inaccuracy" 10
 		"velocity" 25
-		"lifetime" 400
-		"reload" 300
-		"burst reload" 5
-		"burst count" 9
+		"lifetime" 15
+		"reload" 150
+		"burst reload" 15
+		"burst count" 3
 		stream
-		"firing energy" 4550
-		"firing heat" 4750
-		"shield damage" 7000
-		"hull damage" 4667
+		"firing energy" 20
+		"firing heat" 900
+		"firing force" 250
+		"shield damage" 1500
+		"hull damage" 2200
 		"hit force" 500
+		ammo "1 Ton Shell"
     description "This an anti-capital destroyer. It barrages large warships with repeated volleys of high-power shells, but since that is its main purpose, it very easily misses small ships and strains your cooling systems."
+	
+outfit "1 Ton Shell"
+	categoty "Ammunition"
+	cost 1000
+	thumbnail "outfit/1ton"
+	"Shell capacity" -1
+	mass 1
+	description "This crude anti-ship shell has been in production for centuries."
 	
 outfit "EMP Bomb"
 	category "Ammunition"
@@ -433,7 +445,7 @@ outfit "EMP Bomb Launcher"
 		ammo "EMP Bomb"
 		icon "icon/iontorpedo"
 		"fire effect" "typhoon fire"
-		"hit effect" "iontorpedoexplosion"
+		"hit effect" "ion impact"
 		"die effect" "tiny explosion"
 		"inaccuracy" 5
 		"submunition" "Ion Torpedo Blast" 75
@@ -459,7 +471,7 @@ outfit "Ion Torpedo Blast"
 			"random start frame"
 		"hit effect" "ion impact"
 		"inaccuracy" 360
-		"ion damage" 1
+		"ion damage" 10
 		"shield damage" 50
 		"drag" 0.1
 		"velocity scale" -.001
@@ -476,22 +488,26 @@ outfit "Pulse EMP Bomb Launcher"
 	"gun ports" -1
 	"empbomb capacity" 35
 	weapon
-		sprite "projectile/asb"
-			"frame rate" 60
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
 		sound "torpedo"
 		ammo "EMP Bomb"
-		icon "icon/torpedo"
+		icon "icon/iontorpedo"
 		submunition "Ion Torpedo Blast" 65
 		submunition "pulse first"
-		"die effect" "missile death"
+		"fire effect" "typhoon fire"
+		"hit effect" "ion impact"
+		"velocity" 8
+		"split range" 50
+		"trigger radius" 35
 		"inaccuracy" 0.1
-		"lifetime" 50
-		"reload" 60
+		"lifetime" 120
+		"reload" 120
 		"firing energy" 53
 		"firing heat" 27
-		"shield damage" 200
-		"ion damage" 650
-		drag 15
+		"acceleration" 0.002
+		"drag" .1
 	description "The Electromagnetic Pulse Bomb Launcher, EMPL for short, cuts off foes' energy generation, forcing them to rely on batteries until they lie helpless under heavy fire."
 	description "	This version of the EMPL contains several charges of ion bursts, so releasing one on even a capital nearly always puts it out of commission."
 
@@ -499,36 +515,27 @@ outfit "pulse first"
 	weapon
 		sprite "projectile/asb"
 			"frame rate" .1
-		sound "torpedo"
-		"submunition" "ion pulse" 65
-		submunition "pulse second"
-		"die effect" "missile death"
+		sound "ion impact"
+		"submunition" "Ion Torpedo Blast" 65
+		"submunition" "pulse second"
 		"inaccuracy" 0.1
-		"lifetime" 0
-		"shield damage" 200
-		"ion damage" 650
+		"lifetime" 18
 		
 outfit "pulse second"
 	weapon
 		sprite "projectile/asb"
 			"frame rate" .1
-		sound "torpedo"
-		"submunition" "ion pulse" 65
-		submunition "pulse final"
-		"die effect" "missile death"
+		sound "ion impact"
+		"submunition" "Ion Torpedo Blast" 65
+		"submunition" "pulse final"
 		"inaccuracy" 0.1
-		"lifetime" 0
-		"shield damage" 200
-		"ion damage" 650
+		"lifetime" 18
 		
 outfit "pulse final"
 	weapon
 		sprite "projectile/asb"
 			"frame rate" .1
-		sound "torpedo"
+		sound "ion impact"
 		"submunition" "ion pulse" 65
-		"die effect" "missile death"
 		"inaccuracy" 0.1
-		"lifetime" 0
-		"shield damage" 200
-		"ion damage" 650
+		"lifetime" 18

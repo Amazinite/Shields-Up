@@ -312,22 +312,21 @@ outfit "Hedgehog Ion Mine Launcher"
 	"gun ports" -1
 	"hedgehog capacity" 30
 	weapon
-		sprite "projectile/seeker"
-			"frame rate" 16
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
 			"random start frame"
-		sound "torpedo"
+		sound "typhoon"
 		ammo "Hedgehog Ion Mine"
-		icon "icon/torpedo"
+		icon "icon/iontorpedo"
 		"fire effect" "torpedo fire"
 		"hit effect" "big explosion"
-		"die effect" "tiny explosion"
 		"inaccuracy" 360
-		"velocity" 5
+		"velocity" 1
 		"lifetime" 2000
 		"reload" 180
 		"firing energy" 36
 		"firing heat" 36
-		"acceleration" .00001
+		"acceleration" .06
 		"drag" .05
 		"turn" 2
 		"homing" 4
@@ -337,8 +336,8 @@ outfit "Hedgehog Ion Mine Launcher"
 		"hull damage" 840
 		"hit force" 50
 		"missile strength" 30
-		"trigger radius" 40
-		"blast radius" 60
+		"submunition" "Ion Torpedo Blast" 75
+		"split range" 120
 		"stream"
 	description `Hedgehog Ion Mines are powerful tools to "dissuade" any pursuers from continuing the chase.`
 
@@ -406,7 +405,7 @@ outfit "Ion Laser Turret"
 		sound "laser"
 		"hit effect" "electron impact"
 		"inaccuracy" 2
-		"velocity" 300
+		"velocity" 450
 		"lifetime" 1
 		"reload" 1
 		"firing energy" 5.2

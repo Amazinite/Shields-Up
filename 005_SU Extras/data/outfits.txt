@@ -10,7 +10,7 @@ outfit "Extended Bunk Room"
 
 outfit "Incinerator Beam"
 	category "Turrets"
-	cost 18000000
+	cost 1800000
 	thumbnail "outfit/unknown"
 	"mass" 60
 	"outfit space" -60
@@ -20,17 +20,17 @@ outfit "Incinerator Beam"
 	weapon
 		sprite "projectile/Incineratorbeam"
 			"frame rate" 15
-		sound "skylance"
+		sound "incinerator"
 		"hit effect" "sunbeam impact"
 		"inaccuracy" .9
 		"velocity" 375
 		"lifetime" 1
 		"reload" 1
-		"firing energy" 45
-		"firing heat" 300
-		"shield damage" 60
-		"hull damage" 40
-		"ion damage" .05
+		"firing energy" 3.3
+		"firing heat" 20
+		"shield damage" 7
+		"hull damage" 2.7
+		"heat damage" 37.8
 	description "This weapon is a truly great invention. It melts through hull and shields very fast and can swiftly take care of most threats."
 	description "Because of its price not many people use it."
 

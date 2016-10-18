@@ -1,6 +1,5 @@
 shipyard "Betelgeuse Advanced"
 	" Phoenix "
-	"Dragoon"
 	
 outfitter "Navy H2H"
 	"Boarding Cannon"

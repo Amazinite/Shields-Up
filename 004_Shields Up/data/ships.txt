@@ -795,40 +795,46 @@ ship "Samurai"
 	sprite "ship/samurai"
 	attributes
 		category "Heavy Warship"
-		"cost" 71200000
-		"shields" 44600
-		"hull" 26400
-		"required crew" 291
-		"bunks" 536
-		"mass" 1600
-		"drag" 20
+		"cost" 31200000
+		"shields" 25600
+		"hull" 9400
+		"required crew" 57
+		"bunks" 265
+		"mass" 1040
+		"drag" 14.8
 		"heat dissipation" .45
-		"fuel capacity" 1200
+		"fuel capacity" 1000
 		"cargo space" 480
-		"outfit space" 1220
-		"weapon capacity" 700
+		"outfit space" 930
+		"weapon capacity" 420
 		"engine capacity" 210
 		weapon
-			"blast radius" 1260
-			"shield damage" 4600
-			"hull damage" 2300
-			"hit force" 5900
+			"blast radius" 350
+			"shield damage" 3500
+			"hull damage" 1750
+			"hit force" 5250
 	outfits
-		"Ion Cannon" 4
-		"Typhoon Launcher" 4
-		"Typhoon Torpedo" 120
-		"Plasma Turret" 4
+		"EMP Bomb Launcher" 2
+		"EMP Bomb" 30
+		"Typhoon Launcher" 2
+		"Typhoon Torpedo" 60
+		"Electron Turret" 4
 		"Heavy Anti-Missile Turret" 2
 		
 		"Fusion Reactor"
-		"Fission Reactor"
-		"LP288a Battery Pack"
+		"Dwarf Core"
+		"Liquid Nitrogen Cooler"
+		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
-		"Liquid Helium Cooler"
+		"Ship Armory"
+		"FTek Bot Shelf" 2
+		"Breacher Cannon" 20
+		"R-120 Warbird" 6
+		"Laser Rifle" 239
 		
 		"A520 Atomic Thruster"
 		"A865 Atomic Steering"
-		"Scram Drive"
+		"Hyperdrive"
 		
 	engine -29 156
 	engine 29 156

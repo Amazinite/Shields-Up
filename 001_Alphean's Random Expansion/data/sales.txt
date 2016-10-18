@@ -96,6 +96,7 @@ outfitter "Ammo South"
 	"Intelligent Rocket"
 	"Soaker Missile"
 	"EMP Bomb"
+	"1 Ton Shell"
 
 outfitter "Ammo North"
 	"Intelligent Rocket"
