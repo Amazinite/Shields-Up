@@ -1,5 +1,16 @@
 # Mission by Spiral03
 
+mission "Dragoon Trigger"
+	landing
+	invisible
+	to offer
+		has "main plot completed"
+	on offer
+		event "dragoon trigger" 182
+		fail
+
+event "dragoon trigger"
+		
 mission "Dragoon Testing"
 	name "Warship Testing 2"
 	landing
@@ -7,13 +18,11 @@ mission "Dragoon Testing"
 	destination "Valhalla"
 	to offer
 		has "main plot completed"
-		delay 182
 	on offer
 		dialog `You recieve a message from the Lionheart Corporation.`
 		dialog `	"Captain <last>, we at the Lionheart Corporation wish to thank and congratulate you for your efforts in the war against the Pug and the Alphas.  We have a deep admiration for your abilities as a star captain and we would like to offer you the opportunity to test yourself against one of our new battleships for a prize of one million credits.  If you accept, please see our Chief Liason at our headquarters on Valhalla.`
 		dialog `	Regards,`
 		dialog `		CEO Anderson Williams"`
-	accept
 	
 	on complete
 		conversation

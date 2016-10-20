@@ -412,7 +412,7 @@ outfit "Anti-Ship Battery"
     description "This an anti-capital destroyer. It barrages large warships with repeated volleys of high-power shells, but since that is its main purpose, it very easily misses small ships and strains your cooling systems."
 	
 outfit "1 Ton Shell"
-	categoty "Ammunition"
+	category "Ammunition"
 	cost 1000
 	thumbnail "outfit/1ton"
 	"Shell capacity" -1
@@ -474,7 +474,7 @@ outfit "Ion Torpedo Blast"
 		"ion damage" 10
 		"shield damage" 50
 		"drag" 0.1
-		"velocity scale" -.001
+		"random velocity" 1
 		"velocity" 8
 		"lifetime" 18
 		

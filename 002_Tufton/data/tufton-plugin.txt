@@ -42,7 +42,7 @@ outfitter "Pirate Outfits"
 	"Plasma Gatling"
 	"Hull Repair Nano-Bots"
 
-oufitter "Kraz Basics"
+outfitter "Kraz Basics"
 	"Hull Repair Nano-Bots"
 	"FTek Bot Shelf"
 	"Ship Armory"

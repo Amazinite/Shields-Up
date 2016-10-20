@@ -145,8 +145,8 @@ outfit "S-45 Lamprey"
 
 outfit "R-120 Warbird"
 	category "Hand to Hand"
-	licenses
-		"Navy"
+#	licenses
+#		"Navy"
 	cost 20000
 	thumbnail "outfit/unknown"
 	"bot capacity" -1
@@ -194,7 +194,7 @@ outfit "Repair Bot"
 	cost 15000
 	thumbnail "outfit/unknown"
 	"bot capacity" -1
-	"mass"
+	"mass" 2
 	"hull repair rate" 0.2
     "hull energy" 1
 	unplunderable 1
@@ -279,8 +279,8 @@ outfit "HN-7 Thorn Coolant System"
 	description "The cooling system used by Fed Thorn Carriers. You have no idea how it works."
 	
 outfit "Navy Cloaking Device"
-	licenses
-		"Navy"
+#	licenses
+#		"Navy"
 	category "Systems"
 	cost 3200000
 	"mass" 12

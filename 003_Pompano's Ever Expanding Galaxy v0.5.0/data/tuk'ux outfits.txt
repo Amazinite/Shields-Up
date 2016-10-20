@@ -217,7 +217,7 @@ outfit "Tuk'ux Decimator"
 		"firing energy" 850
 		"firing heat" 300
 		"split range" 400
-		"trigger range" 10
+		"trigger radius" 10
 		"blast radius" 50
 		"missile strength" 200
 		"homing" 4
@@ -232,7 +232,6 @@ outfit "Tuk'ux Decimator"
 outfit "Bu'rax Fish Warhead"
 	weapon
 		sprite "projectile/fish"
-		"live sound" "fish"
 		"hit effect" "fish impact" 40
 		"live effect" "fish scales" 60
 		"inaccuracy" 110
