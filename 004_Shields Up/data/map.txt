@@ -276,12 +276,6 @@ system "Deus Glorificat"
 			distance 432
 			period 29.8588
 
-system Durax
-	pos -59 -90
-	habitable 1080
-	link Alcyone
-	link Zaurak
-
 system Enfin
 	pos -169.549 558.023
 	government Quarg
@@ -9197,14 +9191,6 @@ system Yarg
 			sprite planet/desert4
 			distance 252
 			period 14.2309
-
-system Zaurak
-	pos -109 -34
-	habitable 625
-	link Sheratan
-	link Alcyone
-	link Menkar
-	link Durax
 
 system Zorica
 	pos -709.56 -120.384
