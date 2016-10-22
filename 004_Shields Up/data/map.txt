@@ -9078,6 +9078,11 @@ system Wezen
 	link Naos
 	link Laconda
 	fleet "Small Plenipotent Dominion" 2500
+	fleet "Small Northern Merchants" 1000
+	fleet "Large Northern Merchants" 2000
+	fleet "Small Deep" 1500
+	fleet "Large Deep" 4000
+	fleet "Small Northern Pirates" 80000
 
 system Wraithhome
 	pos -236.549 586.023
