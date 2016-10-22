@@ -13,7 +13,7 @@ fleet "Small Deep"
 	names "deep"
 	cargo 0
 	personality
-		heroic
+		heroic disables
 	variant 4
 		"Aerie"
 		"Switchblade" 2
@@ -54,7 +54,7 @@ fleet "Large Deep"
 	fighters "deep fighter"
 	cargo 0
 	personality
-		heroic
+		heroic disables
 	variant 5
 		"Aerie"
 		"Switchblade" 2
@@ -579,7 +579,7 @@ fleet "Large Plenipotent Dominion"
 	names "plenipotent"
 	cargo 1
 	personality
-		heroic disables
+		heroic unconstrained
 	variant 3
 		"Nefandous" 2
 	variant 3
@@ -689,7 +689,7 @@ fleet "Small Plenipotent Dominion"
 	names "plenipotent"
 	cargo 1
 	personality
-		heroic
+		heroic unconstrained
 	variant 4
 		"Sica"
 		"Corvo" 2
