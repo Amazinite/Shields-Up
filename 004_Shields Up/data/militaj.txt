@@ -258,6 +258,7 @@ outfit "Mil'taj Black Generator"
 	"mass" 35
 	"outfit space" -35
 	"shield generation" 7
+	"shield energy" 3.5
 	"energy generation" 24
 	"heat generation" 56
 	unplunderable 1
