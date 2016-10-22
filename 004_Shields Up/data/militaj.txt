@@ -271,6 +271,7 @@ outfit "Mil'taj Grey Generator"
 	"mass" 18
 	"outfit space" -18
 	"shield generation" 3.25
+	"shield energy" 1.6
 	"energy generation" 10
 	"heat generation" 19.5
 	description "A scaled down version of the Black Generator, designed for fighters."
