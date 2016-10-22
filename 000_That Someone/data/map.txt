@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 system "Dupli Cate"
-	pos 81.7574 -561.482
+	pos 82 -561
 	government "Hai (Absconded)"
 	habitable 320
 	asteroids "small rock" 90 5.796
@@ -18,16 +18,18 @@ system "Dupli Cate"
 	asteroids "small metal" 2 2.142
 	asteroids "medium metal" 15 6.216
 	asteroids "large metal" 1 4.62
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/m0
 		period 10
@@ -71,7 +73,7 @@ system "Dupli Cate"
 		offset 359.991
 
 system "Hai Accueil"
-	pos 105.092 -523.647
+	pos 105 -524
 	government "Hai (Absconded)"
 	habitable 425.92
 	link "Long Trajet"
@@ -92,6 +94,7 @@ system "Hai Accueil"
 	trade Metal 509
 	trade Plastic 426
 	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/k5
 		period 10
@@ -129,7 +132,7 @@ system "Hai Accueil"
 			period 12.0434
 
 system "Hi Yho"
-	pos 135.757 -499.482
+	pos 136 -500
 	government "Hai (Absconded)"
 	habitable 945
 	asteroids "medium rock" 33 1.1715
@@ -137,16 +140,18 @@ system "Hi Yho"
 	asteroids "small metal" 8 1.485
 	asteroids "medium metal" 28 1.65
 	asteroids "large metal" 17 1.7655
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/g5
 		distance 40.9735
@@ -191,23 +196,25 @@ system "Hi Yho"
 			period 15.2148
 
 system "Imo Dip"
-	pos 152.757 -587.482
+	pos 153 -587.5
 	government "Hai (Absconded)"
 	habitable 1715
 	asteroids "small rock" 2 2.0592
 	asteroids "medium rock" 1 1.3662
 	asteroids "large rock" 1 1.782
 	asteroids "large metal" 1 1.4454
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/f5
 		period 10
@@ -255,7 +262,7 @@ system "Imo Dip"
 			period 37.6521
 
 system "Long Trajet"
-	pos 53.8704 -540.258
+	pos 54 -540
 	government Quarg
 	habitable 1505.92
 	link "Hai Accueil"
@@ -275,6 +282,9 @@ system "Long Trajet"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	object
 		sprite star/g0
 		distance 28.8487
@@ -306,7 +316,7 @@ system "Long Trajet"
 			period 13.9414
 
 system "Mei Due"
-	pos 211.757 -519.482
+	pos 212 -519.5
 	government "Hai (Absconded)"
 	habitable 912.6
 	asteroids "small rock" 3 2.8755
@@ -315,16 +325,18 @@ system "Mei Due"
 	asteroids "small metal" 36 4.0905
 	asteroids "medium metal" 23 3.6855
 	asteroids "large metal" 8 2.1465
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/k0
 		distance 54.1384
@@ -370,20 +382,22 @@ system "Mei Due"
 			period 16.4891
 
 system "Soom Ho"
-	pos 171.757 -480.482
+	pos 172 -480.5
 	government "Hai (Absconded)"
 	habitable 719.96
 	asteroids "large metal" 1 3.2742
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/k0
 		distance 30.7817
@@ -432,7 +446,7 @@ system "Soom Ho"
 		offset 17.2236
 
 system Voyage
-	pos 814.87 140.742
+	pos 815 141
 	government Quarg
 	habitable 1111.68
 	asteroids "small rock" 9 7.2732
@@ -451,6 +465,9 @@ system Voyage
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	object
 		sprite star/g5
 		distance 43.7788
@@ -491,7 +508,7 @@ system Voyage
 		object
 
 system "Zuba Nik"
-	pos 176.757 -550.482
+	pos 177 -550.5
 	government "Hai (Absconded)"
 	habitable 1715
 	asteroids "small rock" 1 6.555
@@ -499,16 +516,18 @@ system "Zuba Nik"
 	asteroids "large rock" 3 3.3725
 	asteroids "medium metal" 1 3.4675
 	asteroids "large metal" 1 5.4625
-	trade Clothing 999
-	trade Electronics 999
-	trade Equipment 999
-	trade Food 999
-	trade "Heavy Metals" 9999
-	trade Industrial 999
-	trade "Luxury Goods" 9999
-	trade Medical 999
-	trade Metal 999
-	trade Plastic 999
+	trade Clothing 361
+	trade Electronics 812
+	trade Equipment 641
+	trade Food 442
+	trade "Heavy Metals" 1168
+	trade Industrial 821
+	trade "Luxury Goods" 1349
+	trade Medical 827
+	trade Metal 509
+	trade Plastic 426
+	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
 	object
 		sprite star/f5
 		period 10
@@ -544,7 +563,7 @@ system "Zuba Nik"
 			period 12.6001
 			
 system "Eta Delphi"
-	pos 203.87 293.742
+	pos 204 294
 	government Quarg
 	habitable 3645
 	link Udualudu
@@ -564,11 +583,12 @@ system "Eta Delphi"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 950
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	fleet "Small Mk2 Militaj" 2500
 	fleet "Large Militaj" 2000
-	fleet "Small Abs" 800
-	fleet "Small Pug" 2000
+	fleet "Small Abs" 1000
+	fleet "Large Abs" 3000
 	object
 		sprite star/a5
 		period 10
@@ -617,7 +637,7 @@ system "Eta Delphi"
 			offset 243.132
 			
 system Novae
-	pos 131.87 345.742
+	pos 132 346
 	government Quarg
 	habitable 486.68
 	link Subra
@@ -637,7 +657,8 @@ system Novae
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 700
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	fleet "Small Mk2 Militaj" 2500
 	fleet "Large Militaj" 2000
 	object
@@ -672,7 +693,7 @@ system Novae
 		offset 39.0348
 		
 system "Plus De"
-	pos 275.87 274.742
+	pos 276 275
 	government Quarg
 	habitable 4131.68
 	link "Eta Delphi"
@@ -690,6 +711,9 @@ system "Plus De"
 	trade Plastic 454
 	fleet "Small Mk2 Militaj" 3000
 	fleet "Small Abs" 500
+	fleet "Large Abs" 1500
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	object
 		sprite star/wr
 		distance 15.6664
@@ -725,7 +749,7 @@ system "Plus De"
 			period 16.9427
 			
 system Subra
-	pos 117.87 299.742
+	pos 118 300
 	government Quarg
 	habitable 1400
 	link "Zeta Nurphae"
@@ -745,8 +769,10 @@ system Subra
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 500
-	fleet "Small Abs" 900
+	fleet "Quarg" 500
+	fleet "Large Quarg" 2500
+	fleet "Small Abs" 1500
+	fleet "Large Abs" 4500
 	fleet "Small Pug" 2000
 	object
 		sprite star/g0
@@ -787,7 +813,7 @@ system Subra
 		period 1424.63
 		
 system Udualudu
-	pos 185.87 333.742
+	pos 186 334
 	government Quarg
 	habitable 486.68
 	link Novae
@@ -808,9 +834,11 @@ system Udualudu
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 400
+	fleet "Quarg" 500
+	fleet "Large Quarg" 2500
 	fleet "Small Mk2 Militaj" 3000
-	fleet "Small Abs" 800
+	fleet "Small Abs" 1000
+	fleet "Large Abs" 3000
 	object
 		sprite star/k0
 		period 10
@@ -846,7 +874,7 @@ system Udualudu
 			offset 166.158
 			
 system Wartorn
-	pos 260.87 232.742
+	pos 261 233
 	government Quarg
 	habitable 851.84
 	link "Plus De"
@@ -862,7 +890,8 @@ system Wartorn
 	trade Metal 297
 	trade Plastic 454
 	fleet "Korath Raid" 1600
-	fleet Quarg 500
+	fleet "Quarg" 500
+	fleet "Large Quarg" 2500
 	object
 		sprite star/k5
 		distance 54
@@ -907,7 +936,7 @@ system Wartorn
 		offset 5.09151
 
 system "Zeta Nurphae"
-	pos 48.87 313.742
+	pos 49 314
 	government Quarg
 	habitable 1505.92
 	link Subra
@@ -927,6 +956,8 @@ system "Zeta Nurphae"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
+	fleet "Quarg" 1000
+	fleet "Large Quarg" 5000
 	object
 		sprite star/g0
 		distance 27.7174
@@ -979,8 +1010,8 @@ system "Zeta Nurphae"
 			period 22.6009
 			
 system Zubrik
-	pos 178.407 250.164
-	government "Pug (Research)"
+	pos 178.5 250
+	government "Pug"
 	habitable 320
 	asteroids "small rock" 4 2.1546
 	asteroids "medium rock" 58 3.2508
@@ -988,8 +1019,8 @@ system Zubrik
 	asteroids "small metal" 59 4.2336
 	asteroids "medium metal" 22 3.9312
 	asteroids "large metal" 109 5.0274
-	fleet Pug 1000
-	fleet Pug1 1500
+	fleet "Pug Research" 1000
+	fleet "Pug Attackers" 1500
 	object
 		sprite star/m0
 		period 10
@@ -1027,11 +1058,14 @@ system Zubrik
 			period 28.7742
 		
 planet A185U9
+	attributes absconded uninhabited
 	landscape land/station1
 	description `A185U9 is the designated code for this ship. It remains in orbit around the planet, awaiting orders. The ship is almost twice as large as any of the space stations back in human space. The cargo hold on this colony ship also seems unnaturally big and out of place. The extremely eliptical orbit the craft takes around the planet means that it has a geosynchronous orbit making it especially easy to rendevous with anything launching from the ground. `
 	spaceport `The spaceport is a single docking port, located near what looks like the front of the ship. The interior is empty, and dead silent. Fortunately there are still refueling tubes, though instead of having to be manually put on an AI automatically refueled your ship when you docked. `
 
 planet Blossom
+	attributes absconded uninhabited
+	outfitter "Hai Basics"
 	landscape land/fields0
 	description `The planet is teaming with life, there is a colony ship on the planet that is constantly deploying small drones to maintain the near perfect weather conditions. There is not much interesting geography here, other than rolling hills and a small mountain near the south pole. The oceans here are large and lifeless, as the colony ship doesn't deploy any drones into the water. The colony ship itself is constantly flying around, to each continent. `
 	spaceport `Trying to dock with the colony ship was quite difficult, because you couldn't hail any pilots, though eventually a computer automatically guided your ship into one of its many docking ports. Walking around on the ship is difficult due to the constant jolt of take off and landing. The ship itself is mostly empty, however this time its halls are filled with the screams of terrified animals being transported to each continent. Refueling tubes are present as well. `
@@ -1041,13 +1075,6 @@ planet "Chrono Station"
 	landscape land/space1
 	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refueling station. `
 	spaceport `The same strange organic looking tentacles attach to your ship again, though you feel more relaxed walking down the tube this time. The spaceport is completely sealed off from the rest of the station. This station is completely clean like the last one, you see that any speck of dust or dirt that comes off of your body disapears in an instant.`
-
-planet Clark
-	attributes "dirt belt" forest factory
-	landscape land/valley3
-	description `Clark is a recently settled world, and most of its surface remains covered in dense forests and uninhabited mountains. Because clearing new land is so difficult, agriculture here has not grown far beyond the level of subsistence farming. But the temperate climate has drawn several million settlers, most of whom work in factories that have been planted here by off-world corporations to take advantage of the cheap labor.`
-	description `	The low cost of living and virtually zero unemployment rate make poverty and crime relatively rare occurrences. Instead there is a pioneering spirit, a startup-world attitude that anything is attainable with a bit of hard work and frugality.`
-	spaceport `The spaceport is at the heart of one of Clark's largest cities, surrounded by smokestacks and factories. There are a few hangars owned by different corporations where their cargo ships can load and unload, but you are relegated to a set of concrete landing pads farther from the main buildings. Large trucks rumble by carrying carts loaded down with cargo crates.`
 
 planet Devastated
 	attributes uninhabited
@@ -1059,8 +1086,6 @@ planet Dupelepe
 	landscape land/sky7
 	description `The planet is a small moon, orbiting a gas planet with small amounts of water vapor and methane in its atmosphere giving it the blue-green color. The moon itself is typical of the Quarg, small with a thin atmosphere, however it is heavily populated with sprawling cities covering the surface. Each of the cities are a different color and texture. There are ships of various colors and designs flying around the planet, some are tens of kilometers long. `
 	spaceport `The spaceport is a lofty structure, both towering into the sky and plunging several miles beneath the surface. There are sections of landing pads for various species' ship hulls, there is even a section for humans, though it is unfinished. You dock your ship in one of the hangars designed for a ship twice the size of yours, because the proportions are so odd you face banging an antenae off versus inconveniencing an alien freighter. Surprisingly, this world is selling Quarg outfits and ships, though you suspect it may not remain that way for long.`
-	shipyard Quarg
-	outfitter "Quarg Weapons"
 	security 0.9
 
 planet Genchok
@@ -1076,16 +1101,19 @@ planet Hoirk'n
 	spaceport `The spaceport is a large closed dome, hovering a few thousand meters above the city. All visitors are required to wear a spandex-like suit that will prevent you from stealing any bacteria, and also keeps track of what bacteria are on you at all times.  The spaceport itself is filled with luscious blue foliage, perhaps to showoff the crops on the main continent. The Hai frequent this moon alot, as it is the first gas station on the way to Novae. `
 
 planet Kor'ein
-	attributes uninhabited
+	attributes uninhabited uninhabited
 	landscape land/desert4
 	description `The planet seems to be completely destroyed, though many buildings still stick out through the massive lava flows. The planet was demolished by the Korgath through a Sur'nik war amongst the inhabitants some fifty thousand years ago. The planet's twenty billion inhabitants perished in the event.  Unlike Hope, no effective means of evacuation could be achieved due to the Korgath's lack of an organized navy or government. `
 
 planet "Light Very"
+	attributes absconded uninhabited
+	outfitter "Hai Basics"
 	landscape land/badlands0
 	description `The planet is somewhat scorched; millions of years ago this world had a closer orbit to its star, though now it has settled in its habitable zone and has been selected as one of the systems to be colonized. The planet is very dry, with its only water residing in the clouds above the planet. Rains here are becoming more frequent, however. As the planet is cooling down to a more hospitable level. The single colony ship on the planet is burrowed in a mountain side, releasing a rthmic ping on the map of any passersby. `
 	spaceport `It takes a bit of fancy manuevering to actually get into the space port, the cave twists and turns at odd angles, and due to the lack of lighting you are certain any average pilot would have crashed their ship by now. The colony ship here has settled in, retaining none of its prior shape. It clings to the walls of the cave, ready for commands and Hai settlers. The space port does not allow you to walk into the ship, but it does have the standard refueling tubes that seem to populate this section of space. The air here is also  as humid as an ocean planet, unlike the surface outside. `
 
 planet "New Fog"
+	attributes absconded uninhabited
 	landscape land/snow0
 	description `New fog is a mostly desolate world, housing a single colony ship near the equator. The moon was the first to receive a colony ship after the original Hai left their race. There is a small patch of green forests near the equator, though this is only during the summers. `
 	spaceport `The spaceport is the colony ship, with 6 docking ports on sides of it. It remains in perpetual flight over the planet's surface, awaiting further orders. Surprisingly it has refueling tubes, which contort to fit to your ship. The interior is barren and devoid of life. The disharmonious clanks of the gears in the ship make you uneasy, and you want to leave as soon as possible. `
@@ -1097,6 +1125,7 @@ planet Puggldute
 	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
 
 planet "Rock Far"
+	attributes absconded uninhabited
 	landscape land/mountain6
 	description `Rock Far is very rough, with mountain ranges covering the oceanless continents. This planet has a thin atmosphere, and as such, a very undeveloped biosphere. Strong winds blow around the planet in long bands, due to the lack of a tilt on its axis. Virtually all the life here is simple, lichen and other variants of such. The only structure on the planet is a colony ship.`
 	spaceport `The space port has eight docking ports, scattered around the ship, mostly in the front.  The docking port itself has very rusty blast shields on either side of it to shield any ship that may have landed.  You refuel your ship with the hoses that seem standard on Hai colony ships, which contort to any ship's fueling port. It's impossible to get into the ship as it lacks any doors.`
@@ -1108,6 +1137,8 @@ planet Stoneshrub
 
 planet Vivant
 	attributes absconded
+	outfitter "Hai Intermediate"
+	shipyard "Hai Intermediate"
 	landscape land/water0
 	description `Vivant is the only planet on which the Absconded Hai reside. They settled here after the Drak drove their species back to what it is today. Vivant is a large world, and as such atmospheric vehicles do very well here. Humans have to pressurize when coming here, due to the thicker than normal atmosphere. Vivant is short on everything, because they refuse to trade with their neighbors. They resort to the long route of trading with the Quarg.`
 	spaceport `The spaceport is an open roofed building, atop one of the various mountains on the planet. The hangars are small, as the planet hasn't fought a war since their escape. You have to walk through a tube into a compression chamber before you can walk outside. The compression chamber doesn't look like it's been used for years. `

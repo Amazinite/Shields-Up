@@ -8,17 +8,23 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-effect "seeker impact"
-	sprite "effect/seeker impact"
-		"no repeat"
-		"frame rate" 10
-	"lifetime" 31
-	"random angle" 360
-	"velocity scale" 0.
-	"random spin" 360
+government "Pug (Research)"
+	swizzle 0
+	color .8 .47 .3
+	
+	"player reputation" 1
+	"attitude toward"
+		"Pug (Attackers)" -10 
 
+government "Pug (Attackers)"
+	swizzle 0
+	color .8 .47 .3
+	
+	"player reputation" 1
+	"attitude toward"
+		"Pug (Research)" -10
 
-outfit "Zapper"
+outfit "T4 Zapper"
 	category "Guns"
 	cost 1700000000
 	thumbnail "outfit/unknown"
@@ -41,7 +47,7 @@ outfit "Zapper"
 		"hull damage" 800.9
 	description "This is a formidable beam weapon, more damaging than even the most advanced energy beams that the Quarg has developed. Pug ships have integrated power plants that produce the considerable amount of energy that is needed to drive weapons like this one."
 
-outfit "Zapper Turret"
+outfit "T4 Zapper Turret"
 	category "Turrets"
 	cost 420000000
 	thumbnail "outfit/unknown"
@@ -65,7 +71,7 @@ outfit "Zapper Turret"
 		"hull damage" 800.9
 	description "Mounted on a turret, this Pug weapon becomes even more devastatingly powerful. However, its energy requirements are higher than most human ships can support."
 
-outfit "Seeker"
+outfit "T4 Seeker"
 	category "Guns"
 	cost 540000000
 	thumbnail "outfit/unknown"
@@ -95,7 +101,7 @@ outfit "Seeker"
 		"missile strength" 4000
 	description "You have no idea how this weapon works. It requires no ammunition, but its energy-based projectiles have the ability to home in on a target ship."
 
-outfit "Anti-Missile"
+outfit "T4 Anti-Missile"
 	category "Turrets"
 	cost 350000000
 	thumbnail "outfit/unknown"
@@ -114,7 +120,7 @@ outfit "Anti-Missile"
 	description "This anti-missile system designed by the Pug draws a lot of energy, but its fast firing rate makes it twice as effective as anything that Lovelace Labs has been able to come up with. A ship with one of these turrets will be very difficult to hit with missiles."
 
 
-outfit "1Thruster"
+outfit "T4 Akfar Thruster"
 	category "Engines"
 	"cost" 608000000
 	thumbnail "outfit/unknown"
@@ -129,7 +135,7 @@ outfit "1Thruster"
 	"flare sound" "ion_drive"
 	description "This is a small thruster designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."
 
-outfit "1Steering"
+outfit "T4 Akfar Steering"
 	category "Engines"
 	"cost" 472000000
 	thumbnail "outfit/unknown"
@@ -141,7 +147,7 @@ outfit "1Steering"
 	"turning heat" .01
 	description "This is a small steering system designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."
 
-outfit "2Thruster"
+outfit "T4 Cormet Thruster"
 	category "Engines"
 	"cost" 1050000000
 	thumbnail "outfit/unknown"
@@ -156,7 +162,7 @@ outfit "2Thruster"
 	"flare sound" "ion_drive"
 	description "This is a medium-sized thruster designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."
 
-outfit "2Steering"
+outfit "T4 Cormet Steering"
 	category "Engines"
 	"cost" 880000000
 	thumbnail "outfit/unknown"
@@ -168,7 +174,7 @@ outfit "2Steering"
 	"turning heat" .01
 	description "This is a medium-sized steering system designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."
 
-outfit "3Thruster"
+outfit "T4 Lohmar Thruster"
 	category "Engines"
 	"cost" 1740000000
 	thumbnail "outfit/unknown"
@@ -183,7 +189,7 @@ outfit "3Thruster"
 	"flare sound" "ion_drive"
 	description "This is a large thruster designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."
 
-outfit "3Steering"
+outfit "T4 Lohmar Steering"
 	category "Engines"
 	"cost" 1580000000
 	thumbnail "outfit/unknown"
@@ -194,15 +200,6 @@ outfit "3Steering"
 	"turning energy" .08
 	"turning heat" .07
 	description "This is a large steering system designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being almost as energy efficient as ion engines."
-
-
-outfit "Biodefenses"
-	category "Hand to Hand"
-	cost 100000000
-	thumbnail "outfit/unknown"
-	"capture defense" 25000
-	description "This defense system is designed to release a suite of toxins, gamma rays, and flesh eating bacteria that are lethal to human beings (and probably to some other species, as well) but which have no effect at all on the Pug."
-
 
 ship "Zibruka"
 	sprite "ship/pug zibruka"
@@ -232,11 +229,10 @@ ship "Zibruka"
 			"hull damage" 200
 			"hit force" 600
 	outfits
-		"Zapper" 2
-		"Biodefenses" 4
+		"T4 Zapper" 2
 		"Jump Drive"
-		"1Thruster"
-		"1Steering"
+		"T4 Akfar Thruster"
+		"T4 Akfar Steering"
 	engine -7 35
 	engine 7 35
 	gun -15 -42 "Zapper"
@@ -275,13 +271,12 @@ ship "Enfolta"
 			"hull damage" 360
 			"hit force" 1080
 	outfits
-		"Zapper" 2
-		"Seeker" 2
-		"Zapper Turret"
-		"Biodefenses" 6
+		"T4 Zapper" 2
+		"T4 Seeker" 2
+		"T4 Zapper Turret"
 		"Jump Drive"
-		"2Thruster"
-		"2Steering"
+		"T4 Cormet Thruster"
+		"T4 Cormet Steering"
 	engine -11 68
 	engine 11 68
 	gun -11 -85 "Zapper"
@@ -323,13 +318,12 @@ ship "Maboro"
 			"hull damage" 600
 			"hit force" 1800
 	outfits
-		"Seeker" 4
-		"Zapper Turret" 2
-		"Anti-Missile"
-		"Biodefenses" 8
+		"T4 Seeker" 4
+		"T4 Zapper Turret" 2
+		"T4 Anti-Missile"
 		"Jump Drive"
-		"3Thruster"
-		"3Steering"
+		"T4 Lohmar Thruster"
+		"T4 Lohmar Steering"
 	engine -11 68
 	engine 11 68
 	gun -20 -150 "Seeker"
@@ -345,7 +339,7 @@ ship "Maboro"
 	explode "huge explosion" 5
 	description "This is the largest Pug warship."
 
-fleet "Pug"
+fleet "Pug Research"
 	government "Pug (Research)"
 	names "pug"
 	cargo 1
@@ -372,7 +366,8 @@ fleet "Pug"
 		"Maboro" 5
 		"Enfolta" 5
 		"Zibruka" 7
-fleet "Pug1"
+
+fleet "Pug Attackers"
 	government "Pug (Attackers)"
 	names "pug"
 	cargo 1
