@@ -105,6 +105,7 @@ government "Plenipotent Dominion"
 		"Syndicate" -.1
 		"Pirate" .1
 		"Militaj" .1
+		"Merchant" -.1
 	"fine" 0
 	"friendly hail" "friendly dominion"
 	"hostile hail" "hostile dominion"
