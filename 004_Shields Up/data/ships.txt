@@ -869,7 +869,7 @@ ship "Samurai"
 	description "	With the proper connections, you can purchase one of these one-of-a-kind monsters for your very own."
 	
 ship "FTek Destroyer"
-	sprite "ship/destroyer"
+	sprite "ship/ftek destroyer"
 	attributes
 		category "Medium Warship"
 		"cost" 8200000
