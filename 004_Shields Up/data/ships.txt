@@ -569,51 +569,58 @@ ship "Archangel"
 	description "Used most often as a heavy troop transport, the Archangel is capable of cramming an entire company into its cramped barracks suites, as well as a generous amount of supporting equipment, and then delivering them in relative comfort even to an actively hostile spaceport and providing precision close air support with its two fighters."
 	description "Sometimes called an angel of death, the Archangel is too often the last friendly ship its passengers ever live to see."
 
-ship Legionnaire
-	sprite ship/mule
+ship "Legionnaire"
+	sprite ship/Legionaire
 	licenses
 		"Deep Sky"
 	attributes
 		category "Medium Warship"
-		bunks 43
-		"cargo space" 210
-		cost 5580000
-		drag 5.7
-		"engine capacity" 110
-		"fuel capacity" 600
-		"gun ports" 2
-		"heat dissipation" 0.5
-		hull 4400
-		mass 320
-		"outfit space" 510
+		"cost" 5580000
+		"shields" 5400
+		"hull" 4400
 		"required crew" 6
-		shields 5400
-		"turret mounts" 4
+		"bunks" 43
+		"mass" 320
+		"drag" 5.7
+		"heat dissipation" 0.5
+		"fuel capacity" 600
+		"cargo space" 210
+		"outfit space" 510
 		"weapon capacity" 210
+		"engine capacity" 110
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
 	outfits
+		"Electron Turret" 3
+		"Heavy Anti-Missile Turret"
+		"Laser Rifle" 10
+
+		"Fusion Reactor"
+		"LP036a Battery Pack"
+		"Liquid Nitrogen Cooler"
+		"D23-QP Shield Generator" 3
+		"Catalytic Ramscoop"
+
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Scram Drive"
-		"Liquid Nitrogen Cooler"
-		"LP036a Battery Pack"
-		"Heavy Anti-Missile Turret"
-		"Fusion Reactor"
-		"D23-QP Shield Generator" 3
-		"Electron Turret" 3
-		"Catalytic Ramscoop"
-		"Laser Rifle" 10
-		
+
 	engine -12 123
 	engine 12 123
-	gun -9 -119
-	gun 9 -119
-	turret 22 -65 "Electron Turret"
-	turret -37 -21 "Electron Turret"
-	turret 39 35 "Electron Turret"
-	turret -9 59 "Heavy Anti-Missile Turret"
-	fighter -16 -9
-	explode "small explosion" 30
+	gun -10 -111
+	gun 10 -111
+	turret -15.5 62 "Electron Turret"
+	turret 15.5 62 "Electron Turret"
+	turret -22 -62.5 "Electron Turret"
+	turret 22 -62.5 
+	turret 0 -38 "Heavy Anti-Missile Turret"
+	fighter -23 23
+	fighter 23 23
 	explode "tiny explosion" 10
+	explode "small explosion" 30
 	explode "medium explosion" 20
 	description "The Legionnaire is a Mule modified for heavy combat, with upgraded engines, power, weaponry, and defenses. All that power comes at a price, though; the Legionnaire is extremely expensive."
 
