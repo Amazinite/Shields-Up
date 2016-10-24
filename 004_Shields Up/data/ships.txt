@@ -46,11 +46,11 @@ ship "Skybus"
 		"Greyhound Plasma Steering"
 		"Scram Drive"
 		
-	engine 6 47
-	engine -6 47
-	gun -12 -37 "Beam Laser"
-	gun 12 -37 "Beam Laser"
-	turret 0 -37 "Anti-Missile Turret"
+	engine -17.5 53
+	engine 17.5 53
+	gun -16 -29 "Beam Laser"
+	gun 16 -29 "Beam Laser"
+	turret 0 -19 "Anti-Missile Turret"
 	explode "tiny explosion" 10
 	explode "small explosion" 5
 	description "Originally conceived from the wreckage of a Firebird's cockpit and the battered engine remnants of an interceptor, the Skybus has become a popular stepping-stone to the Scout."
@@ -91,12 +91,13 @@ ship "Vagabond"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 		
-	engine -20 45
-	engine 20 45
-	gun -26 -7 "Energy Blaster"
-	gun 26 -7 "Energy Blaster"
-	gun -12 -19 "Meteor Missile Launcher"
-	gun 12 -19 "Meteor Missile Launcher"
+	engine -22 45
+	engine 22 45
+	gun -34 -17 "Energy Blaster"
+	gun 34 -17 "Energy Blaster"
+	gun -12 -12 "Meteor Missile Launcher"
+	gun 12 -12 "Meteor Missile Launcher"
+	turret 0 15.5
 	explode "tiny explosion" 15
 	explode "small explosion" 20
 	explode "medium explosion" 10
@@ -128,8 +129,6 @@ ship "Vagrant"
 			"hit force" 600
 	outfits
 		"Beam Laser" 2
-		"Anti-Missile Turret"
-		"Laser Turret" 2
 		"S3 Thermionic"
 		"D23-QP Shield Generator"
 		"LP072a Battery Pack"
@@ -138,13 +137,14 @@ ship "Vagrant"
 		"Impala Plasma Thruster"
 		"Greyhound Plasma Steering"
 		
-	engine -8 49
-	engine 8 49
-	gun -9 -50 "Beam Laser"
-	gun 9 -50 "Beam Laser"
-	turret 0 5 "Anti-Missile Turret"
-	turret -16 30 "Laser Turret"
-	turret 16 30 "Laser Turret"
+	engine -8 52
+	engine 8 52
+	gun -13 -28 "Beam Laser"
+	gun 13 -28 "Beam Laser"
+	gun -27 12
+	gun 27 12
+	gun -21 12
+	gun 21 12
 	explode "tiny explosion" 10
 	explode "small explosion" 20
 	explode "medium explosion" 15
@@ -262,15 +262,15 @@ ship "Derelict"
 		
 	engine -25 125
 	engine 25 125
-	gun -51 -21 "Modified Blaster"
-	gun 51 -21 "Modified Blaster"
-	gun -39 -33 "Torpedo Launcher"
-	gun 39 -33 "Torpedo Launcher"
+	gun 51.5 7 "Modified Blaster"
+	gun 23.5 -87.5 "Modified Blaster"
+	gun -37 -38 "Torpedo Launcher"
+	gun -55.5 -33 "Torpedo Launcher"
 	turret -15 -50 "Quad Blaster Turret"
 	turret 15 -50 "Quad Blaster Turret"
 	turret -25 10 "Anti-Missile Turret"
 	turret 25 10 "Anti-Missile Turret"
-	fighter -16 -9
+	fighter 53 94
 	explode "tiny explosion" 18
 	explode "small explosion" 36
 	explode "medium explosion" 24
@@ -494,14 +494,18 @@ ship "Hauler XV"
 		"Tyrant Plasma Steering"
 		"Hyperdrive"
 		
-	engine -45 160
-	engine 45 160
-	gun -15 -128
-	gun 15 -128
-	turret -26 -85 "Quad Blaster Turret"
-	turret 26 -85 "Heavy Anti-Missile Turret"
-	turret -19 115 "Heavy Anti-Missile Turret"
-	turret 19 115 "Quad Blaster Turret"
+	engine -45 195
+	engine 45 195
+	engine -67 195
+	engine 67 195
+	engine -86 195
+	engine 86 195
+	gun -15 -165
+	gun 15 -165
+	turret -26 -122 "Quad Blaster Turret"
+	turret 26 -122 "Heavy Anti-Missile Turret"
+	turret -19 151 "Heavy Anti-Missile Turret"
+	turret 19 151 "Quad Blaster Turret"
 	explode "tiny explosion" 10
 	explode "small explosion" 25
 	explode "medium explosion" 30
@@ -533,11 +537,8 @@ ship "Archangel"
 			"hull damage" 500
 			"hit force" 1500
 	outfits
-		"Torpedo Launcher" 2
-		"Torpedo" 60
 		"Heavy Laser Turret" 3
-		"Anti-Missile Turret" 
-		"Heavy Anti-Missile Turret"
+		"Heavy Anti-Missile Turret" 2
 		
 		"NT-200 Nucleovoltaic" 2
 		"LP072a Battery Pack"
@@ -552,17 +553,15 @@ ship "Archangel"
 		"Security Station" 5
 		"Breacher Cannon" 3
 		
-	engine -20 111
-	engine 20 111
-	gun -4 -110 "Torpedo Launcher"
-	gun 4 -110 "Torpedo Launcher"
-	turret 0 -60 "Heavy Laser Turret"
-	turret -29 -39 "Heavy Laser Turret"
-	turret 29 -39 "Heavy Laser Turret"
-	turret -40 26 "Heavy Anti-Missile Turret"
-	turret 40 26 "Anti-Missile Turret"
-	fighter -16 -9
-	fighter 16 -9
+	engine -18 130
+	engine 18 130
+	turret -25.5 -55 "Heavy Anti-Missile Turret"
+	turret 25.5 -55 "Heavy Anti-Missile Turret"
+	turret 0 -80 "Heavy Laser Turret"
+	turret -27.5 61 "Heavy Laser Turret"
+	turret 27.5 61 "Heavy Laser Turret"
+	fighter -28 -4
+	fighter 28 -4
 	explode "tiny explosion" 10
 	explode "small explosion" 30
 	explode "medium explosion" 20
@@ -595,7 +594,7 @@ ship "Legionnaire"
 			"hit force" 1500
 	outfits
 		"Electron Turret" 3
-		"Heavy Anti-Missile Turret"
+		"Anti-Missile Turret" 2
 		"Laser Rifle" 10
 
 		"Fusion Reactor"
@@ -612,11 +611,11 @@ ship "Legionnaire"
 	engine 12 123
 	gun -10 -111
 	gun 10 -111
+	turret -22 -62.5 "Anti-Missile Turret"
+	turret 22 -62.5 "Anti-Missile Turret"
+	turret 0 -38 "Electron Turret"
 	turret -15.5 62 "Electron Turret"
 	turret 15.5 62 "Electron Turret"
-	turret -22 -62.5 "Electron Turret"
-	turret 22 -62.5 
-	turret 0 -38 "Heavy Anti-Missile Turret"
 	fighter -23 23
 	fighter 23 23
 	explode "tiny explosion" 10
@@ -744,7 +743,7 @@ ship "Ironclad Carrier"
 ship "Pirated Frigate"
 	sprite "ship/piratefrigate"
 	attributes
-		category "Light Warship"
+		category "Medium Warship"
 		"cost" 8200000
 		"shields" 8000
 		"hull" 2500
@@ -781,12 +780,14 @@ ship "Pirated Frigate"
 		"Interference Plating" 5
 		"Tactical Armor" 22
 		
-	engine -26 92
-	engine 26 92
-	gun -10 -83 "Meteor Missile Launcher"
-	gun 10 -83 "Meteor Missile Launcher"
-	gun -10 -83 "Meteor Missile Launcher"
-	gun 10 -83 "Meteor Missile Launcher"
+	engine -21 100
+	engine 21 100
+	gun -10 -96.5 "Meteor Missile Launcher"
+	gun 10 -96.5 "Meteor Missile Launcher"
+	gun -10 -96.5 "Meteor Missile Launcher"
+	gun 10 -96.5 "Meteor Missile Launcher"
+	gun -29.5 -33.5
+	gun 29.5 -33.5
 	turret 0 -37 "Anti-Missile Turret"
 	turret -12 -12 "Quad Blaster Turret"
 	turret 12 -12 "Quad Blaster Turret"
@@ -911,14 +912,15 @@ ship "FTek Destroyer"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 		
-	engine -9 97
-	engine 9 97
-	turret 0 -58 "FTek Active Blaster Turret"
-	turret 0 23 "Heavy Anti-Missile Turret"
-	gun -30 -8 "FTek Homing Blaster"
-	gun 30 -8 "FTek Homing Blaster"
-	gun -40 2 "FTek Homing Blaster"
-	gun 40 2 "FTek Homing Blaster"
+	engine -19 93
+	engine 19 93
+	turret 0 -62 "FTek Active Blaster Turret"
+	turret -9 15 "Heavy Anti-Missile Turret"
+	turret 9 15
+	gun -36 -14 "FTek Homing Blaster"
+	gun 36 -14 "FTek Homing Blaster"
+	gun -26 -22 "FTek Homing Blaster"
+	gun 26 -22 "FTek Homing Blaster"
 	explode "tiny explosion" 10
 	explode "small explosion" 30
 	explode "medium explosion" 20
