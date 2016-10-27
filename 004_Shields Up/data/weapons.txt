@@ -199,7 +199,9 @@ outfit "Particle Accelerator"
 		"inaccuracy" .2
 		"velocity" 45
 		"lifetime" 35
-		"reload" 13
+		"reload" 15
+		"burst count" 2
+		"burst reload" 1
 		"firing energy" 30
 		"firing force" 10
 		"firing heat" 100
