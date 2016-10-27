@@ -48,9 +48,6 @@ outfitter "AE Human"
 	"XF-555 Ship Core"
 	"Hervar Regenerator"
 	"Sizeable Map"
-	"I-1 Interference Plating"
-	"I-2 Interference Plating"
-	"I-3 Interference Plating"
 	"Signal Interdictor Deluxe"
 	"S-45 Lamprey"
 	"R-120 Warbird"
@@ -112,6 +109,8 @@ outfitter "AE Human"
 	"EMP Bomb"
 	"EMP Bomb Launcher"
 	"Pulse EMP Bomb Launcher"
+	"Interference Hull"
+	"Interference Shielding"
 
 outfitter "AE Sentar"
 	"S3NTAR Thruster"
@@ -137,6 +136,11 @@ outfitter korath
 
 outfitter wanderer
 	"Wanderer Crew Member"
+
+outfitter deprecated
+	"I-1 Interference Plating"
+	"I-2 Interference Plating"
+	"I-3 Interference Plating"
 
 shipyard "AE Alr"
 	"Alr Velika"

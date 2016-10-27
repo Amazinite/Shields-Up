@@ -94,31 +94,22 @@ outfit "Sizeable Map"
 	"map" 100
 	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
 
-outfit "I-1 Interference Plating"
+outfit "Interference Hull"
 	category "Systems"
-	cost 9000
+	cost 15000
 	thumbnail "outfit/interference plating"
 	"mass" 1
 	"outfit space" -1
-	"scan interference" .25
+	"scan interference" .1
 	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
 
-outfit "I-2 Interference Plating"
+outfit "Interference Shielding"
 	category "Systems"
-	cost 50000
+	cost 200000
 	thumbnail "outfit/interference plating"
-	"mass" 4
-	"outfit space" -4
-	"scan interference" .5
-	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
-
-outfit "I-3 Interference Plating"
-	category "Systems"
-	cost 80000
-	thumbnail "outfit/interference plating"
-	"mass" 6
-	"outfit space" -6
-	"scan interference" 2
+	"mass" 12
+	"outfit space" -12
+	"scan interference" 1.9
 	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
 
 outfit "Signal Interdictor Deluxe"
