@@ -899,8 +899,8 @@ system "Kor Dok'mok"
 		distance 1760.9
 		period 1182.28
 		offset 125.139
-		object
-			sprite planet/rock14
+		object "Septar Stovar"
+			sprite planet/station3k
 			distance 235
 			period 14.3985
 		object
@@ -1024,8 +1024,8 @@ system "Kor Mor'gol"
 		sprite planet/ocean6
 		distance 773.93
 		period 262.06
-		object
-			sprite planet/dust0
+		object "Sessiliki Near"
+			sprite planet/station2kd
 			distance 150
 			period 14.7778
 	object
@@ -1091,8 +1091,8 @@ system "Kor No'phel"
 			sprite planet/lava0
 			distance 474
 			period 26.3592
-		object
-			sprite planet/rock0
+		object "Separa Enlai"
+			sprite planet/station1k
 			distance 636
 			period 40.9685
 
@@ -1158,8 +1158,8 @@ system "Kor Tel'fel"
 			sprite planet/rock0
 			distance 306
 			period 28.176
-		object
-			sprite planet/rock7
+		object "Kor Enlai"
+			sprite planet/station2k
 			distance 459
 			period 51.7626
 
@@ -9819,3 +9819,20 @@ planet "Wayshrine Station"
 
 planet "Wormhole Donald"
 	landscape ""
+
+
+planet "Septar Stovar"
+	description ""
+	spaceport ""
+	
+planet "Sessiliki Near"
+	description ""
+	spaceport ""
+
+planet "Separa Enlai"
+	description ""
+	spaceport ""
+
+planet "Kor Enlai"
+	description ""
+	spaceport ""
