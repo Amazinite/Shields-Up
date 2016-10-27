@@ -16,6 +16,32 @@ outfit "Nalabidium Heat Sink"
 	"thumbnail" "outfit/unknown"
 	description "Heat Sinks increase the maximum heat a ship can handle. This comes at the cost of 30000 credits to install a 30 ton chunk of Nalabidium."
 
+outfit "Hai Crew Member"
+	category "Hand to Hand"
+	cost 2000
+	thumbnail "outfit/unknown"
+	"capture attack" 0.3
+	"capture defense" 0.3
+	unplunderable 1
+	description "A Hai crew member. Slightly stronger than humans."
+
+outfit "Korath Crew Member"
+	category "Hand to Hand"
+	thumbnail "outfit/unknown"
+	"capture defense" 3.5
+	"capture attack" 3.5
+	unplunderable 1
+	description "The Korath are very violent against their attackers."
+
+outfit "Wanderer Crew Member"
+	category "Hand to Hand"
+	cost 5000
+	thumbnail "outfit/unknown"
+	"capture attack" 0.5
+	"capture defense" 0.5
+	unplunderable 1
+	description "A Wanderer crew member. Slightly stronger than humans."
+
 outfit "I-1 Interference Plating"
 	category "Systems"
 	cost 9000
