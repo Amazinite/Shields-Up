@@ -42,3 +42,111 @@ outfit "I-3 Interference Plating"
 	"outfit space" -6
 	"scan interference" 2
 	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
+
+outfit "Meteor Missile Depot"
+	category "Systems"
+	cost 7500
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -7
+	"meteor capacity" 25
+	description "For anyone who wants to shoots more missiles but has no gun ports left install more launchers, this outfit stores an extra 25 Meteor Missiles."
+	
+outfit "Sidewinder Missile Depot"
+	category "Systems"
+	cost 30000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -9
+	"sidewinder capacity" 35
+	description "For anyone who wants to shoot more missiles but has no gun ports left to install more launchers, this outfit stores an extra 35 Sidewinder Missiles."
+	
+outfit "Javelin Secondary Magazine"
+	category "Systems"
+	cost 10000
+	thumbnail "outfit/javelin pod"
+	"mass" 2
+	"outfit space" -10
+	"javelin capacity" 200
+	description "Even with the large amount of Javelins the stock launcher can hold, sometimes you just need more gun but don't have enough space. That's where the secondary magazine comes in, offering space for an extra 200 Javelin Missiles."
+	
+outfit "Hai Tracker Secondary Magazine"
+	category "Systems"
+	cost 75000
+	thumbnail "outfit/hai tracker pod"
+	"mass" 2
+	"outfit space" -14
+	"tracker capacity" 40
+	description "Tracker Pods already hold a decent amount of Trackers but sometimes you need even more. This outfit offers you an extra 40 Trackers to hold."
+	
+outfit "Torpedo Supply Depot"
+	category "Systems"
+	cost 40000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -12
+	"torpedo capacity" 25
+	description "Personally requested by a Navy officer, it has been made available to civilians as well."
+	
+outfit "Typhoon Supply Depot"
+	category "Systems"
+	cost 130000
+	thumbnail "outfit/unknown"
+	"mass" 2.5
+	"outfit space" -15
+	"typhoon capacity" 25
+	description "The advent of Typhoons also calls for a supply depot similar to that of the Torpedo. This request was quickly turned into reality."
+	
+outfit "Heavy Rocket Depot"
+	category "Systems"
+	cost 20000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -7
+	"rocket capacity" 10
+	description "More gun is better than less gun, so install this outfit if you wish to stay in the fight longer with an extra 10 Heavy Rockets."
+
+outfit "Intelligent Rocket Depot"
+	category "Systems"
+	cost 45000
+	thumbnail "outfit/unknown"
+	"mass" 2.5
+	"outfit space" -5
+	"intelrock capacity" 10
+	description "More gun is better than less gun, so install this outfit if you wish to stay in the fight longer with an extra 10 Intelligent Rockets."
+	
+outfit "Khorne Rocket Depot"
+	category "Systems"
+	cost 87500
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -7
+	"khorne capacity" 20
+	description "This won't be implemented yet."
+	
+outfit "Soaker Missile Depot"
+	category "Systems"
+	cost 325000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -12
+	"soaker capacity" 10
+	description "The want to protect yourself or your allies gave rise to this extra storage that allows 10 more Soakers."
+	
+outfit "Grenade Depot"
+	category "Systems"
+	cost 40000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -7
+	"grenade capacity" 25
+	description "For anyone who wants to hold more Grenade to make things go boom. Holds an extra 25 Grenades."
+
+outfit "Rail Slug Depot"
+	category "Systems"
+	cost 40000
+	thumbnail "outfit/unknown"
+	"mass" 2
+	"outfit space" -17
+	"slug capacity" 30
+	description "Hold 30 extra slugs for blasting enemies away for longer."

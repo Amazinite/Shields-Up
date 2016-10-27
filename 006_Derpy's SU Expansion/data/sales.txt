@@ -1,0 +1,73 @@
+# Copyright (c) 2016 by Jonathan Steck
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfitter "Pirate Outfits"
+	"Intelligent Rocket Cap-Up"
+	"Gatling Cap-Up"
+
+outfitter "Kraz Basics"
+	"Torpedo Cap-Up"
+
+outfitter "Kraz Advanced"
+	"Soaker Missile Cap-Up"
+	"Torpedo Cap-Up"
+
+outfitter "Tyil Basics"
+	"Grenade Cap-Up"
+
+outfitter "Tyil Advanced"
+	"Grenade Cap-Up"
+
+outfitter "Lovelace Basics"
+	"Sidewinder Cap-Up"
+
+outfitter "Lovelace Advanced"
+	"Sidewinder Cap-Up"
+	"EMP Bomb Cap-Up"
+	"Rail Slug Cap-Up"
+
+outfitter "Deep Sky Advanced"
+	"Rail Slug Cap-Up"
+
+outfitter "Delta V Basics"
+	"Meteor Cap-Up"
+	"Heavy Rocket Cap-Up"
+	"Javelin Cap-Up"
+
+outfitter "Delta V advanced"
+	"Meteor Cap-Up"
+	"Heavy Rocket Cap-Up"
+	"Javelin Cap-Up"
+
+outfitter "Syndicate Advanced"
+	"Meteor Cap-Up"
+	"Torpedo Cap-Up"
+	"Javelin Cap-Up"
+	"EMP Bomb Cap-Up"
+
+outfitter "Syndicate Basics"
+	"Meteor Cap-Up"
+	"Torpedo Cap-Up"
+	"Javelin Cap-Up"
+
+outfitter "Wanderer Advanced"
+	"Thunderhead Cap-Up"
+
+outfitter "Hai Intermediate"
+	"Hai Tracker Cap-Up"
+	"Railgun Cap-Up"
+
+outfitter "Hai Advanced"
+	"Hai Tracker Cap-Up"
+	"Railgun Cap-Up"
+
+outfitter "Korath Basics"
+	"Korath Piercer Cap-Up"
+	"Korath Mine Cap-Up"
