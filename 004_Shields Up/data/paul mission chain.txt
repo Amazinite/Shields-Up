@@ -177,9 +177,6 @@ mission "Ext Intro [Cargo 2]"
 	description "Paul wants you to take him to the Syndicate capital of Hephaestus in the Markab system."
 	passengers 1
 	source "Prime"
-	waypoint "Phact"
-	waypoint "Aldebaran"
-	waypoint "Diphda"
 	destination "Hephaestus"
 	to offer
 		has "Ext Intro [Cargo 1]: done"
@@ -425,12 +422,6 @@ mission "Ext Intro [Interceptor 2]"
 	description "Bring Paul to the planet Canyon in the Zaurak system"
 	passengers 1
 	source "Splashdown"
-	waypoint "Alhena"
-	waypoint "Capella"
-	waypoint "Sirius"
-	waypoint "Caph"
-	waypoint "Ankaa"
-	waypoint "Sheratan"
 	destination "Canyon"
 	to offer
 		has "Ext Intro [Interceptor 1]: done"
@@ -542,8 +533,6 @@ mission "Ext Intro [Interceptor 4]"
 	description "Bring Paul to the planet Amazon in the Schedar system"
 	passengers 1
 	source "Canyon"
-	waypoint "Hamal"
-	waypoint "Alpheratz"
 	destination "Amazon"
 	to offer
 		has "Ext Intro [Interceptor 3]: done"
@@ -602,7 +591,6 @@ mission "Ext Intro [Transport 1]"
 	blocked "You find Paul, but you don't have enough passenger space for this mission! You may need to cancel extra missions that involve delivering passengers!"
 	passengers 1
 	source "Splashdown"
-	waypoint "Betelgeuse"
 	destination "Farpoint"
 	to offer
 		has "Ext Intro [1]: done"
@@ -653,9 +641,6 @@ mission "Ext Intro [Transport 2]"
 	description "Bring Paul to the planet Antipode in the Matar system"
 	passengers 1
 	source "Farpoint"
-	waypoint "Wazn"
-	waypoint "Acamar"
-	waypoint "Markab"
 	destination "Antipode"
 	to offer
 		has "Ext Intro [Transport 1]: done"
