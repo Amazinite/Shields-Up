@@ -1,5 +1,5 @@
 shipyard "Betelgeuse Advanced"
-	" Phoenix "
+	"Inferno"
 	
 outfitter "Navy H2H"
 	"Boarding Cannon"
