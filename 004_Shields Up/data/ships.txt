@@ -937,7 +937,7 @@ ship "FTek Hornet"
 		"required crew" 1
 		"bunks" 3
 		"mass" 40
-		"drag" .5
+		"drag" 1.2
 		"heat dissipation" .9
 		"fuel capacity" 400
 		"cargo space" 25
