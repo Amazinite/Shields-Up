@@ -197,8 +197,8 @@ outfit "Particle Accelerator"
 		sound "particle"
 		"hit effect" "particle impact"
 		"inaccuracy" .2
-		"velocity" 45
-		"lifetime" 35
+		"velocity" 40
+		"lifetime" 25
 		"reload" 15
 		"burst count" 2
 		"burst reload" 1
@@ -206,7 +206,6 @@ outfit "Particle Accelerator"
 		"firing force" 10
 		"firing heat" 100
 		"hit force" 60
-		"shield damage" 60
-		"hull damage" 26.7
+		"shield damage" 54
+		"hull damage" 52
 	description "An advanced weapon capable of dealing large amounts of damage in a short amount of time."
-
