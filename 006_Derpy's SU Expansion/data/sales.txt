@@ -62,12 +62,25 @@ outfitter "Wanderer Advanced"
 
 outfitter "Hai Intermediate"
 	"Hai Tracker Cap-Up"
-	"Railgun Cap-Up"
 
 outfitter "Hai Advanced"
 	"Hai Tracker Cap-Up"
-	"Railgun Cap-Up"
 
 outfitter "Korath Basics"
 	"Korath Piercer Cap-Up"
 	"Korath Mine Cap-Up"
+
+mission "Typhoon Cap-Up"
+	landing
+	invisible
+	to offer
+		has "event: deep sky tech available"
+	on offer
+		event "Typhoon Cap"
+		fail
+		
+event "Typhoon Cap"
+	outfitter "Deep Sky Basic"
+		"Typhoon Cap-Up"
+	outfitter "Deep Sky Advanced"
+		"Typhoon Cap-Up"
