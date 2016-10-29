@@ -126,7 +126,7 @@ outfit "Signal Interdictor Deluxe"
 outfit "S-45 Lamprey"
 	category "Hand to Hand"
 	cost 15000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/lamprey"
 	"bot capacity" -1
 	"capture attack" 1
 	"capture defense" 2
@@ -139,7 +139,7 @@ outfit "R-120 Warbird"
 #	licenses
 #		"Navy"
 	cost 20000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/warbird"
 	"bot capacity" -1
 	"capture attack" 5.2
 	"capture defense" 2.6
@@ -160,7 +160,7 @@ outfit "Sentry Gun"
 outfit "P-75 Archangel"
 	category "Hand to Hand"
 	cost 85000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/archangel"
 	"bot capacity" -1
 	"mass" 10
 	"capture attack" 4.3
@@ -171,7 +171,7 @@ outfit "P-75 Archangel"
 outfit "Engineer Bot"
 	category "Special"
 	cost 20000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/engineer bot"
 	"bot capacity" -1
 	"mass" 2
 	"energy generation" 0.3
@@ -183,7 +183,7 @@ outfit "Engineer Bot"
 outfit "Repair Bot"
 	category "Special"
 	cost 15000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/repair bot"
 	"bot capacity" -1
 	"mass" 2
 	"hull repair rate" 0.2
@@ -329,6 +329,7 @@ outfit "Developmental Lock"
 	
 outfit "Ship Armory"
 	category "Hand to Hand"
+	thumbnail "outfit/armory"
 	cost 480000
 	mass 50
 	"required crew" 5
