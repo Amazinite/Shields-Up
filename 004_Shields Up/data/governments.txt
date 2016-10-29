@@ -9,13 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 government "Korath"
-	swizzle 0
-	color .8 .5 .1
-	
 	"attitude toward"
-		"Merchant" -.1
-		"Pirate" -.1
-		"Quarg" -.1
 		"Militaj" -.1
 		
 government "shieldsup"
@@ -41,33 +35,13 @@ government "Militaj"
 	"hostile hail" "hostile militaj"
 		
 government "Republic"
-	swizzle 0
-	color .91 .42 .09
-	
 	"attitude toward"
-		"Merchant" .25
-		"Militia" .1
-		"Pirate" -.3
 		"Deep Sky" .1
 		"Plenipotent Dominion" -.3
-	"friendly hail" "friendly navy"
-	"hostile hail" "hostile navy"
-	raid "pirate raid"
 
 government "Pirate"
-	swizzle 6
-	color .78 0 0
-	
 	"attitude toward"
-		"Merchant" -.1
-		"Syndicate" -.1
-		"Korath" -.1
-		"Author" -.1
 		"Deep Sky" -.1
-	"bribe" .05
-	"fine" 0
-	"hostile hail" "hostile pirate"
-	raid "Large Southern Pirates"
 
 government "Servorum Dei"
 	swizzle 4
