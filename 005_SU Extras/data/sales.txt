@@ -3,17 +3,9 @@ shipyard "Betelgeuse Advanced"
 	
 outfitter "Navy H2H"
 	"Boarding Cannon"
-	"Ship Armory"
 
 outfitter "Common Outfits"
 	"Extended Bunk Room"
-	"Ship Armory"
-
-outfitter "Lovelace Advanced"
-	"NDR-114 Android"
-	
-outfitter "Syndicate Advanced"
-	"NDR-114 Android"
 
 planet Pilot
 	outfitter "Navy H2H"

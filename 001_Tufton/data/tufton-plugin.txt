@@ -18,8 +18,6 @@ shipyard "Lionheart Advanced"
 
 outfitter "Deep Sky Basics"
 	"400mm Slug"
-	"FTek Bot Shelf"
-	"Ship Armory"
 	
 outfitter "Deep Sky Advanced"
 	"Hedgehog Ion Mine"
@@ -44,8 +42,6 @@ outfitter "Pirate Outfits"
 
 outfitter "Kraz Basics"
 	"Hull Repair Nano-Bots"
-	"FTek Bot Shelf"
-	"Ship Armory"
 
 ship "Monolith"
 	sprite "ship/monolith"
