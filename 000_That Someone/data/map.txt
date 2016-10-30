@@ -28,8 +28,8 @@ system "Dupli Cate"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 750
+	fleet "Large Abs" 2000
 	object
 		sprite star/m0
 		period 10
@@ -150,8 +150,8 @@ system "Hi Yho"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 750
+	fleet "Large Abs" 2000
 	object
 		sprite star/g5
 		distance 40.9735
@@ -213,8 +213,8 @@ system "Imo Dip"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 750
+	fleet "Large Abs" 2000
 	object
 		sprite star/f5
 		period 10
@@ -335,8 +335,8 @@ system "Mei Due"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 1000
+	fleet "Large Abs" 3000
 	object
 		sprite star/k0
 		distance 54.1384
@@ -396,8 +396,8 @@ system "Soom Ho"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 1000
+	fleet "Large Abs" 3000
 	object
 		sprite star/k0
 		distance 30.7817
@@ -526,8 +526,8 @@ system "Zuba Nik"
 	trade Medical 827
 	trade Metal 509
 	trade Plastic 426
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
+	fleet "Small Abs" 750
+	fleet "Large Abs" 2000
 	object
 		sprite star/f5
 		period 10
