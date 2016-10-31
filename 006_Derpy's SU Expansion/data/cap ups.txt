@@ -17,7 +17,7 @@ outfit "Soaker Missile Cap-Up"
 	"soaker capacity" 10
 	description "The Soaker Missile Capacity Upgrader will increase the amount of secondary ammo you can carry for your Soaker Missile Launcher."
 
-outfit "Grenade Mine Cap-Up"
+outfit "Grenade Cap-Up"
 	category "Ammunition"
 	cost 40000
 	thumbnail "outfit/grenade cap"
