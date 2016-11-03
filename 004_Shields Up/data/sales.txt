@@ -118,6 +118,8 @@ outfitter "FTek Advanced"
 	"FTek Huge Shield System"
 	"FTek Bot Shelf"
 	"FTek UMDB"
+	"Light Turbo Laser Turret"
+	"Turbo Laser Turret"
 	
 outfitter "FTek Drive"
 	"FTek Jump Drive"
@@ -130,23 +132,7 @@ outfitter "Syndicate Basics"
 	"FTek Small Shield System"
 	"FTek Medium Shield System"
 
-outfitter "Pirate Outfits"
-	"Tactical Armor"
-	
-outfitter "Lovelace Advanced"
-	"Plasma Minelayer"
-	"Plasma Mine"
-
-
-outfitter "Kraz Advanced"
-	"Plasma Minelayer"
-	"Plasma Mine"
-
-
 outfitter "Delta V Advanced"
-	"Plasma Minelayer"
-	"Plasma Mine"
-	"Plasma Gatling"
 	"Tactical Armor"
 
 
@@ -155,7 +141,6 @@ shipyard "Lionheart Basics"
 	"Vagabond"
 	"Vagrant"
 	"Archangel"
-
 	
 shipyard "Southbound Basics"
 	"Skybus"
@@ -223,7 +208,6 @@ shipyard "Tarazed Advanced"
 	"Phoenix"
 	"Archangel"
 	"Dart"
-	
 	
 shipyard "Betelgeuse Basic"
 	"Predator Drone"
