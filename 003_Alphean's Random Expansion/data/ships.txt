@@ -463,40 +463,35 @@ ship "Gnosis Transport"
 	sprite "ship/syndicarrier"
 	attributes
 		category "Transport"
-		"cost" 19000000
-		"shields" 9200
-		"hull" 1400
-		"required crew" 61
-		"bunks" 297
-		"mass" 625
-		"drag" 11.3
-		"heat dissipation" .47
-		"fuel capacity" 500
-		"cargo space" 120
-		"outfit space" 540
-		"weapon capacity" 120
-		"engine capacity" 100
+		"cost" 12450000
+		"shields" 4000
+		"hull" 7600
+		"required crew" 10
+		"bunks" 310
+		"mass" 870
+		"drag" 15.8
+		"heat dissipation" .5
+		"fuel capacity" 600
+		"cargo space" 20
+		"outfit space" 410
+		"weapon capacity" 90
+		"engine capacity" 110
 		weapon
-			"blast radius" 260
-			"shield damage" 2600
-			"hull damage" 1300
-			"hit force" 3900
-			"ion damage" 5
+			"blast radius" 120
+			"shield damage" 1200
+			"hull damage" 600
+			"hit force" 1800
 	outfits
 		"Heavy Anti-Missile Turret" 3
-		
-		"Cooling Ducts" 4
+
+		"nGVF-EE Fuel Cell"
 		"LP144a Battery Pack"
-		"D94-YV Shield Generator" 2
-		"Ramscoop"
-		"Security Station" 4
-		"Laser Rifle" 20
-		"XF-111 Ship Core" 2
-		"XF-333 Ship Core"
-		
-		"X3700 Ion Thruster"
-		"X3200 Ion Steering"
-	
+		"D67-TM Shield Generator"
+
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
 	engine -19 196.5
 	engine 19 196.5
 	engine -61.5 163
@@ -504,12 +499,11 @@ ship "Gnosis Transport"
 	turret 0 7 "Heavy Anti-Missile Turret"
 	turret -32 176 "Heavy Anti-Missile Turret"
 	turret 32 176 "Heavy Anti-Missile Turret"
-	explode "tiny explosion" 20
-	explode "small explosion" 45
-	explode "medium explosion" 50
-	explode "big explosion" 40
-	explode "huge explosion" 10
-	description "This is more like a space hotel. It is very well defended for a transport."
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "big explosion" 35
+	explode "huge explosion" 20
+	description "A repurposed Bulk Freighter, the Gnosis Transport is used by the Syndicate as a relatively cheap way to transport large amounts of people. In order to fit as many people on as possible, many of the gun ports and turret mounts were removed from the original design, but the size of the engines was increased to compensate."
 	
 ship "Erebus"
 	sprite "ship/Erebus"

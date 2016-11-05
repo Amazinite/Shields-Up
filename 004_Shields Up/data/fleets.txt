@@ -427,7 +427,7 @@ fleet "Large Free Worlds"
 		"Modified Argosy (Laser)" 3
 	variant 11
 		"Ironclad Battleship"
-		"Sky Dinghy (Heavy)" 2
+		"Sky Dinghy" 2
 		"Modified Argosy (Laser)" 3
 		
 fleet "Large Southern Pirates"
@@ -521,7 +521,7 @@ fleet "Large Southern Pirates"
 		"Falcon (Laser)"
 	variant 4
 		"Derelict"
-		"Sky Dinghy (Heavy)"
+		"Sky Dinghy"
 	variant 4
 		"Hawk (Rocket)"
 		"Fury (Missile)"
@@ -559,7 +559,7 @@ fleet "Large Southern Pirates"
 	variant 7
 		"Ironclad Battleship"
 		"Dagger" 1
-		"Sky Dinghy (Heavy)" 1
+		"Sky Dinghy" 1
 		"Hawk (Rocket)"
 		"Fury (Missile)"
 		"Sparrow"
