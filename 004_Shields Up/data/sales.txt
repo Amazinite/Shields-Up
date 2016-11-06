@@ -192,7 +192,6 @@ shipyard "Northern Pirates"
 shipyard "Megaparsec Basics"
 	"Vagabond"
 	"Vagrant"
-	"Predator Drone"
 
 shipyard "Syndicate Basics"
 	"Vagabond"
@@ -200,9 +199,6 @@ shipyard "Syndicate Basics"
 
 shipyard "Syndicate Advanced"
 	"Phoenix"
-
-shipyard "Tarazed Basic"
-	"Predator Drone"
 	
 shipyard "Tarazed Advanced"
 	"Phoenix"
@@ -210,7 +206,6 @@ shipyard "Tarazed Advanced"
 	"Dart"
 	
 shipyard "Betelgeuse Basic"
-	"Predator Drone"
 	"Vagabond"
 	"Vagrant"
 	

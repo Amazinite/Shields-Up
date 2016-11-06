@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 ship "Hunter Drone"
-	sprite "ship/sparrow"
+	sprite "ship/hunter drone"
 	attributes
 		category "Drone"
 		"cost" 825000
@@ -40,7 +40,7 @@ ship "Hunter Drone"
 		
 	engine -5 35
 	engine 5 35
-	gun 0 -39 "Sidewinder Missile Launcher"
+	gun 0 -28 "Sidewinder Missile Launcher"
 	explode "tiny explosion" 15
 	explode "small explosion" 5
 	description "An experimental Missile drone. This is actually a modified Sparrow with a small AI mainframe inside, at the cost of shield capacity and hull strength. They are very rarely used in defence fleets of The Deep, but appear very often in southern space."

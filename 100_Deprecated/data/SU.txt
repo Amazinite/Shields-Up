@@ -26,3 +26,30 @@ outfit "X900 Experimental Micro-Propulsion"
 	"flare sound" "ion tiny"
 	description "Designed to allow more payload space on fighters and drones, these experimental engines combine both thrust and steering functionality, resulting in some tonnage savings but at increased cost and decreased efficiency compared to conventional ion engines."
 	description "	Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+
+ship "Predator Drone"
+	sprite "ship/predator"
+	attributes
+		category "Drone"
+		"cost" 143000
+		"hull" 900
+		"mass" 25
+		"drag" .59
+		"heat dissipation" .9
+		"outfit space" 60
+		"weapon capacity" 10
+		"engine capacity" 28
+	outfits
+		"Meteor Missile Launcher"
+		"Meteor Missile" 35
+
+		"XF-111 Ship Core"
+
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+
+	engine -9 29
+	engine 9 29
+	gun 0 -29 "Meteor Missile Launcher"
+	explode "tiny explosion" 15
+	description "The Predator is the Southern variant of the Republic's Combat Drone, jam-packed with missiles."

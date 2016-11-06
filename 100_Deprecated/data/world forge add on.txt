@@ -22,3 +22,4 @@ shipyard deprecated
 	"Tuk'ux Battle Cruiser"
 	"Mite"
 	"Arachnid"
+	"Predator Drone"
