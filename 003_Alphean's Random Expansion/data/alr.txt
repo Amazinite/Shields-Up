@@ -1,0 +1,70 @@
+# Copyright (c) 2016 by Rafael Ramawadh
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+shipyard "Alr Basics"
+	"Alr Spektar"
+	"Alr Braniti"
+	"Alr Mali-5"
+	"Alr Mali-1"
+	"Alr Ukrasti"
+	
+shipyard "Alr Advanced"
+	"Alr Velika"
+	"Alr Mali-15"
+	"Alr Nositi Lijevo"
+	"Alr Nositi Desno"
+	"Alr Nositi Sredisnji"
+	"Alr Krajina"
+	
+outfitter "Alr Basics"
+	"Alr Vatra Beam"
+	"Alr Anti-Missile"
+	"Alr Evropi Thruster"
+	"Alr Evropi Steering"
+	"Alr 'Zagreb' Core"
+	"Alr 'Srebrenica' Generator"
+	"Alr 'Sarajevo' Generator"
+	"Alr Artilerija"
+	"Alr Vucijak Projector"
+	"Alr Heat Shunt"
+	"Mass Expansion"
+	"Cargo Expansion"
+	"Fuel Pod"
+	"Hyperdrive"
+	"Local Map"
+	
+outfitter "Alr Advanced"
+	"Alr Vatra Beam"
+	"Alr Vatra Beam Turret"
+	"Alr Anti-Missile"
+	"Alr Ukrasti Turret"
+	"Alr Evropi Thruster"
+	"Alr Evropi Steering"
+	"Alr Australiji Thruster"
+	"Alr Australiji Steering"
+	"Alr Americi Thruster"
+	"Alr Americi Steering"
+	"Alr 'Zagreb' Core"
+	"Alr 'Visegrad' Core"
+	"Alr 'Mercy' Core"
+	"Alr 'Srebrenica' Generator"
+	"Alr 'Sarajevo' Generator"
+	"Alr Artilerija"
+	"Alr Artilerija Turret"
+	"Alr Vucijak Projector"
+	"Alr Zemlja Projector"
+	"Alr Kartara Absorber"
+	"Alr Heat Shunt"
+	"Alr Plasma Shunt"
+	"Mass Expansion"
+	"Cargo Expansion"
+	"Fuel Pod"
+	"Hyperdrive"
+	"Local Map"

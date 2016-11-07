@@ -8,6 +8,35 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfit "RCS10 Steering"
+	category "Engines"
+	"cost" 3000
+	thumbnail "outfit/tiny plasma steering"
+	"mass" 2
+	"outfit space" -2
+	"engine capacity" -2
+	"turn" 126
+	"turning energy" .05
+	"turning heat" .1
+	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
+	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
+
+outfit "RCS15 Thruster"
+	category "Engines"
+	"cost" 35000
+	thumbnail "outfit/tiny plasma thruster"
+	"mass" 2
+	"outfit space" -2
+	"engine capacity" -2
+	"thrust" 0.75
+	"thrusting energy" .075
+	"thrusting heat" .1125
+	"flare sprite" "effect/ion flare/tiny"
+		"frame rate" 1.2
+	"flare sound" "ion tiny"
+	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
+	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
+
 outfit "Weapon Specialization"
 	category "Systems"
 	"cost" 7500
@@ -147,16 +176,6 @@ outfit "R-120 Warbird"
 	unplunderable 1
 	description "The Republic Navy uses this model of boarding bots for boarding pirates or capturing other enemy ships."
 
-outfit "Sentry Gun"
-	category "Hand to Hand"
-	cost 52000
-	thumbnail "outfit/unknown"
-	"mass" 4
-	"outfit space" -4
-	"capture defense" 7
-	unplunderable 1
-	description "This model of sentry guns may be the best ship defense money can buy."
-
 outfit "P-75 Archangel"
 	category "Hand to Hand"
 	cost 85000
@@ -196,78 +215,10 @@ outfit "AI Mainframe"
 	cost 1000000
 	thumbnail "outfit/unknown"
 	"outfit space" -50
-	"crew card capacity" 250
+	"bot capacity" 250
 	"energy generation" -0.4
 	description "A rare occurence these days. An AI Mainframe is capable of controlling a whole ship on its own via a network of connections. One mainframe can replace up to 250 crew members."
 	description "[Disclaimer: We do not claim responsibility if the mainframe tries to kill you.]"
-	
-outfit "Crew Card"
-	category "Special"
-	cost 750000
-	thumbnail "outfit/unknown"
-	"crew card capacity" -1
-	"required crew" -1
-	unplunderable 1
-	description "A crew AI card used by AI Mainframes."
-
-outfit "Fed Surveillance Pod"
-	category "Systems"
-	cost 42000
-	thumbnail "outfits/outfit scanner"
-	mass 5
-	"outfit space" -5
-	"cargo scan" 500
-	"outfit scan" 500
-	description "A Republic Surveillance Pod modified by Eyes In The Sky Corporation."
-	
-outfit "AR-S Fuelscoop"
-	category "Systems"
-	cost 70000
-	thumbnail "outfit/ramscoop"
-	"mass" 7
-	"outfit space" -7
-	"ramscoop" 1
-	description "A very small Ramscoop, used only by the Horn model Fighters found in Fed fleets."
-
-outfit "AR-X Capital Ramscoop"
-	category "Systems"
-	cost 540000
-	thumbnail "outfit/catalytic ramscoop"
-	"mass" 50
-	"outfit space" -50
-	"ramscoop" 14
-	description "The Fed has many ships filled with equipment to keep the ship running. This leaves little room for fuel and as such they use these Capital Ramscoops."
-	
-outfit "SF-2 Thorn Shield Generator"
-	category "Systems"
-	cost 1060000
-	thumbnail "outfit/huge shield"
-	"mass" 130
-	"outfit space" -130
-	"shield generation" 2.79
-    "shield energy" 1
-	description "A very powerful shield generator."
-
-outfit "SF-1 Horn Regenerator"
-	category "Systems"
-	cost 920000
-	thumbnail "outfit/small regenerator"
-	"mass" 20
-	"outfit space" -20
-	"shield generation" .8
-	"energy generation" -.3
-	"heat generation" 2
-    "shield energy" 1
-	description "Similar to Hai shield regenerators, but smaller and more efficient."
-
-outfit "HN-7 Thorn Coolant System"
-	category "Systems"
-	cost 432000
-	thumbnail "outfit/water cooling"
-	"mass" 70
-	"outfit space" -70
-	"cooling" 150
-	description "The cooling system used by Fed Thorn Carriers. You have no idea how it works."
 	
 outfit "Navy Cloaking Device"
 #	licenses
@@ -299,23 +250,6 @@ outfit "Capital Identification"
 	unplunderable 1
 	description "Identifies you ship as a capital in the ship registry."
 	
-outfit "S3NTAR Ship Core"
-	category "Systems"
-	mass 300
-	"outfit space" -300
-	"shield generation" 120
-	"hull repair rate" 120
-    "shield energy" 1
-    "hull energy" 1
-	description "The strongest ship core in both the Milky Way and Sentarian Galaxy, it produces hull and shield energy through an unknown process. What is known about the process is that it takes up a lot of space."
-	
-outfit "S3NTAR Defensive Countermeasures"
-	category "Hand to Hand"
-	thumbnail "outfit/unknown"
-	"capture defense" 750
-	unplunderable 1
-	description "Can you beat the Sentarians in a hand to hand battle?"
-	
 outfit "Crew Raiser"
 	category "Special"
 	"required crew" 5
@@ -336,18 +270,6 @@ outfit "Ship Armory"
 	"outfit space" -50
 	"armory capacity" 200
 	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
-	
-outfit "Special Agent"
-	category "Hand to Hand"
-	cost 500000
-	thumbnail "outfit/unknown"
-	"required crew" 1
-	"bunks" -1
-	"capture attack" 6
-	"energy generation" -.1
-	"capture defense" 6
-	unplunderable 1
-	description "A specially trained agent for boarding ships. They use a personal cloaking device to infiltrate the enemy ship and take out important targets."
 
 outfit "SC015s Shield Capacitor"
 	category "Systems"
@@ -393,14 +315,6 @@ outfit "SC240s Shield Capacitor"
 	"outfit space" -160
 	"shields" 9600
 	description "Shield Capacitors increase the maximum shield energy carried by a ship."
-	
-outfit "Nalabidium Heat Sink"
-	category "Systems"
-	cost 30000
-	mass 30
-	"outfit space" -10
-	"thumbnail" "outfit/unknown"
-	description "Heat Sinks increase the maximum heat a ship can handle. This comes at the cost of 30000 credits to install a 30 ton chunk of Nalabidium."
 
 outfit "Pillager Bolt-on Cockpit"
 	category "Systems"

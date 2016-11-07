@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "Spacebot" "Nano Heat"
+ship "Spacebot"
 	attributes
 		"hull" 100
 		"automaton" 1

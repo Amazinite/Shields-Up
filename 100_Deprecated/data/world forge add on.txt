@@ -17,6 +17,12 @@ outfitter deprecated
 	"M50-400 Slug"
 	"Ion Torpedo Bay"
 	"Ion Torpedo"
+	"Tactical Armor"
+	"Breacher Cannon"
+	"FTek Bot Shelf"
+	"Toaster Bot"
+	"FTek UMDB"
+	"Rock Wall"
 
 shipyard deprecated
 	"Tuk'ux Battle Cruiser"

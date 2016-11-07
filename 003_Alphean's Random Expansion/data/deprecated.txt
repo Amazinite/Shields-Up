@@ -176,3 +176,103 @@ outfit "Rail Slug Depot"
 	"outfit space" -17
 	"slug capacity" 30
 	description "Hold 30 extra slugs for blasting enemies away for longer."
+
+outfit "SC15s Shield Capacitor"
+	category "Systems"
+	cost 12000
+	thumbnail "outfit/tiny battery"
+	"mass" 10
+	"outfit space" -10
+	"shields" 600
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."
+
+outfit "SC30s Shield Capacitor"
+	category "Systems"
+	cost 30000
+	thumbnail "outfit/small battery"
+	"mass" 20
+	"outfit space" -20
+	"shields" 1800
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."
+	
+outfit "SC60s Shield Capacitor"
+	category "Systems"
+	cost 67000
+	thumbnail "outfit/medium battery"
+	"mass" 40
+	"outfit space" -40
+	"shields" 4400
+	description "Shield Capacitors increase the maximum shield energy carried by a ship."
+
+outfit "Rail Cannon"
+	category "Secondary Weapons"
+	cost 80000
+	thumbnail "outfit/ion cannon"
+	"mass" 35
+	"outfit space" -50
+	"weapon capacity" -50
+	"gun ports" -1
+	"slug capacity" 30
+	"heat generation" 2
+	"energy generation" -0.7
+	"energy capacity" 200
+	weapon
+		sprite "projectile/tracker"
+			"frame rate" 10
+			"random start frame"
+		sound "pulse"
+		ammo "Rail Slug"
+		icon "icon/tracker"
+		"fire effect" "torpedo fire"
+		"hit effect" "big explosion"
+		"inaccuracy" 0.1
+		"velocity" 200
+		"lifetime" 300
+		"reload" 1800
+		"firing energy" 200
+		"firing heat" 2500
+		"drag" .1
+		"shield damage" 200
+		"hull damage" 1600
+		"hit force" 300
+		"missile strength" 0
+	description "A weapon developed for the express purpose of piercing the hull of another ship, the rail cannon fires a high AP shell at the target."
+	description "This cannon could easily overheat your ship after firing, so it is highly recommended to find an exact, oppurtune moment to unleash the rail."
+	
+outfit "Rail Slug"
+	category "Ammunition"
+	cost 10000
+	thumbnail "outfit/hai tracker"
+	"slug capacity" -1
+	mass .5
+	description "The expensive slugs launched by the Rail Cannon."
+	
+outfit "Crew Card"
+	category "Special"
+	cost 750000
+	thumbnail "outfit/unknown"
+	"crew card capacity" -1
+	"required crew" -1
+	unplunderable 1
+	description "A crew AI card used by AI Mainframes."
+
+outfit "Sentry Gun"
+	category "Hand to Hand"
+	cost 52000
+	thumbnail "outfit/unknown"
+	"mass" 4
+	"outfit space" -4
+	"capture defense" 7
+	unplunderable 1
+	description "This model of sentry guns may be the best ship defense money can buy."
+
+outfit "Special Agent"
+	category "Hand to Hand"
+	cost 500000
+	thumbnail "outfit/unknown"
+	"required crew" 1
+	"capture attack" 6
+	"energy generation" -.1
+	"capture defense" 6
+	unplunderable 1
+	description "A specially trained agent for boarding ships. They use a personal cloaking device to infiltrate the enemy ship and take out important targets."
