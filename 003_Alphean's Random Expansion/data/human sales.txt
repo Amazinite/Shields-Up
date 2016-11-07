@@ -149,7 +149,6 @@ outfitter "Syndicate Advanced"
 	
 outfitter "Delta V Advanced"
 	"Energy Chaingun"
-	"Special Agent"
 	
 outfitter "Tyil Basics"
 	"Modified Blaster"
