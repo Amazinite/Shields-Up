@@ -28,7 +28,6 @@ outfitter "Deep Sky Advanced"
 	"Bighorn Energy Ram"
 	"Tractor Beam Turret"
 	"Ion Laser Turret"
-	"Polaric Slide Thrusters"
 
 outfitter "Lovelace Advanced"
 	"Hedgehog Ion Mine"
@@ -443,20 +442,3 @@ outfit "Hull Repair Nano-Bots"
 	"hull repair rate" .6
 	"hull energy" .6
 	description "In a galaxy full of shields, armor repair has become more and more marginalized. However, for those that still cling to the old ways, Tufton Robotics recently released an armor maintenance outfit for use on space combat vessels, city maintenance crews, and your family hovercar. The armor repair bots draw energy from any shield systems equipped on the vessel, as well as placing a mild drain on any energy generation systems. Most captains find the shied drain to be too inefficient for use on shield-based vessels."
-
-outfit "Polaric Slide Thrusters"
-	category "Engines"
-	"cost" 10000000
-	thumbnail "outfit/unknown"
-	"mass" 130
-	"outfit space" -130
-	"engine capacity" -100
-	"weapon capacity" -30
-	"thrust" 150
-	"thrusting energy" 21
-	"thrusting heat" 47
-	"reverse thrust" 150
-	"reverse thrusting energy" 21
-	"reverse thrusting heat" 47
-	"flare sprite" "effect/medium graviton flare"
-	description "The Polaric Slide Thruster may appear to be a normal engine, but it is in fact moving the fabric of spacetime itself around your vessel through means unknown"

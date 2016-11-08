@@ -23,6 +23,7 @@ outfitter deprecated
 	"Toaster Bot"
 	"FTek UMDB"
 	"Rock Wall"
+	"Polaric Slide Thrusters"
 
 shipyard deprecated
 	"Tuk'ux Battle Cruiser"

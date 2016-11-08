@@ -8,6 +8,23 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfit "Polaric Slide Thrusters"
+	category "Engines"
+	"cost" 10000000
+	thumbnail "outfit/unknown"
+	"mass" 130
+	"outfit space" -130
+	"engine capacity" -100
+	"weapon capacity" -30
+	"thrust" 150
+	"thrusting energy" 21
+	"thrusting heat" 47
+	"reverse thrust" 150
+	"reverse thrusting energy" 21
+	"reverse thrusting heat" 47
+	"flare sprite" "effect/medium graviton flare"
+	description "The Polaric Slide Thruster may appear to be a normal engine, but it is in fact moving the fabric of spacetime itself around your vessel through means unknown"
+
 ship "Mite"
 	sprite "ship/hai mite"
 	attributes

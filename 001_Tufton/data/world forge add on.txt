@@ -18,29 +18,19 @@ outfitter "Tufton Human"
 	"Bighorn Energy Ram"
 	"Plasma Gatling"
 	"Ion Laser Turret"
-	"Polaric Slide Thrusters"
 
 shipyard "Tufton Human"
 	"Monolith"
 	"Tactical Assault Fighter"
 	
-shipyard "Tufton Hai"
-	"Mite"
-	"Arachnid"
-	
 planet Mods
 	outfitter "Tufton Human"
 	shipyard "Tufton Human"
-	shipyard "Tufton Hai"
 
 planet Forge
 	outfitter "Tufton Human"
 	shipyard "Tufton Human"
-	shipyard "Tufton Hai"
 
 planet Human
 	outfitter "Tufton Human"
 	shipyard "Tufton Human"
-
-planet Hai
-	shipyard "Tufton Hai"
