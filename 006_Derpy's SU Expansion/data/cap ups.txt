@@ -35,15 +35,6 @@ outfit "Intelligent Rocket Cap-Up"
 	"intelrock capacity" 10
 	description "The Intelligent Rocket Capacity Upgrader will increase the amount of secondary ammo you can carry for your Intelligent Rocket Launcher."
 
-outfit "Rail Slug Cap-Up"
-	category "Ammunition"
-	cost 40000
-	thumbnail "outfit/tracker cap"
-	"mass" 2
-	"outfit space" -17
-	"slug capacity" 30
-	description "The Rail Slug Capacity Upgrader will increase the amount of secondary ammo you can carry for your Rail Cannon."
-
 outfit "Khorne Rocket Cap-Up"
 	category "Ammunition"
 	cost 87500

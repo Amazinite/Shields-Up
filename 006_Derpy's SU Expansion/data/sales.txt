@@ -31,10 +31,6 @@ outfitter "Lovelace Basics"
 outfitter "Lovelace Advanced"
 	"Sidewinder Cap-Up"
 	"EMP Bomb Cap-Up"
-	"Rail Slug Cap-Up"
-
-outfitter "Deep Sky Advanced"
-	"Rail Slug Cap-Up"
 
 outfitter "Delta V Basics"
 	"Meteor Cap-Up"
