@@ -2,72 +2,76 @@ ship "Inferno"
 	sprite "ship/Phoenix(MS)"
 	attributes
 		category "Heavy Warship"
-		"cost" 19000000
-		"shields" 18500 
-		"hull" 7250
-		"required crew" 57
-		"bunks" 77
-		"mass" 680
-		"drag" 12.5
+		"cost" 11100000
+		"shields" 12800 
+		"hull" 5600
+		"required crew" 27
+		"bunks" 66
+		"mass" 580
+		"drag" 9
 		"heat dissipation" .5
 		"fuel capacity" 600
-		"cargo space" 145
-		"outfit space" 530
-		"weapon capacity" 156
-		"engine capacity" 218
+		"cargo space" 40
+		"outfit space" 700
+		"weapon capacity" 320
+		"engine capacity" 130
 		weapon
-			"blast radius" 250
-			"shield damage" 2600
-			"hull damage" 1550
-			"hit force" 3670
+			"blast radius" 160
+			"shield damage" 1600
+			"hull damage" 800
+			"hit force" 2400
 	outfits
-		Hyperdrive
+		"Heavy Laser" 8
+		"Heavy Laser Turret" 4
+
+		"Armageddon Core"
 		"LP144a Battery Pack"
-		"Fusion Reactor"
-		"Orca Plasma Thruster"
-		"Orca Plasma Steering"
-		"Heavy Laser" 6
-		"Liquid Nitrogen Cooler"
-		"Energy Blaster" 2
-		"D67-TM Shield Generator"
-		
-	engine -16.5 178
-	engine 14 178
-	engine 46 167
-	engine -48.5 167
-	gun -8 -174 "Heavy Laser"
-	gun 5 -174 "Heavy Laser"
-	gun -76.5 25.5 "Heavy Laser"
-	gun 73 25.5 "Heavy Laser"
-	gun -59 8 "Heavy Laser"
-	gun 56 7.5 "Heavy Laser"
-	gun -42 -9 "Energy Blaster"
-	gun 39 -9 "Energy Blaster"
-	turret -87 69.5
-	turret 83.5 69
-	explode "small explosion" 25
-	explode "medium explosion" 35
-	explode "big explosion" 45
-	explode "huge explosion" 30
-	description "Inspired by the Modified Firebird, this high class warship comes from the minds of the finest Betelgeuse engineers. Built for speed, and with guns to spare, this warship will run down slower vessels and outmaneaver anything larger than itself."
+		"D94-YV Shield Generator"
+		"Liquid Helium Cooler"
+
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		Hyperdrive
+
+	engine -49 164
+	engine 49 164
+	engine -16 175
+	engine 16 175
+	gun -8.5 -174
+	gun 8.5 -174
+	gun -42 -9.5
+	gun 42 -9.5
+	gun -59.5 7.5
+	gun 59.5 7.5
+	gun -76.5 25.5
+	gun 76.5 25.5
+	turret -43.5 120.5
+	turret 43.5 120.5
+	turret -56.5 110
+	turret 56.5 110
+	explode "small explosion" 18
+	explode "medium explosion" 36
+	explode "big explosion" 24
+	explode "huge explosion" 8
+	description "Inspired by the Firebird, this high class warship comes from the minds of the finest Betelgeuse engineers. Built for speed, and with guns to spare, this warship will run down slower vessels and outmaneaver anything larger than itself."
 
 ship "Kestrel-M"
 	sprite "ship/KestrelM"
 	attributes
 		category "Heavy Warship"
-		"cost" 10300000
-		"shields" 17400
-		"hull" 6200
+		"cost" 20600000
+		"shields" 20100
+		"hull" 8900
 		"required crew" 72
 		"bunks" 128
-		"mass" 740
-		"drag" 12.5
-		"heat dissipation" .45
-		"fuel capacity" 500
-		"cargo space" 120
-		"outfit space" 810
+		"mass" 720
+		"drag" 11.5
+		"heat dissipation" .55
+		"fuel capacity" 600
+		"cargo space" 140
+		"outfit space" 830
 		"weapon capacity" 400
-		"engine capacity" 210
+		"engine capacity" 230
 		weapon
 			"blast radius" 260
 			"shield damage" 2600
@@ -78,13 +82,16 @@ ship "Kestrel-M"
 		"Torpedo Launcher" 2
 		"Torpedo" 60
 		"Heavy Laser Turret" 4
+
 		"Fusion Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
 		"Liquid Nitrogen Cooler"
+
 		"Orca Plasma Thruster"
 		"X5200 Ion Steering"
 		"Hyperdrive"
+
 	engine -14 177
 	engine 14 177
 	gun -88 95 "Torpedo Launcher"
@@ -178,53 +185,52 @@ ship "Dragoon"
 		"cost" 25000000
 		"shields" 28000
 		"hull" 11000
-		"required crew" 78
-		"bunks" 124
-		"mass" 889
-		"drag" 11.2
-		"heat dissipation" .45
+		"required crew" 84
+		"bunks" 259
+		"mass" 1000
+		"drag" 18.4
+		"heat dissipation" .4
 		"fuel capacity" 800
-		"cargo space" 120
-		"outfit space" 850
-		"weapon capacity" 400
-		"engine capacity" 195
+		"cargo space" 440
+		"outfit space" 800
+		"weapon capacity" 350
+		"engine capacity" 200
 		weapon
-			"blast radius" 390
-			"shield damage" 3900
-			"hull damage" 1950
-			"hit force" 5850
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
 	outfits
-		"Particle Cannon" 2
-		"Heavy Anti-Missile Turret" 2
-		"Typhoon Launcher" 2
-		"Typhoon Torpedo" 60
-		"Light Turbo Laser Turret"
-		"Turbo Laser Turret"
+		"Electron Beam" 4
 		"400mm Mag Rail Cannon" 2
 		"400mm Slug" 100
+		"Heavy Anti-Missile Turret" 3
+		"Turbo Laser Turret"
+		"Light Turbo Laser Turret"
 
-		"Fusion Reactor"
-		"Dwarf Core"
-		"LP144a Battery Pack"
-		"Liquid Nitrogen Cooler"
-		"D94-YV Shield Generator"
-		"FTek Huge Shield System"
+		"Armageddon Core"
+		"LP072a Battery Pack"
+		"Liquid Helium Cooler"
+		"D67-TM Shield Generator"
+		"Large Radar Jammer"
 
 		"X4700 Ion Thruster"
+		"X1700 Ion Thruster"
 		"X5200 Ion Steering"
 		Hyperdrive
 
-	gun -8 -132.5 "Particle Cannon"
-	gun 8.5 -133.5 "Particle Cannon"
-	gun -19.5 -99 "400mm Mag Rail Cannon"
-	gun 22 -98 "400mm Mag Rail Cannon"
-	gun -49 4.5 "Typhoon Launcher"
-	gun 49 5 "Typhoon Launcher"
-	turret -45 85 "Heavy Anti-Missile Turret"
-	turret 45.5 85 "Heavy Anti-Missile Turret"
-	turret -37 33.5 "Light Turbo Laser Turret"
-	turret 37.5 33 "Turbo Laser Turret"
-	engine -22.5 176
+	gun -8 -133
+	gun 8 -133
+	gun -21 -99
+	gun 21 -99
+	gun -49 5
+	gun 49 5
+	turret 0 -13.5
+	turret 0 2
+	turret 0 17
+	turret -45.5 85
+	turret 45.5 85
+	engine -23 176
 	engine 23 176
 	explode "small explosion" 25
 	explode "medium explosion" 35

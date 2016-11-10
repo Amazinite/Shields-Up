@@ -272,24 +272,24 @@ ship "Phoenix"
 	sprite "ship/phoenix"
 	attributes
 		category "Heavy Warship"
-		"cost" 17800000
-		"shields" 16400
-		"hull" 12400
-		"required crew" 86
-		"bunks" 139
-		"mass" 980
-		"drag" 9.9
-		"heat dissipation" .5
-		"fuel capacity" 600
-		"cargo space" 190
-		"outfit space" 855
-		"weapon capacity" 350
-		"engine capacity" 190
+		"cost" 22200000
+		"shields" 25000
+		"hull" 9400
+		"required crew" 174
+		"bunks" 296
+		"mass" 1050
+		"drag" 24.2
+		"heat dissipation" .3
+		"fuel capacity" 1000
+		"cargo space" 0
+		"outfit space" 900
+		"weapon capacity" 400
+		"engine capacity" 120
 		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
+			"blast radius" 300
+			"shield damage" 3000
+			"hull damage" 1500
+			"hit force" 4500
 	outfits
 		"400mm Mag Rail Cannon" 2
 		"400mm Slug" 100
@@ -303,8 +303,8 @@ ship "Phoenix"
 		"D94-YV Shield Generator"
 		"Liquid Nitrogen Cooler"
 
-		"Orca Plasma Thruster"
-		"Orca Plasma Steering"
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
 		"Scram Drive"
 
 	engine -31 81
@@ -319,14 +319,20 @@ ship "Phoenix"
 	turret -30 27 "Heavy Anti-Missile Turret"
 	turret 30 27 "Heavy Anti-Missile Turret"
 	fighter -16 -9
+	fighter -16 -9
+	fighter -16 -9
+	fighter -16 -9
 	fighter 16 -9
-	drone 32 -9
-	drone -32 -9
-	explode "tiny explosion" 18
-	explode "small explosion" 36
-	explode "medium explosion" 24
-	explode "big explosion" 8
-	description "Billed as a successor to the venerable Firebird, the Phoenix is a mobile command base on a par with the very best ships available."
+	fighter 16 -9
+	fighter 16 -9
+	fighter 16 -9
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "big explosion" 50
+	explode "huge explosion" 30
+	explode "nuke explosion" 1
+	description "The Phoenix is a mobile command base on a par with the very best ships available."
 	description "	Packing every convenience a modern commander could want, from drones to fighters to torpedos to turrets, the Phoenix is difficult to kill, and if defeated will surely rise again."
 
 ship "Switchblade"
@@ -567,55 +573,59 @@ ship "Legionnaire"
 	explode "medium explosion" 20
 	description "The Legionnaire is a Mule modified for heavy combat, with upgraded engines, power, weaponry, and defenses. All that power comes at a price, though; the Legionnaire is extremely expensive."
 
-#Rebalance down to T1.  Same HP as modern variants, but with the focus on armor they maintain a 'dated' feel
 ship "Ironclad Battleship"
 	sprite "ship/battleship"
 	attributes
 		category "Heavy Warship"
 		"cost" 10200000
-		shields 1700
-		"hull" 28000
+		"shields" 1400
+		"hull" 24000
 		"required crew" 94
 		"bunks" 154
-		"mass" 4440
-		"drag" 17.7
+		"mass" 2050
+		"drag" 23.2
 		"heat dissipation" .3
-		"fuel capacity" 900
+		"fuel capacity" 500
 		"cargo space" 240
-		"outfit space" 950
-		"weapon capacity" 400
-		"engine capacity" 310
+		"outfit space" 780
+		"weapon capacity" 290
+		"engine capacity" 180
+		weapon
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
 	outfits
-		"Quad Blaster Turret" 4
-		"Meteor Missile Launcher" 4
-		"Meteor Missile" 105
-		"Torpedo Launcher" 2
-		"Torpedo" 90
-		"Heavy Anti-Missile Turret" 4
-		"Hull Repair Nano-Bots" 2
-		"Fission Reactor"
-		"Fusion Reactor"
-		"LP144a Battery Pack"
-		"Tyrant Plasma Thruster"
-		"Tyrant Plasma Steering"
+		"Plasma Cannon" 4
+		"Heavy Rocket Launcher" 2
+		"Heavy Rocket" 40
+		"Quad Blaster Turret" 3
+		"Anti-Missile Turret" 4
+
+		"NT-200 Nucleovoltaic" 3
+		"LP288a Battery Pack"
+		"Liquid Nitrogen Cooler"
+
+		"Orca Plasma Thruster"
+		"Orca Plasma Steering"
 		"Hyperdrive"
 
 	engine -25 118.5
 	engine 29.5 119.5
-	gun -75 -28 "Meteor Missile Launcher"
-	gun 75 -28 "Meteor Missile Launcher"
-	gun -20 -46 "Meteor Missile Launcher"
-	gun 20 -46 "Meteor Missile Launcher"
-	gun -7 -108 "Torpedo Launcher"
-	gun 7 -108 "Torpedo Launcher"
-	turret 0 -56 "Anti-Missile Turret"
-	turret 0 46 "Anti-Missile Turret"
-	turret 0 68 "Anti-Missile Turret"
-	turret 0 88 "Anti-Missile Turret"
-	turret -76 0 "Quad Blaster Turret"
-	turret 76 0 "Quad Blaster Turret"
-	turret -42 -13 "Quad Blaster Turret"
-	turret 42 -13 "Quad Blaster Turret"
+	gun -75 -28
+	gun 75 -28
+	gun -20 -46
+	gun 20 -46
+	gun -7 -108
+	gun 7 -108
+	turret 0 -56
+	turret 0 46
+	turret 0 68
+	turret 0 88
+	turret -76 0 "Anti-Missile Turret"
+	turret 76 0 "Anti-Missile Turret"
+	turret -42 -13 "Anti-Missile Turret"
+	turret 42 -13 "Anti-Missile Turret"
 	fighter -45 -30
 	fighter 45 -30
 	explode "small explosion" 25
@@ -629,43 +639,47 @@ ship "Ironclad Carrier"
 	attributes
 		category "Heavy Warship"
 		"cost" 8200000
-		shields 1700
-		"hull" 23000
+		"shields" 900
+		"hull" 19500
 		"required crew" 85
 		"bunks" 191
-		"mass" 3886
-		"drag" 16.8
+		"mass" 1920
+		"drag" 19.4
 		"heat dissipation" .3
-		"fuel capacity" 800
+		"fuel capacity" 400
 		"cargo space" 150
-		"outfit space" 720
+		"outfit space" 690
 		"weapon capacity" 230
-		"engine capacity" 256
+		"engine capacity" 140
+		weapon
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
 	outfits
-		"Meteor Missile Launcher" 4
-		"Meteor Missile" 120
-		"Heavy Anti-Missile Turret" 2
-		"Laser Turret" 2
+		"Plasma Cannon" 4
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
 
-		"Fission Reactor"
-		"Fusion Reactor"
-		"LP144a Battery Pack"
+		"NT-200 Nucleovoltaic"
+		"LP576a Battery Pack"
+		"Liquid Nitrogen Cooler"
+		"Hull Repair Nano-Bots"
+
+		"Impala Plasma Thruster"
+		"Orca Plasma Steering"
 		"Hyperdrive"
-		"Laser Rifle" 50
-		"Hull Repair Nano-Bots" 2
-		"Orca Plasma Thruster"
-		"Tyrant Plasma Steering"
 
 	engine -14.5 160
 	engine 9.5 160
-	gun -50 -82 "Meteor Missile Launcher"
-	gun 50 -82 "Meteor Missile Launcher"
-	gun -24 -88 "Meteor Missile Launcher"
-	gun 24 -88 "Meteor Missile Launcher"
-	turret -45 50 "Laser Turret"
-	turret 45 50 "Laser Turret"
-	turret -17 -51 "Heavy Anti-Missile Turret"
-	turret 17 -51 "Heavy Anti-Missile Turret"
+	gun -50 -82
+	gun 50 -82
+	gun -24 -88
+	gun 24 -88
+	turret -45 50
+	turret 45 50
+	turret -17 -51
+	turret 17 -51
 	fighter -37 -65
 	fighter 37 -65
 	fighter -46 40
@@ -738,7 +752,7 @@ ship "Samurai"
 	sprite "ship/samurai"
 	attributes
 		category "Heavy Warship"
-		"cost" 31200000
+		"cost" 21120000
 		"shields" 25600
 		"hull" 9400
 		"required crew" 57
@@ -747,15 +761,15 @@ ship "Samurai"
 		"drag" 14.8
 		"heat dissipation" .45
 		"fuel capacity" 1000
-		"cargo space" 480
+		"cargo space" 60
 		"outfit space" 930
 		"weapon capacity" 420
 		"engine capacity" 210
 		weapon
-			"blast radius" 350
-			"shield damage" 3500
-			"hull damage" 1750
-			"hit force" 5250
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
 	outfits
 		"EMP Bomb Launcher" 2
 		"EMP Bomb" 30
