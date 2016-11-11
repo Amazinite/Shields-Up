@@ -30,3 +30,4 @@ shipyard deprecated
 	"Mite"
 	"Arachnid"
 	"Predator Drone"
+	"Switchblade"

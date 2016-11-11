@@ -35,7 +35,9 @@ phrase battlestar
 		Killer
 		
 ship "Battlestar"
-	sprite "ship/battlestar"
+	sprite "ship/battlestar/battlestar"
+		"frame rate" 12
+		"rewind"
 	licenses
 		"Plenipotent"
 	attributes

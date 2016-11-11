@@ -118,3 +118,37 @@ ship "Predator Drone"
 	gun 0 -29 "Meteor Missile Launcher"
 	explode "tiny explosion" 15
 	description "The Predator is the Southern variant of the Republic's Combat Drone, jam-packed with missiles."
+
+ship "Switchblade"
+	sprite ship/dagger
+	attributes
+		category "Fighter"
+		"cost" 129000
+		"shields" 900
+		"hull" 300
+		"bunks" 1
+		"required crew" 1
+		"mass" 20
+		"drag" 0.63
+		"heat dissipation" 0.9
+		"outfit space" 90
+		"weapon capacity" 20
+		"engine capacity" 30
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 70
+
+		"nGVF-AA Fuel Cell"
+		Supercapacitor
+
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+
+	engine -15 30
+	engine 15 30
+	gun -14 -10 "Meteor Missile Launcher"
+	gun 14 -10 "Meteor Missile Launcher"
+	explode "tiny explosion" 15
+	explode "small explosion" 5
+	description "The Switchblade is a modified Dagger; its lasers have been swapped out for missile launchers, its power plant has been downgraded and its shield generator has been removed entirely."
+	description "	Although useful in combat in emergencies, its primary utility is the extra 15 tons of cargohold space it gives its fleet."

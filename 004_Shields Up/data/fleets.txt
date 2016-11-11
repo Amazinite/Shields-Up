@@ -16,7 +16,7 @@ fleet "Small Deep"
 		heroic disables
 	variant 4
 		"Aerie"
-		"Switchblade" 2
+		"Dagger" 2
 	variant 3
 		"Raven"
 	variant 1
@@ -57,7 +57,7 @@ fleet "Large Deep"
 		heroic disables
 	variant 5
 		"Aerie"
-		"Switchblade" 2
+		"Dagger" 2
 		"Corvette"
 	variant 2
 		"Aerie"
@@ -65,7 +65,7 @@ fleet "Large Deep"
 		"Corvette (Missile)"
 	variant 2
 		"Aerie"
-		"Switchblade" 2
+		"Dagger" 2
 		"Corvette (Speedy)"
 	variant 3
 		"Aerie"
@@ -143,9 +143,9 @@ fleet "Large Deep"
 		"Raven (Afterburner)" 2
 	variant 5
 		"Ironclad Battleship"
-		"Switchblade" 2
+		"Dagger" 2
 		"Legionare" 2
-		"Switchblade" 2
+		"Dagger" 2
 	
 fleet "Small Southern Merchants"
 	government "Merchant"
@@ -219,7 +219,7 @@ fleet "Small Southern Merchants"
 		"Vagabond" 2
 	variant 22
 		"Ironclad Carrier"
-		"Switchblade" 2
+		"Dagger" 2
 		"Sky Dinghy" 4
 		"Freighter" 3
 		
@@ -321,7 +321,7 @@ fleet "Large Southern Merchants"
 		"Vagabond" 2
 	variant 22
 		"Ironclad Carrier"
-		"Switchblade" 2
+		"Dagger" 2
 		"Sky Dinghy" 4
 		"Freighter" 3
 		
@@ -412,7 +412,7 @@ fleet "Large Free Worlds"
 		"Skybus" 3
 	variant 10
 		"Derelict"
-		"Switchblade"
+		"Dagger"
 		"Vagabond"
 		"Clipper (Heavy)" 1
 		"Skybus" 3
@@ -422,7 +422,7 @@ fleet "Large Free Worlds"
 	variant 9
 		"Ironclad Carrier"
 		"Lance" 2
-		"Switchblade" 2
+		"Dagger" 2
 		"Sky Dinghy" 2
 		"Modified Argosy (Laser)" 3
 	variant 11
@@ -550,7 +550,7 @@ fleet "Large Southern Pirates"
 		"Falcon"
 	variant 7
 		"Ironclad Carrier"
-		"Switchblade" 2
+		"Dagger" 2
 		"Lance" 2
 		"Sky Dinghy" 2
 		"Hawk (Rocket)"
@@ -571,7 +571,7 @@ fleet "Large Southern Pirates"
 	variant 8
 		"Ironclad Battleship"
 		"Lance" 1
-		"Switchblade" 1
+		"Dagger" 1
 		"Modified Argosy (Missile)" 2
 	
 fleet "Large Plenipotent Dominion"

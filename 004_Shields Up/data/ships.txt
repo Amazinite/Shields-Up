@@ -335,44 +335,6 @@ ship "Phoenix"
 	description "The Phoenix is a mobile command base on a par with the very best ships available."
 	description "	Packing every convenience a modern commander could want, from drones to fighters to torpedos to turrets, the Phoenix is difficult to kill, and if defeated will surely rise again."
 
-ship "Switchblade"
-	sprite ship/dagger
-	attributes
-		category Fighter
-		bunks 1
-		cost 129000
-		drag 0.63
-		"engine capacity" 30
-		"gun ports" 2
-		"heat dissipation" 0.9
-		hull 300
-		mass 20
-		"outfit space" 90
-		"required crew" 1
-		shields 900
-		"weapon capacity" 20
-	outfits
-		"X1700 Ion Thruster"
-		"X1200 Ion Steering"
-		Supercapacitor
-		"Cargo Expansion"
-		"nGVF-AA Fuel Cell"
-		"Meteor Missile" 70
-		"Meteor Missile Launcher" 2
-	crew 1
-	fuel 0
-	shields 900
-	hull 300
-	position 0 0
-	engine -15 30
-	engine 15 30
-	gun -14 -10 "Meteor Missile Launcher"
-	gun 14 -10 "Meteor Missile Launcher"
-	explode "tiny explosion" 15
-	explode "small explosion" 5
-	description "The Switchblade is a modified Dagger; its lasers have been swapped out for missile launchers, its power plant has been downgraded and its shield generator has been removed entirely."
-	description "	Although useful in combat in emergencies, its primary utility is the extra 15 tons of cargohold space it gives its fleet. "
-
 ship "Sky Dinghy"
 	sprite ship/shuttle
 		"frame time" 4
