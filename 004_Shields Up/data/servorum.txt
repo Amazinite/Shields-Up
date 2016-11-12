@@ -42,7 +42,7 @@ ship "Arowana"
 	gun 0 -38
 	explode "tiny explosion" 25
 	explode "small explosion" 10
-	description "An attempt to replicate the functionality of the Curtana to provide the Servorum Dei with a fighter capable of protecting their carriers."
+	description "The Arowana is the Servorum's heavy fighter, carried around by the Gourami to support larger fleets."
 
 ship "Catla"
 	sprite "ship/Catla"
@@ -89,7 +89,7 @@ ship "Catla"
 	explode "small explosion" 25
 	explode "medium explosion" 30
 	explode "big explosion" 15
-	description "The standard cargo ship for the Servorum Dei. Capable of carrying a medium load, while still being able to protect itself, the Servorum Dei use this ship in their fleets to extend their trad across the galaxy."
+	description "The standard cargo ship for the Servorum Dei, the Catla is capable of carrying a medium load while still being able to protect itself. The Servorum Dei use this ship transport goods from planet to planet as well as trading good with other species throughout the Galaxy."
 
 ship "Albacore"
 	sprite "ship/albacore"
@@ -135,7 +135,7 @@ ship "Albacore"
 	explode "small explosion" 20
 	explode "medium explosion" 30
 	explode "big explosion" 10
-	description "The Albacore is the Servorum Dei's attempts at creating an interceptor capable of defending it's land from enemy ships of similar variety."
+	description "The Albacore makes up the bulk of Servorum Dei war fleets, capable of standing its own against ships of simiar or even slightly larger size."
 
 ship "Gourami"
 	sprite "ship/gourami"
@@ -192,7 +192,7 @@ ship "Gourami"
 	explode "small explosion" 15
 	explode "medium explosion" 35
 	explode "big explosion" 20
-	description "The Gourami is one of the biggest ships the Servorum Dei have to offer, as they don't typically focus on military might. However, it is a perfectly capable ship, able to survive against a Dominion Napoo for a large amount of time."
+	description "The Gourami is the carrier of Servorum Dei, able to carry up to six Arowana heavy fighters. The ships is generally in the back lines, hitting targets from afar and deploying fighters that get up close."
 
 ship "Cisco"
 	sprite "ship/cisco"
@@ -248,4 +248,4 @@ ship "Cisco"
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	description "The Cisco is the largest, multi-purpose ship the Servorum Dei have designed. It serves as a destroyer, as well as a carrier all at the same time. With it's fighters, it has the capability to provide the backbone support for a fleet."
+	description "The Cisco is the largest, strongest ship the Servorum Dei have designed. Rarely deployed due to how long it takes to create, the Cisco is a ship to be feared by the enemies of the Servorum Dei."

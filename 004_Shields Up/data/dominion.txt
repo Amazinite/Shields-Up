@@ -98,7 +98,7 @@ ship "Corvo"
 	explode "tiny explosion" 10
 	explode "small explosion" 10
 	explode	"medium explosion" 5
-	description "The Corvo is FTek's interpretation of a small freighter mixed with a transport. So in other words, it's basically interceptor."
+	description "The Corvo is the used by the Dominion as a light freighter, generally seen along side other ships while transporting goods across the Galaxy."
 
 ship "Sica"
 	sprite "ship/Sica"
@@ -145,8 +145,7 @@ ship "Sica"
 	explode "tiny explosion" 10
 	explode "small explosion" 15
 	explode	"medium explosion" 15
-	description "FTek's attempts to create an interceptor that is not only capable of handling it's energy usage and it's coolant levels, but also capable of dealing serious amounts of damage finally pays off in the Sica model."
-	description "If piloted by the right person, the Sica has the capability to take out an entire frigate single-handedly."
+	description "The Sica is the mass produced light warship of the Dominion. Despite the speed at which they are produced, the Sica is still a powerful ship capable of competing against even a Navy Frigate."
 
 ship "Nefandous"
 	sprite "ship/Nefandous"
@@ -253,7 +252,7 @@ ship "Napoo"
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	description "A fusion of both human and alien design, creating an ideal warship for the Plenipotent Dominion to handle both humans and lesser alien species."
+	description "A fusion of both human and alien design, the Napoo is an ideal warship for the Plenipotent Dominion to handle both humans and lesser alien species."
 
 # ship "Gunong"
 
@@ -311,7 +310,7 @@ ship "Kukri"
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	description "The FTek Kukri light warship was originally designed to be used by the Servorum Dei, however after a slight mix-up (and a few threats) the design was eventually give to the Plenipotent Dominion. With a fair supply of fuel and firepower, this ship is ideal for making quick jumps into enemy territory to launch quick assaults, then escape before the enemy could really react."
+	description "The Kukri is one of the Dominion's main series warships, which are carefully created and not mass produced like many of the other Dominion ships that one would see. Given the time taken to create one, the Kukri is a much more powerful ship, able to tangle with alien species stronger than humanity such as the Korath of Wanderers."
 
 # ship "Pugio"
 
