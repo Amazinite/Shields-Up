@@ -44,52 +44,6 @@ ship "Arowana"
 	explode "small explosion" 10
 	description "An attempt to replicate the functionality of the Curtana to provide the Servorum Dei with a fighter capable of protecting their carriers."
 
-ship "Albacore"
-	sprite "ship/albacore"
-	attributes
-		category "Light Warship"
-		"cost" 3650000
-		"shields" 9400
-		"hull" 3000
-		"required crew" 7
-		"bunks" 20
-		"mass" 380
-		"drag" 6.5
-		"heat dissipation" .7
-		"fuel capacity" 400
-		"cargo space" 35
-		"outfit space" 320
-		"weapon capacity" 80
-		"engine capacity" 70
-		"self destruct" .3
-		weapon
-			"blast radius" 36
-			"shield damage" 360
-			"hull damage" 180
-			"hit force" 540
-	outfits
-		"Particle Accelerator" 2
-		"Jammer Cluster"
-
-		"Cold Fusion Reactor"
-		"Zircon Power Storage"
-		"Ruby Power Storage"
-
-		"Overdrive Draco Thruster"
-		"Overdrive Draco Steering"
-		"Hyperdrive"
-
-	engine -22 60
-	engine 22 60
-	gun -19 -73 "Particle Accelerator"
-	gun 19 -73 "Particle Accelerator"
-	turret 0 0 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 10
-	explode "small explosion" 20
-	explode "medium explosion" 30
-	explode "big explosion" 10
-	description "The Albacore is the Servorum Dei's attempts at creating an interceptor capable of defending it's land from enemy ships of similar variety."
-
 ship "Catla"
 	sprite "ship/Catla"
 	attributes
@@ -136,6 +90,52 @@ ship "Catla"
 	explode "medium explosion" 30
 	explode "big explosion" 15
 	description "The standard cargo ship for the Servorum Dei. Capable of carrying a medium load, while still being able to protect itself, the Servorum Dei use this ship in their fleets to extend their trad across the galaxy."
+
+ship "Albacore"
+	sprite "ship/albacore"
+	attributes
+		category "Light Warship"
+		"cost" 3650000
+		"shields" 9400
+		"hull" 3000
+		"required crew" 7
+		"bunks" 20
+		"mass" 380
+		"drag" 6.5
+		"heat dissipation" .7
+		"fuel capacity" 400
+		"cargo space" 35
+		"outfit space" 320
+		"weapon capacity" 80
+		"engine capacity" 70
+		"self destruct" .3
+		weapon
+			"blast radius" 36
+			"shield damage" 360
+			"hull damage" 180
+			"hit force" 540
+	outfits
+		"Particle Accelerator" 2
+		"Jammer Cluster"
+
+		"Cold Fusion Reactor"
+		"Zircon Power Storage"
+		"Ruby Power Storage"
+
+		"Overdrive Draco Thruster"
+		"Overdrive Draco Steering"
+		"Hyperdrive"
+
+	engine -22 60
+	engine 22 60
+	gun -19 -73 "Particle Accelerator"
+	gun 19 -73 "Particle Accelerator"
+	turret 0 0 "Mil'taj Anti-Missile Turret"
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 30
+	explode "big explosion" 10
+	description "The Albacore is the Servorum Dei's attempts at creating an interceptor capable of defending it's land from enemy ships of similar variety."
 
 ship "Gourami"
 	sprite "ship/gourami"
