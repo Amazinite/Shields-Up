@@ -284,8 +284,7 @@ fleet "Large Core Pirates"
 		"Firebird (Missile)"
 	variant 1
 		"Mod Firebird (Stock)" 2
-		"Spearhead (Stock)"
-		"Splinter"
+		"Splinter" 2
         		
 #Sentar Galaxy
 fleet "Sentar S"

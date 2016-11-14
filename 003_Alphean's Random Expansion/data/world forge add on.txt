@@ -122,7 +122,6 @@ shipyard "AE Human"
 	"Hunter Drone"
 	"Aerie (Drone)"
 	"Modified Firebird"
-	"Spearhead"
 	"Stealth Cruiser"
 	"Kriegsmacher"
 	"Therum"
@@ -139,6 +138,9 @@ shipyard "AE Federation"
 shipyard "AE Sentar"
 	"Erebus"
 	"Unknown Drone"
+
+shipyard deprecated
+	"Spearhead"
 
 outfitter deprecated
 	"I-1 Interference Plating"

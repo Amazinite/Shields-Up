@@ -276,3 +276,56 @@ outfit "Special Agent"
 	"capture defense" 6
 	unplunderable 1
 	description "A specially trained agent for boarding ships. They use a personal cloaking device to infiltrate the enemy ship and take out important targets."
+
+ship "Spearhead"
+	sprite "ship/spearhead"
+	attributes
+		category "Light Warship"
+		"cost" 4400000
+		"shields" 5900
+		"hull" 1800
+		"required crew" 16
+		"bunks" 21
+		"mass" 265
+		"drag" 4.0
+		"heat dissipation" .6
+		"fuel capacity" 500
+		"cargo space" 10
+		"outfit space" 420
+		"weapon capacity" 195
+		"engine capacity" 130
+		"ramscoop" 1
+		weapon
+			"blast radius" 60
+			"shield damage" 600
+			"hull damage" 300
+			"hit force" 900
+	outfits
+		"Intelligent Rocket Launcher" 2
+		"Modified Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
+
+		"Dwarf Core"
+		"LP072a Battery Pack" 3
+		"Hervar Regenerator"
+		"Liquid Nitrogen Cooler"
+
+		"Impala Plasma Thruster"
+		"A255 Atomic Steering"
+		"Hyperdrive"
+
+		"Intelligent Rocket" 40
+
+	engine -15 115
+	engine 15 115
+	gun -15 -80 "Intelligent Rocket Launcher"
+	gun 15 -80 "Intelligent Rocket Launcher"
+	turret -17 -28 "Modified Blaster Turret"
+	turret 0 -28 "Heavy Anti-Missile Turret"
+	turret 17 -28 "Modified Blaster Turret"
+	explode "tiny explosion" 18
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "big explosion" 8
+	description "A heavily modified version of the Splinter. By pirates, for pirates. This version sacrifices cargo space for more outfit space. It is designed to be a moderately armed medium command ship."
+    description "A relic of the past, it is only used by the poorest of pirate captains."

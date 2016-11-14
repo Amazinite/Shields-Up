@@ -12,38 +12,39 @@ ship "Hunter Drone"
 	sprite "ship/hunter drone"
 	attributes
 		category "Drone"
-		"cost" 825000
-		"shields" 120
-		"hull" 270
+		"cost" 412000
+		"shields" 600
+		"hull" 300
 		"mass" 45
 		"drag" 1.0
-		"heat dissipation" .8
-		"outfit space" 140
-		"weapon capacity" 30
-		"engine capacity" 47
+		"heat dissipation" .9
+		"outfit space" 95
+		"weapon capacity" 28
+		"engine capacity" 30
         automaton 1
 		weapon
-			"blast radius" 16
-			"shield damage" 160
-			"hull damage" 80
-			"hit force" 240
+			"blast radius" 8
+			"shield damage" 80
+			"hull damage" 40
+			"hit force" 120
 	outfits
-		"Sidewinder Missile Launcher"
-		"Sidewinder Missile" 50
-		
-		"nGVF-BB Fuel Cell"
-		"LP036a Battery Pack"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 100
+
+		"nGVF-AA Fuel Cell"
+		"Supercapacitor"
 		"D14-RN Shield Generator"
-		
-		"X2700 Ion Thruster"
-		"X2200 Ion Steering"
-		
+
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+
 	engine -5 35
 	engine 5 35
-	gun 0 -28 "Sidewinder Missile Launcher"
+	gun 0 -28
+	gun 0 -28
 	explode "tiny explosion" 15
 	explode "small explosion" 5
-	description "An experimental Missile drone. This is actually a modified Sparrow with a small AI mainframe inside, at the cost of shield capacity and hull strength. They are very rarely used in defence fleets of The Deep, but appear very often in southern space."
+	description "An experimental missile drone, this is a modified Sparrow with a small AI mainframe inside. Although developed by Lionheart, they are very rarely seen in the Deep itself, but are rather popular in southern areas of space."
 
 ship "Aerie (Drone)"
 	sprite "ship/aerie"
@@ -71,15 +72,15 @@ ship "Aerie (Drone)"
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 2
 		"Heavy Anti-Missile Turret"
-		
+
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
-		
+
 		"X3700 Ion Thruster"
 		"X3200 Ion Steering"
 		"Hyperdrive"
-		
+
 	engine -10 91
 	engine 10 91
 	gun -13 -79 "Heavy Laser"
@@ -98,104 +99,53 @@ ship "Aerie (Drone)"
 	description "The Lionheart Aerie is a light carrier, designed to be just big enough for four drone bays plus a decent armament of its own. Variations on this same ship design have been in use in the Deep for almost half a millennium, but this model comes with the very latest in generator, weapon technology and has drone bays instead of fighter bays. However, it also requires 2 additional crew members for controlling the drones."
 	
 ship "Modified Firebird"
-	sprite "ship/firebird"
+	sprite "ship/mod firebird"
 	attributes
-		category "Medium Warship"
-		"cost" 4200000
-		"shields" 6800
-		"hull" 2800
-		"required crew" 8
-		"bunks" 22
-		"mass" 295
-		"drag" 4.7
+		category "Heavy Freighter"
+		"cost" 4440000
+		"shields" 6000
+		"hull" 2300
+		"required crew" 12
+		"bunks" 18
+		"mass" 330
+		"drag" 5.1
 		"heat dissipation" .6
 		"fuel capacity" 400
-		"cargo space" 50
-		"outfit space" 400
-		"weapon capacity" 120
-		"engine capacity" 140
+		"cargo space" 220
+		"outfit space" 450
+		"weapon capacity" 100
+		"engine capacity" 120
 		weapon
 			"blast radius" 100
 			"shield damage" 1000
 			"hull damage" 500
 			"hit force" 1500
 	outfits
-		"Intelligent Rocket Launcher" 4
-		"Intelligent Rocket" 80
-		
+		"Heavy Laser" 2
+		"Heavy Laser Turret"
+		"Heavy Anti-Missile Turret"
+
+		"NT-200 Nucleovoltaic"
 		"RT-I Radiothermal"
-		"nGVF-AA Fuel Cell"
-		"LP144a Battery Pack"
-		"D41-HY Shield Generator"
-		
-		"X4700 Ion Thruster"
+		"D67-TM Shield Generator"
+		"Liquid Nitrogen Cooler"
+
+		"X3700 Ion Thruster"
 		"X4200 Ion Steering"
 		"Hyperdrive"
-		
-	engine -33 65
-	engine 33 65
-	gun -39 -13 "Intelligent Rocket Launcher"
-	gun 39 -13 "Intelligent Rocket Launcher"
-	gun -28 -27 "Intelligent Rocket Launcher"
-	gun 28 -27 "Intelligent Rocket Launcher"
-	explode "tiny explosion" 18
-	explode "small explosion" 36
-	explode "medium explosion" 24
-	explode "big explosion" 8
-	description "Northern Pirates are a fan of the Firebirds by Betelgeuse Shipyards and have found ways to make them even better than the original. This version gets rid of the turrets in favor of more engine space and shield capacity. Its improved turning ability makes it attractive even though it has no turrets."
 
-ship "Spearhead"
-	sprite "ship/spearhead"
-	attributes
-		category "Light Warship"
-		"cost" 4400000
-		"shields" 5900
-		"hull" 1800
-		"required crew" 16
-		"bunks" 21
-		"mass" 265
-		"drag" 4.0
-		"heat dissipation" .6
-		"fuel capacity" 500
-		"cargo space" 10
-		"outfit space" 420
-		"weapon capacity" 195
-		"engine capacity" 130
-		"ramscoop" 1
-		weapon
-			"blast radius" 60
-			"shield damage" 600
-			"hull damage" 300
-			"hit force" 900
-	outfits
-		"Intelligent Rocket Launcher" 2
-		"Modified Blaster Turret" 2
-		"Heavy Anti-Missile Turret"
-		
-		"Dwarf Core"
-		"LP072a Battery Pack" 3
-		"Hervar Regenerator"
-		"Liquid Nitrogen Cooler"
-		
-		"Impala Plasma Thruster"
-		"A255 Atomic Steering"
-		"Hyperdrive"
-		
-		"Intelligent Rocket" 40
-		
-	engine -15 115
-	engine 15 115
-	gun -15 -80 "Intelligent Rocket Launcher"
-	gun 15 -80 "Intelligent Rocket Launcher"
-	turret -17 -28 "Modified Blaster Turret"
-	turret 0 -28 "Heavy Anti-Missile Turret"
-	turret 17 -28 "Modified Blaster Turret"
+	engine -8.5 81
+	engine 8.5 81
+	engine 0 76
+	gun -27 -58.5
+	gun 27 -58.5
+	turret 0 0
+	turret 0 0
 	explode "tiny explosion" 18
 	explode "small explosion" 36
 	explode "medium explosion" 24
 	explode "big explosion" 8
-	description "A heavily modified version of the Splinter. By pirates, for pirates. This version sacrifices cargo space for more outfit space. It is designed to be a moderately armed medium command ship."
-    description "A relic of the past, it is only used by the poorest of pirate captains."
+	description "The Modified Firebird is a crazy invention from the pirate inhabitants of the Far North. Reconfigured to become a combat freighter, the Modified Firebird has less guns than its original version but has far bigger engines and boasts plenty of cargo space to be converted into outfit space."
 
 ship "Stealth Cruiser"
 	sprite "ship/osprey"
@@ -222,7 +172,7 @@ ship "Stealth Cruiser"
 	outfits
 		"Plasma Cannon" 4
 		"Quad Blaster Turret" 2
-		
+
 		"Breeder Reactor"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
@@ -230,11 +180,11 @@ ship "Stealth Cruiser"
 		"Liquid Nitrogen Cooler" 2
 		"Civilian Cloaking Device"
 		"Ramscoop"
-		
+
 		"Impala Plasma Thruster"
 		"Impala Plasma Steering"
 		"Hyperdrive"
-		
+
 	engine -40 67
 	engine 40 67
 	gun -8 -100 "Plasma Cannon"
@@ -278,15 +228,18 @@ ship "Kriegsmacher"
 		"Heavy Laser" 4
 		"Heavy Laser Turret" 6
 		"Heavy Anti-Missile Turret" 2
+
 		"Armageddon Core" 2
 		"LP576a Battery Pack" 2
 		"D94-YV Shield Generator" 4
 		"Liquid Helium Cooler"
 		Ramscoop
+
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 		"Capital Identification"
+
 	gun 245 -166.5
 	gun 300.5 -194
 	turret 180 -53 "Heavy Laser Turret"
@@ -340,16 +293,16 @@ ship "Therum"
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
 		"Energy Chaingun"
-		
+
 		"Water Coolant System"
 		"Liquid Nitrogen Cooler"
 		"XF-333 Ship Core"
 		"NT-200 Nucleovoltaic"
 		"D14-RN Shield Generator"
-		
+
 		"Greyhound Plasma Thruster"
 		"Greyhound Plasma Steering"
-	
+
 	engine -16 47
 	engine 16 47
 	gun -13 -27 "Meteor Missile Launcher"
@@ -434,7 +387,7 @@ ship "Capitalis Viatoris"
 	outfits
 		"Energy Chaingun" 4
 		"Quad Blaster Turret" 12
-		
+
 		"Armageddon Core" 3
 		"LP576a Battery Pack" 2
 		"D94-YV Shield Generator" 4
@@ -444,13 +397,13 @@ ship "Capitalis Viatoris"
 		"Sentry Gun" 14
 		"Laser Rifle" 47
 		"Fragmentation Grenades" 47
-		
+
 		"A860 Atomic Thruster" 2
 		"A865 Atomic Steering" 2
 		"Hyperdrive"
-		
+
 		"Capital Identification"
-		
+
 	engine -32 285.5
 	engine 32 285.5
 	turret -30.5 -46
@@ -503,15 +456,15 @@ ship "Goose"  #Thanks, Michael Feather!
 		"Particle Cannon" 2
 		"Grenade Launcher" 4
 		"Grenade" 100
-		
+
 		"RT-I Radiothermal"
 		"LP144a Battery Pack"
 		"D14-RN Shield Generator"
-		
+
 		"X3700 Ion Thruster"
 		"X3200 Ion Steering"
 		"Hyperdrive"
-		
+
 	engine 46.5 33
 	engine -46.5 33
 	gun -30.5 6.5 "Particle Cannon"

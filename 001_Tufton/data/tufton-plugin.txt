@@ -70,15 +70,17 @@ ship "Monolith"
 		"Particle Cannon" 2
 		"Heavy Anti-Missile Turret" 4
 		"Plasma Turret" 4
+
 		"Armageddon Core" 2
 		"LP576a Battery Pack" 2
 		"D94-YV Shield Generator" 4
-		"Liquid Helium Cooler" 1
+		"Liquid Helium Cooler"
+		
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
-		"Scram Drive"
 		"Ionic Afterburner"
-		
+		"Scram Drive"
+
 	engine -34 284
 	engine 34 284
 	gun -60 -126 "Particle Cannon"
@@ -112,19 +114,17 @@ ship "Tactical Assault Fighter"
 	sprite "ship/taf"
 	attributes
 		category "Fighter"
-		"cost" 1900000
-		"shields" 2000
-		"hull" 1400
+		"cost" 950000
+		"shields" 1600
+		"hull" 500
 		"required crew" 1
-		"bunks" 3
-		"mass" 200
+		"bunks" 2
+		"mass" 150
 		"drag" 1.6
 		"heat dissipation" .9
-		"fuel capacity" 0
-		"cargo space" 0
-		"outfit space" 175
-		"weapon capacity" 50
-		"engine capacity" 60
+		"outfit space" 150
+		"weapon capacity" 35
+		"engine capacity" 40
 		weapon
 			"blast radius" 24
 			"shield damage" 240
@@ -133,14 +133,14 @@ ship "Tactical Assault Fighter"
 	outfits
 		"Energy Blaster" 3
 		"Anti-Missile Turret" 1
-		
+
 		"nGVF-CC Fuel Cell"
 		"LP036a Battery Pack"
 		"D14-RN Shield Generator"
-		
-		"X2700 Ion Thruster"
+
+		"X1700 Ion Thruster"
 		"X2200 Ion Steering"
-		
+
 	engine -17 35
 	engine 17 35
 	gun -10 -26
