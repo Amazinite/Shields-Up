@@ -39,7 +39,7 @@ outfit "FTek Slipspace Drive"
 outfit "FTek Capacitor"
 	category "Power"
 	cost 35000
-	thumbnail "outfit/ftek capaciter2"
+	thumbnail "outfit/ftek capacitor"
 	"mass" 4
 	"outfit space" -4
 	"energy capacity" 350
