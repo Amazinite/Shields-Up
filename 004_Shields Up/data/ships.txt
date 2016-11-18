@@ -83,7 +83,7 @@ ship "Vagabond"
 		"Heavy Rocket Launcher" 2
 		"Heavy Rocket" 40
 
-		"nGVF-dd Fuel Cell"
+		"nGVF-DD Fuel Cell"
 		"LP072a Battery Pack"
 		"D23-QP Shield Generator"
 
