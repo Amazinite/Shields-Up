@@ -1,0 +1,548 @@
+shipyard "X2 Ship Manufacturers"
+	"3000X2 Freight"
+	"3500X2 Freight"
+	"4500X2 Freight"
+	"4500X2 Armed Freight"
+	"4500X2 gunship"
+	"X2 Gunship"
+	"X2 Gunship (Engines)"
+	"7000X2 Super Freighter"
+	"8500X2 Super Freighter"
+	"10000X2 Super Freighter"
+	
+ship "7000X2 Super Freighter"
+	sprite "ship/7000X2 freight"
+	attributes
+		category "Heavy Freighter"
+		"cost" 11000000
+		"bunks" 28
+		"cargo space" 700
+		"drag" 16
+		"engine capacity" 145
+		"fuel capacity" 600
+		"heat dissipation" 0.5
+		"hull" 7000
+		"mass" 880
+		"outfit space" 560
+		"required crew" 8
+		"shields" 7000
+		"turret mounts" 6
+		"weapon capacity" 240
+		weapon
+			"blast radius" 140
+			"shield damage" 1400
+			"hull damage" 700
+			"hit force" 2100
+	outfits
+		"Impala Plasma Thruster"
+		"Hyperdrive"
+		"Orca Plasma Steering"
+		"Heavy Laser Turret" 4
+		"D94-YV Shield Generator"
+		"Fission Reactor"
+		"LP036a Battery Pack"
+		"Large Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	engine -54 173
+	engine 56.5 174
+	engine -53.5 171.5
+	engine 55 171
+	turret -37 -39.5 "Heavy Anti-Missile Turret"
+	turret 38 -39.5 "Heavy Anti-Missile Turret"
+	turret -38 34.5 "Heavy Laser Turret"
+	turret 38 34.5 "Heavy Laser Turret"
+	turret -38.5 105.5 "Heavy Laser Turret"
+	turret 38 105.5 "Heavy Laser Turret"
+	fighter -37 70
+	fighter 38 70.5
+	explode "medium explosion" 35
+	explode "large explosion" 35
+	explode "small explosion" 35
+	explode "big explosion" 30
+	"final explode" "final explosion large" 1
+	description "The smallest of our superfreighters, but by no means is it small! 700 tonnes of cargo, 6 turrets and it even carries its own fighters!"
+ship "8500X2 Super Freighter"
+	sprite "ship/8500X2 super freighter"
+	attributes
+		category "Heavy Freighter"
+		"cost" 16500000
+		"bunks" 28
+		"cargo space" 850
+		"drag" 18
+		"engine capacity" 145
+		"fuel capacity" 600
+		"heat dissipation" 0.5
+		"hull" 8500
+		"mass" 1000
+		"outfit space" 640
+		"required crew" 8
+		"shields" 8500
+		"turret mounts" 8
+		"weapon capacity" 320
+		weapon
+			"blast radius" 170
+			"shield damage" 1700
+			"hull damage" 800
+			"hit force" 2500
+	outfits
+		"Impala Plasma Thruster"
+		"Hyperdrive"
+		"Orca Plasma Steering"
+		"Heavy Laser Turret" 6
+		"D41-HY Shield Generator"
+		"D94-YV Shield Generator"
+		"LP072a Battery Pack"
+		"Fission Reactor"
+		"Heavy Anti-Missile Turret" 2
+		"Small Radar Jammer" 2
+	engine -51 220.5
+	engine -27.5 219
+	engine 31 218
+	engine 52.5 220
+	turret -7 -93.5 "Heavy Anti-Missile Turret"
+	turret 10 -93.5 "Heavy Anti-Missile Turret"
+	turret -7.5 -32.5 "Heavy Laser Turret"
+	turret 10.5 -32.5 "Heavy Laser Turret"
+	turret -7 27.5 "Heavy Laser Turret"
+	turret 10 27.5 "Heavy Laser Turret"
+	turret -7 87 "Heavy Laser Turret"
+	turret 11 88 "Heavy Laser Turret"
+	fighter -63.5 -22
+	fighter 64 -23
+	explode "big explosion" 40
+	explode "huge explosion" 30
+	explode "tiny explosion" 40
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	"final explode" "final explosion huge" 3
+	description "850 tonnes of cargo, 8500 shields and 8500 hull backed by 8 turrets. It might be all 8's but add 2 fighters and it's a 10!"
+ship "10000X2 Super Freighter"
+	sprite "ship/10000X2 super freighter"
+	attributes
+		category "Heavy Freighter"
+		"cost" 24000000
+		"bunks" 36
+		"cargo space" 1000
+		"drag" 20
+		"engine capacity" 150
+		"fuel capacity" 600
+		"heat dissipation" 0.5
+		"hull" 10000
+		"mass" 1200
+		"outfit space" 680
+		"required crew" 10
+		"shields" 10000
+		"turret mounts" 8
+		"weapon capacity" 320
+		weapon
+			"blast radius" 200
+			"shield damage" 2000
+			"hull damage" 1000
+			"hit force" 3000
+	outfits
+		"Impala Plasma Thruster"
+		"Hyperdrive"
+		"Orca Plasma Steering"
+		"Heavy Laser Turret" 6
+		"D94-YV Shield Generator" 2
+		"LP072a Battery Pack"
+		"Fission Reactor"
+		"Large Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	engine -49.5 277.5
+	engine -26.5 275
+	engine 29 274.5
+	engine 50 277.5
+	turret -6.5 -159.5 "Heavy Anti-Missile Turret"
+	turret 11.5 -159 "Heavy Anti-Missile Turret"
+	turret -9 144 "Heavy Laser Turret"
+	turret 12 144 "Heavy Laser Turret"
+	turret -8 -95.5 "Heavy Laser Turret"
+	turret 11 -97 "Heavy Laser Turret"
+	turret -7.5 85 "Heavy Laser Turret"
+	turret 10.5 84.5 "Heavy Laser Turret"
+	fighter 64 -103
+	fighter -64 -98.5
+	fighter 61 68
+	fighter -65 68.5
+	explode "big explosion" 40
+	explode "huge explosion" 45
+	explode "tiny explosion" 40
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	"final explode" "final explosion huge" 5
+	description "One of the largest ships made by anyone, ever! The 10000X2 features a full 1000 tonnes of cargo space and with its 8 turrets and the capacity to carry 4 fighters it has the firepower to keep the pirates at bay "
+	
+ship "3000X2 Freight"
+	sprite "ship/3000X2 freight"
+	attributes
+		category "Light Freighter"
+		"cost" 1250000
+		"bunks" 14
+		"cargo space" 160
+		"drag" 6.3
+		"engine capacity" 100
+		"fuel capacity" 600
+		"gun ports" 1
+		"heat dissipation" 0.6
+		"hull" 3000
+		"mass" 285
+		"outfit space" 280
+		"required crew" 5
+		"shields" 3000
+		"turret mounts" 2
+		"weapon capacity" 85
+		weapon
+			"blast radius" 60
+			"shield damage" 600
+			"hull damage" 300
+			"hit force" 900
+	outfits
+		"Heavy Laser"
+		"Quad Blaster Turret"
+		"Heavy Anti-Missile Turret"
+		
+		"Small Radar Jammer" 3
+		"D41-HY Shield Generator"
+		"LP036a Battery Pack"
+		"NT-200 Nucleovoltaic"
+		"Water Coolant System"
+		
+		"Integrated Greyhound Engines"
+		"Scram Drive"
+		
+	engine 35 96
+	engine -33.5 98
+	gun 0 -101.5 "Heavy Laser"
+	turret 0 20.5 "Heavy Anti-Missile Turret"
+	turret -0.5 45.5 "Quad Blaster Turret"
+	explode "medium explosion" 30
+	explode "small explosion" 30
+	explode "tiny explosion" 10
+	"final explode" "final explosion medium" 1
+	description "Time to move some freight? The 3000 model not only offers a great cargo space but fantastic engine, outfit and weapon spaces."
+
+ship "3500X2 Freight"
+	sprite "ship/3500X2 freight"
+	attributes
+		category "Light Freighter"
+		"cost" 2000000
+		"bunks" 16
+		"cargo space" 220
+		"drag" 7.5
+		"engine capacity" 110
+		"fuel capacity" 600
+		"gun ports" 1
+		"heat dissipation" 0.6
+		"hull" 3500
+		"mass" 330
+		"outfit space" 330
+		"required crew" 6
+		"shields" 3500
+		"turret mounts" 3
+		"weapon capacity" 110
+		weapon
+			"blast radius" 70
+			"shield damage" 700
+			"hull damage" 350
+			"hit force" 1050
+	outfits
+		"Heavy Laser"
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
+		
+		"Small Radar Jammer" 
+		"D41-HY Shield Generator"
+		"LP036a Battery Pack"
+		"NT-200 Nucleovoltaic"
+		"Water Coolant System"
+		
+		"Impala Plasma Steering"
+		"Greyhound Plasma Thruster"
+		"Scram Drive"
+		
+	engine 34.5 109
+	engine -34.5 109
+	gun 0 -113 "Heavy Laser"
+	turret 0 6 "Heavy Anti-Missile Turret"
+	turret -0.5 32.5 "Quad Blaster Turret"
+	turret -0.5 60 "Quad Blaster Turret"
+	explode "big explosion" 10
+	explode "medium explosion" 20
+	explode "small explosion" 30
+	explode "tiny explosion" 10
+	"final explode" "final explosion medium" 1
+	description "Right in the middle between light and heavy freighters the 3500X2 has great cargo, outfit and engine space that will make it a breeze to get your freight delivered fast! The 3500X2 was the original ship that the whole series was developed from and you know when you are buying the original you are buying the best!"
+
+ship "4500X2 Freight"
+	sprite "ship/4500X2 freight"
+	attributes
+		category "Heavy Freighter"
+		"cost" 4000000
+		"bunks" 24
+		"cargo space" 450
+		"drag" 10.5
+		"engine capacity" 130
+		"fuel capacity" 600
+		"gun ports" 1
+		"heat dissipation" 0.55
+		"hull" 4500
+		"mass" 500
+		"outfit space" 365
+		"required crew" 10
+		"shields" 4500
+		"turret mounts" 3
+		"weapon capacity" 125
+		weapon
+			"blast radius" 90
+			"shield damage" 900
+			"hull damage" 450
+			"hit force" 1350
+	outfits
+		"Heavy Laser"
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
+		
+		"Large Radar Jammer" 
+		"D41-HY Shield Generator"
+		"LP072a Battery Pack"
+		"NT-200 Nucleovoltaic"
+		"Water Coolant System"
+		
+		"Impala Plasma Steering"
+		"Impala Plasma Thruster"
+		"Scram Drive"
+
+		engine 45.5 130.5
+	engine -45 131
+	gun 1 -133.5 "Heavy Laser"
+	turret 0.5 2.5
+	turret 0.5 33.5 "Quad Blaster Turret"
+	turret 1 64 "Quad Blaster Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 35
+	explode "medium explosion" 20
+	explode "big explosion" 5
+	"final explode" "final explosion medium"
+	description "The biggest of the standard X2 freighters and clearly in the heavy freighter category. 450 tonnes of cargo and outfit space, 3 turrets and a forward gun port means you will save fees by not paying so much for escorts. With those massive engines you will have your freight landing in a flash! You know bigger is better right?"
+	
+ship "4500X2 Armed Freight"
+	sprite "ship/4500X2 armed"
+	attributes
+		category "Heavy Freighter"
+		"cost" 2800000
+		"bunks" 32
+		"cargo space" 335
+		"drag" 9.2
+		"engine capacity" 130
+		"fuel capacity" 500
+		"gun ports" 4
+		"heat dissipation" 0.5
+		"hull" 4500
+		"mass" 600
+		"outfit space" 450
+		"required crew" 16
+		"shields" 4500
+		"turret mounts" 2
+		"weapon capacity" 180
+		weapon
+			"blast radius" 90
+			"shield damage" 1020
+			"hull damage" 450
+			"hit force" 1350
+	outfits
+		"Heavy Laser" 4
+		"Quad Blaster Turret" 
+		"Heavy Anti-Missile Turret"
+		
+		"Fission Reactor"
+		"D67-TM Shield Generator"
+		"LP072a Battery Pack"
+		"Small Radar Jammer"
+		"Large Radar Jammer"
+		"Water Coolant System"
+		
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+		
+	engine -42 129.5 1
+	engine 45 131 1
+	gun -49 5 "Heavy Laser"
+	gun -36.5 -6 "Heavy Laser"
+	gun 38.5 -6 "Heavy Laser"
+	gun 50 5.5 "Heavy Laser"
+	turret 1 36.5 "Quad Blaster Turret"
+	turret 1.5 4 "Heavy Anti-Missile Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 35
+	explode "medium explosion" 20
+	explode "big explosion" 5
+	"final explode" "final explosion medium" 2
+	description "Problems with pirates? Well take a look at the 4500X2 Armed Freight! We've packed 4 gun ports and 3 turrets into a strong freighter hull and you still have a heap of cargo space."
+ship "4500X2 gunship"
+	sprite "ship/4500X2 gunship"
+	attributes
+		category "Medium Warship"
+		"cost" 3400000
+		"bunks" 38
+		"cargo space" 245
+		"drag" 9.2
+		"engine capacity" 130
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.5
+		"hull" 4500
+		"mass" 600
+		"outfit space" 450
+		"required crew" 20
+		"shields" 4500
+		"turret mounts" 2
+		"weapon capacity" 200
+		weapon
+			"blast radius" 90
+			"shield damage" 1020
+			"hull damage" 450
+			"hit force" 1350
+	outfits
+		"Hyperdrive"
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Heavy Laser Turret"
+		"LP072a Battery Pack"
+		"Fission Reactor"
+		"Heavy Anti-Missile Turret"
+		"Heavy Laser" 8
+		"D67-TM Shield Generator"
+	engine -43.5 129 1
+	engine 46 129.5 1
+	gun -34.5 -98 "Heavy Laser"
+	gun -25.5 -111.5 "Heavy Laser"
+	gun 24.5 -111 "Heavy Laser"
+	gun 34.5 -98.5 "Heavy Laser"
+	gun -52 11 "Heavy Laser"
+	gun -41.5 -2 "Heavy Laser"
+	gun 41.5 -2 "Heavy Laser"
+	gun 51.5 10 "Heavy Laser"
+	turret 1 2.5 "Heavy Anti-Missile Turret"
+	turret 0 34.5 "Heavy Laser Turret"
+	explode "big explosion" 5
+	explode "tiny explosion" 20
+	explode "small explosion" 35
+	explode "medium explosion" 20
+	"final explode" "final explosion medium" 2
+	description "It's simple, when you have a valuable cargo, you need a gunship. Our 4500X2 Gunship features, 8 guns and 2 turrets as well as a generous cargo space."
+ship "X2 Gunship (Engines)"
+	sprite "ship/X2 gunship engines"
+	attributes
+		category "Heavy Warship"
+		"cost" 11000000
+		"bunks" 49
+		"cargo space" 185
+		"drag" 10
+		"engine capacity" 180
+		"fuel capacity" 500
+		"gun ports" 6
+		"heat dissipation" 0.5
+		"hull" 4500
+		"mass" 600
+		"outfit space" 560
+		"required crew" 30
+		"shields" 12000
+		"turret mounts" 3
+		"weapon capacity" 240
+		weapon
+			"blast radius" 145
+			"shield damage" 1450
+			"hull damage" 725
+			"hit force" 2175
+	outfits
+		"Hyperdrive"
+		"Orca Plasma Thruster"
+		"Orca Plasma Steering"
+		"Heavy Laser Turret"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Heavy Laser" 6
+		"Fission Reactor"
+		"Heavy Anti-Missile Turret" 2
+		"Water Coolant System"
+	engine 35.5 155.5 1
+	engine -34 154.5 1
+	gun -51 -3.5 "Heavy Laser"
+	gun 54.5 -3.5 "Heavy Laser"
+	gun -39 -113.5 "Heavy Laser"
+	gun -27.5 -128.5 "Heavy Laser"
+	gun 28.5 -128 "Heavy Laser"
+	gun 39.5 -112.5 "Heavy Laser"
+	turret 0.5 2.5 "Heavy Anti-Missile Turret"
+	turret 1 38.5 "Heavy Anti-Missile Turret"
+	turret 0.5 72 "Heavy Laser Turret"
+	explode "tiny explosion" 40
+	explode "small explosion" 35
+	explode "medium explosion" 40
+	explode "big explosion" 10
+	explode "huge explosion" 5
+	"final explode" "final explosion large" 3
+	description "We've stripped down the gunship even further and rebuilt it for speed. A massive engine capacity backed by 6 guns and 3 turrets!" 
+	
+ship "X2 Gunship"
+	sprite "ship/X2 gunship"
+	attributes
+		category "Heavy Warship"
+		"cost" 11000000
+		"bunks" 49
+		"cargo space" 285
+		"drag" 10
+		"engine capacity" 130
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.5
+		"hull" 4500
+		"mass" 600
+		"outfit space" 560
+		"required crew" 30
+		"shields" 12000
+		"turret mounts" 3
+		"weapon capacity" 320
+		weapon
+			"blast radius" 150
+			"shield damage" 1500
+			"hull damage" 750
+			"hit force" 2200
+	outfits
+		"Impala Plasma Steering"
+		"Greyhound Plasma Steering"
+		"Impala Plasma Thruster"
+		"Heavy Laser Turret" 2
+		"LP144a Battery Pack"
+		"Water Coolant System"
+		"Fission Reactor"
+		"Heavy Laser" 8
+		"Heavy Anti-Missile Turret"
+		"D67-TM Shield Generator"
+		"LP036a Battery Pack"
+		"Hyperdrive"
+		
+	gun -40 -113 "Heavy Laser"
+	gun -28.5 -128 "Heavy Laser"
+	gun 29.5 -127 "Heavy Laser"
+	gun 41 -113 "Heavy Laser"
+	gun -58.5 11 "Heavy Laser"
+	gun -48 -4 "Heavy Laser"
+	gun 49 -5.5 "Heavy Laser"
+	gun 60 11 "Heavy Laser"
+	turret 0.5 73 "Heavy Laser Turret"
+	turret 0.5 39 "Heavy Anti-Missile Turret"
+	turret -0.5 4 "Heavy Laser Turret"
+	engine -50 148.5
+	engine 50.5 149
+	explode "tiny explosion" 40
+	explode "small explosion" 35
+	explode "medium explosion" 40
+	explode "big explosion" 10
+	explode "huge explosion" 5
+	"final explode" "final explosion large" 3
+	description "The ultimate in keeping your cargo safe! The X2 has a large cargo space that is surrounded by 8 gun ports and 3 turrets. You get space, speed and superior firepower!" 
+	

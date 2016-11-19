@@ -1,0 +1,319 @@
+shipyard "Silver Manufacturing Pty Ltd"
+	"Silver Defender"
+	"Silver Escort"
+	"Silver Protector"
+	"The Silver Star"
+	"The Black Star"
+	"Silver Stream"
+
+ship "Silver Stream"
+	sprite "ship/silver stream"
+	attributes
+		category "Transport"
+		"cost" 1200000
+		"bunks" 15
+		"cargo space" 65
+		"drag" 3.2
+		"engine capacity" 70
+		"fuel capacity" 600
+		"heat dissipation" 0.8
+		"hull" 600
+		"mass" 120
+		"outfit space" 220
+		"required crew" 3
+		"shields" 2400
+		"turret mounts" 1
+		"gun ports" 2
+		"weapon capacity" 70
+		weapon
+			"blast radius" 30
+			"shield damage" 300
+			"hull damage" 150
+			"hit force" 450
+
+	outfits
+		"Hyperdrive"
+		"D23-QP Shield Generator"
+		"Heavy Laser" 2
+		"Heavy Anti-Missile Turret"
+		"nGVF-CI Integrated Fuel Cell"
+		"Integrated Greyhound Engines"
+		
+	engine -3.5 50.5
+	engine 3 50.5
+	gun -15.5 -28 "Heavy Laser"
+	gun 14.5 -28 "Heavy Laser"
+	turret -0.5 -25.5 "Heavy Anti-Missile Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	"final explode" "final explosion medium" 2
+	description "Referred to colloquially as the 'blingbird', the silver stream features an opulent interior to match the shine and shimmer of the external rendering. It is most commonly used as a private transport ship by actors, musicians and VIP's who travel with a small entourage."
+
+ship "The Black Star"
+	sprite "ship/the black star"
+	attributes
+		category "Medium Warship"
+		"cost" 6000000
+		"bunks" 39
+		"cargo space" 60
+		"drag" 6
+		"engine capacity" 100
+		"fuel capacity" 500
+		"gun ports" 4
+		"heat dissipation" 0.6
+		"hull" 4000
+		"mass" 450
+		"outfit space" 480
+		"required crew" 17
+		"shields" 6000
+		"turret mounts" 4
+		"weapon capacity" 220
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"Hyperdrive"
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Heavy Laser Turret" 2
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"NT-200 Nucleovoltaic"
+		"Heavy Anti-Missile Turret" 2
+		"Heavy Laser" 4
+	gun -28.5 -13.5
+	gun -19.5 -26
+	gun 20 -26.5
+	gun 29 -12.5
+	turret -15 -6.5
+	turret 16 -6.5
+	turret -14 76
+	turret 14 76
+	engine -13.5 92
+	engine 16.5 91.5
+	explode "big explosion" 15
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "medium explosion" 20
+	"final explode" "final explosion medium" 2
+	description "Featuring four gun ports as well as four turrets, 'The Black Star' is one of the most heavily armed medium class warships available on the market today. Its unique design and lack of color appeals to a particular niche of customers who will adamantly defend and espouse the features of the ship."
+	
+ship "The Silver Star"
+	sprite "ship/the silver star"
+	attributes
+		category "Heavy Warship"
+		"cost" 9500000
+		"bunks" 62
+		"cargo space" 70
+		"drag" 7.2
+		"engine capacity" 100
+		"fuel capacity" 500
+		"gun ports" 4
+		"heat dissipation" 0.6
+		"hull" 5000
+		"mass" 500
+		"outfit space" 585
+		"required crew" 39
+		"shields" 11000
+		"turret mounts" 6
+		"weapon capacity" 300
+		weapon
+			"blast radius" 180
+			"shield damage" 1800
+			"hull damage" 900
+			"hit force" 2700
+	outfits
+		"Hyperdrive"
+		"Chipmunk Plasma Thruster"
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Heavy Laser Turret" 4
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"NT-200 Nucleovoltaic"
+		"Anti-Missile Turret" 2
+		"Plasma Cannon" 4
+		"Water Coolant System"
+	gun -34 -16
+	gun -23.5 -32
+	gun 24 -32
+	gun 36 -14
+	turret -74.5 9.5
+	turret -16 -4.5
+	turret 17.5 -5
+	turret 75.5 8.5
+	turret 56 101.5
+	turret -59.5 102
+	engine -8.5 108
+	engine 10 107
+	explode "big explosion" 25
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 30
+	"final explode" "final explosion large" 1
+	description "The larger version of the Black Star, 'The Silver Star' continues with a fearsome weapon capability that on its own would see it classed as a heavy warship. Four guns, six turrets and a generous crew space are packed into what is considered a small space for a ship of this type."
+	
+ship "Silver Defender"
+	sprite "ship/silver defender"
+	attributes
+		category "Heavy Warship"
+		"cost" 13000000
+		"bunks" 36
+		"cargo space" 40
+		"drag" 10
+		"engine capacity" 115
+		"fuel capacity" 500
+		"heat dissipation" 0.5
+		"hull" 3000
+		"mass" 475
+		"outfit space" 715
+		"required crew" 30
+		"shields" 20000
+		"turret mounts" 6
+		"gun ports" 4
+		"weapon capacity" 360
+		weapon
+			"blast radius" 240
+			"shield damage" 2400
+			"hull damage" 1200
+			"hit force" 3600
+	outfits
+		"A370 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Particle Cannon" 4
+		"Fusion Reactor"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Heavy Anti-Missile Turret" 2
+		"D23-QP Shield Generator"
+		"Tactical Military Outfit" 40
+		"Particle Cannon Turret" 4
+		"Hyperdrive"
+		
+	engine -67 78
+	engine -32 79.5
+	engine 34.5 79.5
+	engine 67 78
+	gun -66.5 -29 "Particle Cannon"
+	gun -33 -38.5 "Particle Cannon"
+	gun 34 -39 "Particle Cannon"
+	gun 66.5 -28 "Particle Cannon"
+	turret -81 50 "Particle Cannon Turret"
+	turret -46 41 "Particle Cannon Turret"
+	turret -20 37 "Particle Cannon Turret"
+	turret 23.5 37 "Particle Cannon Turret"
+	turret 47 39 "Heavy Anti-Missile Turret"
+	turret 79.5 47 "Heavy Anti-Missile Turret"
+	explode "small explosion" 40
+	explode "medium explosion" 40
+	explode "tiny explosion" 30
+	explode "big explosion" 15
+	"final explode" "final explosion large" 1
+	description "'The Silver Defender' is the largest of the silver series and was designed to provide protection for entire fleets or as the flagship of a convoy. Its extremely high shielding and weapon capacity make a fearsome combination that is well known throughout the galaxy."
+	
+
+ship "Silver Escort"
+	sprite "ship/silver escort"
+	attributes
+		category "Light Warship"
+		"cost" 1300000
+		"bunks" 5
+		"cargo space" 0
+		"drag" 4
+		"engine capacity" 65
+		"fuel capacity" 500
+		"heat dissipation" 0.8
+		"hull" 1000
+		"mass" 125
+		"outfit space" 375
+		"required crew" 3
+		"shields" 6000
+		"turret mounts" 2
+		"gun ports" 2
+		"weapon capacity" 150
+		weapon
+			"blast radius" 64
+			"shield damage" 640
+			"hull damage" 320
+			"hit force" 960
+	outfits
+		"Hyperdrive"
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Particle Cannon" 2
+		"Liquid Nitrogen Cooler"
+		"LP072a Battery Pack"
+		"Fission Reactor"
+		"D67-TM Shield Generator"
+		"Particle Cannon Turret" 2
+		
+	gun 33 -43 "Particle Cannon"
+	gun -33.5 -43.5 "Particle Cannon"
+	turret 23.5 32.5 "Particle Cannon Turret"
+	turret -21 32.5 "Particle Cannon Turret"
+	engine 33.5 69.5
+	engine -32.5 69
+	explode "small explosion" 30
+	explode "medium explosion" 24
+	explode "tiny explosion" 18
+	explode "big explosion" 3
+	"final explode" "final explosion small" 1
+	description "Smallest of 'The Silver Series', the Escort is a light warship originally created to protect freight shipments to and from the planet and features the highest shielding in its class. Although crew and cargo space limit the applications to which it can be used, it remains popular with merchant captains."
+	
+
+ship "Silver Protector"
+	sprite "ship/silver protector"
+	attributes
+		category "Medium Warship"
+		"cost" 3000000
+		"bunks" 20
+		"cargo space" 20
+		"drag" 6.5
+		"engine capacity" 95
+		"fuel capacity" 500
+		"heat dissipation" 0.7
+		"hull" 1500
+		"mass" 200
+		"outfit space" 570
+		"required crew" 16
+		"shields" 9000
+		"turret mounts" 4
+		"gun ports" 2
+		"weapon capacity" 260
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Particle Cannon" 2
+		"Fission Reactor"
+		"LP288a Battery Pack"
+		"D94-YV Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Large Radar Jammer"
+		"Particle Cannon Turret" 4
+		"Hyperdrive"
+		
+	engine -33.5 72.5
+	engine 33.5 72
+	turret -46 33.5 "Particle Cannon Turret"
+	turret -21 29.5 "Particle Cannon Turret"
+	turret 23.5 29 "Particle Cannon Turret"
+	turret 46 33 "Particle Cannon Turret"
+	gun 33.5 -45 "Particle Cannon"
+	gun -33 -46 "Particle Cannon"
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "tiny explosion" 18
+	explode "big explosion" 10
+	"final explode" "final explosion large" 1
+	description "Designed to provide protection for large oil shipments, 'The Silver Protector' is a medium class warship that expands on the design and capabilities of the Escort. Although it maintains similar limitations in crew and cargo, it is particularly well known for its generous outfit and weapon space."
+
+
