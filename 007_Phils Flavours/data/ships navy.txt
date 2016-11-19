@@ -1,0 +1,250 @@
+shipyard "Navy Advanced"
+	"RNS Destroyer"
+	"Gunboat GXV2"
+	"Alliance Battleship"
+
+ship "Alliance Battleship"
+	sprite "ship/alliance battleship"
+	licenses
+		Navy
+	attributes
+		category "Heavy Warship"
+		"cost" 20000000
+		"bunks" 310
+		"cargo space" 460
+		"drag" 20
+		"engine capacity" 195
+		"fuel capacity" 600
+		"gun ports" 2
+		"heat dissipation" 0.4
+		"hull" 13500
+		"mass" 1200
+		"outfit space" 920
+		"required crew" 184
+		"shields" 32500
+		"turret mounts" 8
+		"weapon capacity" 510
+	outfits
+		"Hyperdrive"
+		"Orca Plasma Steering"
+		"Orca Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Heavy Laser Turret" 6
+		"D94-YV Shield Generator" 2
+		"Liquid Helium Cooler"
+		"Heavy Anti-Missile Turret" 2
+		"LP288a Battery Pack"
+		"Large Radar Jammer"
+		"Armageddon Core"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 100
+	engine -21.5 289.5 1
+	engine 19.5 287.5 1
+	gun -51 -151.5 "Sidewinder Missile Launcher"
+	gun 50.5 -151.5 "Sidewinder Missile Launcher"
+	turret -36 -171 "Heavy Laser Turret"
+	turret 36 -171 "Heavy Laser Turret"
+	turret -30 -59 "Heavy Laser Turret"
+	turret 29.5 -60 "Heavy Laser Turret"
+	turret -48 4 "Heavy Laser Turret"
+	turret 46.5 5 "Heavy Laser Turret"
+	turret -44 242.5 "Heavy Anti-Missile Turret"
+	turret 42 242.5 "Heavy Anti-Missile Turret"
+	explode "medium explosion" 40
+	explode "small explosion" 35
+	explode "huge explosion" 30
+	explode "large explosion" 45
+	"final explode" "final explosion large" 4
+	description "Designed and built under an agreement between the Republic Navy and Lionheart, the 'Alliance' is one of the biggest and strongest ships ever made. Absolute massive shields and hull are supported a similarly large outfit and weapon capacity."
+	
+ship "Gunboat GXV2"
+	sprite "ship/gunboat gxv2"
+	licenses
+		Navy
+	attributes
+		category "Light Warship"
+		"cost" 3600000
+		"shields" 5800
+		"hull" 1400
+		"required crew" 7
+		"bunks" 12
+		"mass" 150
+		"drag" 3.1
+		"heat dissipation" .8
+		"fuel capacity" 600
+		"cargo space" 5
+		"outfit space" 325
+		"weapon capacity" 140
+		"engine capacity" 90
+		weapon
+			"blast radius" 72
+			"shield damage" 720
+			"hull damage" 360
+			"hit force" 1080
+	outfits
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Heavy Laser Turret"
+		"LP144a Battery Pack"
+		"RT-I Radiothermal"
+		"D41-HY Shield Generator"
+		"Cargo Scanner"
+		"Outfit Scanner"
+		"Small Radar Jammer"
+		"Heavy Laser" 4
+		"Hyperdrive"
+	engine -12 57
+	engine 12 57
+	gun -17 -41.5 "Heavy Laser"
+	gun 17.5 -41.5 "Heavy Laser"
+	gun -28 -28 "Heavy Laser"
+	gun 28 -28 "Heavy Laser"
+	turret 0 -8 "Heavy Laser Turret"
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	"final explode" "final explosion small"
+	description "Designed as a strong fighter or escort for larger ships, the GXV2 model of the gunboat repurposes the space and equipment of the original to add two extra gun ports."
+
+	
+ship "RNS Destroyer"
+	sprite "ship/RNS destroyer"
+	licenses
+		Navy
+	attributes
+		category "Heavy Warship"
+		"cost" 8200000
+		"bunks" 90
+		"cargo space" 50
+		"drag" 7.6
+		"engine capacity" 135
+		"fuel capacity" 600
+		"gun ports" 4
+		"heat dissipation" 0.6
+		"hull" 4500
+		"mass" 495
+		"outfit space" 585
+		"required crew" 44
+		"shields" 13800
+		"turret mounts" 4
+		"weapon capacity" 285
+	outfits
+		"Hyperdrive"
+		"X1700 Ion Thruster"
+		"X3700 Ion Thruster"
+		"X1200 Ion Steering"
+		"X4200 Ion Steering"
+		"Particle Cannon" 4
+		"Heavy Laser Turret" 2
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Heavy Anti-Missile Turret" 2
+		"Fission Reactor"
+		"Cargo Scanner"
+		"Fragmentation Grenades" 10
+		"Cooling Ducts"
+	gun -46.5 -66 "Particle Cannon"
+	gun -34.5 -79.5 "Particle Cannon"
+	gun 38 -79.5 "Particle Cannon"
+	gun 49.5 -66.5 "Particle Cannon"
+	turret -5.5 -45 "Heavy Laser Turret"
+	turret 8.5 -46.5 "Heavy Laser Turret"
+	turret -6 -6.5 "Heavy Anti-Missile Turret"
+	turret 7 -6 "Heavy Anti-Missile Turret"
+	engine -44 120.5
+	engine 44.5 121.5
+	explode "tiny explosion" 15
+	explode "small explosion" 40
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	"final explode" "final explosion large" 1
+	description "The RNS Destroyer is placed between a frigate and a cruiser in both size and armament. Often used to lead a small fleet of gunboats and rainmakers, it also has sufficient shields and weaponary to act on its own."
+	
+ship "RNS Destroyer" "RNS Destroyer A"
+	outfits
+		"Hyperdrive"
+		"Impala Plasma Thruster"
+		"Orca Plasma Steering"
+		"Particle Cannon" 4
+		"Heavy Anti-Missile Turret"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Cargo Scanner"
+		"Outfit Scanner"
+		"Laser Rifle" 20
+		"Breeder Reactor"
+		"Cooling Ducts"
+		"Water Coolant System"
+		"Tactical Military Outfit" 40
+		"Particle Cannon Turret" 3
+		"Tactical Body Armor" 40
+ship "RNS Destroyer" "RNS Destroyer (Mark II)"
+	outfits
+		"Hyperdrive"
+		"A370 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Electron Beam" 4
+		"Electron Turret" 3
+		"Fusion Reactor"
+		"Heavy Anti-Missile Turret"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Cargo Scanner"
+		"Laser Rifle" 20
+		"Water Coolant System"
+		"Assault Rifle ZX-411" 20
+		"Tactical Military Outfit" 40
+		"Tactical Body Armor" 20
+ship "Gunboat GXV2" "Gunboat GXV2 A"
+	outfits
+		"X2700 Ion Thruster"
+		"Hyperdrive"
+		"X3200 Ion Steering"
+		"Particle Cannon" 4
+		"LP144a Battery Pack"
+		"RT-I Radiothermal"
+		"D14-RN Shield Generator"
+		"Cargo Scanner"
+		"Outfit Scanner"
+		"Small Radar Jammer"
+		"Anti-Missile Turret"
+ship "Gunboat GXV2" "Gunboat GXV2 (Mark II)"
+	outfits
+		"Electron Turret"
+		"Electron Beam" 4
+		"X2700 Ion Thruster"
+		"Hyperdrive"
+		"X3200 Ion Steering"
+		"LP144a Battery Pack"
+		"RT-I Radiothermal"
+		"D14-RN Shield Generator"
+		"Cargo Scanner"
+		"Outfit Scanner"
+ship "Alliance Battleship A"
+	outfits
+		Hyperdrive
+		"Orca Plasma Steering"
+		"Orca Plasma Thruster"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator" 2
+		"Liquid Helium Cooler"
+		"Armageddon Core"
+		"Typhoon Launcher" 2
+		"Tactical Military Outfit" 300
+		"Particle Cannon Turret" 8
+ship "Alliance Battleship (Mark II)"
+	outfits
+		Hyperdrive
+		"A865 Atomic Steering"
+		"A520 Atomic Thruster"
+		"Electron Turret" 6
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 100
+		"D41-HY Shield Generator"
+		"Large Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+		"Liquid Helium Cooler"
+		"Armageddon Core"
+		"Tactical Military Outfit" 300
