@@ -310,7 +310,7 @@ ship "Kukri"
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	description "The Kukri is one of the Dominion's main series warships, which are carefully created and not mass produced like many of the other Dominion ships that one would see. Given the time taken to create one, the Kukri is a much more powerful ship, able to tangle with alien species stronger than humanity such as the Korath of Wanderers."
+	description "The Kukri is one of the Dominion's main series warships, which are carefully created and not mass produced like many of the other Dominion ships that one would see. Given the time taken to create one, the Kukri is a much more powerful ship, able to tangle with alien species stronger than humanity such as the Korath or Wanderers."
 
 # ship "Pugio"
 
