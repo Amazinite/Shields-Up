@@ -147,58 +147,6 @@ ship "Modified Firebird"
 	explode "big explosion" 8
 	description "The Modified Firebird is a crazy invention from the pirate inhabitants of the Far North. Reconfigured to become a combat freighter, the Modified Firebird has less guns than its original version but has far bigger engines and boasts plenty of cargo space to be converted into outfit space."
 
-ship "Stealth Cruiser"
-	sprite "ship/osprey"
-	attributes
-		category "Medium Warship"
-		"cost" 7100000
-		"shields" 7600
-		"hull" 900
-		"required crew" 13
-		"bunks" 15
-		"mass" 275
-		"drag" 6.3
-		"heat dissipation" .8
-		"fuel capacity" 500
-		"cargo space" 20
-		"outfit space" 500
-		"weapon capacity" 200
-		"engine capacity" 150
-		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
-	outfits
-		"Plasma Cannon" 4
-		"Quad Blaster Turret" 2
-
-		"Breeder Reactor"
-		"LP072a Battery Pack"
-		"D41-HY Shield Generator"
-		"D14-RN Shield Generator"
-		"Liquid Nitrogen Cooler" 2
-		"Civilian Cloaking Device"
-		"Ramscoop"
-
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine -40 67
-	engine 40 67
-	gun -8 -100 "Plasma Cannon"
-	gun 8 -100 "Plasma Cannon"
-	gun -26 -53 "Plasma Cannon"
-	gun 26 -53 "Plasma Cannon"
-	turret -16 -16 "Quad Blaster Turret"
-	turret 16 -16 "Quad Blaster Turret"
-	explode "medium explosion" 24
-	explode "big explosion" 16
-	explode "small explosion" 40
-	explode "tiny explosion" 28
-	description "A stealth cruiser developed in a joint operation between the Navy and Tarazed. It has a very weak hull compared to other Medium Warships, but it makes up with its built-in Cloaking Device."
-
 ship "Kriegsmacher"
 	licenses
 		"Terror of the Galaxy"

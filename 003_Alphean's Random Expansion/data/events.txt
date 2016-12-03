@@ -8,19 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-event "geminus fixed"
-	date 27 2 3017
-	planet Geminus
-		shipyard "Basic Ships"
-		shipyard "Navy Basics"
-		shipyard "Navy Advanced"
-		shipyard "Betelgeuse Basics"
-		shipyard "Lionheart Basics"
-		outfitter "Common Outfits"
-		outfitter "Ammo North"
-		outfitter "Lovelace Advanced"
-		outfitter "Syndicate Basics"
-		
 event "tyil set up"
 	date 11 4 3014
 	planet Tyil
@@ -41,9 +28,3 @@ event "tyil set up"
 		outfitter "Tyil Basics"
 		outfitter "Pirate Outfits"
 		description `Aurum Station is the only other place that Tyil Corporation sells outfits. The station is quite empty though.`
-		
-event "deep sky tech available"
-	outfitter "Deep Sky Basics"
-		"Typhoon Supply Depot"
-	outfitter "Deep Sky Advanced"
-		"Typhoon Supply Depot"
