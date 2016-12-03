@@ -433,7 +433,7 @@ ship "Archangel"
 	sprite "ship/archangel"
 	attributes
 		category "Transport"
-		"cost" 12450000
+		"cost" 8250000
 		"shields" 5200
 		"hull" 3000
 		"required crew" 56
