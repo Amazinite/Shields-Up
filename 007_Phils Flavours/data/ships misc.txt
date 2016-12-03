@@ -4,7 +4,7 @@ shipyard "Tarazed Basics"
 	"Sparrow MKII"
 	"Elepaio"
 	"Black Hawk"
-	
+
 shipyard "Lionheart Basics"
 	"Swooping Raven"
 
@@ -12,20 +12,20 @@ shipyard "Syndicate Basics"
 	"Light Dart"
 	"Heavy Dart"
 	"Arrowhead"
-	
+
 shipyard "Syndicate Advanced"
 	"Protector Fortress"
 	"Vanguard Trailbreaker"
-	
+
 shipyard "Betelgeuse Basics"
 	"Dark Berserker"
 	"Star Princess"
 	"Gargoyle"
-	
+
 shipyard "Southbound Advanced"
 	"Hauler IV"
 	"Hauler VI"
-	
+
 ship Gargoyle
 	sprite ship/gargoyle
 	attributes
@@ -51,134 +51,139 @@ ship Gargoyle
 			"hull damage" 550
 			"hit force" 1650
 	outfits
-		"Hyperdrive"
-		"X3200 Ion Steering"
-		"X3700 Ion Thruster"
-		"Heavy Laser Turret" 2
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Heavy Anti-Missile Turret" 2
-		"Small Radar Jammer"
-		"NT-200 Nucleovoltaic"
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
-	engine -31.5 135 1
-	engine 34 135 1
-	turret -25 -53 "Heavy Laser Turret"
-	turret 29 -53 "Heavy Laser Turret"
-	turret 20 89.5 "Heavy Anti-Missile Turret"
-	turret -16.5 89 "Heavy Anti-Missile Turret"
-	gun -9 -114.5 "Sidewinder Missile Launcher"
-	gun 10 -116 "Sidewinder Missile Launcher"
+		"Heavy Laser Turret" 2
+		"Heavy Anti-Missile Turret" 2
+
+		"NT-200 Nucleovoltaic"
+		"LP144a Battery Pack"
+		"D94-YV Shield Generator"
+		"Small Radar Jammer"
+
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+
+	engine -33 135
+	engine 33 135
+	gun -10 -115 "Sidewinder Missile Launcher"
+	gun 10 -115 "Sidewinder Missile Launcher"
+	turret -27 -53 "Heavy Laser Turret"
+	turret 27 -53 "Heavy Laser Turret"
+	turret -18 89 "Heavy Anti-Missile Turret"
+	turret 18 89 "Heavy Anti-Missile Turret"
 	explode "medium explosion" 20
 	explode "huge explosion" 10
 	explode "large explosion" 35
 	explode "small explosion" 15
 	"final explode" "final explosion large" 1
 	description "Faster and lighter than the Behemoth, the Gargoyle also features excellent cargo and outfit space. Two gun ports are packed with missiles and supported by four turrets to keep you, your crew and your cargo safe."
-	
+
 ship "Hauler IV"
 	sprite "ship/hauler iv"
 	attributes
 		category "Heavy Freighter"
-		"cost" 5000000
+		"cost" 5230000
+		"shields" 4100
+		"hull" 9700
+		"required crew" 3
 		"bunks" 12
-		"cargo space" 520
-		"drag" 14
-		"engine capacity" 90
-		"fuel capacity" 400
-		"gun ports" 2
+		"mass" 690
+		"drag" 14.5
 		"heat dissipation" 0.6
-		"hull" 7800
-		"mass" 580
-		"outfit space" 400
-		"required crew" 5
-		"shields" 3800
-		"turret mounts" 4
-		"weapon capacity" 180
+		"fuel capacity" 400
+		"cargo space" 520
+		"outfit space" 350
+		"weapon capacity" 140
+		"engine capacity" 80
 		weapon
-			"blast radius" 115
-			"shield damage" 1160
-			"hull damage" 580
-			"hit force" 1740
+			"blast radius" 120
+			"shield damage" 1200
+			"hull damage" 600
+			"hit force" 1800
 	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Heavy Laser Turret" 2
-		"D41-HY Shield Generator"
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 70
+		"Quad Blaster Turret" 2
 		"Heavy Anti-Missile Turret" 2
-		"Small Radar Jammer"
-		"LP072a Battery Pack"
+		
 		"S3 Thermionic"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-	engine -45 156 1
-	engine 45 155.5 1
-	gun -12 -128 "Sidewinder Missile Launcher"
-	gun 11.5 -129 "Sidewinder Missile Launcher"
-	turret -27 -85.5 "Heavy Anti-Missile Turret"
-	turret 25.5 -84.5 "Heavy Anti-Missile Turret"
-	turret -17.5 114 "Heavy Laser Turret"
-	turret 18.5 114.5 "Heavy Laser Turret"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+		
+	engine -45 160
+	engine 45 160
+	gun -15 -128
+	gun 15 -128
+	turret -26 -85 "Quad Blaster Turret"
+	turret 26 -85 "Heavy Anti-Missile Turret"
+	turret -19 115 "Heavy Anti-Missile Turret"
+	turret 19 115 "Quad Blaster Turret"
+	explode "small explosion" 20
 	explode "medium explosion" 30
-	explode "huge explosion" 15
-	explode "large explosion" 20
-	explode "small explosion" 25
+	explode "huge explosion" 25
+	explode "large explosion" 10
 	"final explode" "final explosion large" 1
 	description "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This larger version of the Hauler provides even better tradeoff between price and cargo space."
-	
+
 ship "Hauler VI"
 	sprite "ship/hauler vi"
 	attributes
 		category "Heavy Freighter"
-		"cost" 7500000
+		"cost" 7130000
+		"shields" 4900
+		"hull" 12700
+		"required crew" 3
 		"bunks" 12
-		"cargo space" 520
-		"drag" 14
-		"engine capacity" 90
-		"fuel capacity" 400
-		"gun ports" 2
+		"mass" 910
+		"drag" 16.5
 		"heat dissipation" 0.6
-		"hull" 9000
-		"mass" 580
-		"outfit space" 400
-		"required crew" 5
-		"shields" 4500
-		"turret mounts" 4
-		"weapon capacity" 180
+		"fuel capacity" 400
+		"cargo space" 780
+		"outfit space" 350
+		"weapon capacity" 140
+		"engine capacity" 80
 		weapon
-			"blast radius" 135
-			"shield damage" 1350
-			"hull damage" 675
-			"hit force" 2000
+			"blast radius" 140
+			"shield damage" 1400
+			"hull damage" 700
+			"hit force" 2100
 	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Heavy Laser Turret" 2
-		"D41-HY Shield Generator"
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 70
+		"Quad Blaster Turret" 2
 		"Heavy Anti-Missile Turret" 2
-		"Small Radar Jammer"
-		"LP072a Battery Pack"
+
 		"S3 Thermionic"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-	engine -43.5 191.5 1
-	engine 44.5 191.5 1
-	gun -12 -164.5 "Sidewinder Missile Launcher"
-	gun 12.5 -166 "Sidewinder Missile Launcher"
-	turret -24.5 -123 "Heavy Anti-Missile Turret"
-	turret 25.5 -122.5 "Heavy Anti-Missile Turret"
-	turret -20 153.5 "Heavy Laser Turret"
-	turret 18.5 152.5 "Heavy Laser Turret"
-	explode "medium explosion" 30
-	explode "huge explosion" 15
-	explode "large explosion" 20
-	explode "small explosion" 25
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+	engine -45 196
+	engine 45 196
+	gun -15 -165
+	gun 15 -165
+	turret -26 -122 "Quad Blaster Turret"
+	turret 26 -122 "Heavy Anti-Missile Turret"
+	turret -19 151 "Heavy Anti-Missile Turret"
+	turret 19 151 "Quad Blaster Turret"
+	explode "small explosion" 15
+	explode "medium explosion" 20
+	explode "huge explosion" 30
+	explode "large explosion" 15
 	"final explode" "final explosion large" 1
 	description "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This larger version of the Hauler provides an amazing tradeoff between price and cargo space."
-	
+
 ship Arrowhead
 	sprite ship/arrowhead
 	attributes
@@ -219,7 +224,7 @@ ship Arrowhead
 	explode "medium explosion" 25
 	"final explode" "final explosion small"
 	description "Fast, light and bright, the arrowhead is an all-purpose light warship that is particularly popular amongst new captains due to the three turret mounts."
-	
+
 ship "Heavy Dart"
 	sprite "ship/dart heavy"
 	attributes
@@ -264,7 +269,8 @@ ship "Heavy Dart"
 	explode "tiny explosion" 25
 	explode "small explosion" 40
 	"final explode" "final explosion medium"
-	description "The larger version of the dart is a little slower but more than doubles the cargo capacity, increases the shield capacity and adds a 2nd turret mount. "
+	description "The larger version of the dart is a little slower but more than doubles the cargo capacity, increases the shield capacity and adds a 2nd turret mount."
+
 ship "Light Dart"
 	sprite "ship/dart light"
 	attributes
@@ -310,7 +316,7 @@ ship "Light Dart"
 	explode "small explosion" 40
 	"final explode" "final explosion medium"
 	description "With its distinctive fin design, the dart looks showy but is a solid workhorse within Syndicate space. An all purpose light warship it features 2 front guns, a 360 degree turret mount and 30 tonnes of cargo space."
-	
+
 ship "Dark Berserker"
 	sprite "ship/dark berserker"
 	attributes
@@ -500,7 +506,7 @@ ship "Vanguard Trailbreaker"
 	explode "medium explosion" 50
 	"final explode" "final explosion large" 3
 	description "The 'Trailbreaker' is designed to be either a flagship or to be strong enough to work on its own. The significantly increased shields and hull are also enhanced by an extra gun and turret mount."
-	
+
 ship "Protector Fortress"
 	sprite "ship/protector fortress"
 	attributes
@@ -559,7 +565,7 @@ ship "Protector Fortress"
 	explode "medium explosion" 50
 	"final explode" "final explosion large" 3
 	description `The Protector Fortress is designed to sit in a low orbit as a mobile planetary defense system and provide protection from threats such as Korath raiders. Although the Fortress is no prettier than the standard version and is even slower, it does have one of the highest weapon capacities of any ship made and its mere presence can dissaude pirate activites.`
-	
+
 ship "Swooping Raven"
 	sprite "ship/raven swooping"
 	attributes
@@ -651,7 +657,6 @@ ship "Elepaio"
 	"final explode" "final explosion small" 3
 	description "The obvious step up from the sparrow, the Elepaio is a large interceptor that features four gun ports that can each hold a long range laser. It has more shielding, a stronger hull and better energy generation than its smaller sibling."
 
-	
 ship "Sparrow MKII"
 	sprite "ship/sparrow mkii"
 	attributes
@@ -743,7 +748,7 @@ ship "Junior Osprey"
 	explode "medium explosion" 20
 	"final explode" "final explosion medium" 3
 	description "The 'Junior Osprey' follows the design of its bigger sibling. Although scaled down it also follows a similar structure with strong shielding making up for the lightweight hull."
-	
+
 ship "Wren"
 	sprite "ship/wren"
 	attributes
@@ -783,4 +788,3 @@ ship "Wren"
 	explode "small explosion" 15
 	"final explode" "final explosion small" 1
 	description "A great mid range interceptor which features a 360 turret mount to keep the pirates at bay. With 20 tonnes of cargo space, you'll be able to make some real money trading as well."
-

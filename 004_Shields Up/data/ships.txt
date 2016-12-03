@@ -378,16 +378,16 @@ ship "Hauler XV"
 	sprite "ship/haulerxv"
 	attributes
 		category "Heavy Freighter"
-		"cost" 14730000
-		"shields" 8100
-		"hull" 24700
+		"cost" 15680000
+		"shields" 8500
+		"hull" 26200
 		"required crew" 3
 		"bunks" 12
-		"mass" 1790
+		"mass" 1900
 		"drag" 24.5
 		"heat dissipation" .6
 		"fuel capacity" 400
-		"cargo space" 2600
+		"cargo space" 1950
 		"outfit space" 360
 		"weapon capacity" 140
 		"engine capacity" 105

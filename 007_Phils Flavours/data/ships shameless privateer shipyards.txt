@@ -51,6 +51,7 @@ ship "The Fifth Ace"
 	explode "small explosion" 15
 	"final explode" "final explosion small" 1
 	description "You'll have a trick up your sleeve with one of these! A great small interceptor that has two light 360 degree turrets. One of the most versatile ships made by anyone, anywhere!"
+
 ship "The Lifted Purse"
 	sprite "ship/the lifted purse"
 	attributes
@@ -89,6 +90,7 @@ ship "The Lifted Purse"
 	explode "tiny explosion" 20
 	"final explode" "final explosion small" 1
 	description "Out little freighter! Just as popular now as when we first made them over 100 years ago. Slide in 80 tonnes of cargo and away you go!"
+
 ship "The Pilfered Keg"
 	sprite "ship/the pilfered keg"
 	attributes
@@ -130,6 +132,7 @@ ship "The Pilfered Keg"
 	explode "medium explosion" 5
 	"final explode" "final explosion small" 5
 	description "Another of our eternal designs. Whether it's trade or plunder you can put it all in the keg!"
+
 ship "The Buried Chest"
 	sprite "ship/the buried chest"
 	attributes
@@ -174,6 +177,7 @@ ship "The Buried Chest"
 	explode "medium explosion" 10
 	"final explode" "final explosion medium" 1
 	description "No need for treasure maps and caches of goods on distant planets! 165 tonnes of cargo space means you can take it with wherever you go."
+
 ship "The Captain's Hoard"
 	sprite "ship/the captains hoard"
 	attributes
@@ -222,6 +226,7 @@ ship "The Captain's Hoard"
 	explode "medium explosion" 10
 	"final explode" "final explosion medium" 1
 	description "Our biggest freighter! This beauty has the space to put in whatever you want and the firepower to make sure you keep it!"
+
 ship "The Lightning in the Storm"
 	sprite "ship/the lightning in the storm"
 	attributes
@@ -272,7 +277,7 @@ ship "The Lightning in the Storm"
 	system Rutilicus
 	planet "New Boston"
 	description "One of the fastest medium warships made! Hunt down those interceptors or streak through a battle like a bolt of lightning. Two gunports, backed by two turrets and you've got the speed and agility so that no-one will be able to touch you."
-	
+
 ship "The Deceptive Lover"
 	sprite "ship/the deceptive lover"
 	attributes
@@ -323,6 +328,7 @@ ship "The Deceptive Lover"
 	system Rutilicus
 	planet "New Boston"
 	description "Aye! She looks pretty, but she's got a heart of stone and will put a knife your ribs when your not looking! One of our newer designs, it's got six long guns and two turrets as well the shielding to take a hit!"
+
 ship "The Fearless Assassin"
 	sprite "ship/the fearless assassin"
 	attributes
@@ -374,6 +380,7 @@ ship "The Fearless Assassin"
 	system Rutilicus
 	planet "New Boston"
 	description "Small, dark and lethal, this is the ninja of warships. 4 guns and a turret and the weapon space to use them however you want, you'll fear nothing with one of these beauties!"
+
 ship "The Screams of the Insane"
 	sprite "ship/the screams of the insane"
 	attributes
@@ -430,6 +437,7 @@ ship "The Screams of the Insane"
 	system Rutilicus
 	planet "New Boston"
 	description "In space no-one can hear you scream, but turn on the comms channel and you'll hear them screaming and going insane as you pump your four cannons and turrets into their hull! Our biggest medium warship and definitely the best!"
+
 ship "The Damned Executioner"
 	sprite "ship/the damned executioner"
 	attributes
@@ -483,7 +491,7 @@ ship "The Damned Executioner"
 	system Rutilicus
 	planet "New Boston"
 	description "Time to step up from an interceptor or light warship? Look no further, once the top of the range, now a budget classic, 'The Damned' has been using the same design for hundreds of years. Why? because it just works so well!"
-	
+
 ship "The Deceitful Hangman"
 	sprite "ship/the deceitful hangman"
 	attributes
@@ -533,7 +541,7 @@ ship "The Deceitful Hangman"
 	explode "small explosion" 25
 	"final explode" "final explosion small" 3
 	description "One of our most popular ships! 'The Deceitful' packs four guns, a turret and the capacity for a small boarding crew into a tiny space. Whether you're pirating or taking down the pirates this is the ship you need!"
-	
+
 ship "The Rum Barrell"
 	sprite "ship/the rum barrell"
 	attributes
@@ -625,7 +633,7 @@ ship "The Hidden Blade"
 	explode "tiny explosion" 15
 	"final explode" "final explosion tiny" 2
 	description "Small and dark, it lays waiting. Here's a definite step up from the sparrow for you, it features more shields, a stronger hull and even boasts an extra gun port."
-	
+
 ship "The Dirty Cutlass"
 	sprite "ship/the dirty cutlass"
 	attributes
@@ -667,6 +675,3 @@ ship "The Dirty Cutlass"
 	explode "medium explosion" 2
 	"final explode" "final explosion medium" 1
 	description "One of the biggest interceptors on the market! You have the speed and agility of the interceptor, but feel like you're in a warship while flying this beauty. Missiles, cannons, lasers, four front gun ports will allow you to put in whatever you want!"
-	
-
-

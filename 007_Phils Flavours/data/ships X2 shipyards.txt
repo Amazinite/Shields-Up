@@ -9,7 +9,7 @@ shipyard "X2 Ship Manufacturers"
 	"7000X2 Super Freighter"
 	"8500X2 Super Freighter"
 	"10000X2 Super Freighter"
-	
+
 ship "7000X2 Super Freighter"
 	sprite "ship/7000X2 freight"
 	attributes
@@ -61,6 +61,7 @@ ship "7000X2 Super Freighter"
 	explode "big explosion" 30
 	"final explode" "final explosion large" 1
 	description "The smallest of our superfreighters, but by no means is it small! 700 tonnes of cargo, 6 turrets and it even carries its own fighters!"
+
 ship "8500X2 Super Freighter"
 	sprite "ship/8500X2 super freighter"
 	attributes
@@ -116,6 +117,7 @@ ship "8500X2 Super Freighter"
 	explode "medium explosion" 50
 	"final explode" "final explosion huge" 3
 	description "850 tonnes of cargo, 8500 shields and 8500 hull backed by 8 turrets. It might be all 8's but add 2 fighters and it's a 10!"
+
 ship "10000X2 Super Freighter"
 	sprite "ship/10000X2 super freighter"
 	attributes
@@ -172,7 +174,7 @@ ship "10000X2 Super Freighter"
 	explode "medium explosion" 50
 	"final explode" "final explosion huge" 5
 	description "One of the largest ships made by anyone, ever! The 10000X2 features a full 1000 tonnes of cargo space and with its 8 turrets and the capacity to carry 4 fighters it has the firepower to keep the pirates at bay "
-	
+
 ship "3000X2 Freight"
 	sprite "ship/3000X2 freight"
 	attributes
@@ -325,7 +327,7 @@ ship "4500X2 Freight"
 	explode "big explosion" 5
 	"final explode" "final explosion medium"
 	description "The biggest of the standard X2 freighters and clearly in the heavy freighter category. 450 tonnes of cargo and outfit space, 3 turrets and a forward gun port means you will save fees by not paying so much for escorts. With those massive engines you will have your freight landing in a flash! You know bigger is better right?"
-	
+
 ship "4500X2 Armed Freight"
 	sprite "ship/4500X2 armed"
 	attributes
@@ -381,6 +383,7 @@ ship "4500X2 Armed Freight"
 	explode "big explosion" 5
 	"final explode" "final explosion medium" 2
 	description "Problems with pirates? Well take a look at the 4500X2 Armed Freight! We've packed 4 gun ports and 3 turrets into a strong freighter hull and you still have a heap of cargo space."
+
 ship "4500X2 gunship"
 	sprite "ship/4500X2 gunship"
 	attributes
@@ -433,6 +436,7 @@ ship "4500X2 gunship"
 	explode "medium explosion" 20
 	"final explode" "final explosion medium" 2
 	description "It's simple, when you have a valuable cargo, you need a gunship. Our 4500X2 Gunship features, 8 guns and 2 turrets as well as a generous cargo space."
+
 ship "X2 Gunship (Engines)"
 	sprite "ship/X2 gunship engines"
 	attributes
@@ -486,7 +490,7 @@ ship "X2 Gunship (Engines)"
 	explode "huge explosion" 5
 	"final explode" "final explosion large" 3
 	description "We've stripped down the gunship even further and rebuilt it for speed. A massive engine capacity backed by 6 guns and 3 turrets!" 
-	
+
 ship "X2 Gunship"
 	sprite "ship/X2 gunship"
 	attributes
@@ -545,4 +549,3 @@ ship "X2 Gunship"
 	explode "huge explosion" 5
 	"final explode" "final explosion large" 3
 	description "The ultimate in keeping your cargo safe! The X2 has a large cargo space that is surrounded by 8 gun ports and 3 turrets. You get space, speed and superior firepower!" 
-	

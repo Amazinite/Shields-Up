@@ -7,7 +7,7 @@ shipyard "New Bounty Ships"
 	"Quebracho"
 	"Gidgee"
 	"Lignum"
-	
+
 ship Camelthorn
 	sprite ship/camelthorn
 	attributes
@@ -54,7 +54,7 @@ ship Camelthorn
 	explode "medium explosion" 24
 	"final explode" "final explosion medium" 1
 	description "The Camelthorn is our all purpose light warship. Pure class and solid all round performance it's perfect for new captains and those who dont want to die in an under equipped interceptor!"
-	
+
 ship Balau
 	sprite ship/balau
 	attributes
@@ -101,7 +101,7 @@ ship Balau
 	explode "medium explosion" 24
 	"final explode" "final explosion medium" 1
 	description "The Balua is our little escort designed to accompany freighters and larger warships, but it also makes a great all purpose ship in its own right!"
-	
+
 ship Lignum
 	sprite ship/lignum
 	attributes
@@ -160,7 +160,7 @@ ship Lignum
 	explode "medium explosion" 50
 	"final explode" "final explosion large" 3
 	description "Pure destruction! 6 guns and 4 turrets with massive shielding. The lignum is either flagship or an extremely heavy escort that will make anyone think twice about starting a fight."
-	
+
 ship Cebil
 	sprite ship/cebil
 	attributes
@@ -213,7 +213,7 @@ ship Cebil
 	explode "medium explosion" 30
 	"final explode" "final explosion large" 1
 	description "Designed specifically to compete with the Mule, the Cebil features excellent cargo space, shields and hull backed by 4 guns and 2 turrets."
-	
+
 ship Quebracho
 	sprite ship/quebracho
 	attributes
@@ -267,7 +267,7 @@ ship Quebracho
 	explode "medium explosion" 30
 	"final explode" "final explosion large" 1
 	description "Named after one the strongest woods on old earth, Quebracho means 'the Axe Breaker'. The tree may now be extinct, but there is no way you will be with this ship!"
-	
+
 ship Gidgee
 	sprite ship/gidgee
 	attributes
@@ -322,7 +322,7 @@ ship Gidgee
 	explode "medium explosion" 30
 	"final explode" "final explosion large" 1
 	description "The strongest of the three siblings. With its 4 guns and 4 turrets, the Gidgee has possibly the most firepower of any medium warship made!"
-	
+
 ship Katalox
 	sprite ship/katalox
 	attributes
