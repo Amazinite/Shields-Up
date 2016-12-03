@@ -12,24 +12,24 @@ ship "Bodkin"
 	sprite "ship/Bodkin"
 	attributes
 		category "Interceptor"
-		"cost" 5000000
-		"shields" 20000
-		"hull" 1000
-		"required crew" 5
-		"bunks" 13
-		"mass" 200
-		"drag" 3.5
-		"heat dissipation" .9
-		"fuel capacity" 600
+		"cost" 3426000
+		"shields" 9800
+		"hull" 3700
+		"required crew" 3
+		"bunks" 7
+		"mass" 100
+		"drag" 3.1
+		"heat dissipation" .8
+		"fuel capacity" 500
 		"cargo space" 30
-		"outfit space" 375
-		"weapon capacity" 120
-		"engine capacity" 100
+		"outfit space" 300
+		"weapon capacity" 100
+		"engine capacity" 90
 		weapon
-			"blast radius" 36
-			"shield damage" 360
-			"hull damage" 180
-			"hit force" 540
+			"blast radius" 48
+			"shield damage" 480
+			"hull damage" 240
+			"hit force" 720
 	outfits
 		"Particle Accelerator" 2
 		"Mil'taj Plasma Cannon" 
@@ -50,8 +50,8 @@ ship "Bodkin"
 	gun -47 12 "Particle Accelerator"
 	gun 0 -37 "Mil'taj Plasma Cannon"
 	turret 0 24 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 15
-	explode "small explosion" 20
+	explode "tiny explosion" 20
+	explode "small explosion" 30
 	explode "medium explosion" 10
 	description "The go-to ship for the Militaj alien race, the Bodkin is a powerful interceptor that can stand up to many human ships."
 
@@ -59,19 +59,19 @@ ship "Ballista"
 	sprite "ship/Ballista"
 	attributes
 		category "Medium Warship"
-		"cost" 9500000
-		"shields" 240000
-		"hull" 2500
-		"required crew" 25
+		"cost" 30834000
+		"shields" 76400
+		"hull" 26200
+		"required crew" 30
 		"bunks" 80
-		"mass" 600
-		"drag" 5.8
-		"heat dissipation" .9
+		"mass" 400
+		"drag" 12.1
+		"heat dissipation" .7
 		"fuel capacity" 700
 		"cargo space" 70
-		"outfit space" 580
-		"weapon capacity" 200
-		"engine capacity" 150
+		"outfit space" 633
+		"weapon capacity" 269
+		"engine capacity" 144
 		weapon
 			"blast radius" 160
 			"shield damage" 1200
@@ -112,24 +112,24 @@ ship "Halberd"
 	sprite "ship/Halberd"
 	attributes
 		category "Heavy Freighter"
-		"cost" 19000000
-		"shields" 300000
-		"hull" 3250
+		"cost" 26540000
+		"shields" 37600
+		"hull" 17000
 		"required crew" 60
 		"bunks" 140
-		"mass" 1700
-		"drag" 26.1
+		"mass" 840
+		"drag" 18.2
 		"heat dissipation" .6
 		"fuel capacity" 1000
-		"cargo space" 500
-		"outfit space" 710
-		"weapon capacity" 230
-		"engine capacity" 220
+		"cargo space" 900
+		"outfit space" 566
+		"weapon capacity" 167
+		"engine capacity" 199
 		weapon
-			"blast radius" 260
-			"shield damage" 1500
-			"hull damage" 1100
-			"hit force" 2100
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
 	outfits
 		"Mil'taj Point-Defence Turret" 5
 		"Mil'taj Anti-Missile Turret" 2
@@ -168,22 +168,22 @@ ship "Curtana"
 	sprite "ship/Curtana"
 	attributes
 		category "Fighter"
-		"cost" 1000000
-		"shields" 5000
-		"hull" 600
+		"cost" 1142000
+		"shields" 4250
+		"hull" 1600
 		"required crew" 1
 		"bunks" 1
 		"mass" 50
-		"drag" .6
+		"drag" 1.3
 		"heat dissipation" .9
-		"outfit space" 125
+		"outfit space" 133
 		"weapon capacity" 35
-		"engine capacity" 40
+		"engine capacity" 36
 		weapon
-			"blast radius" 12
-			"shield damage" 120
-			"hull damage" 60
-			"hit force" 180
+			"blast radius" 36
+			"shield damage" 360
+			"hull damage" 180
+			"hit force" 540
 	outfits
 		"Particle Accelerator" 
 		
@@ -197,32 +197,33 @@ ship "Curtana"
 		
 	engine 0 -16
 	gun 0 -55 "Particle Accelerator"
-	explode "tiny explosion" 15
-	explode "small explosion" 5
+	explode "tiny explosion" 30
+	explode "small explosion" 15
+	explode "medium explosion" 5
 	description "The standard fighter of the Militaj. In comparison to human fighters, this is a warship."
 
 ship "Pilum"
 	sprite "ship/pilum"
 	attributes
 		category "Medium Warship"
-		"cost" 13000000
-		"shields" 270000
-		"hull" 2500
-		"required crew" 25
-		"bunks" 80
+		"cost" 40084000
+		"shields" 99600
+		"hull" 41400
+		"required crew" 51
+		"bunks" 112
 		"mass" 600
-		"drag" 5.8
-		"heat dissipation" .9
-		"fuel capacity" 800
-		"cargo space" 50
-		"outfit space" 670
-		"weapon capacity" 235
-		"engine capacity" 150
+		"drag" 16.3
+		"heat dissipation" .65
+		"fuel capacity" 900
+		"cargo space" 20
+		"outfit space" 803
+		"weapon capacity" 357
+		"engine capacity" 177
 		weapon
-			"blast radius" 160
-			"shield damage" 1200
-			"hull damage" 800
-			"hit force" 1500
+			"blast radius" 360
+			"shield damage" 3600
+			"hull damage" 1800
+			"hit force" 5400
 	outfits
 		"Mil'taj Shield Decimator"
 		"Mil'taj Particle Cannon" 4
@@ -245,10 +246,10 @@ ship "Pilum"
 	gun -23 3 "Mil'taj Particle Cannon"
 	gun 23 3 "Mil'taj Particle Cannon"
 	turret 0 -20 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 40
 	explode "small explosion" 55
 	explode "medium explosion" 60
-	explode "big explosion" 40
+	explode "large explosion" 40
+	explode "huge explosion" 20
 	description "The lead ship designed by the Militaj to use against the Quarg. Fitted with a specialized anti-shield weapon made specifically to deal with the Quarg. They are typically found on the frontlines of the Militaj-Quarg line in an attempt to prevent any Quarg from entering Militaj space."
 	
 outfit "Mil'taj Black Generator"
