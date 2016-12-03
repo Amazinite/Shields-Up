@@ -10,14 +10,9 @@
 
 outfitter "Pirate Outfits"
 	"Intelligent Rocket Cap-Up"
-	"Gatling Cap-Up"
-
-outfitter "Kraz Basics"
-	"Torpedo Cap-Up"
 
 outfitter "Kraz Advanced"
 	"Soaker Missile Cap-Up"
-	"Torpedo Cap-Up"
 
 outfitter "Tyil Basics"
 	"Grenade Cap-Up"
@@ -25,58 +20,8 @@ outfitter "Tyil Basics"
 outfitter "Tyil Advanced"
 	"Grenade Cap-Up"
 
-outfitter "Lovelace Basics"
-	"Sidewinder Cap-Up"
-
 outfitter "Lovelace Advanced"
-	"Sidewinder Cap-Up"
 	"EMP Bomb Cap-Up"
-
-outfitter "Delta V Basics"
-	"Meteor Cap-Up"
-	"Heavy Rocket Cap-Up"
-	"Javelin Cap-Up"
-
-outfitter "Delta V advanced"
-	"Meteor Cap-Up"
-	"Heavy Rocket Cap-Up"
-	"Javelin Cap-Up"
 
 outfitter "Syndicate Advanced"
-	"Meteor Cap-Up"
-	"Torpedo Cap-Up"
-	"Javelin Cap-Up"
 	"EMP Bomb Cap-Up"
-
-outfitter "Syndicate Basics"
-	"Meteor Cap-Up"
-	"Torpedo Cap-Up"
-	"Javelin Cap-Up"
-
-outfitter "Wanderer Advanced"
-	"Thunderhead Cap-Up"
-
-outfitter "Hai Intermediate"
-	"Hai Tracker Cap-Up"
-
-outfitter "Hai Advanced"
-	"Hai Tracker Cap-Up"
-
-outfitter "Korath Basics"
-	"Korath Piercer Cap-Up"
-	"Korath Mine Cap-Up"
-
-mission "Typhoon Cap-Up"
-	landing
-	invisible
-	to offer
-		has "event: deep sky tech available"
-	on offer
-		event "Typhoon Cap"
-		fail
-		
-event "Typhoon Cap"
-	outfitter "Deep Sky Basic"
-		"Typhoon Cap-Up"
-	outfitter "Deep Sky Advanced"
-		"Typhoon Cap-Up"
