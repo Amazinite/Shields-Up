@@ -309,8 +309,8 @@ ship "Phoenix"
 
 	engine -31 81
 	engine 32.5 81
-	gun -55 -38 "400mm Railgun"
-	gun 55 -38 "400mm Railgun"
+	gun -55 -38 "400mm Mag Rail Cannon"
+	gun 55 -38 "400mm Mag Rail Cannon"
 	gun -26 -13 "Torpedo Launcher"
 	gun 26 -13 "Torpedo Launcher"
 	turret -54 -4 "Heavy Laser Turret"

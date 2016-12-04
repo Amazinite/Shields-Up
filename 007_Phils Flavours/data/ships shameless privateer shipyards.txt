@@ -327,7 +327,7 @@ ship "The Deceptive Lover"
 	"final explode" "final explosion big" 1
 	system Rutilicus
 	planet "New Boston"
-	description "Aye! She looks pretty, but she's got a heart of stone and will put a knife your ribs when your not looking! One of our newer designs, it's got six long guns and two turrets as well the shielding to take a hit!"
+	description "Aye! She looks pretty, but she's got a heart of stone and will put a knife your ribs when your not looking! One of our newer designs, it's got six long guns as well as plenty if shielding to take a hit!"
 
 ship "The Fearless Assassin"
 	sprite "ship/the fearless assassin"
