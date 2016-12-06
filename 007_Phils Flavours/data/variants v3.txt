@@ -26,6 +26,7 @@ ship "Black Hawk" "Black Hawk C"
 		"LP036a Battery Pack"
 		"Cooling Ducts"
 		"Small Radar Jammer" 2
+		"Assault Rifle ZX-411" 3
 		"D67-TM Shield Generator"
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
@@ -39,6 +40,7 @@ ship "Dark Berserker" "Dark Berserker A"
 		"Small Radar Jammer"
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
+		"Assault Rifle ZX-411" 3
 ship "Dark Berserker" "Dark Berserker B"
 	outfits
 		"Hyperdrive"
@@ -59,6 +61,7 @@ ship "Dark Berserker" "Dark Berserker C"
 		"Javelin" 400
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
+		"Assault Rifle ZX-411" 3
 ship "Sparrow MKII" "Sparrow MKII A"
 	outfits
 		"Hyperdrive"
@@ -95,6 +98,7 @@ ship "The Hidden Blade" "The Hidden Blade A"
 		"D14-RN Shield Generator"
 		"nGVF-CC Fuel Cell"
 		"Short Range Heavy Laser" 3
+		"Assault Rifle ZX-411" 3
 ship "The Hidden Blade" "The Hidden Blade B"
 	outfits
 		"Hyperdrive"
@@ -105,6 +109,7 @@ ship "The Hidden Blade" "The Hidden Blade B"
 		"LP036a Battery Pack"
 		"D14-RN Shield Generator"
 		"nGVF-CC Fuel Cell"
+		"Assault Rifle ZX-411" 3
 ship "The Hidden Blade" "The Hidden Blade C"
 	outfits
 		"Hyperdrive"
