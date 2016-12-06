@@ -192,7 +192,6 @@ ship "Silver Defender"
 		"Particle Cannon" 4
 		"Particle Cannon Turret" 4
 		"Heavy Anti-Missile Turret" 2
-		"Tactical Military Outfit" 40
 
 		"Fusion Reactor"
 		"LP144a Battery Pack"
