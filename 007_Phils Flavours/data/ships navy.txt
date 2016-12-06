@@ -7,23 +7,29 @@ ship "Alliance Battleship"
 	sprite "ship/alliance battleship"
 	licenses
 		Navy
+		Battleship
 	attributes
 		category "Heavy Warship"
-		"cost" 20000000
-		"bunks" 310
-		"cargo space" 460
+		"cost" 22000000
+		"bunks" 295
+		"cargo space" 390
 		"drag" 20
 		"engine capacity" 195
 		"fuel capacity" 600
-		"gun ports" 2
-		"heat dissipation" 0.4
+		"gun ports" 4
+		"heat dissipation" 0.45
 		"hull" 13500
-		"mass" 1200
+		"mass" 1250
 		"outfit space" 920
-		"required crew" 184
+		"required crew" 148
 		"shields" 32500
 		"turret mounts" 8
 		"weapon capacity" 510
+		weapon
+			"blast radius" 460
+			"shield damage" 4600
+			"hull damage" 2300
+			"hit force" 6900
 	outfits
 		"Hyperdrive"
 		"Orca Plasma Steering"
@@ -33,13 +39,15 @@ ship "Alliance Battleship"
 		"D94-YV Shield Generator" 2
 		"Liquid Helium Cooler"
 		"Heavy Anti-Missile Turret" 2
-		"LP288a Battery Pack"
+		"LP144a Battery Pack"
 		"Large Radar Jammer"
 		"Armageddon Core"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
+		"Sidewinder Missile Launcher" 4
+		"Sidewinder Missile" 200
 	engine -21.5 289.5 1
 	engine 19.5 287.5 1
+	gun -33.5 -211.5 "Sidewinder Missile Launcher"
+	gun 35 -212 "Sidewinder Missile Launcher"
 	gun -51 -151.5 "Sidewinder Missile Launcher"
 	gun 50.5 -151.5 "Sidewinder Missile Launcher"
 	turret -36 -171 "Heavy Laser Turret"
@@ -56,7 +64,7 @@ ship "Alliance Battleship"
 	explode "large explosion" 45
 	"final explode" "final explosion large" 4
 	description "Designed and built under an agreement between the Republic Navy and Lionheart, the 'Alliance' is one of the biggest and strongest ships ever made. Absolute massive shields and hull are supported a similarly large outfit and weapon capacity."
-
+	
 ship "Gunboat GXV2"
 	sprite "ship/gunboat gxv2"
 	licenses
@@ -106,6 +114,7 @@ ship "Gunboat GXV2"
 	"final explode" "final explosion small"
 	description "Designed as a strong fighter or escort for larger ships, the GXV2 model of the gunboat repurposes the space and equipment of the original to add two extra gun ports."
 
+	
 ship "RNS Destroyer"
 	sprite "ship/RNS destroyer"
 	licenses
@@ -158,7 +167,7 @@ ship "RNS Destroyer"
 	explode "large explosion" 20
 	"final explode" "final explosion large" 1
 	description "The RNS Destroyer is placed between a frigate and a cruiser in both size and armament. Often used to lead a small fleet of gunboats and rainmakers, it also has sufficient shields and weaponary to act on its own."
-
+	
 ship "RNS Destroyer" "RNS Destroyer A"
 	outfits
 		"Hyperdrive"
@@ -177,7 +186,6 @@ ship "RNS Destroyer" "RNS Destroyer A"
 		"Tactical Military Outfit" 40
 		"Particle Cannon Turret" 3
 		"Tactical Body Armor" 40
-
 ship "RNS Destroyer" "RNS Destroyer (Mark II)"
 	outfits
 		"Hyperdrive"
@@ -195,7 +203,6 @@ ship "RNS Destroyer" "RNS Destroyer (Mark II)"
 		"Assault Rifle ZX-411" 20
 		"Tactical Military Outfit" 40
 		"Tactical Body Armor" 20
-
 ship "Gunboat GXV2" "Gunboat GXV2 A"
 	outfits
 		"X2700 Ion Thruster"
@@ -209,7 +216,6 @@ ship "Gunboat GXV2" "Gunboat GXV2 A"
 		"Outfit Scanner"
 		"Small Radar Jammer"
 		"Anti-Missile Turret"
-
 ship "Gunboat GXV2" "Gunboat GXV2 (Mark II)"
 	outfits
 		"Electron Turret"
@@ -222,32 +228,31 @@ ship "Gunboat GXV2" "Gunboat GXV2 (Mark II)"
 		"D14-RN Shield Generator"
 		"Cargo Scanner"
 		"Outfit Scanner"
-
-ship "Alliance Battleship A"
+ship  "Alliance Battleship" "Alliance Battleship A"
 	outfits
-		Hyperdrive
-		"Orca Plasma Steering"
-		"Orca Plasma Thruster"
+		"Hyperdrive"
+		"A865 Atomic Steering"
+		"A520 Atomic Thruster"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator" 2
 		"Liquid Helium Cooler"
 		"Armageddon Core"
-		"Typhoon Launcher" 2
+		"Torpedo Launcher" 2
 		"Tactical Military Outfit" 300
 		"Particle Cannon Turret" 8
-
-ship "Alliance Battleship (Mark II)"
+		"Sidewinder Missile" 100
+		"Torpedo" 60
+ship  "Alliance Battleship" "Alliance Battleship (Mark II)"
 	outfits
-		Hyperdrive
+		"Hyperdrive"
 		"A865 Atomic Steering"
 		"A520 Atomic Thruster"
 		"Electron Turret" 6
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-		"D41-HY Shield Generator"
-		"Large Radar Jammer"
+		"Sidewinder Missile Launcher" 4
+		"Sidewinder Missile" 200
+		"D14-RN Shield Generator"
 		"Heavy Anti-Missile Turret" 2
 		"Liquid Helium Cooler"
 		"Armageddon Core"
