@@ -42,52 +42,54 @@ ship "Battlestar"
 		"Plenipotent"
 	attributes
 		category "Heavy Warship"
-		"cost" 91200000
-		"shields" 100000
-		"hull" 300000
-		"required crew" 70
-		"bunks" 800
-		"mass" 4500
-		"drag" 38.1
-		"shield generation" 70
-		"energy generation" 100000
-		"cooling" 1000000
-		"heat dissipation" .9
-		"fuel capacity" 1200
-		"cargo space" 440
-		"outfit space" 1900
-		"weapon capacity" 720
-		"engine capacity" 320
+		"cost" 500000000
+		"shields" 800000
+		"hull" 400000
+		"required crew" 1385
+		"bunks" 4854
+		"mass" 20000
+		"drag" 100
+		"heat dissipation" .1
+		"fuel capacity" 3000
+		"cargo space" 0
+		"outfit space" 2000
+		"weapon capacity" 2000
+		"engine capacity" 2000
 		"self destruct" 1
 		weapon
-			"blast radius" 1800
-			"shield damage" 6000
-			"hull damage" 3000
-			"hit force" 6000
+			"blast radius" 5000
+			"shield damage" 10000
+			"hull damage" 5000
+			"hit force" 15000
 	outfits
-		"Korath Fire-Lance" 5
-		"Electron Turret" 5
-		"Mil'taj Anti-Missile Turret" 3
-		
-		"LP576a Battery Pack"
-		
-		"Orca Plasma Thruster"
-		"Orca Plasma Steering"
+		"Electron Turret" 10
+		"Mil'taj Anti-Missile Turret" 5
+
+		"Antimatter Core" 5
+		"Liquid Helium Cooler" 5
+
+		"Medium Graviton Thruster" 5
+		"Medium Graviton Steering" 5
 		"Scram Drive"
 
-	turret 0 0 "Electron Turret"
-	turret -135 -115 "Korath Fire-Lance"
-	turret -106 -49 "Korath Fire-Lance"
-	turret -65 -98 "Electron Turret"
-	turret 165 -60 "Korath Fire-Lance"
-	turret 92 -62 "Korath Fire-Lance"
-	turret 115 -8 "Electron Turret"
-	turret -32 173 "Electron Turret"
-	turret 10 115 "Korath Fire-Lance"
-	turret -53 102 "Electron Turret"
-	turret -80 26 "Mil'taj Anti-Missile Turret"
-	turret 16 -82 "Mil'taj Anti-Missile Turret"
-	turret 61 54 "Mil'taj Anti-Missile Turret"
+	engine -65.5 -100.5
+	engine 34 -83
+	engine -31.5 3.5
+	turret -10.5 -112
+	turret 30 0
+	turret -88 -20.5
+	turret -87 -141
+	turret -128.5 -92.5
+	turret 69 -112
+	turret 91 -50
+	turret -10.5 71
+	turret -75 56.5
+	turret -157 -157.5
+	turret 142 -105.5
+	turret -55 126.5
+	turret -236 -227
+	turret 241.5 -138.5
+	turret -73.5 231.5
 	fighter 0 0
 	fighter 0 0
 	fighter 0 0
@@ -96,9 +98,41 @@ ship "Battlestar"
 	fighter 0 0
 	fighter 0 0
 	fighter 0 0
-	explode "big explosion" 30
-	explode "huge explosion" 15
-	explode "nuke explosion" 2
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	drone 0 0
+	explode "big explosion" 50
+	explode "huge explosion" 50
+	explode "nuke explosion" 50
 	description "The most destructive device ever designed by the Alphas. The Battlestar is the very definition of fear."
 
 mission "Battle Star Attack"
