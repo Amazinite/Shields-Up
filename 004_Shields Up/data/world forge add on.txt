@@ -40,7 +40,7 @@ outfitter "SU Mil'taj"
 	"Mil'taj Anti-Missile Turret"
 	"Mil'taj Point-Defence Turret"
 	"Mil'taj Plasma Cannon"
-	"Mil'taj Shield Decimator"
+	"Mil'taj Shield Scrambler"
 
 outfitter "SU Servorum"
 	"Particle Accelerator"

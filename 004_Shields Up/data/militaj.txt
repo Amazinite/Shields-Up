@@ -73,8 +73,7 @@ ship "Ballista"
 			"hull damage" 800
 			"hit force" 1500
 	outfits
-		"Mil'taj Particle Cannon" 2
-		"Mil'taj Shield Scrambler" 2
+		"Mil'taj Particle Cannon" 4
 		"Mil'taj Point-Defence Turret" 3
 
 		"Mil'taj Black Generator"
@@ -214,7 +213,8 @@ ship "Pilum"
 			"hull damage" 1800
 			"hit force" 5400
 	outfits
-		"Mil'taj Shield Scrambler" 5
+		"Mil'taj Particle Cannon" 3
+		"Mil'taj Shield Scrambler" 2
 		"Mil'taj Point-Defence Turret"
 
 		"Mil'taj Black Generator" 2
@@ -227,8 +227,8 @@ ship "Pilum"
 
 	engine 0 121
 	gun 0 -108
-	gun -13 -101
-	gun 13 -101
+	gun -13 -101 "Mil'taj Shield Scrambler"
+	gun 13 -101 "Mil'taj Shield Scrambler"
 	gun -23 3
 	gun 23 3
 	turret 0 -20
