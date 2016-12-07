@@ -22,34 +22,29 @@ ship "Bodkin"
 		"heat dissipation" .8
 		"fuel capacity" 500
 		"cargo space" 30
-		"outfit space" 300
-		"weapon capacity" 100
-		"engine capacity" 90
+		"outfit space" 260
+		"weapon capacity" 70
+		"engine capacity" 84
 		weapon
 			"blast radius" 48
 			"shield damage" 480
 			"hull damage" 240
 			"hit force" 720
 	outfits
-		"Particle Accelerator" 2
-		"Mil'taj Plasma Cannon" 
-		"Mil'taj Anti-Missile Turret"
-		
-		"Mil'taj Condensed Battery"
-		"Mil'taj Black Generator"
-		"Mil'taj Cooling Unit" 2
-		"Intrusion Countermeasures" 70
-		
+		"Mil'taj Plasma Cannon" 3
+
+		"Mil'taj Grey Generator"
+		"Mil'taj Curtana Battery"
+		"Mil'taj Cooling Cell"
+
 		"A370 Atomic Thruster"
-		"A375 Atomic Steering"
-		"Hyperdrive"
+		"A255 Atomic Steering"
 		"Jump Drive"
-		
+
 	engine 0 39
-	gun 46 13 "Particle Accelerator"
-	gun -47 12 "Particle Accelerator"
-	gun 0 -37 "Mil'taj Plasma Cannon"
-	turret 0 24 "Mil'taj Anti-Missile Turret"
+	gun -47 12
+	gun 47 12
+	gun 0 -37
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 10
@@ -78,30 +73,27 @@ ship "Ballista"
 			"hull damage" 800
 			"hit force" 1500
 	outfits
-		"Mil'taj Plasma Cannon" 2
 		"Mil'taj Particle Cannon" 2
-		"Mil'taj Anti-Missile Turret"
-		"Mil'taj Point-Defence Turret" 2
-		
+		"Mil'taj Shield Scrambler" 2
+		"Mil'taj Point-Defence Turret" 3
+
+		"Mil'taj Black Generator"
+		"Mil'taj White Generator"
 		"Mil'taj Condensed Battery"
-		"Mil'taj Black Generator" 2
-		"Mil'taj Grey Generator"
-		"Mil'taj Cooling Unit" 3
-		"Intrusion Countermeasures" 100
-		
+		"Mil'taj Cooling Unit"
+
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Hyperdrive"
 		"Jump Drive"
-		
+
 	engine 0 148
-	gun -10.5 -147 "Mil'taj Plasma Cannon"
-	gun 10.5 -147 "Mil'taj Plasma Cannon"
-	gun -82.5 70 "Mil'taj Particle Cannon"
-	gun 82.5 70 "Mil'taj Particle Cannon"
-	turret 0 91 "Mil'taj Anti-Missile Turret"
-	turret -21.5 0 "Mil'taj Point-Defence Turret"
-	turret 21.5 0 "Mil'taj Point-Defence Turret"
+	gun -10.5 -147 "Mil'taj Shield Scrambler"
+	gun 10.5 -147 "Mil'taj Shield Scrambler"
+	gun -82.5 70
+	gun 82.5 70
+	turret 0 91
+	turret -21.5 0
+	turret 21.5 0
 	explode "tiny explosion" 40
 	explode "small explosion" 55
 	explode "medium explosion" 60
@@ -122,37 +114,35 @@ ship "Halberd"
 		"heat dissipation" .6
 		"fuel capacity" 1000
 		"cargo space" 900
-		"outfit space" 566
+		"outfit space" 536
 		"weapon capacity" 167
-		"engine capacity" 199
+		"engine capacity" 169
 		weapon
 			"blast radius" 400
 			"shield damage" 4000
 			"hull damage" 2000
 			"hit force" 6000
 	outfits
-		"Mil'taj Point-Defence Turret" 5
-		"Mil'taj Anti-Missile Turret" 2
-		
-		"Mil'taj Black Generator" 3
-		"Mil'taj Cooling Unit" 3
-		"Mil'taj Condensed Battery" 2
-		"Intrusion Countermeasures" 110
-		
+		"Mil'taj Point-Defence Turret" 3
+		"Mil'taj Anti-Missile Turret"
+
+		"Mil'taj Black Generator"
+		"Mil'taj Condensed Battery"
+		"Mil'taj Cooling Unit"
+
 		"A860 Atomic Thruster"
-		"A865 Atomic Steering"
+		"A375 Atomic Steering"
 		"Jump Drive"
-		"Hyperdrive"
-		
+
 	engine -36.5 61.5
 	engine 36.5 61.5
-	turret -30.5 -114.5 "Mil'taj Point-Defence Turret"
-	turret 30.5 -114.5 "Mil'taj Point-Defence Turret"
-	turret -28.5 -57.5 "Mil'taj Point-Defence Turret"
-	turret 28.5 -57.5 "Mil'taj Point-Defence Turret"
+	turret -30.5 -114.5
+	turret 30.5 -114.5
+	turret -28.5 -57.5
+	turret 28.5 -57.5
 	turret 0 -154.5 "Mil'taj Point-Defence Turret"
-	turret 0 -62.5 "Mil'taj Anti-Missile Turret"
-	turret 0 59.5 "Mil'taj Anti-Missile Turret"
+	turret 0 -62.5 "Mil'taj Point-Defence Turret"
+	turret 0 59.5 "Mil'taj Point-Defence Turret"
 	fighter 40.5 -33.5
 	fighter -40.5 -33.5
 	fighter -48.5 23.5
@@ -176,8 +166,8 @@ ship "Curtana"
 		"mass" 50
 		"drag" 1.3
 		"heat dissipation" .9
-		"outfit space" 133
-		"weapon capacity" 35
+		"outfit space" 113
+		"weapon capacity" 21
 		"engine capacity" 36
 		weapon
 			"blast radius" 36
@@ -185,18 +175,17 @@ ship "Curtana"
 			"hull damage" 180
 			"hit force" 540
 	outfits
-		"Particle Accelerator" 
-		
-		"Mil'taj Grey Generator"
+		"Mil'taj Plasma Cannon"
+
+		"Mil'taj White Generator"
 		"Mil'taj Curtana Battery"
 		"Mil'taj Cooling Cell"
-		"Intrusion Countermeasures" 20
-		
+
 		"A120 Atomic Thruster"
-		"A125 Atomic Steering"
-		
+		`"Basrem" Atomic Steering`
+
 	engine 0 -16
-	gun 0 -55 "Particle Accelerator"
+	gun 0 -55
 	explode "tiny explosion" 30
 	explode "small explosion" 15
 	explode "medium explosion" 5
@@ -225,27 +214,24 @@ ship "Pilum"
 			"hull damage" 1800
 			"hit force" 5400
 	outfits
-		"Mil'taj Shield Decimator"
-		"Mil'taj Particle Cannon" 4
-		"Mil'taj Anti-Missile Turret"
-		
+		"Mil'taj Shield Scrambler" 5
+		"Mil'taj Point-Defence Turret"
+
+		"Mil'taj Black Generator" 2
+		"Mil'taj Grey Generator"
 		"Mil'taj Condensed Battery"
-		"Mil'taj Black Generator" 3
-		"Mil'taj Cooling Unit" 4
-		"Intrusion Countermeasures" 135
-		
+
 		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Hyperdrive"
+		"A865 Atomic Steering"
 		"Jump Drive"
-		
+
 	engine 0 121
-	gun 0 -108 "Mil'taj Shield Decimator"
-	gun -13 -101 "Mil'taj Particle Cannon"
-	gun 13 -101 "Mil'taj Particle Cannon"
-	gun -23 3 "Mil'taj Particle Cannon"
-	gun 23 3 "Mil'taj Particle Cannon"
-	turret 0 -20 "Mil'taj Anti-Missile Turret"
+	gun 0 -108
+	gun -13 -101
+	gun 13 -101
+	gun -23 3
+	gun 23 3
+	turret 0 -20
 	explode "small explosion" 55
 	explode "medium explosion" 60
 	explode "large explosion" 40
@@ -415,8 +401,9 @@ outfit "Mil'taj Plasma Cannon"
 #Shield Decimator by PompanoZombie, an awesome human
 #Recreated by Spiral03
 #Sprite by Derpy Horse
+#Renamed to Shield Scrambler
 	
-outfit "Mil'taj Shield Decimator"
+outfit "Mil'taj Shield Scrambler"
 	category "Guns"
 	cost 6000000
 	thumbnail "outfit/shield decimator"
@@ -439,6 +426,29 @@ outfit "Mil'taj Shield Decimator"
 		"disruption damage" .44
 	description "A technology designed by the Mil'taj, this weapon was built to help battle the Quarg. By sacrificing any and all damage it could deal to the ship, it instead is energy based and is used primarily to 'decimate' the Quarg's shields."
 
+#Version with old name for older players
+outfit "Mil'taj Shield Decimator"
+	category "Guns"
+	cost 6000000
+	thumbnail "outfit/shield decimator"
+	"mass" 55
+	"outfit space" -55
+	"weapon capacity" -55
+	"gun ports" -1
+	weapon
+		sprite "projectile/militaj laser"
+			"frame rate" 1
+		sound "electron beam"
+		"hit effect" "militaj decimator impact"
+		"inaccuracy" .3
+		"velocity" 300
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 16
+		"firing heat" 19
+		"shield damage" 10
+		"disruption damage" .44
+
 shipyard "Militaj Basics"
 	"Bodkin"
 	"Curtana"
@@ -459,7 +469,7 @@ outfitter "Militaj Weapons"
 	"Mil'taj Point-Defence Turret"
 	"Mil'taj Plasma Cannon"
 	"Mil'taj Particle Cannon"
-	"Mil'taj Shield Decimator"
+	"Mil'taj Shield Scrambler"
 outfitter "Militaj Hardware"
 	"Mil'taj Grey Generator"
 	"Mil'taj Black Generator"
