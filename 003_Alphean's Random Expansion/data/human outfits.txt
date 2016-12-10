@@ -16,8 +16,8 @@ outfit "RCS10 Steering"
 	"outfit space" -1
 	"engine capacity" -1
 	"turn" 10
-	"thrusting energy" .1
-	"thrusting heat" .2
+	"turning energy" .1
+	"turning heat" .2
 	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
 	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
 
