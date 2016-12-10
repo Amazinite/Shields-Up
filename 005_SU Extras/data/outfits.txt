@@ -1,20 +1,20 @@
 outfit "Extended Bunk Room"
 	category "Systems"
-	cost 75000
+	cost 80000
 	thumbnail "outfit/extended bunk room"
-	"mass" 10
+	"mass" 8
 	"bunks" 8
-	"outfit space" -36
+	"outfit space" -32
 	unplunderable 1
 	description "Doubles the space a normal bunk room would give, at the cost of a higher mass and more outfit space taken up."
 
 outfit "Incinerator Beam"
-	category "Turrets"
-	cost 1800000
+	category "Guns"
+	cost 290000
 	thumbnail "outfit/unknown"
-	"mass" 60
-	"outfit space" -60
-	"weapon capacity" -60
+	"mass" 32
+	"outfit space" -32
+	"weapon capacity" -32
 	"turret mounts" -1
 	"required crew" 1
 	weapon
@@ -22,25 +22,25 @@ outfit "Incinerator Beam"
 			"frame rate" 15
 		sound "incinerator"
 		"hit effect" "sunbeam impact"
-		"inaccuracy" .9
-		"velocity" 375
+		"inaccuracy" .2
+		"velocity" 550
 		"lifetime" 1
 		"reload" 1
-		"firing energy" 3.3
-		"firing heat" 20
-		"shield damage" 7
-		"hull damage" 2.7
-		"heat damage" 37.8
+		"firing energy" 2.2
+		"firing heat" 3.6
+		"shield damage" 3.9
+		"hull damage" 5.1
+		"heat damage" 9
 	description "This weapon is a truly great invention. It melts through hull and shields very fast and can swiftly take care of most threats."
-	description "Because of its price not many people use it."
 
 outfit "Boarding Cannon"
 	category "Hand to Hand"
 	cost 300000
 	thumbnail "outfit/boarding cannon"
-	"armory capacity" -20
-	"capture attack" 7.23
-	"capture defense" 3
+	"mass" 1
+	"capture attack" 7
+	"capture defense" 2.7
     unplunderable 1
+	"armory capacity" -10
 	description "A very strong mortar designed for ship boarding."
 	description "It is stored in the Ship Armory."

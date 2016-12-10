@@ -37,8 +37,6 @@ outfitter "AE Alr"
 outfitter "AE Human"
 	"RCS10 Steering"
 	"RCS15 Thruster"
-	"Weapon Specialization"
-	"Engine Specialization"
 	"XF-111 Ship Core"
 	"XF-333 Ship Core"
 	"XF-555 Ship Core"
@@ -167,6 +165,8 @@ outfitter deprecated
 	"Sentry Gun"
 	"Special Agent"
 	"Civilian Cloaking Device"
+	"Weapon Specialization"
+	"Engine Specialization"
 
 planet Mods
 	outfitter "AE Human"

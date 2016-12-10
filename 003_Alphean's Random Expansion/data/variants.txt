@@ -124,26 +124,7 @@ ship "Hunter Drone" "Hunter Drone (Meteor Surveillance)"
 		"X2200 Ion Steering"
 		"Penum Surveillance Pod"
 	gun "Meteor Missile Launcher"
-	
-ship "Spearhead" "Spearhead (Stock)"
-	outfits
-		"Intelligent Rocket Launcher" 2
-		"Modified Blaster Turret" 2
-		"Heavy Anti-Missile Turret"
-		"Dwarf Core"
-		"LP072a Battery Pack" 3
-		"Hervar Regenerator"
-		"Liquid Nitrogen Cooler"
-		"Impala Plasma Thruster"
-		"A255 Atomic Steering"
-		"Hyperdrive"
-		"Intelligent Rocket" 40
-	gun "Intelligent Rocket Launcher"
-	gun "Intelligent Rocket Launcher"
-	turret "Modified Blaster Turret"
-	turret "Heavy Anti-Missile Turret"
-	turret "Modified Blaster Turret"
-	
+
 ship "Modified Firebird" "Mod Firebird (Stock)"
 	outfits
 		"Intelligent Rocket Launcher" 4

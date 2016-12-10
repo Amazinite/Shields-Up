@@ -12,98 +12,74 @@ outfit "RCS10 Steering"
 	category "Engines"
 	"cost" 3000
 	thumbnail "outfit/tiny plasma steering"
-	"mass" 2
-	"outfit space" -2
-	"engine capacity" -2
-	"turn" 126
-	"turning energy" .05
-	"turning heat" .1
+	"mass" 1
+	"outfit space" -1
+	"engine capacity" -1
+	"turn" 10
+	"thrusting energy" .1
+	"thrusting heat" .2
 	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
 	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
 
 outfit "RCS15 Thruster"
 	category "Engines"
-	"cost" 35000
+	"cost" 7000
 	thumbnail "outfit/tiny plasma thruster"
 	"mass" 2
 	"outfit space" -2
 	"engine capacity" -2
-	"thrust" 0.75
-	"thrusting energy" .075
-	"thrusting heat" .1125
+	"thrust" 0.5
+	"thrusting energy" .1
+	"thrusting heat" .2
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
 	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
 	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
 
-outfit "Weapon Specialization"
-	category "Systems"
-	"cost" 7500
-	thumbnail "outfit/blue screwdriver"
-	"mass" 10
-	"outfit space" -10
-	"weapon capacity" 20
-	"energy generation" -0.5
-	unplunderable 1
-	description "Converts regular outfit space into weapon outfit space. Requires more energy to make sure that all functions are operational."
-
-outfit "Engine Specialization"
-	category "Systems"
-	"cost" 7500
-	thumbnail "outfit/blue screwdriver"
-	"mass" 10
-	"outfit space" -10
-	"engine capacity" 20
-	"heat generation" 2
-	unplunderable 1
-	description "Converts regular outfit space into engine outfit space. Increases likelihood of overheating."
-
 outfit "XF-111 Ship Core"
 	category "Systems"
-	"cost" 50000
+	"cost" 42000
 	thumbnail "outfit/shipcore"
 	"mass" 21
 	"outfit space" -21
-	"energy capacity" 70
-	"energy generation" 1.15
-	"shield generation" 0.17
-	"heat generation" 1
-    "shield energy" 1
-	"description" "A very handy multi-purpose outfit commonly found on the smaller side of ships like transports."
+	"energy generation" 0.5
+	"heat generation" 0.5
+	"shield generation" 0.06
+    "shield energy" 0.06
+	"energy capacity" 300
+	description "A very handy multi-purpose outfit commonly found on the smaller sized ships like interceptors."
 
 outfit "XF-333 Ship Core"
 	category "Systems"
-	"cost" 100000
+	"cost" 102500
 	thumbnail "outfit/shipcore"
-	"mass" 42
-	"outfit space" -42
-	"energy capacity" 180
-	"energy generation" 3.3
-	"jump speed" .1
+	"mass" 37
+	"outfit space" -37
+	"energy generation" 1
+	"heat generation" 1
+	"shield generation" 0.11
+    "shield energy" 0.11
+	"energy capacity" 600
+	"jump speed" 0.1
 	"hyperdrive" 1
-	"shield generation" 0.36
-	"heat generation" 3
-    "shield energy" 1
-	"description" "A multi-purpose outfit mostly used for medium ships. This size has a finely tuned hyperdrive."
+	description "A very handy multi-purpose outfit commonly found on the medium sized ships like freighters and transports."
 
 outfit "XF-555 Ship Core"
 	category "Systems"
-	"cost" 250000
+	"cost" 182000
 	thumbnail "outfit/shipcore"
-	"mass" 84
-	"outfit space" -84
-	"energy capacity" 840
-	"energy generation" 5.5
-	"jump speed" .2
+	"mass" 54
+	"outfit space" -54
+	"energy generation" 1.8
+	"heat generation" 1.8
+	"shield generation" 0.17
+    "shield energy" 0.17
+	"energy capacity" 900
+	"jump speed" 0.2
 	"hyperdrive" 1
-	"shield generation" 0.8
-	"heat generation" 35
-	"hull repair rate" 0.7
-    "shield energy" 1
-    "hull energy" 1
-	"description" "A very handy multi-purpose outfit, it carries a power generator, a hyperdrive, a shield generator and a Nanite Damage Control Unit, which repairs hull damage."
-		
+	description "A very handy multi-purpose outfit commonly found on the larger sized ships like warships."
+
 outfit "Hervar Regenerator"
 	category "Systems"
 	cost 540000
@@ -118,9 +94,9 @@ outfit "Hervar Regenerator"
 
 outfit "Sizeable Map"
 	category "Special"
-	cost 100000
+	cost 50000
 	thumbnail "outfit/map"
-	"map" 100
+	"map" 108
 	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
 
 outfit "Interference Hull"
@@ -143,23 +119,44 @@ outfit "Interference Shielding"
 
 outfit "Signal Interdictor Deluxe"
 	category "Systems"
-	cost 3000000
+	cost 1000000
 	thumbnail "outfit/unknown"
-	"required crew" 7
+	"required crew" 4
 	"mass" 24
 	"outfit space" -24
-	"scan interference" 15
-	illegal 1500000
-	description "Mostly used by the elite from drug cartels, this outfit requires crew to maintain an anti-scan signal. This is illegal and as such you will be fined should you land on high security planets or be chased by a determined detective. Equipping just a single one of these on your ship provides a 7 percent chance of being scanned successfully, and more probably woudn't be necessary."
+	"scan interference" 24
+	illegal 1000000
+	description "Mostly used by the elite from drug cartels, this outfit requires crew to maintain an anti-scan signal. This is illegal and as such you will be fined should you land on high security planets or be chased by a determined detective."
+
+outfit "AI Mainframe"
+	category "Systems"
+	cost 1000000
+	thumbnail "outfit/unknown"
+	"mass" 10
+	"outfit space" -40
+	"bot capacity" 30
+	description "The AI Mainframe is able to single handedly control up to 30 androids at once, greatly increasing the combat effectiveness of the ship that it is installed on. Androids sold seperately."
 
 outfit "S-45 Lamprey"
 	category "Hand to Hand"
 	cost 15000
 	thumbnail "outfit/lamprey"
-	"bot capacity" -1
+	"mass" 1
 	"capture attack" 1
 	"capture defense" 2
-	"mass" 2
+	"bot capacity" -1
+	unplunderable 1
+	description "A more defence based guard bot, it is used mostly in freighters."
+
+outfit "P-75 Archangel"
+	category "Hand to Hand"
+	cost 70000
+	thumbnail "outfit/archangel"
+	"mass" 1
+	"capture attack" 4.3
+	"capture defense" 8.5
+	"bot capacity" -1
+	"armory capacity" 3
 	unplunderable 1
 	description "A more defence based guard bot, it is used mostly in freighters."
 
@@ -167,58 +164,37 @@ outfit "R-120 Warbird"
 	category "Hand to Hand"
 #	licenses
 #		"Navy"
-	cost 20000
+	cost 120000
 	thumbnail "outfit/warbird"
-	"bot capacity" -1
+	"mass" 1
 	"capture attack" 5.2
 	"capture defense" 2.6
-	"mass" 7
+	"bot capacity" -1
+	"armory capacity" 5
 	unplunderable 1
 	description "The Republic Navy uses this model of boarding bots for boarding pirates or capturing other enemy ships."
-
-outfit "P-75 Archangel"
-	category "Hand to Hand"
-	cost 85000
-	thumbnail "outfit/archangel"
-	"bot capacity" -1
-	"mass" 10
-	"capture attack" 4.3
-	"capture defense" 8.5
-	unplunderable 1
-	description "A true defence bot. This model created by the Penum used organic materials to grant it its defensive capabilities. It can take damage and do the same to the opposition."
-		
+	
 outfit "Engineer Bot"
 	category "Special"
-	cost 20000
+	cost 5000
 	thumbnail "outfit/engineer bot"
+	"mass" 1
+	"shield generation" 0.01
+    "shield energy" 0.02
 	"bot capacity" -1
-	"mass" 2
-	"energy generation" 0.3
-	"shield generation" 0.1
-    "shield energy" 1
 	unplunderable 1
-	description "An AI card which can be inserted into an android. This converts it into an engineer bot."
+	description "An android that specializes in electronics and mechanics, able to boost the efficency of shield generators."
 	
 outfit "Repair Bot"
 	category "Special"
-	cost 15000
+	cost 7000
 	thumbnail "outfit/repair bot"
+	"mass" 1
+	"hull repair rate" 0.005
+    "hull energy" 0.01
 	"bot capacity" -1
-	"mass" 2
-	"hull repair rate" 0.2
-    "hull energy" 1
 	unplunderable 1
-	description "An AI card which can be inserted into an android. This converts it into a repair bot."
-	
-outfit "AI Mainframe"
-	category "Systems"
-	cost 1000000
-	thumbnail "outfit/unknown"
-	"outfit space" -50
-	"bot capacity" 250
-	"energy generation" -0.4
-	description "A rare occurence these days. An AI Mainframe is capable of controlling a whole ship on its own via a network of connections. One mainframe can replace up to 250 crew members."
-	description "[Disclaimer: We do not claim responsibility if the mainframe tries to kill you.]"
+	description "An android that specializes in ships and hull, able to repair your ship from the inside."
 	
 outfit "Navy Cloaking Device"
 #	licenses
@@ -230,18 +206,7 @@ outfit "Navy Cloaking Device"
 	"cloak" .09
 	"cloaking energy" 3.5
 	description "An experimental Cloaking Device used by Navy Stealth Cruisers."
-	
-outfit "Civilian Cloaking Device"
-	category "Systems"
-	cost 1200000
-	"mass" 20
-	"outfit space" -20
-	"cloak" .01
-	"cloaking energy" 2.05
-	"cloaking fuel" .2
-	"heat generation" 0.71
-	description "A Cloaking Device authorized for sale by the Republic. Because of its functionality, it has been modified to take up more space, be more expensive, and use up more of the ship's resources."
-	
+
 outfit "Capital Identification"
 	category "Special"
 	cost 10
@@ -265,10 +230,9 @@ outfit "Ship Armory"
 	category "Hand to Hand"
 	thumbnail "outfit/armory"
 	cost 480000
-	mass 50
-	"required crew" 5
-	"outfit space" -50
-	"armory capacity" 200
+	mass 44
+	"outfit space" -44
+	"armory capacity" 120
 	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
 
 outfit "SC015s Shield Capacitor"

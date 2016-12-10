@@ -13,14 +13,14 @@ outfit "Intelligent Rocket"
 	cost 4000
 	thumbnail "outfit/intell rocket" # Image by Derpy Horse
 	"intelrock capacity" -1
-	mass .25
+	mass .4
 	description "Intelligent Rockets are ammunition for the Intelligent Rocket Launcher. You cannot install one unless you have first installed a launcher to fire it from. Each launcher holds up to 20 rockets."
 
 outfit "Intelligent Rocket Launcher"
 	category "Secondary Weapons"
 	cost 90000
 	thumbnail "outfit/intell launcher" # Image by Derpy Horse
-	"mass" 15
+	"mass" 12
 	"outfit space" -20
 	"weapon capacity" -20
 	"gun ports" -1
@@ -31,25 +31,26 @@ outfit "Intelligent Rocket Launcher"
 		sound "rocket"
 		ammo "Intelligent Rocket"
 		icon "icon/rocket"
-		"hit effect" "huge explosion"
+		"hit effect" "heavy rocket hit"
 		"die effect" "small explosion"
 		"inaccuracy" 1
 		"velocity" 11
 		"lifetime" 100
-		"reload" 120
+		"reload" 200
 		"firing energy" 1
-		"firing heat" 270
-		"acceleration" 1.3
+		"firing heat" 250
+		"acceleration" .9
 		"drag" .1
-		"blast radius" 50
-		"homing" 4
-		"shield damage" 900
-		"hull damage" 200
+		"turn" 3
+		"homing" 3
+		"optical tracking" 0.8
+		"trigger radius" 20
+		"blast radius" 40
+		"shield damage" 600
+		"hull damage" 500
 		"hit force" 80
-		"missile strength" 21
-		"ion damage" 2
-		"turn" 7
-	description "Intelligent Rockets are truly wondrous missiles; they go at high speeds and damage shields very easily. Good to use when you need to crack a significant force."
+		"missile strength" 14
+	description "Sacrificing strength and power for accuracy and speed, the Intelligent Rocket is a modified Heavy Rocket able to track down targets"
 	
 outfit "Soaker Missile"
 	category "Ammunition"
@@ -61,11 +62,11 @@ outfit "Soaker Missile"
 	
 outfit "Soaker Missile Launcher"
 	category "Secondary Weapons"
-	cost 650000
+	cost 30000
 	thumbnail "outfit/rocket launcher"
-	"mass" 20
-	"outfit space" -30
-	"weapon capacity" -30
+	"mass" 13
+	"outfit space" -23
+	"weapon capacity" -23
 	"gun ports" -1
 	"soaker capacity" 10
 	weapon
@@ -90,7 +91,7 @@ outfit "Soaker Missile Launcher"
 		"turn" 2
 		"homing" 4
 		"missile strength" 300
-	description "Soakers are special 'missiles' designed to take damage so other missiles can get through. One rocket carries 10 Soaker Shields."
+	description "Soakers are special 'missiles' designed to take damage so other missiles can get through. One launcher carries 10 Soaker Missile."
 	
 outfit "Soaker Shield"
 	weapon
@@ -107,11 +108,11 @@ outfit "Soaker Shield"
 		"shield damage" 0
 		"hull damage" 0
 		"hit force" 0
-		"missile strength" 400
+		"missile strength" 50
 		
 outfit "Energy Chaingun"
 	category "Guns"
-	cost 116000
+	cost 226000
 	thumbnail "outfit/energy chaingun" # Image by Derpy Horse
 	"mass" 35
 	"outfit space" -35
@@ -125,7 +126,7 @@ outfit "Energy Chaingun"
 		"velocity" 8
 		"lifetime" 60
 		"reload" 2
-		"firing energy" 22
+		"firing energy" 26
 		"firing heat" 68
 		"shield damage" 15
 		"hull damage" 10
@@ -162,8 +163,8 @@ outfit "Grenade Launcher" #Thanks, Michael Feather!
 		"hull damage" 467
 		"hit force" 200
 		"missile strength" 150
-		"trigger radius" 75
-		"blast radius" 150
+		"trigger radius" 60
+		"blast radius" 100
 	description "After seeing so many different missile designs that all focused on firing swarms of weak homing projectiles, Tyil Corporation took inspiration from an archaeic design - grenades. Instead of making the shot home towards its target, grenades are meant to be fired mid-range, and let the effective radius work for you."
 	
 outfit "Grenade"  #Thanks, Michael Feather!
@@ -175,14 +176,14 @@ outfit "Grenade"  #Thanks, Michael Feather!
 	description "The ammunition used by the Grenade Launchers."
 
 outfit "Anti-Ship Battery"
-    category "Turrets"
+    category "Secondary Weapons"
     cost 2000000
     thumbnail "outfit/asb"
-	"turret mounts" -1
+	"mass" 44
 	"outfit space" -80
 	"weapon capacity" -80
-	mass 50
-	"Shell capacity" 36
+	"turret mounts" -1
+	"shell capacity" 36
 	weapon
 		icon "icon/tbd"
 		sprite "projectile/asbc"
@@ -210,7 +211,7 @@ outfit "1 Ton Shell"
 	category "Ammunition"
 	cost 1000
 	thumbnail "outfit/1ton"
-	"Shell capacity" -1
+	"shell capacity" -1
 	mass 1
 	description "This crude anti-ship shell has been in production for centuries."
 	

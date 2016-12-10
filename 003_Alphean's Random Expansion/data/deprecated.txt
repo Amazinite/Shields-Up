@@ -381,3 +381,36 @@ ship "Stealth Cruiser"
 	explode "small explosion" 40
 	explode "tiny explosion" 28
 	description "A stealth cruiser developed in a joint operation between the Navy and Tarazed. It has a very weak hull compared to other Medium Warships, but it makes up with its built-in Cloaking Device."
+
+outfit "Weapon Specialization"
+	category "Systems"
+	"cost" 7500
+	thumbnail "outfit/blue screwdriver"
+	"mass" 10
+	"outfit space" -10
+	"weapon capacity" 20
+	"energy generation" -0.5
+	unplunderable 1
+	description "Converts regular outfit space into weapon outfit space. Requires more energy to make sure that all functions are operational."
+
+outfit "Engine Specialization"
+	category "Systems"
+	"cost" 7500
+	thumbnail "outfit/blue screwdriver"
+	"mass" 10
+	"outfit space" -10
+	"engine capacity" 20
+	"heat generation" 2
+	unplunderable 1
+	description "Converts regular outfit space into engine outfit space. Increases likelihood of overheating."
+
+outfit "Civilian Cloaking Device"
+	category "Systems"
+	cost 1200000
+	"mass" 20
+	"outfit space" -20
+	"cloak" .01
+	"cloaking energy" 2.05
+	"cloaking fuel" .2
+	"heat generation" 0.71
+	description "A Cloaking Device authorized for sale by the Republic. Because of its functionality, it has been modified to take up more space, be more expensive, and use up more of the ship's resources."
