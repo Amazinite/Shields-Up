@@ -1,0 +1,61 @@
+Shields Up Reborn v1
+	New Content
+		* All included plugins are now compatible with World Forge.
+		* (SU-Extra) Added the HAL-500 Automation Matrix outfit that converts a ship into an automation
+		* Lots of new images for outfits and ships, most notably human ships from Shields Up and Alphean's
+		* (Tufton) Projectile sprite for Energy Ram
+		* (Pompano's) New Tuk'ux Decimator outfit, cortesy of @Spiral03
+		* Created a new "Deprecated" plugin that holds all the things that were removed from the other plugins so that older pilots with these items may still use them
+		* Created a new "Derpy's SU Expansion" plugin that currently only includes capacity upgrading outfits for secondary weapons of plugins in the entire pack
+		* (Shields Up) Unqiue outfits for the Servorum Dei!
+		* Phil Morley has joined the crew through his plugin, Phil's Flavours! Enjoy dozens of new ships and outfits from this amazing mod
+	Content Changes
+		* (Tufton) Renamed "Ion Beam Turret" to "Ion Laser Turret" to keep complability with Ursa Polaris
+		* (SU-Extra) The Extended Bunk Room is now unplunderable
+		* (Pompano's) Tuk'ux no have their own government instead of just being considered uninhabited
+		* (Pompano's) Replaced old ship images with new ones that swizzle better
+		* Any wormholes are now linked so that you may travel through them through the map
+		* Moved a number of systems from multiple plugins in order to keep compatibility with other mods and with the vanilla map. 
+		* (Shields Up) Removed regional pirate governments and fleets; all pirates are now the same government again.
+		* (Shields Up) Removed anything that changed vanilla outfits
+		* (Shields Up) Touched up Paul's mission chain
+		* (Shields Up) Changed the Homing Blaster to be less laggy
+		* (Shields Up) The Syndicate License is now triggered upon completing the plot so that the branch you take does not matter
+		* (Pompano's) The Tuk'ux now use all their ships in their fleets instead of just two of them
+		* (Shields Up) Removed "Easter Egg" person and touched up some mission dialog
+		* (Alphean's) Renamed the Shield Capacitors to appear in order of size in the outfitter
+		* Lots of awesome new hit effects and projectile sprites from @Spiral03
+		* (SU-Extra) The T2 Bactrian now has a running light animation (@Spiral03)
+		* (Shields Up) Removed a lot of wormholes and systems that were used as shortcuts in the vanilla map
+		* (That Someone) Changed Hai Absconded systems and planets to have outfitters and shipyard, attributes, and spawn Absconded fleets
+		* (Shields Up) Dominion are now hostile toward Merchants and have the unconstrained personality, while Deep fleets are now set to disable
+		* (Alphean's) Removed the I-1, I-2, and I-3 interference platings and replaced 1 and 3 with different versions, with the vanilla version of the plating being I-2
+		* (SU-Extra) Renamed the " Phoenix " to the Inferno
+		* (Shields Up) SU Korath Exile systems now have Korath Stations in them
+		* (Shields Up) Extended tutorial mission no longer have waypoints that you are required to visit in them
+		* (Alphean's) Removed ammo depots and secondary magazines as the vanilla game is getting capacity upgrading outfits
+		* (Alphean's) Gave the image of SU's Predator Drone to the Hunter Drone in Alphean's
+		* (Shields Up) Animated image for the Dominion Battlestar (@spiral03)
+		* (That Someone) Pug research and attack ships now self destruct when you try and board them
+		* (Shields Up) Changed Omicron Zeta from being linked to Algenib to being linked to Gamma Cassiopeaie
+	Balance Changes
+		* Ammunition now has mass and secondary weapons account for it to be in line with the vanilla game
+		* Large balance to almost all outfits and ships
+			* Human ships and outfits have been rebalanced to be more Tier 1; previously they were far more powerful than they should have been for humans
+			* The Dominion ships have been rebalanced to Tier 1.1, or more on par with Hai ships, but use Human outfits that they steal from unlucky human ships
+			* Servorum Dei ships are now Tier 1.5
+			* The Mil'taj are now Tier 2.5
+			* The Tuk'ux are now Tier 3
+	Bug Fixes
+		* Fixed all errors from the old version; stuff like quote errors, typos, and incorrectly entered numbers on stats
+		* Fixed a bunch of typos (@MessyMix)
+		* Dominion fleets now use proper names instead of pirate names
+		* Fixed a lot of hardpoint coordinates on ships and changed their outfits around so that they do not go into the negative on stats
+		* (Shields Up) Wezen now spawns more than just Dominion fleets
+	Removals
+		* Removed a bunch of redundant outfits and ships or just stuff that wasn't important at all: all human H2H outfits from Pompano's, Switchblade, Spearhead, Stealth Cruiser, Crew Card, Tactical Armor, Special Agent, Toaster Bot, FTek UMDB, Sentry Gun, Breacher Cannon, Tactical Armor, Rock Wall, FTek Bot Shelf, Rail Cannon, and Civilian Cloaking Device, Predator Drone, Alien Crew Outfits, I-1 -2 and -3 Interference platings, ammo depots and secondary magazines from ARE, X900 Experimental Engine, Tuk'ux Battlecruiser, Arachnid, Mite, and the Ion Torpedo Launcher
+	Misc
+		* Merged Friendly Tech and Shields Up into one folder
+		* Removed useless files and images
+		* (Shields Up) Changed the way that the compatibility events are handled
+		* Any information that was part of one plugin but located in another has been moved so that plugins may work mostly independently of other plugins.
