@@ -7423,7 +7423,7 @@ fleet "Navy Surveillance"
 	variant 1
 		"Gunboat GXV2" 2
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Gunboat GXV2"
 		"Gunboat"
 
@@ -7439,7 +7439,7 @@ fleet "Large Oathkeeper"
 		"Rainmaker"
 		"Gunboat"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker"
 		"Gunboat"
 	variant 1
@@ -7472,28 +7472,28 @@ fleet "Large Oathkeeper"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Frigate" 2
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Rainmaker" 
 		"Gunboat"
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Frigate"
 	variant 1
-		"RNS Destroyer"
-		"RNS Destroyer A"
+		"Destroyer"
+		"Destroyer A"
 	variant 1
 		"Frigate" 2
 		"Rainmaker"
 		"Gunboat GXV2"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker"
 		"Gunboat GXV2"
 	variant 1
@@ -7520,7 +7520,7 @@ fleet "Large Oathkeeper"
 		"Rainmaker" 
 		"Gunboat" 
 		"Gunboat GXV2" 
-		"RNS Destroyer"
+		"Destroyer"
 	variant 1
 		"Frigate"
 		"Rainmaker" 2
@@ -7531,12 +7531,12 @@ fleet "Large Oathkeeper"
 		"Gunboat GXV2"
 		"Gunboat GXV2 A"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2" 
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2 A" 
@@ -7573,7 +7573,7 @@ fleet "Large Republic"
 		"Rainmaker"
 		"Gunboat"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker"
 		"Gunboat"
 	variant 1
@@ -7606,28 +7606,28 @@ fleet "Large Republic"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Frigate" 2
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Rainmaker" 
 		"Gunboat"
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Frigate"
 	variant 1
-		"RNS Destroyer"
-		"RNS Destroyer A"
+		"Destroyer"
+		"Destroyer A"
 	variant 1
 		"Frigate" 2
 		"Rainmaker"
 		"Gunboat GXV2"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker"
 		"Gunboat GXV2"
 	variant 1
@@ -7654,7 +7654,7 @@ fleet "Large Republic"
 		"Rainmaker" 
 		"Gunboat" 
 		"Gunboat GXV2" 
-		"RNS Destroyer"
+		"Destroyer"
 	variant 1
 		"Frigate"
 		"Rainmaker" 2
@@ -7665,12 +7665,12 @@ fleet "Large Republic"
 		"Gunboat GXV2"
 		"Gunboat GXV2 A"
 	variant 1
-		"RNS Destroyer"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2" 
 	variant 1
-		"RNS Destroyer A"
+		"Destroyer A"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2 A" 
@@ -7701,7 +7701,7 @@ fleet "Large Republic"
 		"Rainmaker" 
 		"Gunboat" 
 		"Gunboat GXV2" 
-		"RNS Destroyer"
+		"Destroyer"
 
 fleet "pirate raid"
 	government "Pirate"
