@@ -1,5 +1,5 @@
 shipyard "Navy Advanced"
-	"RNS Destroyer"
+	"Destroyer"
 	"Gunboat GXV2"
 	"Alliance Battleship"
 
@@ -115,8 +115,8 @@ ship "Gunboat GXV2"
 	description "Designed as a strong fighter or escort for larger ships, the GXV2 model of the gunboat repurposes the space and equipment of the original to add two extra gun ports."
 
 	
-ship "RNS Destroyer"
-	sprite "ship/RNS destroyer"
+ship "Destroyer"
+	sprite "ship/destroyer"
 	licenses
 		Navy
 	attributes
@@ -166,9 +166,9 @@ ship "RNS Destroyer"
 	explode "medium explosion" 30
 	explode "large explosion" 20
 	"final explode" "final explosion large" 1
-	description "The RNS Destroyer is placed between a frigate and a cruiser in both size and armament. Often used to lead a small fleet of gunboats and rainmakers, it also has sufficient shields and weaponary to act on its own."
+	description "The Destroyer is placed between a frigate and a cruiser in both size and armament. Often used to lead a small fleet of gunboats and rainmakers, it also has sufficient shields and weaponary to act on its own."
 	
-ship "RNS Destroyer" "RNS Destroyer A"
+ship "Destroyer" "Destroyer A"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -186,7 +186,7 @@ ship "RNS Destroyer" "RNS Destroyer A"
 		"Tactical Military Outfit" 40
 		"Particle Cannon Turret" 3
 		"Tactical Body Armor" 40
-ship "RNS Destroyer" "RNS Destroyer (Mark II)"
+ship "Destroyer" "Destroyer (Mark II)"
 	outfits
 		"Hyperdrive"
 		"A370 Atomic Thruster"
