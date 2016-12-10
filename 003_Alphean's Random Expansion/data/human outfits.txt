@@ -46,7 +46,7 @@ outfit "XF-111 Ship Core"
 	"energy generation" 0.5
 	"heat generation" 0.5
 	"shield generation" 0.06
-    "shield energy" 0.06
+	"shield energy" 0.06
 	"energy capacity" 300
 	description "A very handy multi-purpose outfit commonly found on the smaller sized ships like interceptors."
 
@@ -59,7 +59,7 @@ outfit "XF-333 Ship Core"
 	"energy generation" 1
 	"heat generation" 1
 	"shield generation" 0.11
-    "shield energy" 0.11
+	"shield energy" 0.11
 	"energy capacity" 600
 	"jump speed" 0.1
 	"hyperdrive" 1
@@ -74,7 +74,7 @@ outfit "XF-555 Ship Core"
 	"energy generation" 1.8
 	"heat generation" 1.8
 	"shield generation" 0.17
-    "shield energy" 0.17
+	"shield energy" 0.17
 	"energy capacity" 900
 	"jump speed" 0.2
 	"hyperdrive" 1
