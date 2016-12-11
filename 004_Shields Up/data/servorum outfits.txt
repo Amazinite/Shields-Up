@@ -198,8 +198,8 @@ outfit "Overdrive Aries Thruster"
 	"engine capacity" -9
 	"thrust" 6.8
 	"afterburner thrust" 6.8
-	"thrusting energy" 1.7
-	"afterburner energy" 3.4
+	"thrusting energy" 1.2
+	"afterburner energy" 2.4
 	"thrusting heat" .9
 	"afterburner heat" 1.8
 	"flare sprite" "effect/overdrive flare/tiny"
@@ -217,8 +217,8 @@ outfit "Overdrive Draco Thruster"
 	"engine capacity" -17
 	"thrust" 14.8
 	"afterburner thrust" 14.8
-	"thrusting energy" 3.4
-	"afterburner energy" 6.8
+	"thrusting energy" 2.4
+	"afterburner energy" 4.8
 	"thrusting heat" 1.7
 	"afterburner heat" 3.4
 	"flare sprite" "effect/overdrive flare/small"
@@ -236,8 +236,8 @@ outfit "Overdrive Hydra Thruster"
 	"engine capacity" -39
 	"thrust" 36.1
 	"afterburner thrust" 36.1
-	"thrusting energy" 7.1
-	"afterburner energy" 14.2
+	"thrusting energy" 5.7
+	"afterburner energy" 11.4
 	"thrusting heat" 3.6
 	"afterburner heat" 7.2
 	"flare sprite" "effect/overdrive flare/medium"
@@ -255,8 +255,8 @@ outfit "Overdrive Orion Thruster"
 	"engine capacity" -54
 	"thrust" 59.4
 	"afterburner thrust" 59.4
-	"thrusting energy" 11
-	"afterburner energy" 22
+	"thrusting energy" 9.2
+	"afterburner energy" 18.4
 	"thrusting heat" 5.5
 	"afterburner heat" 11
 	"flare sprite" "effect/overdrive flare/large"
@@ -274,8 +274,8 @@ outfit "Overdrive Virgo Thruster"
 	"engine capacity" -79
 	"thrust" 92.2
 	"afterburner thrust" 92.2
-	"thrusting energy" 15.5
-	"afterburner energy" 31
+	"thrusting energy" 14.1
+	"afterburner energy" 28.2
 	"thrusting heat" 7.7
 	"afterburner heat" 15.4
 	"flare sprite" "effect/overdrive flare/huge"
@@ -292,7 +292,7 @@ outfit "Overdrive Aries Steering"
 	"outfit space" -18
 	"engine capacity" -18
 	"turn" 484
-	"turning energy" 2.3
+	"turning energy" 1.5
 	"turning heat" 0.8
 	"energy capacity" 968
 	description "Unlike the engines of other species, the Servorum have developed their steering outfits to be larger than their thruster outfits of the same size. This is to allow more space to integrate batteries into the steering that support the Overdrive Afterburners on the thrusters."
@@ -305,7 +305,7 @@ outfit "Overdrive Draco Steering"
 	"outfit space" -35
 	"engine capacity" -35
 	"turn" 1064
-	"turning energy" 4.4
+	"turning energy" 3.1
 	"turning heat" 1.6
 	"energy capacity" 2128
 	description "Unlike the engines of other species, the Servorum have developed their steering outfits to be larger than their thruster outfits of the same size. This is to allow more space to integrate batteries into the steering that support the Overdrive Afterburners on the thrusters."
@@ -318,7 +318,7 @@ outfit "Overdrive Hydra Steering"
 	"outfit space" -66
 	"engine capacity" -66
 	"turn" 2222
-	"turning energy" 18
+	"turning energy" 6.4
 	"turning heat" 3.2
 	"energy capacity" 4444
 	description "Unlike the engines of other species, the Servorum have developed their steering outfits to be larger than their thruster outfits of the same size. This is to allow more space to integrate batteries into the steering that support the Overdrive Afterburners on the thrusters."
@@ -331,7 +331,7 @@ outfit "Overdrive Orion Steering"
 	"outfit space" -90
 	"engine capacity" -90
 	"turn" 3429
-	"turning energy" 11.6
+	"turning energy" 9.7
 	"turning heat" 4.7
 	"energy capacity" 6858
 	description "Unlike the engines of other species, the Servorum have developed their steering outfits to be larger than their thruster outfits of the same size. This is to allow more space to integrate batteries into the steering that support the Overdrive Afterburners on the thrusters."
@@ -344,7 +344,7 @@ outfit "Overdrive Virgo Steering"
 	"outfit space" -119
 	"engine capacity" -119
 	"turn" 4864
-	"turning energy" 14.9
+	"turning energy" 13.3
 	"turning heat" 6.5
 	"energy capacity" 9728
 	description "Unlike the engines of other species, the Servorum have developed their steering outfits to be larger than their thruster outfits of the same size. This is to allow more space to integrate batteries into the steering that support the Overdrive Afterburners on the thrusters."
