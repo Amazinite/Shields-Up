@@ -15,7 +15,7 @@ outfit "Incinerator Beam"
 	"mass" 32
 	"outfit space" -32
 	"weapon capacity" -32
-	"turret mounts" -1
+	"gun ports" -1
 	"required crew" 1
 	weapon
 		sprite "projectile/Incineratorbeam"
