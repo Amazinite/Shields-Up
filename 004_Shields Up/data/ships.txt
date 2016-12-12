@@ -218,7 +218,7 @@ ship "Derelict"
 		category "Heavy Warship"
 		"cost" 8800000
 		"shields" 12000
-		"hull" 74000
+		"hull" 7400
 		"required crew" 54
 		"bunks" 58
 		"mass" 540
