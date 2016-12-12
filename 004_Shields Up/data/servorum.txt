@@ -130,7 +130,7 @@ ship "Albacore"
 	engine 22 60
 	gun -19 -73 "Particle Accelerator"
 	gun 19 -73 "Particle Accelerator"
-	turret 0 0 "Mil'taj Anti-Missile Turret"
+	turret 0 0
 	explode "tiny explosion" 10
 	explode "small explosion" 20
 	explode "medium explosion" 30
