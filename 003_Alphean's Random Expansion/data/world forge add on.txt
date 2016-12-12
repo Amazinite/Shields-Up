@@ -8,32 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfitter "AE Alr"
-	"Alr Vatra Beam"
-	"Alr Vatra Beam Turret"
-	"Alr Anti-Missile"
-	"Alr Ukrasti Turret"
-	"Alr Kanadi Thruster"
-	"Alr Kanadi Steering"
-	"Alr Evropi Thruster"
-	"Alr Evropi Steering"
-	"Alr Australiji Thruster"
-	"Alr Australiji Steering"
-	"Alr Americi Thruster"
-	"Alr Americi Steering"
-	"Alr 'Zagreb' Core"
-	"Alr 'Visegrad' Core"
-	"Alr 'Mercy' Core"
-	"Alr 'Srebrenica' Generator"
-	"Alr 'Sarajevo' Generator"
-	"Alr Artilerija"
-	"Alr Artilerija Turret"
-	"Alr Vucijak Projector"
-	"Alr Zemlja Projector"
-	"Alr Kartara Absorber"
-	"Alr Heat Shunt"
-	"Alr Plasma Shunt"
-
 outfitter "AE Human"
 	"RCS10 Steering"
 	"RCS15 Thruster"
@@ -104,18 +78,6 @@ outfitter "AE Sentar"
 	"S3NTAR Reactor"
 	"Nebulon Beam Turret"
 
-shipyard "AE Alr"
-	"Alr Velika"
-	"Alr Mali-1"
-	"Alr Mali-5"
-	"Alr Mali-15"
-	"Alr Nositi Lijevo"
-	"Alr Nositi Desno"
-	"Alr Nositi Sredisnji"
-	"Alr Braniti"
-	"Alr Krajina"
-	"Alr Spektar"
-
 shipyard "AE Human"
 	"Hunter Drone"
 	"Aerie (Drone)"
@@ -170,21 +132,17 @@ outfitter deprecated
 
 planet Mods
 	outfitter "AE Human"
-	outfitter "AE Alr"
 	outfitter "AE Sentar"
 	outfitter "AE Federation"
 	shipyard "AE Human"
-	shipyard "AE Alr"
 	shipyard "AE Sentar"
 	shipyard "AE Federation"
 
 planet Forge
 	outfitter "AE Human"
-	outfitter "AE Alr"
 	outfitter "AE Sentar"
 	outfitter "AE Federation"
 	shipyard "AE Human"
-	shipyard "AE Alr"
 	shipyard "AE Sentar"
 	shipyard "AE Federation"
 
@@ -193,66 +151,6 @@ planet Human
 	outfitter "AE Federation"
 	shipyard "AE Human"
 	shipyard "AE Federation"
-
-mission "Add Alr Military License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives you an Alr Military license."
-	on accept
-		set "license: Alr Military"
-		fail
-
-mission "Remove Alr Military License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives your Alr Military license."
-	on accept
-		clear "license: Alr Military"
-		fail
-
-mission "Add Alr Mixed License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives you an Alr Mixed license."
-	on accept
-		set "license: Alr Mixed"
-		fail
-
-mission "Remove Alr Mixed License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives your Alr Mixed license."
-	on accept
-		clear "license: Alr Mixed"
-		fail
-
-mission "Add Alr Civilian License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives you an Alr Civilian license."
-	on accept
-		set "license: Alr Civilian"
-		fail
-
-mission "Remove Alr Civilian License"
-	repeat
-	job
-	source
-		attributes forgelicenses
-	description "Gives your Alr Civilian license."
-	on accept
-		clear "license: Alr Civilian"
-		fail
 
 mission "Add Terror of the Galaxy License"
 	repeat
