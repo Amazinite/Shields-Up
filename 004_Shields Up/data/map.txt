@@ -235,7 +235,6 @@ system "Deus Glorificat"
 	fleet "Large Plenipotent Dominion" 1500
 	fleet "Small Plenipotent Dominion" 600
 	fleet "Small Southern Pirates" 2000
-	fleet "Plenipotent Heavy Assault Fleet" 10000
 	object
 		sprite star/f0
 		period 10
@@ -951,7 +950,6 @@ system "Kor Dok'tal"
 	trade Metal 338
 	trade Plastic 266
 	fleet "Korath Raid" 20000
-	fleet "Plenipotent Heavy Assault Fleet" 10000
 	object
 		sprite star/g5
 		distance 41.5898
@@ -5250,7 +5248,6 @@ system "Pax Imperius"
 	trade Plastic 372
 	fleet "Small Southern Pirates" 1300
 	fleet "Large Southern Pirates" 2700
-	fleet "Plenipotent Heavy Assault Fleet" 10000
 	fleet "Small Plenipotent Dominion" 2000
 	object
 		sprite star/k0
@@ -8995,7 +8992,6 @@ system Tyrant
 	trade Metal 390
 	trade Plastic 390
 	fleet "Large Plenipotent Dominion" 2500
-	fleet "Plenipotent Heavy Assault Fleet" 15000
 	fleet "Small Plenipotent Dominion" 1500
 	object
 		sprite star/a5
@@ -9224,7 +9220,6 @@ system Zorica
 	fleet "Large Northern Merchants" 23000
 	fleet "Small Plenipotent Dominion" 3500
 	fleet "Large Plenipotent Dominion" 4000
-	fleet "Plenipotent Heavy Assault Fleet" 15000
 	object
 		sprite star/f0
 		period 10
@@ -9384,7 +9379,7 @@ planet "Epica Citadel"
 	security 0.45
 	tribute 2700
 		threshold 30000
-		fleet "Plenipotent Heavy Assault Fleet" 10
+		fleet "Large Plenipotent Dominion" 10
 
 planet Exemption
 	landscape land/Fimage8
@@ -9440,7 +9435,7 @@ planet "Gol Gotha"
 	security 0.3
 	tribute 2100
 		threshold 30000
-		fleet "Plenipotent Heavy Assault Fleet" 6
+		fleet "Large Plenipotent Dominion" 6
 
 planet Hoirk'n
 	attributes quargworld

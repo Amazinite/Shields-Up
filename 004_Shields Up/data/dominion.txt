@@ -8,365 +8,108 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "Stiletto"
-	sprite "ship/Stiletto"
-	attributes
-		category "Transport"
-		"cost" 1650000
-		"shields" 3200
-		"hull" 800
-		"required crew" 1
-		"bunks" 8
-		"mass" 150
-		"drag" 2.6
-		"heat dissipation" .75
-		"fuel capacity" 900
-		"cargo space" 20
-		"outfit space" 285
-		"weapon capacity" 70
-		"engine capacity" 110
-		"self destruct" .8
-		"cloak" .05
-		"cloaking energy" 4
-		weapon
-			"blast radius" 30
-			"shield damage" 300
-			"hull damage" 150
-			"hit force" 450
-	outfits
-		"Particle Accelerator"
-		"Heavy Anti-Missile Turret"
-		"Toaster Bot" 8
+fleet "Plenipotent Dominion Scout"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		surveillance
+	variant
+		"Stiletto"
 
-		"Fission Reactor"
-		"LP036a Battery Pack"
-		"FTek Tiny Shield System"
-		"Water Coolant System"
-		"Cooling Ducts"
+fleet "Small Plenipotent Dominion"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		heroic unconstrained
+	variant 10
+		"Corvo"
+	variant 9
+		"Corvo" 2
+	variant 7
+		"Corvo" 5
+	variant 9
+		"Sica"
+	variant 8
+		"Sica" 2
+	variant 7
+		"Sica" 3
+	variant 6
+		"Sica"
+		"Corvo" 2
+	variant 5
+		"Sica"
+		"Corvo" 3
+	variant 4
+		"Sica" 2
+		"Corvo"
+	variant 4
+		"Nefandous"
+	variant 3
+		"Nefandous"
+		"Sica" 2
+	variant 2
+		"Nefandous"
+		"Corvo" 3
+	variant 2
+		"Nefandous" 2
+	variant 1
+		"Nefandous" 3
 
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 62
-	gun 0 -33
-	turret 0 9
-	explode "tiny explosion" 10
-	explode "small explosion" 15
-	description "Somewhere in between a transport and an intercepter, the Stiletto is a stealth craft capable of rendering itself invisible to sneak behind enemy lines, performing undercover mssions for the Dominion. Although if needed, it can handle other craft of similar size."
-
-ship "Corvo"
-	sprite "ship/Corvo"
-	attributes
-		category "Light Freighter"
-		"cost" 700000
-		"shields" 3600
-		"hull" 600
-		"required crew" 2
-		"bunks" 6
-		"mass" 200
-		"drag" 3.5
-		"heat dissipation" .8
-		"fuel capacity" 400
-		"cargo space" 80
-		"outfit space" 260
-		"weapon capacity" 70
-		"engine capacity" 80
-		"self destruct" .2
-		weapon
-			"blast radius" 16
-			"shield damage" 160
-			"hull damage" 80
-			"hit force" 240
-	outfits
-		"Particle Accelerator" 2
-		"Toaster Bot" 6
-
-		"Dwarf Core"
-		"FTek021 Rechargable Battery"
-		"FTek Small Shield System"
-		"FTek Tiny Shield System"
-		"Water Coolant System"
-
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 49.5
-	gun -27 -13.5
-	gun 27 -13.5
-	explode "tiny explosion" 10
-	explode "small explosion" 10
-	explode	"medium explosion" 5
-	description "The Corvo is the used by the Dominion as a light freighter, generally seen along side other ships while transporting goods across the Galaxy."
-
-ship "Sica"
-	sprite "ship/Sica"
-	attributes
-		category "Light Warship"
-		"cost" 2500000
-		"shields" 7200
-		"hull" 1100
-		"required crew" 8
-		"bunks" 16
-		"mass" 200
-		"drag" 4.2
-		"heat dissipation" .7
-		"fuel capacity" 500
-		"cargo space" 15
-		"outfit space" 350
-		"weapon capacity" 120
-		"engine capacity" 95
-		"self destruct" .3
-		weapon
-			"blast radius" 72
-			"shield damage" 720
-			"hull damage" 360
-			"hit force" 1200
-	outfits
-		"Particle Accelerator" 2
-		"Anti-Missile Turret" 2
-		"Toaster Bot" 16
-
-		"Fission Reactor"
-		"FTek021 Rechargable Battery"
-		"Liquid Nitrogen Cooler"
-		"FTek Small Shield System"
-
-		"Integrated Greyhound Engines" # Part of Phil's Flavours
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 63.5
-	gun -14 -12.5
-	gun 14 -12.5
-	turret 0 -17.5
-	turret 0 24.5
-	explode "tiny explosion" 10
-	explode "small explosion" 15
-	explode	"medium explosion" 15
-	description "The Sica is the mass produced light warship of the Dominion. Despite the speed at which they are produced, the Sica is still a powerful ship capable of competing against even a Navy Frigate."
-
-ship "Nefandous"
-	sprite "ship/Nefandous"
-	attributes
-		category "Medium Warship"
-		"cost" 4500000
-		"shields" 11700
-		"hull" 1300
-		"required crew" 20
-		"bunks" 38
-		"mass" 320
-		"drag" 6.4
-		"heat dissipation" .6
-		"fuel capacity" 600
-		"cargo space" 30
-		"outfit space" 480
-		"weapon capacity" 200
-		"engine capacity" 105
-		"self destruct" .3
-		weapon
-			"blast radius" 100
-			"shield damage" 1000
-			"hull damage" 500
-			"hit force" 1500
-	outfits
-		"Particle Accelerator" 4
-		"Heavy Anti-Missile Turret" 2
-		"Toaster Bot" 38
-
-		"Fission Reactor"
-		"FTek021 Rechargable Battery" 2
-		"Liquid Nitrogen Cooler"
-		"FTek Small Shield System"
-
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 70
-	gun -8.5 -70
-	gun 8.5 -70
-	gun -22 -6
-	gun 22 -6
-	turret -38 2
-	turret 38 2
-	turret 0 33
-	explode "tiny explosion" 10
-	explode "small explosion" 30
-	explode "medium Explosion" 20
-	description "The Nefandous used primarily as a support craft for larger fleets. Alone is can support itself to an extent, but it can be easily overrun by enemies, making it better to be used in fleets."
-
-ship "Napoo"
-	sprite "ship/Napoo"
-	attributes
-		category "Heavy Warship"
-		"cost" 21750000
-		"shields" 45000
-		"hull" 9000
-		"required crew" 73
-		"bunks" 124
-		"mass" 630
-		"drag" 14.3
-		"heat dissipation" .5
-		"fuel capacity" 600
-		"cargo space" 60
-		"outfit space" 850
-		"weapon capacity" 300
-		"engine capacity" 160
-		"self destruct" .6
-		weapon
-			"blast radius" 400
-			"shield damage" 4000
-			"hull damage" 2000
-			"hit force" 3000
-	outfits
-		"Particle Accelerator" 6
-		"Heavy Anti-Missile Turret" 3
-		"Toaster Bot" 124
-
-		"Fusion Reactor"
-		"FTek021 Rechargable Battery" 3
-		"Liquid Helium Cooler"
-		"FTek Huge Shield System" 2
-		"FTek Medium Shield System"
-
-		"Impala Plasma Thruster"
-		"Chipmunk Plasma Thruster"
-		"Orca Plasma Steering"
-		"Jump Drive"
-		"Hyperdrive"
-
-	engine 0 115
-	gun -29.5 -89.5
-	gun 29.5 -89.5
-	gun -22 -98
-	gun 22 -98
-	gun -13.5 -111.5
-	gun 13.5 -111.5
-	turret -26.5 34.5
-	turret 26.5 34.5
-	turret 0 63
-	explode "tiny explosion" 20
-	explode "small explosion" 45
-	explode "medium explosion" 50
-	explode "big explosion" 40
-	explode "huge explosion" 10
-	description "A fusion of both human and alien design, the Napoo is an ideal warship for the Plenipotent Dominion to handle both humans and lesser alien species."
-
-# ship "Gunong"
-
-ship "Kukri"
-	sprite "ship/Kukri"
-	attributes
-		category "Medium Warship"
-		"cost" 8000000
-		"shields" 85000
-		"hull" 4700
-		"required crew" 25
-		"bunks" 60
-		"mass" 580
-		"drag" 11.4
-		"heat dissipation" .7
-		"energy generation" 1.5
-		"fuel capacity" 800
-		"cargo space" 40
-		"outfit space" 560
-		"weapon capacity" 205
-		"engine capacity" 180
-		"self destruct" .5
-		weapon
-			"blast radius" 260
-			"shield damage" 2600
-			"hull damage" 1300
-			"hit force" 3900
-	outfits
-		"Particle Accelerator"
-		"Mil'taj Point-Defence Turret" 4
-		"Mil'taj Anti-Missile Turret" 2
-		
-		"Mil'taj Black Generator"
-		"Mil'taj Grey Generator" 2
-		"Mil'taj Cooling Unit" 2
-		"Mil'taj Condensed Battery"
-		"Catalytic Ramscoop"
-		"Toaster Bot" 17
-		
-		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Jump Drive"
-		"Hyperdrive"
-		
-	engine 0 57
-	gun 0 -26 "Particle Accelerator"
-	turret -40 12 "Mil'taj Point-Defence Turret"
-	turret 40 12 "Mil'taj Point-Defence Turret"
-	turret -47 37 "Mil'taj Point-Defence Turret"
-	turret 47 37 "Mil'taj Point-Defence Turret"
-	turret -11 -1 "Mil'taj Anti-Missile Turret"
-	turret 11 -1 "Mil'taj Anti-Missile Turret"
-	explode "tiny explosion" 20
-	explode "small explosion" 45
-	explode "medium explosion" 50
-	explode "big explosion" 40
-	explode "huge explosion" 10
-	description "The Kukri is one of the Dominion's main series warships, which are carefully created and not mass produced like many of the other Dominion ships that one would see. Given the time taken to create one, the Kukri is a much more powerful ship, able to tangle with alien species stronger than humanity such as the Korath or Wanderers."
-
-# ship "Pugio"
-
-# ship "Dirk"
-
-ship "Spetum"
-	sprite "ship/Spetum"
-	attributes
-		category "Heavy Warship"
-		"cost" 30000000
-		"shields" 150000
-		"hull" 7000
-		"required crew" 50
-		"bunks" 200
-		"mass" 1300
-		"drag" 16.5
-		"heat dissipation" .8
-		"fuel capacity" 600
-		"cargo space" 150
-		"outfit space" 670
-		"weapon capacity" 250
-		"engine capacity" 200
-		"self destruct" .7
-		weapon
-			"blast radius" 160
-			"shield damage" 1600
-			"hull damage" 800
-			"hit force" 2400
-	outfits
-		"Particle Accelerator" 2
-		"Mil'taj Point-Defence Turret" 4
-		"Mil'taj Anti-Missile Turret" 2
-		
-		"Mil'taj Black Generator" 3
-		"Mil'taj Gray Generator"
-		"Mil'taj Condensed Battery"
-		"Mil'taj Cooling Unit" 3
-		"Toaster Bot" 30
-		
-		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Jump Drive"
-		"Hyperdrive"
-		
-	engine -22 153.5
-	engine 22 153.5
-	gun -32 -154.5 "Particle Accelerator"
-	gun 32 -154.5 "Particle Accelerator"
-	turret -55 -52.5 "Mil'taj Point-Defence Turret"
-	turret 55 -52.5 "Mil'taj Point-Defence Turret"
-	turret 0 .5 "Mil'taj Anti-Missile Turret"
-	turret 0 100.5 "Mil'taj Anti-Missile Turret"
-	turret -47 68.5 "Mil'taj Point-Defence Turret"
-	turret 47 68.5 "Mil'taj Point-Defence Turret"
-	explode "tiny explosion" 40
-	explode "small explosion" 55
-	explode "medium explosion" 60
-	explode "big explosion" 50
-	description "The crown jewel of FTek inginuity, a beast capable of shredding everything in it's path if piloted by the right crew."
+fleet "Large Plenipotent Dominion"
+	government "Plenipotent Dominion"
+	names "plenipotent"
+	cargo 1
+	personality
+		heroic unconstrained
+	variant 20
+		"Sica" 2
+		"Corvo" 2
+	variant 18
+		"Sica" 2
+		"Corvo" 3
+	variant 16
+		"Sica" 3
+		"Corvo" 2
+	variant 16
+		"Nefandous" 2
+		"Sica" 2
+	variant 14
+		"Nefandous" 2
+		"Sica" 3
+	variant 12
+		"Nefandous" 3
+		"Sica" 3
+	variant 12
+		"Napoo"
+	variant 10
+		"Napoo" 2
+	variant 8
+		"Napoo" 3
+	variant 8
+		"Napoo"
+		"Sica" 3
+	variant 7
+		"Napoo"
+		"Sica" 4
+	variant 6
+		"Napoo"
+		"Sica" 5
+	variant 5
+		"Napoo"
+		"Nefandous"
+	variant 4
+		"Napoo"
+		"Nefandous" 2
+	variant 3
+		"Napoo"
+		"Nefandous" 3
+	variant 2
+		"Napoo"
+		"Nefandous" 2
+		"Sica"
+	variant 1
+		"Napoo" 2
+		"Nefandous" 2
+		"Sica" 3
