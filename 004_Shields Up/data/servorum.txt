@@ -97,7 +97,7 @@ ship "Albacore"
 		category "Light Warship"
 		"cost" 3650000
 		"shields" 9400
-		"hull" 3000
+		"hull" 3600
 		"required crew" 7
 		"bunks" 20
 		"mass" 380
@@ -142,8 +142,8 @@ ship "Gourami"
 	attributes
 		category "Medium Warship"
 		"cost" 8000000
-		"shields" 10600
-		"hull" 7300
+		"shields" 13600
+		"hull" 6300
 		"required crew" 30
 		"bunks" 70
 		"mass" 530
@@ -199,8 +199,8 @@ ship "Cisco"
 	attributes
 		category "Heavy Warship"
 		"cost" 17500000
-		"shields" 11400
-		"hull" 16500
+		"shields" 28400
+		"hull" 14500
 		"required crew" 70
 		"bunks" 130
 		"mass" 980
