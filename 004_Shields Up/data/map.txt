@@ -25,8 +25,8 @@ system Agon
 	asteroids "small metal" 45 1.8135
 	asteroids "medium metal" 10 1.716
 	asteroids "large metal" 114 2.262
-	fleet "Large Plenipotent Dominion" 1600
-	fleet "Small Plenipotent Dominion" 500
+	fleet "Large Plenipotent Dominion" 4000
+	fleet "Small Plenipotent Dominion" 1000
 	object
 		sprite star/a0
 		period 10
@@ -232,8 +232,8 @@ system "Deus Glorificat"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 1500
-	fleet "Small Plenipotent Dominion" 600
+	fleet "Large Plenipotent Dominion" 3000
+	fleet "Small Plenipotent Dominion" 1000
 	fleet "Small Southern Pirates" 2000
 	object
 		sprite star/f0
@@ -300,7 +300,7 @@ system Enfin
 	trade Plastic 372
 	fleet Quarg 900
 	fleet "Small Militaj" 3500
-	fleet "Small Plenipotent Dominion" 1200
+	fleet "Small Plenipotent Dominion" 1500
 	object
 		sprite star/g0
 		period 10
@@ -363,7 +363,7 @@ system "Epsilon Sagitarii"
 	trade Metal 329
 	trade Plastic 372
 	fleet Quarg 700
-	fleet "Small Plenipotent Dominion" 1300
+	fleet "Small Plenipotent Dominion" 1500
 	fleet "Large Militaj" 5000
 	fleet "Small Militaj" 4000
 	object
@@ -476,10 +476,10 @@ system "Eta Carinae"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Servorum Dei" 1500
+	fleet "Large Servorum Dei" 4500
 	fleet "Small Militaj" 6500
 	fleet "Large Militaj" 8000
-	fleet "Small Servorum Dei" 700
+	fleet "Small Servorum Dei" 2000
 	object
 		sprite star/nebula1
 		distance 15.6664
@@ -505,8 +505,8 @@ system "Eta Piscium"
 	trade Medical 790
 	trade Metal 290
 	trade Plastic 340
-	fleet "Large Servorum Dei" 1000
-	fleet "Small Servorum Dei" 500
+	fleet "Large Servorum Dei" 3500
+	fleet "Small Servorum Dei" 1200
 	fleet "Large Militaj" 9000
 	fleet "Small Militaj" 7500
 	object
@@ -620,8 +620,8 @@ system Gambit
 	trade Plastic 460
 	fleet "Large Servorum Dei" 2500
 	fleet "Small Servorum Dei" 1500
-	fleet "Small Plenipotent Dominion" 800
-	fleet "Large Plenipotent Dominion" 1500
+	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 2500
 	fleet "Small Southern Pirates" 2000
 	object
 		sprite star/g5
@@ -1244,8 +1244,8 @@ system Mechanus
 	trade Medical 760
 	trade Metal 250
 	trade Plastic 460
-	fleet "Large Servorum Dei" 1500
-	fleet "Small Servorum Dei" 700
+	fleet "Large Servorum Dei" 4000
+	fleet "Small Servorum Dei" 1500
 	object
 		sprite star/k5
 		period 10
@@ -4735,7 +4735,7 @@ system Niffleheim
 	fleet "Small Southern Pirates" 1000
 	fleet "Large Southern Pirates" 3000
 	fleet "Small Militaj" 9000
-	fleet "Small Servorum Dei" 900
+	fleet "Small Servorum Dei" 1200
 	object
 		sprite star/b5
 		distance 23.6837
@@ -4799,7 +4799,7 @@ system "Omega Kappa"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Large Plenipotent Dominion" 2000
-	fleet "Small Plenipotent Dominion" 900
+	fleet "Small Plenipotent Dominion" 1000
 	fleet "Small Core Pirates" 1500
 	object
 		sprite star/m0
@@ -5124,8 +5124,8 @@ system "Pax Cruciatus"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 1500
-	fleet "Small Plenipotent Dominion" 600
+	fleet "Large Plenipotent Dominion" 3000
+	fleet "Small Plenipotent Dominion" 1000
 	object
 		sprite star/k0
 		period 10
@@ -5185,7 +5185,7 @@ system "Pax Draconis"
 	trade Medical 791
 	trade Metal 329
 	trade Plastic 372
-	fleet "Large Plenipotent Dominion" 2000
+	fleet "Large Plenipotent Dominion" 3000
 	fleet "Small Plenipotent Dominion" 1000
 	object
 		sprite star/m8
@@ -8846,9 +8846,9 @@ system "Sanctum Adroit"
 	trade Medical 770
 	trade Metal 430
 	trade Plastic 470
-	fleet "Large Servorum Dei" 1500
+	fleet "Large Servorum Dei" 4000
+	fleet "Small Servorum Dei" 1200
 	fleet "Small Plenipotent Dominion" 2800
-	fleet "Small Servorum Dei" 700
 	fleet "Large Plenipotent Dominion" 4000
 	object
 		sprite star/g5
