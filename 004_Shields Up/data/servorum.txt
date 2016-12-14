@@ -14,25 +14,25 @@ fleet "Small Servorum Dei"
 	cargo 1
 	personality
 		heroic disables
-	variant 10
-		"Catla"
-	variant 9
-		"Catla" 2
-	variant 8
-		"Catla" 3
-	variant 7
-		"Albacore" 2
-	variant 6
-		"Albacore" 3
 	variant 5
-		"Albacore" 4
+		"Catla"
+	variant 5
+		"Catla" 2
+	variant 4
+		"Catla" 3
 	variant 4
 		"Albacore"
-		"Catla" 2
 	variant 3
 		"Albacore" 2
-		"Catla"
+	variant 3
+		"Albacore" 3
+	variant 3
+		"Albacore"
+		"Catla" 2
 	variant 2
+		"Albacore" 2
+		"Catla"
+	variant 1
 		"Albacore" 2
 		"Catla" 2
 
@@ -42,47 +42,47 @@ fleet "Large Servorum Dei"
 	cargo 1
 	personality
 		heroic disables
-	variant 20
-		"Albacore" 2
-	variant 18
-		"Albacore" 4
-	variant 16
-		"Albacore" 6
-	variant 16
-		"Gourami"
-		"Arowana" 6
-	variant 15
-		"Gourami" 2
-		"Arowana" 12
-	variant 14
-		"Albacore" 2
-		"Gourami"
-		"Arowana" 6
-	variant 13
-		"Albacore" 3
-		"Gourami" 2
-		"Arowana" 12
-	variant 12
-		"Cisco"
-	variant 11
-		"Cisco" 2
 	variant 10
-		"Cisco" 3
-	variant 9
-		"Cisco"
 		"Albacore" 2
-	variant 8
-		"Cisco" 2
+	variant 10
 		"Albacore" 3
+	variant 9
+		"Albacore" 4
+	variant 8
+		"Gourami"
+		"Arowana" 6
+	variant 7
+		"Gourami" 2
+		"Arowana" 12
+	variant 7
+		"Albacore" 2
+		"Gourami"
+		"Arowana" 6
+	variant 6
+		"Albacore"
+		"Gourami" 2
+		"Arowana" 12
 	variant 6
 		"Cisco"
+	variant 5
+		"Cisco" 2
+	variant 4
+		"Cisco" 3
+	variant 6
+		"Cisco"
+		"Albacore"
+	variant 5
+		"Cisco"
+		"Albacore" 2
+	variant 3
+		"Cisco"
 		"Gourami"
 		"Arowana" 6
-	variant 5
+	variant 2
 		"Cisco"
 		"Gourami" 2
 		"Arowana" 12
-	variant 4
+	variant 2
 		"Cisco" 2
 		"Gourami"
 		"Arowana" 6
@@ -95,4 +95,4 @@ fleet "Large Servorum Dei"
 		"Cisco"
 		"Gourami" 2
 		"Arowana" 12
-		"Albacore" 4
+		"Albacore" 3
