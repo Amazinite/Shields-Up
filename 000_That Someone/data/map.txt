@@ -302,7 +302,7 @@ system "Long Trajet"
 		sprite planet/desert3
 		distance 641.591
 		period 167.512
-	object "Wormhole 300"
+	object "Wormhole Absconded"
 		sprite planet/wormhole
 		distance 1050.15
 		period 350.782
@@ -444,68 +444,6 @@ system "Soom Ho"
 		distance 2675.14
 		period 2062.65
 		offset 17.2236
-
-system Voyage
-	pos 815 141
-	government Quarg
-	habitable 1111.68
-	asteroids "small rock" 9 7.2732
-	asteroids "medium rock" 30 4.6284
-	asteroids "large rock" 1 7.9344
-	asteroids "medium metal" 9 3.5264
-	asteroids "large metal" 4 4.6284
-	trade Clothing 375
-	trade Electronics 852
-	trade Equipment 569
-	trade Food 385
-	trade "Heavy Metals" 801
-	trade Industrial 812
-	trade "Luxury Goods" 1468
-	trade Medical 915
-	trade Metal 297
-	trade Plastic 454
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
-	fleet "Quarg" 1000
-	fleet "Large Quarg" 5000
-	object
-		sprite star/g5
-		distance 43.7788
-		period 11.9969
-	object
-		sprite star/k0
-		distance 56.2212
-		period 11.9969
-		offset 180
-	object
-		sprite planet/rock13
-		distance 294.471
-		period 60.6226
-	object
-		sprite planet/venus
-		distance 582.281
-		period 168.566
-	object
-		sprite planet/gas14
-		distance 1498.44
-		period 695.872
-		object
-			sprite planet/dust4
-			distance 224
-			period 13.6531
-		object
-			sprite planet/dust7
-			distance 365
-			period 28.3987
-	object "Wormhole 300"
-		sprite planet/wormhole
-		distance 1050.15
-		period 350.782
-	object "Wormhole 100"
-		sprite planet/wormhole
-		distance 2393.69
-		period 1404.99
-		object
 
 system "Zuba Nik"
 	pos 177 -550.5
@@ -733,7 +671,7 @@ system "Plus De"
 			distance 225.709
 			period 18.051
 			offset 307.5
-	object "Wormhole 100"
+	object "Wormhole Absconded"
 		sprite planet/wormhole
 		distance 2393.69
 		period 1404.99
@@ -1143,12 +1081,5 @@ planet Vivant
 	description `Vivant is the only planet on which the Absconded Hai reside. They settled here after the Drak drove their species back to what it is today. Vivant is a large world, and as such atmospheric vehicles do very well here. Humans have to pressurize when coming here, due to the thicker than normal atmosphere. Vivant is short on everything, because they refuse to trade with their neighbors. They resort to the long route of trading with the Quarg.`
 	spaceport `The spaceport is an open roofed building, atop one of the various mountains on the planet. The hangars are small, as the planet hasn't fought a war since their escape. You have to walk through a tube into a compression chamber before you can walk outside. The compression chamber doesn't look like it's been used for years. `
 
-planet "Wormhole 100"
+planet "Wormhole Absconded"
 	landscape ""
-
-planet "Wormhole 200"
-	landscape ""
-
-planet "Wormhole 300"
-	landscape ""
-
