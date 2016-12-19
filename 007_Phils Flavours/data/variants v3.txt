@@ -1998,22 +1998,22 @@ ship "The Deceptive Lover" "The Deceptive Lover B"
 ship "The Deceptive Lover" "The Deceptive Lover C"
 	outfits
 		"Hyperdrive"
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
+		"A255 Atomic Steering"
+		"A370 Atomic Thruster"
+		"X1200 Ion Steering"
 		"Torpedo Launcher" 2
 		"Torpedo" 60
-		"Laser Rifle" 10
-		"Water Coolant System"
-		"D67-TM Shield Generator"
-		"Small Radar Jammer"
-		"LP036a Battery Pack"
+		"D94-YV Shield Generator"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 100
 		"LP072a Battery Pack"
 		"Fission Reactor"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Typhoon Launcher" 2
-		"Typhoon Torpedo" 60
-		"Body Armor" 10
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 70
+		"D41-HY Shield Generator"
+		"Small Radar Jammer"
+		"Water Coolant System"
+		"Laser Rifle" 25
 ship "The Lightning in the Storm" "The Lightning in the Storm A"
 	outfits
 		"Hyperdrive"
@@ -2194,19 +2194,20 @@ ship "Katalox" "Katalox B"
 ship "Katalox" "Katalox C"
 	outfits
 		"Hyperdrive"
-		"Orca Plasma Steering"
+		"A125 Atomic Steering"
+		"A525 Atomic Steering"
 		"Orca Plasma Thruster"
-		"D94-YV Shield Generator"
-		"Heavy Laser Turret" 4
+		"Heavy Laser Turret" 3
 		"Fusion Reactor"
-		"Water Coolant System"
-		"Large Radar Jammer" 2
-		"Heavy Anti-Missile Turret" 2
+		"D94-YV Shield Generator" 2
+		"Mass Expansion" 4
+		"Heavy Laser" 2
 		"LP288a Battery Pack"
-		"Typhoon Torpedo" 60
-		"Typhoon Launcher" 2
-		"Body Armor" 40
-		"Assault Rifle ZX-411" 40
+		"Water Coolant System"
+		"Laser Rifle" 200
+		"Heavy Anti-Missile Turret"
+		"Ion Laser Turret" 2
+		"Hull Repair Nano-Bots"
 ship "Leviathan" "Leviathan A"
 	outfits
 		"Hyperdrive"
