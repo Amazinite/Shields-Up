@@ -3347,8 +3347,6 @@ event "southern carriers compatibility3"
 		variant 1
 			"Clipper (Heavy)"
 		variant 1
-			"Clipper (Nuclear)"
-		variant 1
 			"Clipper (Speedy)"
 		variant 2
 			"Modified Argosy"
@@ -3701,8 +3699,7 @@ event "southern carriers compatibility2"
 			"Behemoth (Speedy)"
 			"Freighter (Fancy)"
 		variant 2
-			"Clipper"
-			"Clipper (Nuclear)"
+			"Clipper" 2
 			"Clipper (Speedy)"
 		variant 2
 			"Freighter"
@@ -4057,7 +4054,7 @@ event "southern carriers compatibility2"
 			"Hawk"
 		variant 2
 			"Clipper (Heavy)"
-			"Clipper (Nuclear)"
+			"Clipper (Speedy)"
 			"Hauler A"
 			"Balau"
 		variant 2
@@ -4348,8 +4345,6 @@ event "southern carriers compatibility2"
 			"Manta"
 		variant 1
 			"Manta (Mark II)"
-		variant 1
-			"Manta (Nuclear)"
 		variant 1
 			"Manta (Proton)"
 		variant 1
