@@ -14,7 +14,7 @@ ship "Alliance Battleship"
 		"bunks" 295
 		"cargo space" 390
 		"drag" 20
-		"engine capacity" 195
+		"engine capacity" 196
 		"fuel capacity" 600
 		"gun ports" 4
 		"heat dissipation" 0.45
