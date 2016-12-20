@@ -46,18 +46,18 @@ ship "Alliance Battleship"
 		"Sidewinder Missile" 200
 	engine -21.5 289.5 1
 	engine 19.5 287.5 1
-	gun -33.5 -211.5 "Sidewinder Missile Launcher"
+	gun -35 -212 "Sidewinder Missile Launcher"
 	gun 35 -212 "Sidewinder Missile Launcher"
 	gun -51 -151.5 "Sidewinder Missile Launcher"
-	gun 50.5 -151.5 "Sidewinder Missile Launcher"
+	gun 51 -151.5 "Sidewinder Missile Launcher"
 	turret -36 -171 "Heavy Laser Turret"
 	turret 36 -171 "Heavy Laser Turret"
-	turret -30 -59 "Heavy Laser Turret"
-	turret 29.5 -60 "Heavy Laser Turret"
+	turret -30 -60 "Heavy Laser Turret"
+	turret 30 -60 "Heavy Laser Turret"
 	turret -48 4 "Heavy Laser Turret"
-	turret 46.5 5 "Heavy Laser Turret"
+	turret 48 4 "Heavy Laser Turret"
 	turret -44 242.5 "Heavy Anti-Missile Turret"
-	turret 42 242.5 "Heavy Anti-Missile Turret"
+	turret 44 242.5 "Heavy Anti-Missile Turret"
 	explode "medium explosion" 40
 	explode "small explosion" 35
 	explode "huge explosion" 30
@@ -151,10 +151,10 @@ ship "Destroyer"
 		"Cargo Scanner"
 		"Fragmentation Grenades" 10
 		"Cooling Ducts"
-	gun -46.5 -66 "Particle Cannon"
-	gun -34.5 -79.5 "Particle Cannon"
+	gun -49 -66.5 "Particle Cannon"
+	gun -38 -79.5 "Particle Cannon"
 	gun 38 -79.5 "Particle Cannon"
-	gun 49.5 -66.5 "Particle Cannon"
+	gun 49 -66.5 "Particle Cannon"
 	turret -5.5 -45 "Heavy Laser Turret"
 	turret 8.5 -46.5 "Heavy Laser Turret"
 	turret -6 -6.5 "Heavy Anti-Missile Turret"
