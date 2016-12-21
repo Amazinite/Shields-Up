@@ -31,20 +31,18 @@ ship Gargoyle
 	attributes
 		category "Heavy Freighter"
 		"cost" 7800000
-		"bunks" 30
-		"cargo space" 360
-		"drag" 8
-		"engine capacity" 90
-		"fuel capacity" 600
-		"gun ports" 2
-		"heat dissipation" 0.45
 		"hull" 4500
-		"mass" 400
-		"outfit space" 470
-		"required crew" 10
 		"shields" 6500
-		"turret mounts" 4
+		"required crew" 10
+		"bunks" 30
+		"mass" 400
+		"drag" 8
+		"heat dissipation" 0.45
+		"fuel capacity" 600
+		"cargo space" 360
+		"outfit space" 470
 		"weapon capacity" 220
+		"engine capacity" 90
 		weapon
 			"blast radius" 110
 			"shield damage" 1100
@@ -65,14 +63,14 @@ ship Gargoyle
 		"X3200 Ion Steering"
 		"Hyperdrive"
 
-	engine -33 135
-	engine 33 135
-	gun -10 -115 "Sidewinder Missile Launcher"
-	gun 10 -115 "Sidewinder Missile Launcher"
-	turret -27 -53 "Heavy Laser Turret"
-	turret 27 -53 "Heavy Laser Turret"
-	turret -18 89 "Heavy Anti-Missile Turret"
-	turret 18 89 "Heavy Anti-Missile Turret"
+	engine -19 111
+	engine 19 111
+	gun -24 -72 "Sidewinder Missile Launcher"
+	gun 24 -72 "Sidewinder Missile Launcher"
+	turret -29 -52.5 "Heavy Laser Turret"
+	turret 29 -52.5 "Heavy Laser Turret"
+	turret -20 88.5 "Heavy Anti-Missile Turret"
+	turret 20 88.5 "Heavy Anti-Missile Turret"
 	explode "medium explosion" 20
 	explode "huge explosion" 10
 	explode "large explosion" 35
@@ -107,16 +105,16 @@ ship "Hauler IV"
 		"Meteor Missile" 70
 		"Quad Blaster Turret" 2
 		"Heavy Anti-Missile Turret" 2
-		
+
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		
+
 		"Greyhound Plasma Thruster"
 		"Impala Plasma Steering"
 		"Hyperdrive"
-		
+
 	engine -45 160
 	engine 45 160
 	gun -15 -128
@@ -189,35 +187,37 @@ ship Arrowhead
 	attributes
 		category "Light Warship"
 		"cost" 1300000
+		"shields" 3000
+		"hull" 1000
+		"required crew" 2
 		"bunks" 8
-		"cargo space" 30
+		"mass" 130
 		"drag" 2.8
-		"engine capacity" 80
 		"fuel capacity" 400
 		"heat dissipation" 0.7
-		"hull" 1000
-		"mass" 130
+		"cargo space" 30
 		"outfit space" 260
-		"required crew" 2
-		"shields" 3000
-		"turret mounts" 3
 		"weapon capacity" 100
+		"engine capacity" 80
 		weapon
 			"blast radius" 44
 			"shield damage" 440
 			"hull damage" 220
 			"hit force" 660
 	outfits
-		"Hyperdrive"
 		"Heavy Laser Turret" 2
-		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Anti-Missile Turret"
+
 		"nGVF-CI Integrated Fuel Cell"
 		"LP036a Battery Pack"
-		"Anti-Missile Turret"
-	engine -0.5 58
-	turret 0 12 "Heavy Laser Turret"
-	turret -0.5 -9 "Heavy Laser Turret"
+		"D41-HY Shield Generator"
+
+		"Integrated Greyhound Engines"
+		"Hyperdrive"
+
+	engine 0 57
+	turret 0 11.5 "Heavy Laser Turret"
+	turret 0 -9.5 "Heavy Laser Turret"
 	turret 0 -29.5 "Anti-Missile Turret"
 	explode "tiny explosion" 30
 	explode "small explosion" 25
@@ -250,20 +250,23 @@ ship "Heavy Dart"
 			"hull damage" 300
 			"hit force" 900
 	outfits
-		"Hyperdrive"
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 2
+
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+
 		"Impala Plasma Thruster"
 		"Greyhound Plasma Steering"
-		"Heavy Laser Turret" 2
-		"LP036a Battery Pack"
-		"S3 Thermionic"
-		"D41-HY Shield Generator"
-		"Heavy Laser" 2
-	engine -19 89
-	engine 17 89.5
-	gun -18 -78.5 "Heavy Laser"
-	gun 17 -79 "Heavy Laser"
-	turret 12.5 2 "Heavy Laser Turret"
-	turret -14 3 "Heavy Laser Turret"
+		"Hyperdrive"
+
+	engine -18 89
+	engine 18 89
+	gun -18 -77 "Heavy Laser"
+	gun 18 -77 "Heavy Laser"
+	turret -18.5 -9 "Heavy Laser Turret"
+	turret 18.5 -9 "Heavy Laser Turret"
 	explode "medium explosion" 20
 	explode "large explosion" 10
 	explode "tiny explosion" 25
@@ -276,40 +279,41 @@ ship "Light Dart"
 	attributes
 		category "Light Warship"
 		"cost" 1700000
-		"bunks" 10
-		"cargo space" 30
-		"drag" 4
-		"engine capacity" 90
-		"fuel capacity" 500
-		"gun ports" 2
-		"heat dissipation" 0.7
-		"hull" 1200
-		"mass" 160
-		"outfit space" 265
-		"required crew" 3
 		"shields" 3800
-		"turret mounts" 1
+		"hull" 1200
+		"required crew" 3
+		"bunks" 10
+		"mass" 160
+		"drag" 4
+		"heat dissipation" 0.7
+		"fuel capacity" 500
+		"cargo space" 30
+		"outfit space" 265
 		"weapon capacity" 90
+		"engine capacity" 90
 		weapon
 			"blast radius" 50
 			"shield damage" 500
 			"hull damage" 250
 			"hit force" 800
 	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
+		"Heavy Laser" 2
 		"Heavy Laser Turret"
-		"LP036a Battery Pack"
+
 		"S3 Thermionic"
+		"LP036a Battery Pack"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"Heavy Laser" 2
-	engine -19.5 88
-	engine 16.5 88
-	gun -17.5 -78.5 "Heavy Laser"
-	gun 17 -78 "Heavy Laser"
-	turret -0.5 -54.5 "Heavy Laser Turret"
+
+		"Impala Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+	engine -18 89.5
+	engine 18 89.5
+	gun -17 -76.5 "Heavy Laser"
+	gun 17 -76.5 "Heavy Laser"
+	turret 0 -54.5 "Heavy Laser Turret"
 	explode "medium explosion" 30
 	explode "large explosion" 20
 	explode "tiny explosion" 28
@@ -322,41 +326,40 @@ ship "Dark Berserker"
 	attributes
 		category Interceptor
 		"cost" 600000
-		"bunks" 2
-		"cargo space" 20
-		"drag" 2.3
-		"engine capacity" 60
-		"fuel capacity" 400
-		"gun ports" 4
-		"heat dissipation" 0.85
-		"hull" 500
-		"mass" 120
-		"outfit space" 200
-		"required crew" 1
 		"shields" 2200
+		"hull" 500
+		"required crew" 1
+		"bunks" 2
+		"mass" 120
+		"drag" 2.3
+		"heat dissipation" 0.85
+		"fuel capacity" 400
+		"cargo space" 20
+		"outfit space" 200
 		"weapon capacity" 40
+		"engine capacity" 60
 		weapon
 			"blast radius" 30
 			"shield damage" 300
 			"hull damage" 150
 			"hit force" 450
 	outfits
+		"Beam Laser" 4
+
+		"nGVF-CI Integrated Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Small Radar Jammer"
+
 		"Integrated Greyhound Engines"
 		"Hyperdrive"
-		
-		"Beam Laser" 4
-		
-		"Small Radar Jammer"
-		"D41-HY Shield Generator"
-		"LP036a Battery Pack"
-		"nGVF-CI Integrated Fuel Cell"
-		
-	engine -10 45
-	engine 10 45
-	gun -43 -4 "Beam Laser"
-	gun 19 -10 "Beam Laser"
-	gun -19 -10 "Beam Laser"
-	gun 43 -4 "Beam Laser"
+
+	engine -12.5 43.5
+	engine 12.5 43.5
+	gun -43.5 -1 "Beam Laser"
+	gun 43.5 -1 "Beam Laser"
+	gun -19.5 -7 "Beam Laser"
+	gun 19.5 -7 "Beam Laser"
 	explode "tiny explosion" 20
 	explode "small explosion" 15
 	"final explode" "final explosion small" 1
@@ -367,43 +370,38 @@ ship "Black Hawk"
 	attributes
 		category Interceptor
 		"cost" 850000
-		"bunks" 3
-		"cargo space" 10
-		"drag" 2.3
-		"engine capacity" 70
-		"fuel capacity" 300
-		"gun ports" 2
-		"heat dissipation" 0.8
-		"hull" 500
-		"mass "165
-		"outfit space" 220
-		"required crew" 2
 		"shields" 2500
+		"hull" 500
+		"required crew" 2
+		"bunks" 3
+		"mass" 165
+		"drag" 2.3
+		"heat dissipation" 0.8
+		"fuel capacity" 300
+		"cargo space" 10
+		"outfit space" 220
 		"weapon capacity" 60
+		"engine capacity" 70
 		weapon
 			"blast radius" 30
 			"shield damage" 300
 			"hull damage" 150
 			"hit force" 450
 	outfits
+		"Plasma Cannon" 2
+
+		"nGVF-CI Integrated Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Cooling Ducts"
+
 		"Integrated Greyhound Engines"
 		"Hyperdrive"
-		
-		"Plasma Cannon" 2
-		
-		"Cooling Ducts"
-		"D41-HY Shield Generator"
-		"LP036a Battery Pack"
-		"nGVF-CI Integrated Fuel Cell"
-	crew 2
-	fuel 300
-	shields 2500
-	hull 500
-	position -425.04363 273.0106
-	engine -24 41
-	engine 24 41
-	gun -24 -13 "Plasma Cannon"
-	gun 24 -13 "Plasma Cannon"
+
+	engine -24 40
+	engine 24 40
+	gun -24 -10 "Plasma Cannon"
+	gun 24 -10 "Plasma Cannon"
 	explode "tiny explosion" 15
 	explode "small explosion" 10
 	"final explode" "final explosion small" 1
@@ -414,38 +412,40 @@ ship "Star Princess"
 	attributes
 		category Transport
 		"cost" 5000000
-		"bunks" 130
-		"cargo space" 80
-		"drag" 5.5
-		"engine capacity" 100
-		"fuel capacity" 500
-		"heat dissipation" 0.65
-		"hull" 2000
-		"mass" 230
-		"outfit space" 360
-		"required crew" 38
 		"shields" 3600
-		"turret mounts" 3
+		"hull" 2000
+		"required crew" 38
+		"bunks" 130
+		"mass" 230
+		"drag" 5.5
+		"heat dissipation" 0.65
+		"fuel capacity" 500
+		"cargo space" 80
+		"outfit space" 360
 		"weapon capacity" 120
+		"engine capacity" 100
 		weapon
 			"blast radius" 60
 			"shield damage" 600
 			"hull damage" 300
 			"hit force" 900
 	outfits
-		"Hyperdrive"
+		"Heavy Laser Turret"
+		"Anti-Missile Turret" 2
+
+		"NT-200 Nucleovoltaic"
+		"D94-YV Shield Generator"
+		"LP072a Battery Pack"
+
 		"X3700 Ion Thruster"
 		"X3200 Ion Steering"
-		"Heavy Laser Turret"
-		"D94-YV Shield Generator"
-		"NT-200 Nucleovoltaic"
-		"LP072a Battery Pack"
-		"Anti-Missile Turret" 2
-	engine -18 114.5 1
-	engine 17 115 1
-	turret 0 29.5 "Anti-Missile Turret"
-	turret 0 0.5 "Anti-Missile Turret"
-	turret 0.5 -29.5 "Heavy Laser Turret"
+		"Hyperdrive"
+
+	engine -19 116
+	engine 19 116
+	turret -28.5 -8.5 "Anti-Missile Turret"
+	turret 28.5 -8.5 "Anti-Missile Turret"
+	turret 0 -14 "Heavy Laser Turret"
 	explode "tiny explosion" 10
 	explode "small explosion" 25
 	explode "medium explosion" 25
@@ -458,47 +458,48 @@ ship "Vanguard Trailbreaker"
 	attributes
 		category "Heavy Warship"
 		"cost" 9500000
-		"bunks" 58
-		"cargo space" 80
-		"drag" 8.4
-		"engine capacity" 135
-		"fuel capacity" 600
-		"gun ports" 8
-		"heat dissipation" 0.6
-		"hull" 6500
-		"mass" 600
-		"outfit space" 640
-		"required crew" 28
 		"shields" 14500
-		"turret mounts" 2
+		"hull" 6500
+		"required crew" 28
+		"bunks" 58
+		"mass" 600
+		"drag" 8.4
+		"heat dissipation" 0.6
+		"fuel capacity" 600
+		"cargo space" 80
+		"outfit space" 640
 		"weapon capacity" 280
+		"engine capacity" 135
 		weapon
 			"blast radius" 200
 			"shield damage" 2000
 			"hull damage" 1000
 			"hit force" 3000
 	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Orca Plasma Steering"
+		"Proton Gun" 8
+		"Anti-Missile Turret" 2
+
 		"Fusion Reactor"
 		"LP144a Battery Pack"
-		"Liquid Nitrogen Cooler"
 		"D67-TM Shield Generator"
-		"Anti-Missile Turret" 2
-		"Proton Gun" 8
-	engine -16 132 1
-	engine 20 131.5 1
-	gun -22 -122.5 "Proton Gun"
-	gun -4.5 -132 "Proton Gun"
-	gun 5 -131.5 "Proton Gun"
-	gun 22.5 -122.5 "Proton Gun"
-	gun 33.5 -44 "Proton Gun"
-	gun 22.5 -45 "Proton Gun"
-	gun -23 -45 "Proton Gun"
-	gun -33 -44.5 "Proton Gun"
-	turret 0 42 "Anti-Missile Turret"
-	turret 0.5 11 "Anti-Missile Turret"
+		"Liquid Nitrogen Cooler"
+
+		"Impala Plasma Thruster"
+		"Orca Plasma Steering"
+		"Hyperdrive"
+
+	engine -18 132
+	engine 18 132
+	gun -32.5 -45 "Proton Gun"
+	gun 32.5 -45 "Proton Gun"
+	gun -23 -44 "Proton Gun"
+	gun 23 -44 "Proton Gun"
+	gun -22.5 -122 "Proton Gun"
+	gun 22.5 -122 "Proton Gun"
+	gun -5 -131 "Proton Gun"
+	gun 5 -131 "Proton Gun"
+	turret 0 43 "Anti-Missile Turret"
+	turret 0 12 "Anti-Missile Turret"
 	explode "big explosion" 40
 	explode "huge explosion" 10
 	explode "tiny explosion" 20
@@ -531,33 +532,33 @@ ship "Protector Fortress"
 			"hit force" 3800
 	outfits
 		"Heavy Laser Turret" 10
-		
+
 		"Fusion Reactor"
-		"D94-YV Shield Generator"
 		"LP288a Battery Pack"
-		"Large Radar Jammer" 2
+		"D94-YV Shield Generator"
 		"Water Coolant System"
+		"Large Radar Jammer" 2
 		"Cargo Scanner"
 		"Outfit Scanner"
-		
-		"Chipmunk Plasma Steering"
-		"Impala Plasma Steering"
+
 		"Impala Plasma Thruster"
 		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Impala Plasma Steering"
 		"Hyperdrive"
-		
-	turret -20.5 -28.5 "Heavy Laser Turret"
-	turret 22.5 -29.5 "Heavy Laser Turret"
-	turret -20 5 "Heavy Laser Turret"
-	turret 23.5 4.5 "Heavy Laser Turret"
-	turret -64.5 -72.5 "Heavy Laser Turret"
+
+	engine -16.5 137
+	engine 16.5 137
+	turret -21 -29 "Heavy Laser Turret"
+	turret 21 -29 "Heavy Laser Turret"
+	turret -20.5 5.5 "Heavy Laser Turret"
+	turret 20.5 5.5 "Heavy Laser Turret"
+	turret -66 49.5 "Heavy Laser Turret"
+	turret 66 49.5 "Heavy Laser Turret"
+	turret -65 -72 "Heavy Laser Turret"
+	turret 65 -72 "Heavy Laser Turret"
 	turret -91 -11 "Heavy Laser Turret"
-	turret -64.5 49.5 "Heavy Laser Turret"
-	turret 64 -71.5 "Heavy Laser Turret"
-	turret 90 -11.5 "Heavy Laser Turret"
-	turret 62 49.5 "Heavy Laser Turret"
-	engine -17 136.5
-	engine 17.5 134.5
+	turret 91 -11 "Heavy Laser Turret"
 	explode "big explosion" 40
 	explode "huge explosion" 10
 	explode "tiny explosion" 20
@@ -591,22 +592,22 @@ ship "Swooping Raven"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 2
-		
+
 		"RT-I Radiothermal"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Cooling Ducts"
-		
-		"Hyperdrive"
+
 		"Greyhound Plasma Thruster"
 		"Greyhound Plasma Steering"
-		
-	engine -7 44.5
-	engine 7.5 43.5
-	gun -11.5 -33 "Heavy Laser"
-	gun 11 -32 "Heavy Laser"
-	turret -27.5 2.5 "Heavy Laser Turret"
-	turret 27.5 2.5 "Heavy Laser Turret"
+		"Hyperdrive"
+
+	engine -6.5 44.5
+	engine 6.5 44.5
+	gun -11.5 -31 "Heavy Laser"
+	gun 11.5 -31 "Heavy Laser"
+	turret -27 2.5 "Heavy Laser Turret"
+	turret 27 2.5 "Heavy Laser Turret"
 	explode "medium explosion" 24
 	explode "large explosion" 16
 	explode "tiny explosion" 28
@@ -619,19 +620,18 @@ ship "Elepaio"
 	attributes
 		category "Interceptor"
 		"cost" 485000
-		"bunks" 4
-		"cargo space" 35
-		"drag" 2
-		"engine capacity" 60
-		"fuel capacity" 400
-		"heat dissipation" 0.8
-		"hull" 600
-		"mass" 100
-		"outfit space" 195
-		"required crew" 2
 		"shields" 2400
-		"gun ports" 4
+		"hull" 600
+		"required crew" 2
+		"bunks" 4
+		"mass" 100
+		"drag" 2
+		"heat dissipation" 0.8
+		"fuel capacity" 400
+		"cargo space" 35
+		"outfit space" 195
 		"weapon capacity" 56
+		"engine capacity" 60
 		weapon
 			"blast radius" 30
 			"shield damage" 290
@@ -640,18 +640,19 @@ ship "Elepaio"
 
 	outfits
 		"Long Range Laser" 4
-		
-		"D14-RN Shield Generator"
+
 		"nGVF-CI Integrated Fuel Cell"
+		"D14-RN Shield Generator"
+
 		"Integrated Greyhound Engines"
 		"Hyperdrive"
-		
-	engine -10 44
-	engine 8.5 43.5
-	gun -37.5 -19 "Long Range Laser"
-	gun -24.5 -28 "Long Range Laser"
-	gun 24.5 -27.5 "Long Range Laser"
-	gun 38 -18 "Long Range Laser"
+
+	engine -9 41
+	engine 9 41
+	gun -34.5 -14.5 "Long Range Laser"
+	gun 34.5 -14.5 "Long Range Laser"
+	gun -22.5 -23 "Long Range Laser"
+	gun 22.5 -23 "Long Range Laser"
 	explode "small explosion" 25
 	explode "tiny explosion" 45
 	"final explode" "final explosion small" 3
@@ -683,18 +684,18 @@ ship "Sparrow MKII"
 
 	outfits
 		"Long Range Laser" 2
-		
+
+		"nGVF-BI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"nGVF-BI Integrated Fuel Cell"
-		
+
 		"Integrated Chipmunk Engines"
 		"Hyperdrive"
-		
-	engine -6 36.5
-	engine 3.5 37.5
-	gun -9.5 -11 "Long Range Laser"
-	gun 8.5 -10.5 "Long Range Laser"
+
+	engine -5.5 36
+	engine 5.5 36
+	gun -6.5 -7 "Long Range Laser"
+	gun 6.5 -7 "Long Range Laser"
 	explode "small explosion" 15
 	explode "tiny explosion" 45
 	"final explode" "final explosion small" 1
@@ -705,20 +706,18 @@ ship "Junior Osprey"
 	attributes
 		category "Light Warship"
 		"cost" 2000000
-		"bunks" 10
-		"cargo space" 25
-		"drag" 4
-		"engine capacity" 100
-		"fuel capacity" 500
-		"heat dissipation" 0.75
-		"hull" 800
-		"mass" 165
-		"outfit space" 280
-		"required crew" 4
 		"shields" 5000
-		"turret mounts" 2
-		"gun ports" 2
+		"hull" 800
+		"required crew" 4
+		"bunks" 10
+		"mass" 165
+		"drag" 4
+		"heat dissipation" 0.75
+		"fuel capacity" 500
+		"cargo space" 25
+		"outfit space" 280
 		"weapon capacity" 100
+		"engine capacity" 100
 		weapon
 			"blast radius" 58
 			"shield damage" 580
@@ -726,23 +725,25 @@ ship "Junior Osprey"
 			"hit force" 870
 
 	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret"
+		"Anti-Missile Turret"
+
 		"S3 Thermionic"
 		"LP036a Battery Pack"
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
-		"Heavy Laser Turret"
-		"Heavy Laser" 2
-		"Anti-Missile Turret"
 		"D23-QP Shield Generator"
 		"Water Coolant System"
+
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
 		"Hyperdrive"
-		
-	engine -17 67
-	engine 16.5 67
-	gun -26.5 -14.5 "Heavy Laser"
-	gun 27 -15 "Heavy Laser"
-	turret -13.5 2.5 "Modified Blaster Turret"
-	turret 13 1.5 "Anti-Missile Turret"
+
+	engine -15.5 66
+	engine 15.5 66
+	gun -27 -11.5 "Heavy Laser"
+	gun 27 -11.5 "Heavy Laser"
+	turret -20 20 "Modified Blaster Turret"
+	turret 20 20 "Anti-Missile Turret"
 	explode "tiny explosion" 20
 	explode "small explosion" 40
 	explode "medium explosion" 20
@@ -754,19 +755,18 @@ ship "Wren"
 	attributes
 		category "Interceptor"
 		"cost" 450000
-		"bunks" 3
-		"cargo space" 20
-		"drag" 1.8
-		"engine capacity" 55
-		"fuel capacity" 400
-		"heat dissipation" 0.85
-		"hull" 400
-		"mass" 90
-		"outfit space" 165
-		"required crew" 1
 		"shields" 2000
-		"turret mounts" 1
+		"hull" 400
+		"required crew" 1
+		"bunks" 3
+		"mass" 90
+		"drag" 1.8
+		"heat dissipation" 0.85
+		"fuel capacity" 400
+		"cargo space" 20
+		"outfit space" 165
 		"weapon capacity" 30
+		"engine capacity" 55
 		weapon
 			"blast radius" 25
 			"shield damage" 250
@@ -774,16 +774,18 @@ ship "Wren"
 			"hit force" 375
 
 	outfits
-		"D14-RN Shield Generator"
 		"Laser Turret"
-		"Small Radar Jammer"
+
 		"nGVF-CI Integrated Fuel Cell"
+		"D14-RN Shield Generator"
+		"Small Radar Jammer"
+
 		"Integrated Greyhound Engines"
 		"Hyperdrive"
-		
-	engine -8 39
-	engine 10 38.5
-	turret 0 -3 "Laser Turret"
+
+	engine -8.5 39
+	engine 8.5 39
+	turret 0 -4 "Laser Turret"
 	explode "tiny explosion" 45
 	explode "small explosion" 15
 	"final explode" "final explosion small" 1
