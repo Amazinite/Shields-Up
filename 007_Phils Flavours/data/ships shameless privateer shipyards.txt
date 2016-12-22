@@ -19,19 +19,18 @@ ship "The Fifth Ace"
 	attributes
 		category Interceptor
 		"cost" 500000
-		"bunks" 4
-		"cargo space" 20
-		"drag" 2
-		"engine capacity" 60
-		"fuel capacity" 400
-		"heat dissipation" 0.8
-		"hull" 500
-		"mass" 100
-		"outfit space" 200
-		"required crew" 1
 		"shields" 2000
-		"turret mounts" 2
+		"hull" 500
+		"required crew" 1
+		"bunks" 4
+		"mass" 100
+		"drag" 2
+		"heat dissipation" 0.8
+		"fuel capacity" 400
+		"cargo space" 20
+		"outfit space" 200
 		"weapon capacity" 50
+		"engine capacity" 60
 		weapon
 			"blast radius" 25
 			"shield damage" 250
@@ -57,19 +56,18 @@ ship "The Lifted Purse"
 	attributes
 		category "Light Freighter"
 		"cost" 250000
-		"bunks" 4
-		"cargo space" 80
-		"drag" 3.5
-		"engine capacity" 60
-		"fuel capacity" 400
-		"gun ports" 2
-		"heat dissipation" 0.7
-		"hull" 800
-		"mass" 100
-		"outfit space" 190
-		"required crew" 2
 		"shields" 1200
+		"hull" 800
+		"required crew" 2
+		"bunks" 4
+		"mass" 100
+		"drag" 3.5
+		"heat dissipation" 0.7
+		"fuel capacity" 400
+		"cargo space" 80
+		"outfit space" 190
 		"weapon capacity" 50
+		"engine capacity" 60
 		weapon
 			"blast radius" 20
 			"shield damage" 200
@@ -96,19 +94,18 @@ ship "The Pilfered Keg"
 	attributes
 		category "Light Freighter"
 		"cost" 950000
-		"bunks" 8
-		"cargo space" 140
-		"drag" 5
-		"engine capacity" 80
-		"fuel capacity" 500
-		"turret mounts" 2
-		"heat dissipation" 0.7
-		"hull" 1600
-		"mass" 200
-		"outfit space" 275
-		"required crew" 4
 		"shields" 2400
+		"hull" 1600
+		"required crew" 4
+		"bunks" 8
+		"mass" 200
+		"drag" 5
+		"heat dissipation" 0.7
+		"fuel capacity" 500
+		"cargo space" 140
+		"outfit space" 275
 		"weapon capacity" 80
+		"engine capacity" 80
 		weapon
 			"blast radius" 40
 			"shield damage" 400
@@ -138,19 +135,18 @@ ship "The Buried Chest"
 	attributes
 		category "Light Freighter"
 		"cost" 1850000
-		"bunks" 12
-		"cargo space" 165
-		"drag" 6
-		"engine capacity" 100
-		"fuel capacity" 500
-		"gun ports" 4
-		"heat dissipation" 0.7
-		"hull" 1800
-		"mass" 240
-		"outfit space" 300
-		"required crew" 5
 		"shields" 3200
+		"hull" 1800
+		"required crew" 5
+		"bunks" 12
+		"mass" 240
+		"drag" 6
+		"heat dissipation" 0.7
+		"fuel capacity" 500
+		"cargo space" 165
+		"outfit space" 300
 		"weapon capacity" 100
+		"engine capacity" 100
 		weapon
 			"blast radius" 50
 			"shield damage" 500
@@ -183,20 +179,18 @@ ship "The Captain's Hoard"
 	attributes
 		category "Light Freighter"
 		"cost" 2200000
-		"bunks" 16
-		"cargo space" 220
-		"drag" 7
-		"engine capacity" 100
-		"fuel capacity" 500
-		"gun ports" 2
-		"heat dissipation" 0.7
-		"hull" 2200
-		"mass" 300
-		"outfit space" 380
-		"required crew" 6
 		"shields" 4800
-		"turret mounts" 4
+		"hull" 2200
+		"required crew" 6
+		"bunks" 16
+		"mass" 300
+		"drag" 7
+		"heat dissipation" 0.7
+		"fuel capacity" 500
+		"cargo space" 220
+		"outfit space" 380
 		"weapon capacity" 180
+		"engine capacity" 100
 		weapon
 			"blast radius" 70
 			"shield damage" 700
@@ -231,20 +225,19 @@ ship "The Lightning in the Storm"
 	sprite "ship/the lightning in the storm"
 	attributes
 		category "Medium Warship"
-		cost 3150000
-		bunks 14
-		"cargo space" 40
-		drag 4.3
-		"engine capacity" 120
-		"fuel capacity" 500
-		"gun ports" 3
-		"heat dissipation" 0.65
-		hull 1400
-		mass 190
-		"outfit space" 390
+		"cost" 3150000
+		"shields" 5600
+		"hull" 1400
 		"required crew" 5
-		shields 5600
+		"bunks" 14
+		"mass" 190
+		"drag 4.3
+		"fuel capacity" 500
+		"heat dissipation" 0.65
+		"cargo space" 40
+		"outfit space" 390
 		"weapon capacity" 140
+		"engine capacity" 120
 		weapon
 			"blast radius" 80
 			"shield damage" 700
@@ -283,19 +276,18 @@ ship "The Deceptive Lover"
 	attributes
 		category "Medium Warship"
 		"cost" 4000000
-		"bunks" 24
-		"cargo space" 45
-		"drag" 5.5
-		"engine capacity" 90
-		"fuel capacity" 500
-		"gun ports" 6
-		"heat dissipation" 0.65
-		"hull" 3000
-		"mass" 320
-		"outfit space" 400
-		"required crew" 9
 		"shields" 7000
+		"hull" 3000
+		"required crew" 9
+		"bunks" 24
+		"mass" 320
+		"drag" 5.5
+		"heat dissipation" 0.65
+		"fuel capacity" 500
+		"cargo space" 45
+		"outfit space" 400
 		"weapon capacity" 180
+		"engine capacity" 90
 		weapon
 			"blast radius" 100
 			"shield damage" 1000
@@ -334,20 +326,18 @@ ship "The Fearless Assassin"
 	attributes
 		category "Light Warship"
 		"cost" 1550000
-		"bunks" 13
-		"cargo space" 25
-		"drag" 4.7
-		"engine capacity" 80
-		"fuel capacity" 400
-		"gun ports" 4
-		"heat dissipation" 0.7
-		"hull" 1200
-		"mass" 200
-		"outfit space" 340
-		"required crew" 5
 		"shields" 4000
-		"turret mounts" 1
+		"hull" 1200
+		"required crew" 5
+		"bunks" 13
+		"mass" 200
+		"drag" 4.7
+		"heat dissipation" 0.7
+		"fuel capacity" 400
+		"cargo space" 25
+		"outfit space" 340
 		"weapon capacity" 160
+		"engine capacity" 80
 		weapon
 			"blast radius" 50
 			"shield damage" 500
@@ -386,20 +376,18 @@ ship "The Screams of the Insane"
 	attributes
 		category "Medium Warship"
 		"cost" 4800000
-		"bunks" 29
-		"cargo space" 60
-		"drag" 6.5
-		"engine capacity" 105
-		"fuel capacity" 500
-		"gun ports" 4
-		"heat dissipation" 0.65
-		"hull" 3400
-		"mass" 350
-		"outfit space" 450
-		"required crew" 13
 		"shields" 7800
-		"turret mounts" 2
+		"hull" 3400
+		"required crew" 13
+		"bunks" 29
+		"mass" 350
+		"drag" 6.5
+		"heat dissipation" 0.65
+		"fuel capacity" 500
+		"cargo space" 60
+		"outfit space" 450
 		"weapon capacity" 170
+		"engine capacity" 105
 		weapon
 			"blast radius" 100
 			"shield damage" 1100
@@ -443,20 +431,18 @@ ship "The Damned Executioner"
 	attributes
 		category "Medium Warship"
 		"cost" 2500000
-		"bunks" 19
-		"cargo space" 40
-		"drag" 5.5
-		"engine capacity" 100
-		"fuel capacity" 500
-		"gun ports" 4
-		"heat dissipation" 0.65
-		"hull" 1600
-		"mass" 250
-		"outfit space" 380
-		"required crew" 8
 		"shields" 4800
-		"turret mounts" 1
+		"hull" 1600
+		"required crew" 8
+		"bunks" 19
+		"mass" 250
+		"drag" 5.5
+		"heat dissipation" 0.65
+		"fuel capacity" 500
+		"cargo space" 40
+		"outfit space" 380
 		"weapon capacity" 130
+		"engine capacity" 100
 		weapon
 			"blast radius" 70
 			"shield damage" 700
@@ -497,20 +483,18 @@ ship "The Deceitful Hangman"
 	attributes
 		category "Light Warship"
 		"cost" 1000000
-		"bunks" 11
-		"cargo space" 25
-		"drag" 3.4
-		"engine capacity" 90
-		"fuel capacity" 500
-		"gun ports" 4
-		"heat dissipation" 0.75
-		"hull" 1000
-		"mass" 150
-		"outfit space" 265
-		"required crew" 4
 		"shields" 3000
-		"turret mounts" 1
+		"hull" 1000
+		"required crew" 4
+		"bunks" 11
+		"mass" 150
+		"drag" 3.4
+		"heat dissipation" 0.75
+		"fuel capacity" 500
+		"cargo space" 25
+		"outfit space" 265
 		"weapon capacity" 100
+		"engine capacity" 90
 		weapon
 			"blast radius" 42
 			"shield damage" 420
@@ -547,19 +531,18 @@ ship "The Rum Barrell"
 	attributes
 		category "Transport"
 		"cost" 1400000
-		"bunks" 26
-		"cargo space" 60
-		"drag" 4.6
-		"engine capacity" 100
-		"fuel capacity" 700
-		"gun ports" 4
-		"heat dissipation" 0.7
-		"hull" 700
-		"mass" 160
-		"outfit space" 260
-		"required crew" 3
 		"shields" 3000
+		"hull" 700
+		"required crew" 3
+		"bunks" 26
+		"mass" 160
+		"drag" 4.6
+		"heat dissipation" 0.7
+		"fuel capacity" 700
+		"cargo space" 60
+		"outfit space" 260
 		"weapon capacity" 60
+		"engine capacity" 100
 		weapon
 			"blast radius" 37
 			"shield damage" 370
@@ -595,19 +578,18 @@ ship "The Hidden Blade"
 	attributes
 		category "Interceptor"
 		"cost" 400000
-		"bunks" 3
-		"cargo space" 20
-		"drag" 1.2
-		"engine capacity" 50
-		"fuel capacity" 300
-		"gun ports" 3
-		"heat dissipation" 0.85
-		"hull" 400
-		"mass" 60
-		"outfit space" 150
-		"required crew" 1
 		"shields" 1750
+		"hull" 400
+		"required crew" 1
+		"bunks" 3
+		"mass" 60
+		"drag" 1.2
+		"heat dissipation" 0.85
+		"fuel capacity" 300
+		"cargo space" 20
+		"outfit space" 150
 		"weapon capacity" 30
+		"engine capacity" 50
 		weapon
 			"blast radius" 22
 			"shield damage" 215
@@ -639,19 +621,18 @@ ship "The Dirty Cutlass"
 	attributes
 		category "Interceptor"
 		"cost" 690000
-		"bunks" 5
-		"cargo space" 10
-		"drag" 2.5
-		"engine capacity" 60
-		"fuel capacity" 400
-		"gun ports" 4
-		"heat dissipation" 0.8
-		"hull" 600
-		"mass" 150
-		"outfit space" 200
-		"required crew" 3
 		"shields" 2200
+		"hull" 600
+		"required crew" 3
+		"bunks" 5
+		"mass" 150
+		"drag" 2.5
+		"heat dissipation" 0.8
+		"fuel capacity" 400
+		"cargo space" 10
+		"outfit space" 200
 		"weapon capacity" 60
+		"engine capacity" 60
 		weapon
 			"blast radius" 30
 			"shield damage" 300

@@ -15,19 +15,18 @@ ship "7000X2 Super Freighter"
 	attributes
 		category "Heavy Freighter"
 		"cost" 11000000
-		"bunks" 28
-		"cargo space" 700
-		"drag" 16
-		"engine capacity" 145
-		"fuel capacity" 600
-		"heat dissipation" 0.5
-		"hull" 7000
-		"mass" 880
-		"outfit space" 560
-		"required crew" 8
 		"shields" 7000
-		"turret mounts" 6
+		"hull" 7000
+		"required crew" 8
+		"bunks" 28
+		"mass" 880
+		"drag" 16
+		"heat dissipation" 0.5
+		"fuel capacity" 600
+		"cargo space" 700
+		"outfit space" 560
 		"weapon capacity" 240
+		"engine capacity" 145
 		weapon
 			"blast radius" 140
 			"shield damage" 1400
@@ -67,19 +66,18 @@ ship "8500X2 Super Freighter"
 	attributes
 		category "Heavy Freighter"
 		"cost" 16500000
-		"bunks" 28
-		"cargo space" 850
-		"drag" 18
-		"engine capacity" 145
-		"fuel capacity" 600
-		"heat dissipation" 0.5
-		"hull" 8500
-		"mass" 1000
-		"outfit space" 640
-		"required crew" 8
 		"shields" 8500
-		"turret mounts" 8
+		"hull" 8500
+		"required crew" 8
+		"bunks" 28
+		"mass" 1000
+		"drag" 18
+		"heat dissipation" 0.5
+		"fuel capacity" 600
+		"cargo space" 850
+		"outfit space" 640
 		"weapon capacity" 320
+		"engine capacity" 145
 		weapon
 			"blast radius" 170
 			"shield damage" 1700
@@ -110,11 +108,11 @@ ship "8500X2 Super Freighter"
 	turret 11 88 "Heavy Laser Turret"
 	fighter -63.5 -22
 	fighter 64 -23
-	explode "big explosion" 40
-	explode "huge explosion" 30
 	explode "tiny explosion" 40
 	explode "small explosion" 45
 	explode "medium explosion" 50
+	explode "big explosion" 40
+	explode "huge explosion" 30
 	"final explode" "final explosion huge" 3
 	description "850 tonnes of cargo, 8500 shields and 8500 hull backed by 8 turrets. It might be all 8's but add 2 fighters and it's a 10!"
 
@@ -123,19 +121,18 @@ ship "10000X2 Super Freighter"
 	attributes
 		category "Heavy Freighter"
 		"cost" 24000000
-		"bunks" 36
-		"cargo space" 1000
-		"drag" 20
-		"engine capacity" 150
-		"fuel capacity" 600
-		"heat dissipation" 0.5
-		"hull" 10000
-		"mass" 1200
-		"outfit space" 680
-		"required crew" 10
 		"shields" 10000
-		"turret mounts" 8
+		"hull" 10000
+		"required crew" 10
+		"bunks" 36
+		"mass" 1200
+		"drag" 20
+		"heat dissipation" 0.5
+		"cargo space" 1000
+		"fuel capacity" 600
+		"outfit space" 680
 		"weapon capacity" 320
+		"engine capacity" 150
 		weapon
 			"blast radius" 200
 			"shield damage" 2000
@@ -167,11 +164,11 @@ ship "10000X2 Super Freighter"
 	fighter -64 -98.5
 	fighter 61 68
 	fighter -65 68.5
-	explode "big explosion" 40
-	explode "huge explosion" 45
 	explode "tiny explosion" 40
 	explode "small explosion" 45
 	explode "medium explosion" 50
+	explode "big explosion" 40
+	explode "huge explosion" 45
 	"final explode" "final explosion huge" 5
 	description "One of the largest ships made by anyone, ever! The 10000X2 features a full 1000 tonnes of cargo space and with its 8 turrets and the capacity to carry 4 fighters it has the firepower to keep the pirates at bay "
 
@@ -180,20 +177,18 @@ ship "3000X2 Freight"
 	attributes
 		category "Light Freighter"
 		"cost" 1250000
-		"bunks" 14
-		"cargo space" 160
-		"drag" 6.3
-		"engine capacity" 100
-		"fuel capacity" 600
-		"gun ports" 1
-		"heat dissipation" 0.6
-		"hull" 3000
-		"mass" 285
-		"outfit space" 280
-		"required crew" 5
 		"shields" 3000
-		"turret mounts" 2
+		"hull" 3000
+		"required crew" 5
+		"bunks" 14
+		"mass" 285
+		"drag" 6.3
+		"heat dissipation" 0.6
+		"fuel capacity" 600
+		"cargo space" 160
+		"outfit space" 280
 		"weapon capacity" 85
+		"engine capacity" 100
 		weapon
 			"blast radius" 60
 			"shield damage" 600
@@ -218,9 +213,9 @@ ship "3000X2 Freight"
 	gun 0 -101.5 "Heavy Laser"
 	turret 0 20.5 "Heavy Anti-Missile Turret"
 	turret -0.5 45.5 "Quad Blaster Turret"
-	explode "medium explosion" 30
-	explode "small explosion" 30
 	explode "tiny explosion" 10
+	explode "small explosion" 30
+	explode "medium explosion" 30
 	"final explode" "final explosion medium" 1
 	description "Time to move some freight? The 3000 model not only offers a great cargo space but fantastic engine, outfit and weapon spaces."
 
@@ -229,20 +224,18 @@ ship "3500X2 Freight"
 	attributes
 		category "Light Freighter"
 		"cost" 2000000
-		"bunks" 16
-		"cargo space" 220
-		"drag" 7.5
-		"engine capacity" 110
-		"fuel capacity" 600
-		"gun ports" 1
-		"heat dissipation" 0.6
-		"hull" 3500
-		"mass" 330
-		"outfit space" 330
-		"required crew" 6
 		"shields" 3500
-		"turret mounts" 3
+		"hull" 3500
+		"required crew" 6
+		"bunks" 16
+		"mass" 330
+		"drag" 7.5
+		"heat dissipation" 0.6
+		"fuel capacity" 600
+		"cargo space" 220
+		"outfit space" 330
 		"weapon capacity" 110
+		"engine capacity" 110
 		weapon
 			"blast radius" 70
 			"shield damage" 700
@@ -269,10 +262,10 @@ ship "3500X2 Freight"
 	turret 0 6 "Heavy Anti-Missile Turret"
 	turret -0.5 32.5 "Quad Blaster Turret"
 	turret -0.5 60 "Quad Blaster Turret"
-	explode "big explosion" 10
-	explode "medium explosion" 20
-	explode "small explosion" 30
 	explode "tiny explosion" 10
+	explode "small explosion" 30
+	explode "medium explosion" 20
+	explode "big explosion" 10
 	"final explode" "final explosion medium" 1
 	description "Right in the middle between light and heavy freighters the 3500X2 has great cargo, outfit and engine space that will make it a breeze to get your freight delivered fast! The 3500X2 was the original ship that the whole series was developed from and you know when you are buying the original you are buying the best!"
 
@@ -281,20 +274,18 @@ ship "4500X2 Freight"
 	attributes
 		category "Heavy Freighter"
 		"cost" 4000000
-		"bunks" 24
-		"cargo space" 450
-		"drag" 10.5
-		"engine capacity" 130
-		"fuel capacity" 600
-		"gun ports" 1
-		"heat dissipation" 0.55
-		"hull" 4500
-		"mass" 500
-		"outfit space" 365
-		"required crew" 10
 		"shields" 4500
-		"turret mounts" 3
+		"hull" 4500
+		"required crew" 10
+		"bunks" 24
+		"mass" 500
+		"drag" 10.5
+		"heat dissipation" 0.55
+		"fuel capacity" 600
+		"cargo space" 450
+		"outfit space" 365
 		"weapon capacity" 125
+		"engine capacity" 130
 		weapon
 			"blast radius" 90
 			"shield damage" 900
@@ -315,7 +306,7 @@ ship "4500X2 Freight"
 		"Impala Plasma Thruster"
 		"Scram Drive"
 
-		engine 45.5 130.5
+	engine 45.5 130.5
 	engine -45 131
 	gun 1 -133.5 "Heavy Laser"
 	turret 0.5 2.5
@@ -333,20 +324,18 @@ ship "4500X2 Armed Freight"
 	attributes
 		category "Heavy Freighter"
 		"cost" 2800000
-		"bunks" 32
-		"cargo space" 335
-		"drag" 9.2
-		"engine capacity" 130
-		"fuel capacity" 500
-		"gun ports" 4
-		"heat dissipation" 0.5
-		"hull" 4500
-		"mass" 600
-		"outfit space" 450
-		"required crew" 16
 		"shields" 4500
-		"turret mounts" 2
+		"hull" 4500
+		"required crew" 16
+		"bunks" 32
+		"mass" 600
+		"drag" 9.2
+		"heat dissipation" 0.5
+		"fuel capacity" 500
+		"cargo space" 335
+		"outfit space" 450
 		"weapon capacity" 180
+		"engine capacity" 130
 		weapon
 			"blast radius" 90
 			"shield damage" 1020
@@ -389,20 +378,18 @@ ship "4500X2 gunship"
 	attributes
 		category "Medium Warship"
 		"cost" 3400000
+		"shields" 4500
+		"required crew" 20
 		"bunks" 38
-		"cargo space" 245
+		"mass" 600
 		"drag" 9.2
-		"engine capacity" 130
-		"fuel capacity" 500
-		"gun ports" 8
 		"heat dissipation" 0.5
 		"hull" 4500
-		"mass" 600
+		"fuel capacity" 500
+		"cargo space" 245
 		"outfit space" 450
-		"required crew" 20
-		"shields" 4500
-		"turret mounts" 2
 		"weapon capacity" 200
+		"engine capacity" 130
 		weapon
 			"blast radius" 90
 			"shield damage" 1020
@@ -430,10 +417,10 @@ ship "4500X2 gunship"
 	gun 51.5 10 "Heavy Laser"
 	turret 1 2.5 "Heavy Anti-Missile Turret"
 	turret 0 34.5 "Heavy Laser Turret"
-	explode "big explosion" 5
 	explode "tiny explosion" 20
 	explode "small explosion" 35
 	explode "medium explosion" 20
+	explode "big explosion" 5
 	"final explode" "final explosion medium" 2
 	description "It's simple, when you have a valuable cargo, you need a gunship. Our 4500X2 Gunship features, 8 guns and 2 turrets as well as a generous cargo space."
 
@@ -442,20 +429,18 @@ ship "X2 Gunship (Engines)"
 	attributes
 		category "Heavy Warship"
 		"cost" 11000000
-		"bunks" 49
-		"cargo space" 185
-		"drag" 10
-		"engine capacity" 180
-		"fuel capacity" 500
-		"gun ports" 6
-		"heat dissipation" 0.5
-		"hull" 4500
-		"mass" 600
-		"outfit space" 560
-		"required crew" 30
 		"shields" 12000
-		"turret mounts" 3
+		"hull" 4500
+		"required crew" 30
+		"bunks" 49
+		"mass" 600
+		"drag" 10
+		"heat dissipation" 0.5
+		"fuel capacity" 500
+		"cargo space" 185
+		"outfit space" 560
 		"weapon capacity" 240
+		"engine capacity" 180
 		weapon
 			"blast radius" 145
 			"shield damage" 1450
@@ -496,20 +481,18 @@ ship "X2 Gunship"
 	attributes
 		category "Heavy Warship"
 		"cost" 11000000
-		"bunks" 49
-		"cargo space" 285
-		"drag" 10
-		"engine capacity" 130
-		"fuel capacity" 500
-		"gun ports" 8
-		"heat dissipation" 0.5
-		"hull" 4500
-		"mass" 600
-		"outfit space" 560
-		"required crew" 30
 		"shields" 12000
-		"turret mounts" 3
+		"hull" 4500
+		"required crew" 30
+		"bunks" 49
+		"mass" 600
+		"drag" 10
+		"heat dissipation" 0.5
+		"fuel capacity" 500
+		"cargo space" 285
+		"outfit space" 560
 		"weapon capacity" 320
+		"engine capacity" 130
 		weapon
 			"blast radius" 150
 			"shield damage" 1500
