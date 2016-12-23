@@ -37,18 +37,20 @@ ship "The Fifth Ace"
 			"hull damage" 125
 			"hit force" 375
 	outfits
-		"Hyperdrive"
-		"Integrated Greyhound Engines"
+		"Quad Blaster Turret" 2
+
 		"nGVF-CI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
-		"Quad Blaster Turret" 2
-	engine -9.5 42.5
-	engine 9.5 41.5
-	turret -12 6.5 "Quad Blaster Turret"
-	turret 13 6 "Quad Blaster Turret"
+
+		"Integrated Greyhound Engines"
+		"Hyperdrive"
+
+	engine -10 45
+	engine 10 45
+	turret -12.5 6 "Quad Blaster Turret"
+	turret 12.5 6 "Quad Blaster Turret"
 	explode "tiny explosion" 10
 	explode "small explosion" 15
-	"final explode" "final explosion small" 1
 	description "You'll have a trick up your sleeve with one of these! A great small interceptor that has two light 360 degree turrets. One of the most versatile ships made by anyone, anywhere!"
 
 ship "The Lifted Purse"
@@ -74,19 +76,22 @@ ship "The Lifted Purse"
 			"hull damage" 100
 			"hit force" 300
 	outfits
-		"Hyperdrive"
 		"Heavy Laser" 2
+
+		"nGVF-CI Integrated Fuel Cell"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
+
 		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
-	engine -8.5 49.5
-	engine 10 49
-	gun -19.5 -34 "Heavy Laser"
-	gun 19 -33 "Heavy Laser"
-	explode "small explosion" 20
+		"Hyperdrive"
+
+	engine -9.5 45.5
+	engine 9.5 45.5
+	gun -17.5 -25 "Heavy Laser"
+	gun 17.5 -25 "Heavy Laser"
 	explode "tiny explosion" 20
-	"final explode" "final explosion small" 1
+	explode "small explosion" 20
+	"final explode" "final explosion small"
 	description "Out little freighter! Just as popular now as when we first made them over 100 years ago. Slide in 80 tonnes of cargo and away you go!"
 
 ship "The Pilfered Keg"
@@ -112,22 +117,25 @@ ship "The Pilfered Keg"
 			"hull damage" 200
 			"hit force" 600
 	outfits
-		"Hyperdrive"
-		"X1700 Ion Thruster"
-		"X1200 Ion Steering"
 		"Heavy Laser Turret"
 		"Heavy Anti-Missile Turret"
-		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
+
 		"nGVF-CI Integrated Fuel Cell"
-	engine -8.5 74
-	engine 10 73.5
-	turret -20.5 -53.5 "Heavy Laser"
-	turret 19 -53.5 "Heavy Laser"
-	explode "small explosion" 10
+		"D67-TM Shield Generator"
+
+		"Integrated Greyhound Engines"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+
+	engine -11.5 79.5
+	engine 11.5 79.5
+	turret -10.5 -34 "Heavy Laser"
+	turret 10.5 -34 "Heavy Laser"
 	explode "tiny explosion" 20
+	explode "small explosion" 10
 	explode "medium explosion" 5
-	"final explode" "final explosion small" 5
+	"final explode" "final explosion small"
 	description "Another of our eternal designs. Whether it's trade or plunder you can put it all in the keg!"
 
 ship "The Buried Chest"
@@ -153,25 +161,26 @@ ship "The Buried Chest"
 			"hull damage" 250
 			"hit force" 750
 	outfits
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"Greyhound Plasma Thruster"
 		"Heavy Laser" 4
-		"D67-TM Shield Generator"
-		"LP072a Battery Pack"
+
 		"S3 Thermionic"
-	engine -18.5 107.5
-	engine 17.5 106.5
-	engine -11.5 75
-	engine 9.5 74
-	gun -32 -57 "Heavy Laser"
-	gun -20.5 -70.5 "Heavy Laser"
-	gun 20.5 -71 "Heavy Laser"
-	gun 31.5 -57 "Heavy Laser"
-	explode "small explosion" 20
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+	engine -11.5 77
+	engine 11.5 77
+	gun -32.5 -55.5 "Heavy Laser"
+	gun 32.5 -55.5 "Heavy Laser"
+	gun -21 -69 "Heavy Laser"
+	gun 21 -69 "Heavy Laser"
 	explode "tiny explosion" 20
+	explode "small explosion" 20
 	explode "medium explosion" 10
-	"final explode" "final explosion medium" 1
+	"final explode" "final explosion medium"
 	description "No need for treasure maps and caches of goods on distant planets! 165 tonnes of cargo space means you can take it with wherever you go."
 
 ship "The Captain's Hoard"
@@ -197,28 +206,31 @@ ship "The Captain's Hoard"
 			"hull damage" 350
 			"hit force" 1000
 	outfits
-		"Hyperdrive"
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 2
+		"Anti-Missile Turret" 2
+
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+
 		"Greyhound Plasma Thruster"
 		"Chipmunk Plasma Steering"
 		"Impala Plasma Steering"
-		"Heavy Laser Turret" 2
-		"D67-TM Shield Generator"
-		"S3 Thermionic"
-		"LP072a Battery Pack"
-		"Heavy Laser" 2
-		"Anti-Missile Turret" 2
-	gun -27 -64 "Heavy Laser"
-	gun 28.5 -63.5 "Heavy Laser"
-	turret -41.5 -1 "Heavy Laser Turret"
-	turret 39.5 0.5 "Heavy Laser Turret"
-	turret -44.5 66.5 "Anti-Missile Turret"
-	turret 43 65 "Anti-Missile Turret"
-	engine -16.5 85.5
-	engine 14.5 85
-	explode "small explosion" 20
+		"Hyperdrive"
+
+	engine -15.5 86.5
+	engine 15.5 86.5
+	gun -28 -62.5 "Heavy Laser"
+	gun 28 -62.5 "Heavy Laser"
+	turret -40.5 0 "Heavy Laser Turret"
+	turret 40.5 0 "Heavy Laser Turret"
+	turret -43.5 65 "Anti-Missile Turret"
+	turret 43.5 65 "Anti-Missile Turret"
 	explode "tiny explosion" 20
+	explode "small explosion" 20
 	explode "medium explosion" 10
-	"final explode" "final explosion medium" 1
+	"final explode" "final explosion medium"
 	description "Our biggest freighter! This beauty has the space to put in whatever you want and the firepower to make sure you keep it!"
 
 ship "The Lightning in the Storm"
@@ -246,29 +258,27 @@ ship "The Lightning in the Storm"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 2
-		
-		"D94-YV Shield Generator"
+
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
+		"D94-YV Shield Generator"
 		"Small Radar Jammer" 2
-		
-		"Hyperdrive"
-		"Impala Plasma Steering"
+
 		"Greyhound Plasma Thruster"
-		
-	gun -31 -45 "Heavy Laser"
-	gun 30 -44 "Heavy Laser"
-	turret -21 6 "Heavy Laser Turret"
-	turret 20.5 7.5 "Heavy Laser Turret"
-	engine -28.5 63.5
-	engine 26 62.5
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+	engine -8 66
+	engine 8 66
+	gun -29.5 -42 "Heavy Laser"
+	gun 29.5 -42 "Heavy Laser"
+	turret -19.5 13 "Heavy Laser Turret"
+	turret 19.5 13 "Heavy Laser Turret"
 	explode "tiny explosion" 15
 	explode "small explosion" 20
 	explode "medium explosion" 20
 	explode "big explosion" 3
-	"final explode" "final explosion medium" 3
-	system Rutilicus
-	planet "New Boston"
+	"final explode" "final explosion medium"
 	description "One of the fastest medium warships made! Hunt down those interceptors or streak through a battle like a bolt of lightning. Two gunports, backed by two turrets and you've got the speed and agility so that no-one will be able to touch you."
 
 ship "The Deceptive Lover"
@@ -295,30 +305,30 @@ ship "The Deceptive Lover"
 			"hit force" 1500
 	outfits
 		"Plasma Cannon" 6
-		
-		"D67-TM Shield Generator"
+
 		"Fission Reactor"
-		"Water Coolant System"
 		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Water Coolant System"
 		"Small Radar Jammer" 
-		
-		"Impala Plasma Steering"
+
 		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
 		"Hyperdrive"
-		
-	gun -34 -24 "Plasma Cannon"
-	gun -27 -49 "Plasma Cannon"
-	gun -17.5 -73 "Plasma Cannon"
-	gun 17 -73 "Plasma Cannon"
-	gun 26.5 -46 "Plasma Cannon"
-	gun 34 -21 "Plasma Cannon"
-	explode "small explosion" 30
+
+	engine -8 65
+	engine 8 65
+	gun -33.5 -21 "Plasma Cannon"
+	gun 33.5 -21 "Plasma Cannon"
+	gun -26.5 -45.5 "Plasma Cannon"
+	gun 26.5 -45.5 "Plasma Cannon"
+	gun -16.5 -73 "Plasma Cannon"
+	gun 16.5 -73 "Plasma Cannon"
 	explode "tiny explosion" 20
+	explode "small explosion" 30
 	explode "medium explosion" 20
 	explode "big explosion" 5
-	"final explode" "final explosion big" 1
-	system Rutilicus
-	planet "New Boston"
+	"final explode" "final explosion medium"
 	description "Aye! She looks pretty, but she's got a heart of stone and will put a knife your ribs when your not looking! One of our newer designs, it's got six long guns as well as plenty of shielding to take a hit!"
 
 ship "The Fearless Assassin"
@@ -346,29 +356,27 @@ ship "The Fearless Assassin"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Laser Turret"
-		
+
+		"RT-I Radiothermal"
 		"LP144a Battery Pack"
 		"D14-RN Shield Generator"
-		"RT-I Radiothermal"
-		
+
 		"Greyhound Plasma Thruster"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
-		
-	engine -11.5 67.5
-	engine 9.5 69.5
-	gun -62.5 -9 "Plasma Cannon"
-	gun -29 -30.5 "Plasma Cannon"
-	gun 26 -30 "Plasma Cannon"
-	gun 59.5 -8.5 "Plasma Cannon"
-	turret 0 26 "Heavy Laser Turret"
-	explode "small explosion" 20
+
+	engine -8 58
+	engine 8 58
+	gun -24 -25.5 "Plasma Cannon"
+	gun 24 -25.5 "Plasma Cannon"
+	gun -53 -7.5 "Plasma Cannon"
+	gun 53 -7.5 "Plasma Cannon"
+	turret 0 5.5 "Heavy Laser Turret"
 	explode "tiny explosion" 18
+	explode "small explosion" 20
 	explode "medium explosion" 10
 	explode "big explosion" 4
-	"final explode" "final explosion medium" 2
-	system Rutilicus
-	planet "New Boston"
+	"final explode" "final explosion small"
 	description "Small, dark and lethal, this is the ninja of warships. 4 guns and a turret and the weapon space to use them however you want, you'll fear nothing with one of these beauties!"
 
 ship "The Screams of the Insane"
@@ -397,33 +405,31 @@ ship "The Screams of the Insane"
 		"Plasma Cannon" 4
 		"Heavy Laser Turret"
 		"Heavy Anti-Missile Turret"
-		
-		"D94-YV Shield Generator"
+
 		"RT-I Radiothermal"
-		"Water Coolant System"
-		"LP072a Battery Pack"
-		"Cooling Ducts"
 		"nGVF-CC Fuel Cell"
-		
-		"Impala Plasma Steering"
+		"LP072a Battery Pack"
+		"D94-YV Shield Generator"
+		"Water Coolant System"
+		"Cooling Ducts"
+
 		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
 		"Hyperdrive"
-		
-	engine 10 75
-	engine -7.5 75.5
-	gun -79 6.5 "Plasma Cannon"
-	gun -71 -13.5 "Plasma Cannon"
-	gun 69.5 -13 "Plasma Cannon"
-	gun 79.5 7 "Plasma Cannon"
-	turret -21 1.5 "Heavy Anti-Missile Turret"
-	turret 20.5 -0.5 "Heavy Laser Turret"
+
+	engine -9.5 75.5
+	engine 9.5 75.5
+	gun -71 -8.5 "Plasma Cannon"
+	gun 71 -8.5 "Plasma Cannon"
+	gun -79.5 11.5 "Plasma Cannon"
+	gun 79.5 11.5 "Plasma Cannon"
+	turret -21 13 "Heavy Anti-Missile Turret"
+	turret 21 13 "Heavy Laser Turret"
 	explode "tiny explosion" 20
 	explode "medium explosion" 25
 	explode "small explosion" 35
 	explode "big explosion" 10
-	"final explode" "final explosion medium" 2
-	system Rutilicus
-	planet "New Boston"
+	"final explode" "final explosion medium"
 	description "In space no-one can hear you scream, but turn on the comms channel and you'll hear them screaming and going insane as you pump your four cannons and turrets into their hull! Our biggest medium warship and definitely the best!"
 
 ship "The Damned Executioner"
@@ -451,31 +457,29 @@ ship "The Damned Executioner"
 	outfits
 		"Heavy Laser" 4
 		"Heavy Laser Turret"
-		
+
+		"S3 Thermionic"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
 		"Cooling Ducts"
-		"S3 Thermionic"
 		"Small Radar Jammer" 2
-		
-		"Impala Plasma Steering"
+
 		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
 		"Hyperdrive"
-		
-	engine 10 73.5
-	engine -8.5 72.5
-	gun -70 -9 "Heavy Laser"
-	gun 69 -9.5 "Heavy Laser"
-	gun 28 -32 "Heavy Laser"
-	gun -27 -31.5 "Heavy Laser"
-	turret 0.5 25.5 "Heavy Laser Turret"
+
+	engine -9.5 70.5
+	engine 9.5 70.5
+	gun -28.5 -29.5 "Heavy Laser"
+	gun 28.5 -29.5 "Heavy Laser"
+	gun -69 -7.5 "Heavy Laser"
+	gun 69 -7.5 "Heavy Laser"
+	turret 0 12.5 "Heavy Laser Turret"
 	explode "tiny explosion" 20
 	explode "medium explosion" 20
 	explode "small explosion" 35
 	explode "big explosion" 5
-	"final explode" "final explosion medium" 1
-	system Rutilicus
-	planet "New Boston"
+	"final explode" "final explosion medium"
 	description "Time to step up from an interceptor or light warship? Look no further, once the top of the range, now a budget classic, 'The Damned' has been using the same design for hundreds of years. Why? because it just works so well!"
 
 ship "The Deceitful Hangman"
@@ -503,27 +507,28 @@ ship "The Deceitful Hangman"
 	outfits
 		"Heavy Laser" 4
 		"Anti-Missile Turret"
-		
-		"D41-HY Shield Generator"
-		"LP072a Battery Pack"
+
 		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
 		"Small Radar Jammer"
-		
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
+
 		"Greyhound Plasma Thruster"
-	engine 10 51
-	engine -9.5 50.5
-	gun -42.5 -29 "Heavy Laser"
-	gun 44 -29 "Heavy Laser"
-	gun 17.5 -30 "Heavy Laser"
-	gun -18 -30 "Heavy Laser"
-	turret 0 19.5 "Anti-Missile Turret"
-	explode "big explosion" 2
-	explode "medium explosion" 20
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+	engine -9 48.5
+	engine 9 48.5
+	gun -17.5 -26 "Heavy Laser"
+	gun 17.5 -26 "Heavy Laser"
+	gun -43.5 -27 "Heavy Laser"
+	gun 43.5 -27 "Heavy Laser"
+	turret 0 6.5 "Anti-Missile Turret"
 	explode "tiny explosion" 15
 	explode "small explosion" 25
-	"final explode" "final explosion small" 3
+	explode "medium explosion" 20
+	explode "big explosion" 2
+	"final explode" "final explosion small"
 	description "One of our most popular ships! 'The Deceitful' packs four guns, a turret and the capacity for a small boarding crew into a tiny space. Whether you're pirating or taking down the pirates this is the ship you need!"
 
 ship "The Rum Barrell"
@@ -550,27 +555,27 @@ ship "The Rum Barrell"
 			"hit force" 555
 	outfits
 		"Beam Laser" 4
-		
+
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Water Coolant System"
 		"Small Radar Jammer" 2
-		
-		"Greyhound Plasma Steering"
+
 		"Impala Plasma Thruster"
+		"Greyhound Plasma Steering"
 		"Hyperdrive"
-		
-	engine 9.5 48
-	engine -11 47
-	gun 57.5 -3.5 "Beam Laser"
-	gun 41 -17.5 "Beam Laser"
-	gun -41.5 -19 "Beam Laser"
-	gun -58.5 -3.5 "Beam Laser"
+
+	engine -11 45.5
+	engine 11 45.5
+	gun -41.5 -17 "Beam Laser"
+	gun 41.5 -17 "Beam Laser"
+	gun -59 0 "Beam Laser"
+	gun 59 0 "Beam Laser"
 	explode "tiny explosion" 10
-	explode "medium explosion" 10
 	explode "small explosion" 20
-	"final explode" "final explosion small" 1
+	explode "medium explosion" 10
+	"final explode" "final explosion small"
 	description "Another stalwart for well over a century. The rum barrell is great transport ship, especially for budget travellers. Amazingly reliable, cheap to repair and the long wings make it easy to fly within a planet's atmosphere."
 
 ship "The Hidden Blade"
@@ -597,23 +602,22 @@ ship "The Hidden Blade"
 			"hit force" 320
 	outfits
 		"Beam Laser" 3
-		
-		"D14-RN Shield Generator"
-		"LP036a Battery Pack"
+
 		"nGVF-CC Fuel Cell"
-		
-		"Chipmunk Plasma Steering"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+
 		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
 		"Hyperdrive"
-		
-	engine 10 38
-	engine -10 37.5
-	gun 10 -10 "Beam Laser"
-	gun -10.5 -9 "Beam Laser"
-	gun 0.5 -42.5 "Beam Laser"
-	explode "small explosion" 8
+
+	engine -10.5 38.5
+	engine 10.5 38.5
+	gun 0 -41 "Beam Laser"
+	gun -20 -1 "Beam Laser"
+	gun 20 -1 "Beam Laser"
 	explode "tiny explosion" 15
-	"final explode" "final explosion tiny" 2
+	explode "small explosion" 8
 	description "Small and dark, it lays waiting. Here's a definite step up from the sparrow for you, it features more shields, a stronger hull and even boasts an extra gun port."
 
 ship "The Dirty Cutlass"
@@ -639,20 +643,21 @@ ship "The Dirty Cutlass"
 			"hull damage" 150
 			"hit force" 450
 	outfits
-		"D14-RN Shield Generator"
 		"Heavy Laser" 4
-		"Integrated Greyhound Engines"
+
 		"nGVF-CI Integrated Fuel Cell"
+		"D14-RN Shield Generator"
+
+		"Integrated Greyhound Engines"
 		"Hyperdrive"
-		
-	engine 10 45
-	engine -7 45.5
-	gun 20 -6 "Heavy Laser"
-	gun 35 5 "Heavy Laser"
-	gun -18.5 -5.5 "Heavy Laser"
-	gun -30 2.5 "Heavy Laser"
-	explode "small explosion" 10
+
+	engine -8.5 45.5
+	engine 8.5 45.5
+	gun -20 -4 "Heavy Laser"
+	gun 20 -4 "Heavy Laser"
+	gun -33.5 6.5 "Heavy Laser"
+	gun 33.5 6.5 "Heavy Laser"
 	explode "tiny explosion" 15
+	explode "small explosion" 10
 	explode "medium explosion" 2
-	"final explode" "final explosion medium" 1
 	description "One of the biggest interceptors on the market! You have the speed and agility of the interceptor, but feel like you're in a warship while flying this beauty. Missiles, cannons, lasers, four front gun ports will allow you to put in whatever you want!"
