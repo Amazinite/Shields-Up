@@ -243,7 +243,7 @@ ship "The Lightning in the Storm"
 		"required crew" 5
 		"bunks" 14
 		"mass" 190
-		"drag 4.3
+		"drag" 4.3
 		"fuel capacity" 500
 		"heat dissipation" 0.65
 		"cargo space" 40
