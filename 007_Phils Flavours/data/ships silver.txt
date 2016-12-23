@@ -45,7 +45,7 @@ ship "Silver Stream"
 	explode "tiny explosion" 20
 	explode "small explosion" 20
 	explode "medium explosion" 15
-	"final explode" "final explosion medium" 2
+	"final explode" "final explosion medium"
 	description "Referred to colloquially as the 'blingbird', the silver stream features an opulent interior to match the shine and shimmer of the external rendering. It is most commonly used as a private transport ship by actors, musicians and VIP's who travel with a small entourage."
 
 ship "The Black Star"
@@ -93,11 +93,11 @@ ship "The Black Star"
 	turret 16 -6.5
 	turret -14 76
 	turret 14 76
-	explode "big explosion" 15
 	explode "tiny explosion" 10
 	explode "small explosion" 25
 	explode "medium explosion" 20
-	"final explode" "final explosion medium" 2
+	explode "big explosion" 15
+	"final explode" "final explosion medium"
 	description "Featuring four gun ports as well as four turrets, 'The Black Star' is one of the most heavily armed medium class warships available on the market today. Its unique design and lack of color appeals to a particular niche of customers who will adamantly defend and espouse the features of the ship."
 
 ship "The Silver Star"
@@ -149,11 +149,11 @@ ship "The Silver Star"
 	turret 56.5 101.5
 	turret -16.5 -4.5
 	turret 16.5 -4.5
-	explode "big explosion" 25
 	explode "tiny explosion" 20
 	explode "small explosion" 45
 	explode "medium explosion" 30
-	"final explode" "final explosion large" 1
+	explode "big explosion" 25
+	"final explode" "final explosion large"
 	description "The larger version of the Black Star, 'The Silver Star' continues with a fearsome weapon capability that on its own would see it classed as a heavy warship. Four guns, six turrets and a generous crew space are packed into what is considered a small space for a ship of this type."
 
 ship "Silver Defender"
@@ -207,11 +207,11 @@ ship "Silver Defender"
 	turret 45.5 38.5 "Heavy Anti-Missile Turret"
 	turret -23.5 35 "Particle Cannon Turret"
 	turret 23.5 35 "Particle Cannon Turret"
+	explode "tiny explosion" 30
 	explode "small explosion" 40
 	explode "medium explosion" 40
-	explode "tiny explosion" 30
 	explode "big explosion" 15
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion large"
 	description "'The Silver Defender' is the largest of the silver series and was designed to provide protection for entire fleets or as the flagship of a convoy. Its extremely high shielding and weapon capacity make a fearsome combination that is well known throughout the galaxy."
 
 ship "Silver Escort"
@@ -255,11 +255,11 @@ ship "Silver Escort"
 	gun 34 -41 "Particle Cannon"
 	turret -23.5 32.5 "Particle Cannon Turret"
 	turret 23.5 32.5 "Particle Cannon Turret"
+	explode "tiny explosion" 18
 	explode "small explosion" 30
 	explode "medium explosion" 24
-	explode "tiny explosion" 18
 	explode "big explosion" 3
-	"final explode" "final explosion small" 1
+	"final explode" "final explosion small"
 	description "Smallest of 'The Silver Series', the Escort is a light warship originally created to protect freight shipments to and from the planet and features the highest shielding in its class. Although crew and cargo space limit the applications to which it can be used, it remains popular with merchant captains."
 
 ship "Silver Protector"
@@ -308,9 +308,9 @@ ship "Silver Protector"
 	turret 46.5 33 "Particle Cannon Turret"
 	turret -24 29.5 "Particle Cannon Turret"
 	turret 24 29.5 "Particle Cannon Turret"
+	explode "tiny explosion" 18
 	explode "small explosion" 36
 	explode "medium explosion" 24
-	explode "tiny explosion" 18
 	explode "big explosion" 10
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion medium"
 	description "Designed to provide protection for large oil shipments, 'The Silver Protector' is a medium class warship that expands on the design and capabilities of the Escort. Although it maintains similar limitations in crew and cargo, it is particularly well known for its generous outfit and weapon space."

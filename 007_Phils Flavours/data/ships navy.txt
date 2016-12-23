@@ -59,11 +59,11 @@ ship "Alliance Battleship"
 	turret 48 3.5 "Heavy Laser Turret"
 	turret -43 242 "Heavy Anti-Missile Turret"
 	turret 43 242 "Heavy Anti-Missile Turret"
-	explode "medium explosion" 40
 	explode "small explosion" 35
-	explode "huge explosion" 30
+	explode "medium explosion" 40
 	explode "large explosion" 45
-	"final explode" "final explosion large" 4
+	explode "huge explosion" 30
+	"final explode" "final explosion large"
 	description "Designed and built under an agreement between the Republic Navy and Lionheart, the 'Alliance' is one of the biggest and strongest ships ever made. Absolute massive shields and hull are supported a similarly large outfit and weapon capacity."
 
 ship "Gunboat GXV2"
@@ -173,7 +173,7 @@ ship "Destroyer"
 	explode "small explosion" 40
 	explode "medium explosion" 30
 	explode "large explosion" 20
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion medium"
 	description "The Destroyer is placed between a frigate and a cruiser in both size and armament. Often used to lead a small fleet of gunboats and rainmakers, it also has sufficient shields and weaponary to act on its own."
 
 ship "Destroyer" "Destroyer A"

@@ -53,7 +53,7 @@ ship Camelthorn
 	explode "small explosion" 36
 	explode "medium explosion" 24
 	explode "large explosion" 8
-	"final explode" "final explosion medium" 1
+	"final explode" "final explosion small"
 	description "The Camelthorn is our all purpose light warship. Pure class and solid all round performance it's perfect for new captains and those who dont want to die in an under equipped interceptor!"
 
 ship Balau
@@ -101,7 +101,7 @@ ship Balau
 	explode "small explosion" 36
 	explode "medium explosion" 24
 	explode "large explosion" 8
-	"final explode" "final explosion medium" 1
+	"final explode" "final explosion small"
 	description "The Balua is our little escort designed to accompany freighters and larger warships, but it also makes a great all purpose ship in its own right!"
 
 ship Lignum
@@ -157,7 +157,7 @@ ship Lignum
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	"final explode" "final explosion large" 3
+	"final explode" "final explosion large"
 	description "Pure destruction! 6 guns and 4 turrets with massive shielding. The lignum is either flagship or an extremely heavy escort that will make anyone think twice about starting a fight."
 
 ship Cebil
@@ -209,7 +209,7 @@ ship Cebil
 	explode "medium explosion" 30
 	explode "big explosion" 8
 	explode "huge explosion" 1
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion medium"
 	description "Designed specifically to compete with the Mule, the Cebil features excellent cargo space, shields and hull backed by 4 guns and 2 turrets."
 
 ship Quebracho
@@ -262,7 +262,7 @@ ship Quebracho
 	explode "medium explosion" 30
 	explode "big explosion" 8
 	explode "huge explosion" 1
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion medium"
 	description "Named after one the strongest woods on old earth, Quebracho means 'the Axe Breaker'. The tree may now be extinct, but there is no way you will be with this ship!"
 
 ship Gidgee
@@ -316,7 +316,7 @@ ship Gidgee
 	explode "medium explosion" 30
 	explode "big explosion" 8
 	explode "huge explosion" 1
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion medium"
 	description "The strongest of the three siblings. With its 4 guns and 4 turrets, the Gidgee has possibly the most firepower of any medium warship made!"
 
 ship Katalox
@@ -372,7 +372,7 @@ ship Katalox
 	explode "medium explosion" 50
 	explode "big explosion" 40
 	explode "huge explosion" 10
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion large"
 	description "Recognising a market created by the vetting of Bactrian purchasers by the government of the Deep, Tarazed have developed the Katalox as a flagship all purpose carrier-heavy warship. It features some of the strongest shielding and hull structure in a commercially available ship that is supplmented by generous cargo and crew space."
 
 ship Wamara
@@ -427,5 +427,5 @@ ship Wamara
 	explode "medium explosion" 50
 	explode "big explosion" 15
 	explode "huge explosion" 10
-	"final explode" "final explosion large" 1
+	"final explode" "final explosion large"
 	description "The smallest of the heavy warships from the Katalox group. In a similar fashion to its larger brethren it features excellent cargo space, serious shields and hull as well as 6 turrets and 2 guns."

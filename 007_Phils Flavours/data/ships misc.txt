@@ -71,11 +71,11 @@ ship Gargoyle
 	turret 29 -52.5 "Heavy Laser Turret"
 	turret -20 88.5 "Heavy Anti-Missile Turret"
 	turret 20 88.5 "Heavy Anti-Missile Turret"
-	explode "medium explosion" 20
-	explode "huge explosion" 10
-	explode "large explosion" 35
 	explode "small explosion" 15
-	"final explode" "final explosion large" 1
+	explode "medium explosion" 20
+	explode "large explosion" 35
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
 	description "Faster and lighter than the Behemoth, the Gargoyle also features excellent cargo and outfit space. Two gun ports are packed with missiles and supported by four turrets to keep you, your crew and your cargo safe."
 
 ship "Hauler IV"
@@ -125,9 +125,9 @@ ship "Hauler IV"
 	turret 19 115 "Quad Blaster Turret"
 	explode "small explosion" 20
 	explode "medium explosion" 30
-	explode "huge explosion" 25
-	explode "large explosion" 10
-	"final explode" "final explosion large" 1
+	explode "large explosion" 25
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
 	description "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This larger version of the Hauler provides even better tradeoff between price and cargo space."
 
 ship "Hauler VI"
@@ -177,9 +177,9 @@ ship "Hauler VI"
 	turret 19 151 "Quad Blaster Turret"
 	explode "small explosion" 15
 	explode "medium explosion" 20
-	explode "huge explosion" 30
-	explode "large explosion" 15
-	"final explode" "final explosion large" 1
+	explode "large explosion" 30
+	explode "huge explosion" 15
+	"final explode" "final explosion large"
 	description "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This larger version of the Hauler provides an amazing tradeoff between price and cargo space."
 
 ship Arrowhead
@@ -267,11 +267,11 @@ ship "Heavy Dart"
 	gun 18 -77 "Heavy Laser"
 	turret -18.5 -9 "Heavy Laser Turret"
 	turret 18.5 -9 "Heavy Laser Turret"
-	explode "medium explosion" 20
-	explode "large explosion" 10
 	explode "tiny explosion" 25
 	explode "small explosion" 40
-	"final explode" "final explosion medium"
+	explode "medium explosion" 20
+	explode "large explosion" 10
+	"final explode" "final explosion small"
 	description "The larger version of the dart is a little slower but more than doubles the cargo capacity, increases the shield capacity and adds a 2nd turret mount."
 
 ship "Light Dart"
@@ -314,11 +314,11 @@ ship "Light Dart"
 	gun -17 -76.5 "Heavy Laser"
 	gun 17 -76.5 "Heavy Laser"
 	turret 0 -54.5 "Heavy Laser Turret"
-	explode "medium explosion" 30
-	explode "large explosion" 20
 	explode "tiny explosion" 28
 	explode "small explosion" 40
-	"final explode" "final explosion medium"
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	"final explode" "final explosion small"
 	description "With its distinctive fin design, the dart looks showy but is a solid workhorse within Syndicate space. An all purpose light warship it features 2 front guns, a 360 degree turret mount and 30 tonnes of cargo space."
 
 ship "Dark Berserker"
@@ -362,7 +362,6 @@ ship "Dark Berserker"
 	gun 19.5 -7 "Beam Laser"
 	explode "tiny explosion" 20
 	explode "small explosion" 15
-	"final explode" "final explosion small" 1
 	description `In an attempt to revitalise the Berzerker line, Betelguese have created the 'Dark Zerker'. Designed to compete with Tarazed's Black Hawk it has features a small increase in shield and weapon capacity as well as more cargo space.`
 
 ship "Black Hawk"
@@ -404,13 +403,12 @@ ship "Black Hawk"
 	gun 24 -10 "Plasma Cannon"
 	explode "tiny explosion" 15
 	explode "small explosion" 10
-	"final explode" "final explosion small" 1
 	description `Popular with musicians, rebellious teens and pirates, the black hawk is a little slower than the original and has less cargo but increases the outfit and weapon space.`
 
 ship "Star Princess"
 	sprite "ship/star princess"
 	attributes
-		category Transport
+		category "Transport"
 		"cost" 5000000
 		"shields" 3600
 		"hull" 2000
@@ -450,7 +448,7 @@ ship "Star Princess"
 	explode "small explosion" 25
 	explode "medium explosion" 25
 	explode "large explosion" 10
-	"final explode" "final explosion medium" 1
+	"final explode" "final explosion small"
 	description `The Star Princess is the predecessor to the Star Queen. Less opulent in its fittings, it is popular for long range transport as well as for budget and mid price tours.`
 
 ship "Vanguard Trailbreaker"
@@ -500,12 +498,12 @@ ship "Vanguard Trailbreaker"
 	gun 5 -131 "Proton Gun"
 	turret 0 43 "Anti-Missile Turret"
 	turret 0 12 "Anti-Missile Turret"
-	explode "big explosion" 40
-	explode "huge explosion" 10
 	explode "tiny explosion" 20
 	explode "small explosion" 45
 	explode "medium explosion" 50
-	"final explode" "final explosion large" 3
+	explode "big explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
 	description "The 'Trailbreaker' is designed to be either a flagship or to be strong enough to work on its own. The significantly increased shields and hull are also enhanced by an extra gun and turret mount."
 
 ship "Protector Fortress"
@@ -559,12 +557,12 @@ ship "Protector Fortress"
 	turret 65 -72 "Heavy Laser Turret"
 	turret -91 -11 "Heavy Laser Turret"
 	turret 91 -11 "Heavy Laser Turret"
-	explode "big explosion" 40
-	explode "huge explosion" 10
 	explode "tiny explosion" 20
 	explode "small explosion" 45
 	explode "medium explosion" 50
-	"final explode" "final explosion large" 3
+	explode "big explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
 	description `The Protector Fortress is designed to sit in a low orbit as a mobile planetary defense system and provide protection from threats such as Korath raiders. Although the Fortress is no prettier than the standard version and is even slower, it does have one of the highest weapon capacities of any ship made and its mere presence can dissaude pirate activites.`
 
 ship "Swooping Raven"
@@ -608,11 +606,11 @@ ship "Swooping Raven"
 	gun 11.5 -31 "Heavy Laser"
 	turret -27 2.5 "Heavy Laser Turret"
 	turret 27 2.5 "Heavy Laser Turret"
-	explode "medium explosion" 24
-	explode "large explosion" 16
 	explode "tiny explosion" 28
 	explode "small explosion" 40
-	"final explode" "final explosion medium"
+	explode "medium explosion" 24
+	explode "large explosion" 16
+	"final explode" "final explosion small"
 	description "With the popularity of the Raven, Lionheart created a second version to expands its market share. Slightly smaller with less shields, the 'swooper' adds more firepower by changing two of its gun ports to turret mounts."
 
 ship "Elepaio"
@@ -653,9 +651,8 @@ ship "Elepaio"
 	gun 34.5 -14.5 "Long Range Laser"
 	gun -22.5 -23 "Long Range Laser"
 	gun 22.5 -23 "Long Range Laser"
-	explode "small explosion" 25
 	explode "tiny explosion" 45
-	"final explode" "final explosion small" 3
+	explode "small explosion" 25
 	description "The obvious step up from the sparrow, the Elepaio is a large interceptor that features four gun ports that can each hold a long range laser. It has more shielding, a stronger hull and better energy generation than its smaller sibling."
 
 ship "Sparrow MKII"
@@ -696,9 +693,8 @@ ship "Sparrow MKII"
 	engine 5.5 36
 	gun -6.5 -7 "Long Range Laser"
 	gun 6.5 -7 "Long Range Laser"
-	explode "small explosion" 15
 	explode "tiny explosion" 45
-	"final explode" "final explosion small" 1
+	explode "small explosion" 15
 	description "The Mark II is fractionally bigger and stronger than the original with improved shields, cargo space, fuel and weapon space."
 
 ship "Junior Osprey"
@@ -747,7 +743,7 @@ ship "Junior Osprey"
 	explode "tiny explosion" 20
 	explode "small explosion" 40
 	explode "medium explosion" 20
-	"final explode" "final explosion medium" 3
+	"final explode" "final explosion small"
 	description "The 'Junior Osprey' follows the design of its bigger sibling. Although scaled down it also follows a similar structure with strong shielding making up for the lightweight hull."
 
 ship "Wren"
@@ -788,5 +784,4 @@ ship "Wren"
 	turret 0 -4 "Laser Turret"
 	explode "tiny explosion" 45
 	explode "small explosion" 15
-	"final explode" "final explosion small" 1
 	description "A great mid range interceptor which features a 360 turret mount to keep the pirates at bay. With 20 tonnes of cargo space, you'll be able to make some real money trading as well."
