@@ -2725,7 +2725,7 @@ ship "Silver Protector" "Silver Protector C"
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Fusion Reactor"
-		"LP144a Battery Pack"
+		"LP072a Battery Pack"
 		"D94-YV Shield Generator" 2
 		"Liquid Nitrogen Cooler"
 		"Tactical Military Outfit" 20
