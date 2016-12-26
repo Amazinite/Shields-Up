@@ -115,9 +115,11 @@ mission "Ext Intro [Cargo 1]"
 	destination "Prime"
 	to offer
 		has "Ext Intro [1]: done"
-		has "ships: Light Freighter"
 		"passenger space" >= 1
 		"cargo space" >= 15
+		or
+			has "ships: Light Freighter"
+			has "ships: Heavy Freighter"
 	
 	on offer
 		conversation
@@ -369,13 +371,13 @@ mission "Ext Intro [Interceptor 1]"
 	passengers 1
 	source "Splashdown"
 	to offer
+		has "Ext Intro [1]: done"
+		"passenger space" >= 1
 		or
 			has "ships: Interceptor"
 			has "ships: Light Warship"
 			has "ships: Medium Warship"
 			has "ships: Heavy Warship"
-		has "Ext Intro [1]: done"
-		"passenger space" >= 1
 	
 	on offer
 		conversation
@@ -598,8 +600,8 @@ mission "Ext Intro [Transport 1]"
 	destination "Farpoint"
 	to offer
 		has "Ext Intro [1]: done"
-		has "ships: Transport"
 		"passenger space" >= 4
+		has "ships: Transport"
 	
 	on offer
 		conversation
