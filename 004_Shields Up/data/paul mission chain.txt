@@ -184,7 +184,7 @@ mission "Ext Intro [Cargo 2]"
 	
 	on offer
 		conversation
-			`"Okay captain, are you ready to go? My next stop is pretty far from here, the planet Hephaestus in the Markab system." He continues on, in a condesending tone; "Ff you weren't aware, it's the seat of the Syndicate's government."`
+			`"Okay captain, are you ready to go? My next stop is pretty far from here, the planet Hephaestus in the Markab system." He continues on, in a condesending tone; "If you weren't aware, it's the seat of the Syndicate's government."`
 			choice
 				`	"That's fine, I can take you there."`
 					goto "accept"
