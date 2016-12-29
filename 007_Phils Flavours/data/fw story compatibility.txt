@@ -307,8 +307,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"3000X2 Freight B"
 			"3500X2 Freight A"
-			"Quicksilver"
-			"Quicksilver (Mark II)"
+			"Quicksilver" 2
 		variant 2
 			"3000X2 Freight C"
 			"3500X2 Freight B"
@@ -661,8 +660,6 @@ event "southern carriers compatibility4"
 		variant 1
 			"Splinter (Laser)"
 		variant 1
-			"Splinter (Mark II)"
-		variant 1
 			"Splinter A"
 		variant 1
 			"Silver Protector"
@@ -715,8 +712,6 @@ event "southern carriers compatibility4"
 			"Lignum C"
 		variant 1
 			"Manta"
-		variant 1
-			"Manta (Mark II)"
 		variant 1
 			"Manta (Proton)"
 		variant 1
@@ -3935,8 +3930,7 @@ event "southern carriers compatibility2"
 		variant 2
 			"3000X2 Freight B"
 			"3500X2 Freight A"
-			"Quicksilver"
-			"Quicksilver (Mark II)"
+			"Quicksilver" 2
 		variant 2
 			"3000X2 Freight C"
 			"3500X2 Freight B"
@@ -4289,8 +4283,6 @@ event "southern carriers compatibility2"
 		variant 1
 			"Splinter (Laser)"
 		variant 1
-			"Splinter (Mark II)"
-		variant 1
 			"Splinter A"
 		variant 1
 			"Silver Protector"
@@ -4343,8 +4335,6 @@ event "southern carriers compatibility2"
 			"Lignum C"
 		variant 1
 			"Manta"
-		variant 1
-			"Manta (Mark II)"
 		variant 1
 			"Manta (Proton)"
 		variant 1
