@@ -408,7 +408,7 @@ outfit "Ion Laser Turret"
 		"shield damage" 0.5
 		"hull damage" 0.7
 		"ion damage" .1665
-	description "Tired of firing stupid ion blobs straight ahead? Try the new Ion Laser Turret, a favorite of pirate kings the galaxy over! Lown shield and hull damage means this turret works best when paired with high damage outfits to disable that prized merchant vessel."
+	description "Tired of firing stupid ion blobs straight ahead? Try the new Ion Laser Turret, a favorite of pirate kings the galaxy over! Low shield and hull damage means this turret works best when paired with high damage outfits to disable that prized merchant vessel."
 
 outfit "Bighorn Energy Ram"
 	category "Guns"
