@@ -8,6 +8,7 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
 outfitter "Pompano Tuk'ux"
 	"Tuk'ux Internal Defenses"
 	"Darkmatter Steering"
@@ -31,7 +32,6 @@ outfitter "Pompano Tuk'ux"
 outfitter "Pompano Quarg"
 	"Skylance Rifle"
 	"Skylance Rifle Rack"
-	"Quarg Skydagger"
 
 shipyard "Pompano Tuk'ux"
 	"Tuk'ux Battle Carrier"
@@ -39,22 +39,14 @@ shipyard "Pompano Tuk'ux"
 	"Tuk'ux Cargo Ship"
 	"Tuk'ux Fighter"
 
-shipyard "Pompano Quarg"
-	"Quarg Rover"
-	"Quarg Warbird"
-
 planet Mods
 	outfitter "Pompano Tuk'ux"
-	outfitter "Pompano Quarg"
 	shipyard "Pompano Tuk'ux"
-	shipyard "Pompano Quarg"
 
 planet Forge
 	outfitter "Pompano Tuk'ux"
 	outfitter "Pompano Quarg"
 	shipyard "Pompano Tuk'ux"
-	shipyard "Pompano Quarg"
 
 planet Quarg
 	outfitter "Pompano Quarg"
-	shipyard "Pompano Quarg"

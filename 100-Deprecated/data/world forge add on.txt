@@ -24,6 +24,7 @@ outfitter deprecated
 	"FTek UMDB"
 	"Rock Wall"
 	"Polaric Slide Thrusters"
+	"Quarg Skydagger"
 
 shipyard deprecated
 	"Tuk'ux Battle Cruiser"
@@ -31,3 +32,5 @@ shipyard deprecated
 	"Arachnid"
 	"Predator Drone"
 	"Switchblade"
+	"Quarg Rover"
+	"Quarg Warbird"
