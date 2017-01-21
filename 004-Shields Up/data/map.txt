@@ -124,6 +124,7 @@ system Bera
 	pos -290.892 738.228
 	government Quarg
 	habitable 135
+	haze "star/purple haze"
 	link Yarg
 	link Gami
 	trade Clothing 375
@@ -139,9 +140,6 @@ system Bera
 	fleet Quarg 2500
 	fleet "Large Militaj" 2200
 	fleet "Small Mk2 Militaj" 2200
-	object
-		sprite star/nebula1
-		period 180
 
 system "Beta Uzara"
 	pos -807.13 4.7424
@@ -456,6 +454,7 @@ system "Eta Carinae"
 	pos -28.448 429.562
 	government "Servorum Dei"
 	habitable 719.96
+	haze "star/purple haze"
 	link Mechanus
 	link "Sanctum Adroit"
 	link Niffleheim
@@ -480,11 +479,6 @@ system "Eta Carinae"
 	fleet "Small Militaj" 6500
 	fleet "Large Militaj" 8000
 	fleet "Small Servorum Dei" 2000
-	object
-		sprite star/nebula1
-		distance 15.6664
-		period 10
-		offset 180
 
 system "Eta Piscium"
 	pos -11.9773 459.553
@@ -1762,6 +1756,7 @@ system "Mil'taj Doh"
 	pos -97.262 704.81
 	government Militaj
 	habitable 320
+	haze "star/white haze"
 	link "Mil'taj Woh"
 	link "Mil'taj Boh"
 	trade Clothing 375
@@ -1775,9 +1770,6 @@ system "Mil'taj Doh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Militaj" 5000
-	object
-		sprite star/nebula3
-		period 180
 
 system "Mil'taj Dol"
 	pos 284.774 317.439
@@ -1928,6 +1920,7 @@ system "Mil'taj Foh"
 	pos 104.409 673.337
 	government Militaj
 	habitable 1250
+	haze "star/light haze"
 	link "Mil'taj Soh"
 	link "Mil'taj Loh"
 	link "Mil'taj Nol"
@@ -1942,9 +1935,6 @@ system "Mil'taj Foh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula4
-		period 180
 
 system "Mil'taj Fol"
 	pos 375.485 480.36
@@ -2143,6 +2133,7 @@ system "Mil'taj Goh"
 	pos -17.8014 831.589
 	government Militaj
 	habitable 1050.92
+	haze "star/light haze"
 	link "Mil'taj Joh"
 	link "Mil'taj Poh"
 	trade Clothing 375
@@ -2156,14 +2147,12 @@ system "Mil'taj Goh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula4
-		period 180
 
 system "Mil'taj Gol"
 	pos 223.485 592.36
 	government Militaj
 	habitable 486.68
+	haze "star/white haze"
 	link "Mil'taj Bol"
 	link "Mil'taj Zol"
 	trade Clothing 375
@@ -2177,9 +2166,6 @@ system "Mil'taj Gol"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Militaj" 4000
-	object
-		sprite star/nebula3
-		period 180
 
 system "Mil'taj Gon"
 	pos 100.602 513.817
@@ -3018,6 +3004,7 @@ system "Mil'taj Mon"
 	pos 166.412 372.354
 	government Militaj
 	habitable 1080
+	haze "star/green haze"
 	link "Mil'taj Ron"
 	link "Mil'taj Son"
 	trade Clothing 290
@@ -3033,9 +3020,6 @@ system "Mil'taj Mon"
 	fleet "Large Militaj" 2000
 	fleet "Small Mk2 Militaj" 2000
 	fleet Quarg 2200
-	object
-		sprite star/nebula2
-		period 180
 
 system "Mil'taj Nek"
 	pos -2855.87 -2728.98
@@ -3385,6 +3369,7 @@ system "Mil'taj Pon"
 	pos -107.588 570.354
 	government Militaj
 	habitable 2372.76
+	haze "star/green haze"
 	link "Mil'taj Fon"
 	link "Mil'taj Con"
 	trade Clothing 290
@@ -3401,9 +3386,6 @@ system "Mil'taj Pon"
 	fleet "Small Mk2 Militaj" 2500
 	fleet "Large Militaj" 2000
 	fleet "Small Militaj" 1500
-	object
-		sprite star/nebula2
-		period 180
 
 system "Mil'taj Rek"
 	pos -2772.87 -2799.98
