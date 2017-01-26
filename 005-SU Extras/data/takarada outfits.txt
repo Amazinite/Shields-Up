@@ -9,6 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 outfit `"HAL-500" Automation Matrix`
+	plural `"HAL-500" Automation Matrices`
 	cost 12500000
 	category "Systems"
 	thumbnail "outfit/unknown"
