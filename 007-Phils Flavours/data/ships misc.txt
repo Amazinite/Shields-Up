@@ -406,6 +406,7 @@ ship "Black Hawk"
 	description `Popular with musicians, rebellious teens and pirates, the black hawk is a little slower than the original and has less cargo but increases the outfit and weapon space.`
 
 ship "Star Princess"
+	plural "Star Princesses"
 	sprite "ship/star princess"
 	attributes
 		category "Transport"
@@ -507,6 +508,7 @@ ship "Vanguard Trailbreaker"
 	description "The 'Trailbreaker' is designed to be either a flagship or to be strong enough to work on its own. The significantly increased shields and hull are also enhanced by an extra gun and turret mount."
 
 ship "Protector Fortress"
+	plural "Protector Fortresses"
 	sprite "ship/protector fortress"
 	attributes
 		category "Heavy Warship"
