@@ -308,6 +308,7 @@ ship "Gnosis Transport"
 	description "A repurposed Bulk Freighter, the Gnosis Transport is used by the Syndicate as a relatively cheap way to transport large amounts of people. In order to fit as many people on as possible, many of the gun ports and turret mounts were removed from the original design, but the size of the engines was increased to compensate."
 	
 ship "Capitalis Viatoris"
+	plural "Capitalis Viatores"
 	licenses
 		"Tarazed"
 	sprite "ship/capitalis viatoris"
