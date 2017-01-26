@@ -621,6 +621,7 @@ ship "The Hidden Blade"
 	description "Small and dark, it lays waiting. Here's a definite step up from the sparrow for you, it features more shields, a stronger hull and even boasts an extra gun port."
 
 ship "The Dirty Cutlass"
+	plural "The Dirty Cutlasses"
 	sprite "ship/the dirty cutlass"
 	attributes
 		category "Interceptor"
