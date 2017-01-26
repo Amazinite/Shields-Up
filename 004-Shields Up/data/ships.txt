@@ -13,6 +13,7 @@ ship "Bactrian"
 		"Deep Sky"
 
 ship "Skybus"
+	plural "Skybuses"
 	sprite "ship/skybus"
 	attributes
 		category "Transport"
@@ -269,6 +270,7 @@ ship "Derelict"
 	description "	Although much less useful in a firefight than its standard version, the Derelict is well-loved by rich pirates and paranoid merchantmen alike."
 
 ship "Phoenix"
+	plural "Phoenixes"
 	sprite "ship/phoenix"
 	attributes
 		category "Heavy Warship"
@@ -336,6 +338,7 @@ ship "Phoenix"
 	description "	Packing every convenience a modern commander could want, from drones to fighters to torpedos to turrets, the Phoenix is difficult to kill, and if defeated will surely rise again."
 
 ship "Sky Dinghy"
+	plural "Sky Dinghies"
 	sprite ship/shuttle
 		"frame time" 4
 		"delay" 14
@@ -711,6 +714,7 @@ ship "Pirated Frigate"
 	description "	The interference plating that's been added to this ship makes it quite unlikely that illicit goods will be detected except by the most persistent inspector, while the tactical armor that's been loaded into the armory makes capturing it a difficlt proposition."
 
 ship "Samurai"
+	plural "Samurai"
 	sprite "ship/samurai"
 	attributes
 		category "Heavy Warship"
