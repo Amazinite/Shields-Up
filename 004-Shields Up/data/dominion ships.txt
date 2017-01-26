@@ -148,6 +148,7 @@ ship "Sica"
 	description "The Sica is the mass produced light warship of the Dominion. Despite the speed at which they are produced, the Sica is still a powerful ship capable of competing against even a Navy Frigate."
 
 ship "Nefandous"
+	plural "Nefandouses"
 	sprite "ship/Nefandous"
 	attributes
 		category "Medium Warship"
