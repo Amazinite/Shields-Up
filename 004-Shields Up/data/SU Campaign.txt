@@ -22,6 +22,7 @@ mission "SU War Start"
 		random < 100
 		"passenger space" >= 1
 		has "Ext Intro [Start]: done"
+		"combat rating" == 0
 	on offer
 		conversation
 			`	Immediately after landing, you are greeted by a man wearing a suit and tie with neatly combed hair. He seems like a friendly individual, and quickly introduces himself; "Hello there! My name is Dank, Dank Forrest." He extends his hand and you shake it. He then continues his introduction. "You seem like the kind of pilot with experience, which is why I'm entrusting you with something very important."`

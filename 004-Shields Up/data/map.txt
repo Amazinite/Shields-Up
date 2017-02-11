@@ -138,8 +138,8 @@ system Bera
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 2500
-	fleet "Large Militaj" 2200
-	fleet "Small Mk2 Militaj" 2200
+	fleet "Large Mil'taj" 2200
+	fleet "Small Mk2 Mil'taj" 2200
 
 system "Beta Uzara"
 	pos -807.13 4.7424
@@ -198,7 +198,7 @@ system "Beta Uzara"
 
 system Cascade
 	pos -2995.71 -2988.75
-	government Militaj
+	government Mil'taj
 	habitable 858.28
 	asteroids "large rock" 1 1.078
 	asteroids "small metal" 1 1.1088
@@ -297,7 +297,7 @@ system Enfin
 	trade Metal 329
 	trade Plastic 372
 	fleet Quarg 900
-	fleet "Small Militaj" 3500
+	fleet "Small Mil'taj" 3500
 	fleet "Small Plenipotent Dominion" 1500
 	object
 		sprite star/g0
@@ -362,8 +362,8 @@ system "Epsilon Sagitarii"
 	trade Plastic 372
 	fleet Quarg 700
 	fleet "Small Plenipotent Dominion" 1500
-	fleet "Large Militaj" 5000
-	fleet "Small Militaj" 4000
+	fleet "Large Mil'taj" 5000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/k5
 		period 10
@@ -476,8 +476,8 @@ system "Eta Carinae"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Large Servorum Dei" 4500
-	fleet "Small Militaj" 6500
-	fleet "Large Militaj" 8000
+	fleet "Small Mil'taj" 6500
+	fleet "Large Mil'taj" 8000
 	fleet "Small Servorum Dei" 2000
 
 system "Eta Piscium"
@@ -501,8 +501,8 @@ system "Eta Piscium"
 	trade Plastic 340
 	fleet "Large Servorum Dei" 3500
 	fleet "Small Servorum Dei" 1200
-	fleet "Large Militaj" 9000
-	fleet "Small Militaj" 7500
+	fleet "Large Mil'taj" 9000
+	fleet "Small Mil'taj" 7500
 	object
 		sprite star/g0
 		distance 31.0644
@@ -1274,7 +1274,7 @@ system Men
 
 system "Mil'taj Bek"
 	pos -2860.87 -2794.98
-	government Militaj
+	government Mil'taj
 	habitable 560.92
 	link "Mil'taj Nek"
 	link "Mil'taj Tek"
@@ -1283,8 +1283,8 @@ system "Mil'taj Bek"
 	asteroids "small metal" 5 5.292
 	asteroids "medium metal" 222 5.4432
 	asteroids "large metal" 42 7.5096
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
 	object
 		sprite star/k5
 		distance 26.715
@@ -1331,7 +1331,7 @@ system "Mil'taj Bek"
 
 system "Mil'taj Boh"
 	pos -144.801 664.589
-	government Militaj
+	government Mil'taj
 	habitable 2340
 	link "Mil'taj Doh"
 	asteroids "small rock" 7 4.5864
@@ -1350,7 +1350,7 @@ system "Mil'taj Boh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 5000
+	fleet "Small Mil'taj" 5000
 	object
 		sprite star/f5
 		distance 34.9893
@@ -1383,7 +1383,7 @@ system "Mil'taj Boh"
 
 system "Mil'taj Bol"
 	pos 335.485 563.36
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Gol"
 	link "Mil'taj Zol"
@@ -1403,7 +1403,7 @@ system "Mil'taj Bol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/k5
 		period 10
@@ -1426,7 +1426,7 @@ system "Mil'taj Bol"
 
 system "Mil'taj Bon"
 	pos 61.3571 578.419
-	government Militaj
+	government Mil'taj
 	habitable 320
 	asteroids "medium rock" 8 2.3712
 	asteroids "large rock" 4 2.4024
@@ -1443,8 +1443,8 @@ system "Mil'taj Bon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 5000
-	fleet "Small Militaj" 5000
+	fleet "Large Mil'taj" 5000
+	fleet "Small Mil'taj" 5000
 	object
 		sprite star/m0
 		period 10
@@ -1491,7 +1491,7 @@ system "Mil'taj Bon"
 
 system "Mil'taj Cek"
 	pos -2786.22 -2992.61
-	government Militaj
+	government Mil'taj
 	habitable 9720
 	link "Mil'taj Wek"
 	asteroids "small rock" 41 2.2776
@@ -1500,10 +1500,10 @@ system "Mil'taj Cek"
 	asteroids "small metal" 8 3.4632
 	asteroids "medium metal" 3 2.8392
 	asteroids "large metal" 23 3.6504
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/b5
 		distance 18.7778
@@ -1542,7 +1542,7 @@ system "Mil'taj Cek"
 
 system "Mil'taj Coh"
 	pos -46.8014 609.589
-	government Militaj
+	government Mil'taj
 	habitable 2140.92
 	link "Mil'taj Loh"
 	asteroids "small rock" 2 6.3504
@@ -1561,7 +1561,7 @@ system "Mil'taj Coh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		distance 19.8943
@@ -1602,7 +1602,7 @@ system "Mil'taj Coh"
 
 system "Mil'taj Col"
 	pos 447.485 467.36
-	government Militaj
+	government Mil'taj
 	habitable 745.92
 	link "Mil'taj Fol"
 	asteroids "small rock" 2 2.646
@@ -1621,7 +1621,7 @@ system "Mil'taj Col"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/k5
 		distance 43.329
@@ -1670,7 +1670,7 @@ system "Mil'taj Col"
 
 system "Mil'taj Con"
 	pos -179.643 617.419
-	government Militaj
+	government Mil'taj
 	habitable 745.92
 	link "Mil'taj Pon"
 	asteroids "large metal" 1 5.1688
@@ -1685,9 +1685,9 @@ system "Mil'taj Con"
 	trade Metal 390
 	trade Plastic 390
 	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	fleet "Small Militaj" 1500
+	fleet "Small Mk2 Mil'taj" 2500
+	fleet "Large Mil'taj" 2000
+	fleet "Small Mil'taj" 1500
 	object
 		sprite star/k5
 		distance 42.042
@@ -1716,7 +1716,7 @@ system "Mil'taj Con"
 
 system "Mil'taj Dek"
 	pos -2747.87 -2928.98
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Wek"
 	asteroids "small rock" 42 1.4553
@@ -1754,7 +1754,7 @@ system "Mil'taj Dek"
 
 system "Mil'taj Doh"
 	pos -97.262 704.81
-	government Militaj
+	government Mil'taj
 	habitable 320
 	haze "star/white haze"
 	link "Mil'taj Woh"
@@ -1769,11 +1769,11 @@ system "Mil'taj Doh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 5000
+	fleet "Small Mil'taj" 5000
 
 system "Mil'taj Dol"
 	pos 284.774 317.439
-	government Militaj
+	government Mil'taj
 	habitable 3645
 	link "Mil'taj Hon"
 	asteroids "small rock" 7 3.3744
@@ -1791,8 +1791,8 @@ system "Mil'taj Dol"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Mk2 Militaj" 2000
-	fleet "Large Militaj" 2000
+	fleet "Small Mk2 Mil'taj" 2000
+	fleet "Large Mil'taj" 2000
 	fleet Quarg 2200
 	object
 		sprite star/a5
@@ -1824,7 +1824,7 @@ system "Mil'taj Dol"
 
 system "Mil'taj Don"
 	pos 205.602 553.817
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Ton"
 	link "Mil'taj Won"
@@ -1844,8 +1844,8 @@ system "Mil'taj Don"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 4500
-	fleet "Small Militaj" 3500
+	fleet "Large Mil'taj" 4500
+	fleet "Small Mil'taj" 3500
 	object
 		sprite star/k0
 		period 10
@@ -1884,7 +1884,7 @@ system "Mil'taj Don"
 
 system "Mil'taj Fek"
 	pos -2830.87 -2907.98
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Wek"
 	link "Mil'taj Gek"
@@ -1918,7 +1918,7 @@ system "Mil'taj Fek"
 
 system "Mil'taj Foh"
 	pos 104.409 673.337
-	government Militaj
+	government Mil'taj
 	habitable 1250
 	haze "star/light haze"
 	link "Mil'taj Soh"
@@ -1934,11 +1934,11 @@ system "Mil'taj Foh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 
 system "Mil'taj Fol"
 	pos 375.485 480.36
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Col"
 	asteroids "medium rock" 1 4.224
@@ -1956,9 +1956,9 @@ system "Mil'taj Fol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
+	fleet "Small Mil'taj" 3500
+	fleet "Large Mil'taj" 4500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/g5
 		period 10
@@ -2005,7 +2005,7 @@ system "Mil'taj Fol"
 
 system "Mil'taj Fon"
 	pos -25.5876 551.354
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link "Mil'taj Pon"
 	asteroids "small metal" 2 6.72
@@ -2021,10 +2021,10 @@ system "Mil'taj Fon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 3000
-	fleet "Small Militaj" 2000
-	fleet "Cargo Militaj" 5800
-	fleet "Small Mk2 Militaj" 8500
+	fleet "Large Mil'taj" 3000
+	fleet "Small Mil'taj" 2000
+	fleet "Cargo Mil'taj" 5800
+	fleet "Small Mk2 Mil'taj" 8500
 	object
 		sprite star/g0
 		period 10
@@ -2069,7 +2069,7 @@ system "Mil'taj Fon"
 
 system "Mil'taj Gek"
 	pos -2880.87 -2866.98
-	government Militaj
+	government Mil'taj
 	habitable 135
 	link "Mil'taj Fek"
 	link "Mil'taj Tek"
@@ -2079,10 +2079,10 @@ system "Mil'taj Gek"
 	asteroids "small metal" 12 5.6448
 	asteroids "medium metal" 139 2.3814
 	asteroids "large metal" 19 6.0858
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/m8
 		period 10
@@ -2131,7 +2131,7 @@ system "Mil'taj Gek"
 
 system "Mil'taj Goh"
 	pos -17.8014 831.589
-	government Militaj
+	government Mil'taj
 	habitable 1050.92
 	haze "star/light haze"
 	link "Mil'taj Joh"
@@ -2146,11 +2146,11 @@ system "Mil'taj Goh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 
 system "Mil'taj Gol"
 	pos 223.485 592.36
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	haze "star/white haze"
 	link "Mil'taj Bol"
@@ -2165,11 +2165,11 @@ system "Mil'taj Gol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 
 system "Mil'taj Gon"
 	pos 100.602 513.817
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Kon"
 	link "Mil'taj Von"
@@ -2189,9 +2189,9 @@ system "Mil'taj Gon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 4000
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 4000
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/k0
 		period 10
@@ -2247,7 +2247,7 @@ system "Mil'taj Gon"
 
 system "Mil'taj Hek"
 	pos -2743.87 -2764.98
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link "Mil'taj Rek"
 	asteroids "large metal" 1 5.852
@@ -2285,7 +2285,7 @@ system "Mil'taj Hek"
 
 system "Mil'taj Hon"
 	pos 257.602 375.817
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link "Mil'taj Son"
 	link "Mil'taj Dol"
@@ -2306,8 +2306,8 @@ system "Mil'taj Hon"
 	trade Metal 390
 	trade Plastic 390
 	fleet Quarg 2200
-	fleet "Large Militaj" 2000
-	fleet "Small Mk2 Militaj" 2000
+	fleet "Large Mil'taj" 2000
+	fleet "Small Mk2 Mil'taj" 2000
 	object
 		sprite star/f5
 		period 10
@@ -2346,16 +2346,16 @@ system "Mil'taj Hon"
 
 system "Mil'taj Jek"
 	pos -2974.87 -2932.98
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Mek"
 	asteroids "large rock" 1 7.5087
 	asteroids "medium metal" 1 10.3518
 	asteroids "large metal" 1 10.935
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/k0
 		period 10
@@ -2396,7 +2396,7 @@ system "Mil'taj Jek"
 
 system "Mil'taj Joh"
 	pos -79.8014 792.589
-	government Militaj
+	government Mil'taj
 	habitable 1705
 	link "Mil'taj Goh"
 	link "Mil'taj Poh"
@@ -2416,7 +2416,7 @@ system "Mil'taj Joh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/g0
 		distance 40.6891
@@ -2453,7 +2453,7 @@ system "Mil'taj Joh"
 
 system "Mil'taj Jon"
 	pos 241.602 450.817
-	government Militaj
+	government Mil'taj
 	habitable 1505.92
 	link "Mil'taj Son"
 	asteroids "small rock" 243 7.4
@@ -2472,7 +2472,7 @@ system "Mil'taj Jon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/g0
 		distance 27.7174
@@ -2513,7 +2513,7 @@ system "Mil'taj Jon"
 
 system "Mil'taj Kek"
 	pos -2881.87 -2954.98
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Fek"
 	asteroids "small rock" 33 5.7772
@@ -2521,10 +2521,10 @@ system "Mil'taj Kek"
 	asteroids "large rock" 39 5.0336
 	asteroids "medium metal" 6 7.15
 	asteroids "large metal" 2 2.86
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/k0
 		period 10
@@ -2569,7 +2569,7 @@ system "Mil'taj Kek"
 
 system "Mil'taj Koh"
 	pos -0.801003 680.589
-	government Militaj
+	government Mil'taj
 	habitable 9126.68
 	link "Mil'taj Loh"
 	asteroids "small rock" 32 3.8304
@@ -2588,9 +2588,9 @@ system "Mil'taj Koh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/b5
 		distance 7.73212
@@ -2634,7 +2634,7 @@ system "Mil'taj Koh"
 
 system "Mil'taj Kol"
 	pos 209.485 666.36
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link "Mil'taj Zol"
 	asteroids "large rock" 5 2.9568
@@ -2649,7 +2649,7 @@ system "Mil'taj Kol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/m0
 		period 10
@@ -2684,7 +2684,7 @@ system "Mil'taj Kol"
 
 system "Mil'taj Kon"
 	pos 48.6019 475.817
-	government Militaj
+	government Mil'taj
 	habitable 2035
 	link "Mil'taj Von"
 	link "Mil'taj Gon"
@@ -2702,7 +2702,7 @@ system "Mil'taj Kon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		distance 19.027
@@ -2735,14 +2735,14 @@ system "Mil'taj Kon"
 
 system "Mil'taj Lek"
 	pos -2801.87 -2856.98
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Fek"
 	link "Mil'taj Vek"
 	asteroids "large metal" 1 1.9965
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/g5
 		period 10
@@ -2787,7 +2787,7 @@ system "Mil'taj Lek"
 
 system "Mil'taj Loh"
 	pos 31.1986 626.589
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link "Mil'taj Koh"
 	link "Mil'taj Foh"
@@ -2806,7 +2806,7 @@ system "Mil'taj Loh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		period 10
@@ -2853,7 +2853,7 @@ system "Mil'taj Loh"
 
 system "Mil'taj Lon"
 	pos 174.967 498.624
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link "Mil'taj Zon"
 	asteroids "small rock" 87 1.8564
@@ -2872,7 +2872,7 @@ system "Mil'taj Lon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 3500
+	fleet "Large Mil'taj" 3500
 	object
 		sprite star/m4
 		period 10
@@ -2899,7 +2899,7 @@ system "Mil'taj Lon"
 
 system "Mil'taj Mek"
 	pos -2992.87 -2878.98
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link "Mil'taj Pek"
 	link "Mil'taj Sek"
@@ -2948,7 +2948,7 @@ system "Mil'taj Mek"
 
 system "Mil'taj Moh"
 	pos -156.801 778.589
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link "Mil'taj Woh"
 	asteroids "small rock" 1 5.52
@@ -2967,7 +2967,7 @@ system "Mil'taj Moh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 5000
+	fleet "Small Mil'taj" 5000
 	object
 		sprite star/f5
 		period 10
@@ -3002,7 +3002,7 @@ system "Mil'taj Moh"
 
 system "Mil'taj Mon"
 	pos 166.412 372.354
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	haze "star/green haze"
 	link "Mil'taj Ron"
@@ -3017,13 +3017,13 @@ system "Mil'taj Mon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 2000
-	fleet "Small Mk2 Militaj" 2000
+	fleet "Large Mil'taj" 2000
+	fleet "Small Mk2 Mil'taj" 2000
 	fleet Quarg 2200
 
 system "Mil'taj Nek"
 	pos -2855.87 -2728.98
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link "Mil'taj Bek"
 	asteroids "medium rock" 3 8.2782
@@ -3031,9 +3031,9 @@ system "Mil'taj Nek"
 	asteroids "small metal" 8 6.237
 	asteroids "medium metal" 1 5.3865
 	asteroids "large metal" 4 4.3659
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/m4
 		period 10
@@ -3074,7 +3074,7 @@ system "Mil'taj Nek"
 
 system "Mil'taj Noh"
 	pos -208.801 815.589
-	government Militaj
+	government Mil'taj
 	habitable 2795
 	link "Mil'taj Poh"
 	link "Mil'taj Roh"
@@ -3093,7 +3093,7 @@ system "Mil'taj Noh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		distance 44.8229
@@ -3126,7 +3126,7 @@ system "Mil'taj Noh"
 
 system "Mil'taj Nol"
 	pos 186.708 699.83
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link "Mil'taj Foh"
 	asteroids "small rock" 3 3.8947
@@ -3144,9 +3144,9 @@ system "Mil'taj Nol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
+	fleet "Small Mil'taj" 3500
+	fleet "Large Mil'taj" 4500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/m4
 		period 10
@@ -3180,7 +3180,7 @@ system "Mil'taj Nol"
 
 system "Mil'taj Non"
 	pos 46.412 424.354
-	government Militaj
+	government Mil'taj
 	habitable 560.92
 	asteroids "small rock" 42 1.4553
 	asteroids "large rock" 27 2.1714
@@ -3197,9 +3197,9 @@ system "Mil'taj Non"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/k5
 		distance 24.7896
@@ -3240,7 +3240,7 @@ system "Mil'taj Non"
 
 system "Mil'taj Pek"
 	pos -3038 -2837.85
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Yek"
 	link "Mil'taj Zek"
@@ -3293,7 +3293,7 @@ system "Mil'taj Pek"
 
 system "Mil'taj Poh"
 	pos -121.801 858.589
-	government Militaj
+	government Mil'taj
 	habitable 135
 	link "Mil'taj Joh"
 	link "Mil'taj Goh"
@@ -3312,9 +3312,9 @@ system "Mil'taj Poh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/m8
 		period 10
@@ -3367,7 +3367,7 @@ system "Mil'taj Poh"
 
 system "Mil'taj Pon"
 	pos -107.588 570.354
-	government Militaj
+	government Mil'taj
 	habitable 2372.76
 	haze "star/green haze"
 	link "Mil'taj Fon"
@@ -3383,20 +3383,20 @@ system "Mil'taj Pon"
 	trade Metal 390
 	trade Plastic 390
 	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
-	fleet "Small Militaj" 1500
+	fleet "Small Mk2 Mil'taj" 2500
+	fleet "Large Mil'taj" 2000
+	fleet "Small Mil'taj" 1500
 
 system "Mil'taj Rek"
 	pos -2772.87 -2799.98
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Vek"
 	link "Mil'taj Hek"
 	asteroids "large metal" 1 2.5404
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/g5
 		period 10
@@ -3437,7 +3437,7 @@ system "Mil'taj Rek"
 
 system "Mil'taj Roh"
 	pos -221.801 850.589
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Noh"
 	asteroids "small rock" 1 3.783
@@ -3455,9 +3455,9 @@ system "Mil'taj Roh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/g5
 		period 10
@@ -3492,7 +3492,7 @@ system "Mil'taj Roh"
 
 system "Mil'taj Ron"
 	pos 110.602 410.817
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Mon"
 	asteroids "large metal" 1 2.5404
@@ -3507,8 +3507,8 @@ system "Mil'taj Ron"
 	trade Metal 390
 	trade Plastic 390
 	fleet Quarg 2200
-	fleet "Small Mk2 Militaj" 2000
-	fleet "Large Militaj" 2000
+	fleet "Small Mk2 Mil'taj" 2000
+	fleet "Large Mil'taj" 2000
 	object
 		sprite star/k5
 		period 10
@@ -3543,14 +3543,14 @@ system "Mil'taj Ron"
 
 system "Mil'taj Sek"
 	pos -3064.87 -2902.98
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Mek"
 	asteroids "large metal" 1 3.3306
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/k0
 		period 10
@@ -3582,7 +3582,7 @@ system "Mil'taj Sek"
 
 system "Mil'taj Soh"
 	pos 132.199 623.589
-	government Militaj
+	government Mil'taj
 	habitable 2140.92
 	link "Mil'taj Foh"
 	asteroids "medium metal" 7 3.22
@@ -3597,9 +3597,9 @@ system "Mil'taj Soh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/f5
 		distance 22.8784
@@ -3644,7 +3644,7 @@ system "Mil'taj Soh"
 
 system "Mil'taj Son"
 	pos 201.602 412.817
-	government Militaj
+	government Mil'taj
 	habitable 5000
 	link "Mil'taj Mon"
 	link "Mil'taj Hon"
@@ -3664,8 +3664,8 @@ system "Mil'taj Son"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 5000
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 5000
 	object
 		sprite star/a0
 		period 10
@@ -3708,7 +3708,7 @@ system "Mil'taj Son"
 
 system "Mil'taj Tah"
 	pos -3001.53 -2667.6
-	government Militaj
+	government Mil'taj
 	habitable 1050.92
 	asteroids "small rock" 8 3.3696
 	asteroids "medium rock" 2 6.9264
@@ -3716,8 +3716,8 @@ system "Mil'taj Tah"
 	asteroids "small metal" 2 3.6972
 	asteroids "medium metal" 13 6.1776
 	asteroids "large metal" 1 3.8844
-	fleet "Small Militaj" 3000
-	fleet "Large Militaj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Large Mil'taj" 3500
 	object
 		sprite star/g5
 		distance 47.4181
@@ -3747,14 +3747,14 @@ system "Mil'taj Tah"
 			sprite planet/rock17
 			distance 411
 			period 21.8851
-	object "Wormhole Militaj"
+	object "Wormhole Mil'taj"
 		sprite planet/wormhole
 		distance 2811.65
 		period 1839.57
 
 system "Mil'taj Tek"
 	pos -2911.07 -2829.35
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link "Mil'taj Gek"
 	link "Mil'taj Yek"
@@ -3790,7 +3790,7 @@ system "Mil'taj Tek"
 
 system "Mil'taj Toh"
 	pos -27.801 735.589
-	government Militaj
+	government Mil'taj
 	habitable 625
 	asteroids "small rock" 52 5.8548
 	asteroids "medium rock" 2 4.6172
@@ -3808,8 +3808,8 @@ system "Mil'taj Toh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 3000
-	fleet "Large Militaj" 3000
+	fleet "Small Mil'taj" 3000
+	fleet "Large Mil'taj" 3000
 	object
 		sprite star/g5
 		period 10
@@ -3829,14 +3829,14 @@ system "Mil'taj Toh"
 		sprite planet/rock19
 		distance 1536.49
 		period 963.639
-	object "Wormhole Militaj"
+	object "Wormhole Mil'taj"
 		sprite planet/wormhole
 		distance 3476.9
 		period 3280.26
 
 system "Mil'taj Ton"
 	pos 118.602 561.817
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Don"
 	asteroids "large rock" 1 1.8348
@@ -3853,7 +3853,7 @@ system "Mil'taj Ton"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/k5
 		period 10
@@ -3888,7 +3888,7 @@ system "Mil'taj Ton"
 
 system "Mil'taj Vek"
 	pos -2733.87 -2846.98
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link "Mil'taj Lek"
 	link "Mil'taj Rek"
@@ -3932,7 +3932,7 @@ system "Mil'taj Vek"
 
 system "Mil'taj Voh"
 	pos -202.101 703.289
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link "Mil'taj Yoh"
 	link "Mil'taj Zoh"
@@ -3990,7 +3990,7 @@ system "Mil'taj Voh"
 
 system "Mil'taj Von"
 	pos 41.6019 533.817
-	government Militaj
+	government Mil'taj
 	habitable 2340
 	link "Mil'taj Kon"
 	link "Mil'taj Gon"
@@ -4009,7 +4009,7 @@ system "Mil'taj Von"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		distance 34.188
@@ -4046,7 +4046,7 @@ system "Mil'taj Von"
 
 system "Mil'taj Wek"
 	pos -2798 -2949.85
-	government Militaj
+	government Mil'taj
 	habitable 2372.76
 	link "Mil'taj Fek"
 	link "Mil'taj Dek"
@@ -4055,9 +4055,9 @@ system "Mil'taj Wek"
 	asteroids "medium rock" 8 3.5496
 	asteroids "large rock" 5 6.9513
 	asteroids "large metal" 2 4.5356
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/f0
 		period 10
@@ -4094,7 +4094,7 @@ system "Mil'taj Wek"
 
 system "Mil'taj Woh"
 	pos -168.101 732.289
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Doh"
 	link "Mil'taj Moh"
@@ -4114,9 +4114,9 @@ system "Mil'taj Woh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 3500
-	fleet "Small Militaj" 3000
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 3000
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/k5
 		period 10
@@ -4155,7 +4155,7 @@ system "Mil'taj Woh"
 
 system "Mil'taj Won"
 	pos 274.602 517.817
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link "Mil'taj Don"
 	link "Mil'taj Yon"
@@ -4175,7 +4175,7 @@ system "Mil'taj Won"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 4000
+	fleet "Small Mil'taj" 4000
 	object
 		sprite star/f5
 		period 10
@@ -4206,7 +4206,7 @@ system "Mil'taj Won"
 
 system "Mil'taj Yek"
 	pos -2974 -2809.85
-	government Militaj
+	government Mil'taj
 	habitable 745.92
 	link "Mil'taj Tek"
 	link "Mil'taj Pek"
@@ -4215,9 +4215,9 @@ system "Mil'taj Yek"
 	asteroids "large rock" 4 4.6053
 	asteroids "medium metal" 2 3.7842
 	asteroids "large metal" 1 3.5343
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/k5
 		distance 39.468
@@ -4267,7 +4267,7 @@ system "Mil'taj Yek"
 
 system "Mil'taj Yoh"
 	pos -231.101 650.289
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link "Mil'taj Voh"
 	asteroids "small rock" 3 2.5875
@@ -4286,9 +4286,9 @@ system "Mil'taj Yoh"
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 1500
-	fleet "Cargo Militaj" 6000
+	fleet "Small Mk2 Mil'taj" 2500
+	fleet "Large Mil'taj" 1500
+	fleet "Cargo Mil'taj" 6000
 	object
 		sprite star/m0
 		period 10
@@ -4334,7 +4334,7 @@ system "Mil'taj Yoh"
 
 system "Mil'taj Yon"
 	pos 304.602 444.817
-	government Militaj
+	government Mil'taj
 	habitable 5000
 	link "Mil'taj Won"
 	asteroids "small rock" 20 3.468
@@ -4353,9 +4353,9 @@ system "Mil'taj Yon"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Militaj" 4500
-	fleet "Small Militaj" 3500
-	fleet "Cargo Militaj" 7000
+	fleet "Large Mil'taj" 4500
+	fleet "Small Mil'taj" 3500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/a0
 		period 10
@@ -4402,7 +4402,7 @@ system "Mil'taj Yon"
 
 system "Mil'taj Zek"
 	pos -3055 -2789.85
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link "Mil'taj Pek"
 	asteroids "small rock" 63 3.15
@@ -4410,10 +4410,10 @@ system "Mil'taj Zek"
 	asteroids "large rock" 12 4.662
 	asteroids "medium metal" 5 2.142
 	asteroids "large metal" 2 5.082
-	fleet "Large Militaj" 2500
-	fleet "Small Militaj" 1500
-	fleet "Cargo Militaj" 7000
-	fleet "Small Mk2 Militaj" 4500
+	fleet "Large Mil'taj" 2500
+	fleet "Small Mil'taj" 1500
+	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mk2 Mil'taj" 4500
 	object
 		sprite star/f5
 		period 10
@@ -4458,7 +4458,7 @@ system "Mil'taj Zek"
 
 system "Mil'taj Zoh"
 	pos -240.101 755.289
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link "Mil'taj Voh"
 	link "Mil'taj Noh"
@@ -4478,8 +4478,8 @@ system "Mil'taj Zoh"
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 1300
-	fleet "Small Mk2 Militaj" 2500
-	fleet "Large Militaj" 2000
+	fleet "Small Mk2 Mil'taj" 2500
+	fleet "Large Mil'taj" 2000
 	object
 		sprite star/g5
 		period 10
@@ -4510,7 +4510,7 @@ system "Mil'taj Zoh"
 
 system "Mil'taj Zol"
 	pos 274.485 647.36
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link "Mil'taj Gol"
 	link "Mil'taj Kol"
@@ -4531,9 +4531,9 @@ system "Mil'taj Zol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Militaj" 3500
-	fleet "Large Militaj" 4500
-	fleet "Cargo Militaj" 7000
+	fleet "Small Mil'taj" 3500
+	fleet "Large Mil'taj" 4500
+	fleet "Cargo Mil'taj" 7000
 	object
 		sprite star/k5
 		period 10
@@ -4568,7 +4568,7 @@ system "Mil'taj Zol"
 
 system "Mil'taj Zon"
 	pos 166.967 457.624
-	government Militaj
+	government Mil'taj
 	habitable 851.84
 	link "Mil'taj Lon"
 	asteroids "medium rock" 1 7.5371
@@ -4585,10 +4585,10 @@ system "Mil'taj Zon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Militaj" 3000
-	fleet "Large Militaj" 3500
-	fleet "Cargo Militaj" 6000
-	fleet "Small Mk2 Militaj" 8500
+	fleet "Small Mil'taj" 3000
+	fleet "Large Mil'taj" 3500
+	fleet "Cargo Mil'taj" 6000
+	fleet "Small Mk2 Mil'taj" 8500
 	object
 		sprite star/k5
 		distance 49
@@ -4716,7 +4716,7 @@ system Niffleheim
 	trade Plastic 390
 	fleet "Small Southern Pirates" 1000
 	fleet "Large Southern Pirates" 3000
-	fleet "Small Militaj" 9000
+	fleet "Small Mil'taj" 9000
 	fleet "Small Servorum Dei" 1200
 	object
 		sprite star/b5
@@ -4917,7 +4917,7 @@ system "Omicron Gamma"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Mk2 Militaj" 6000
+	fleet "Small Mk2 Mil'taj" 6000
 	fleet "Small Plenipotent Dominion" 2000
 	object
 		sprite star/k5
@@ -5346,7 +5346,7 @@ system Qarn
 
 system SU1
 	pos -2799.85 -3028.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU2
 	link SU37
@@ -5385,7 +5385,7 @@ system SU1
 
 system SU10
 	pos -3049.85 -3182.1
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link SU9
 	link SU14
@@ -5425,7 +5425,7 @@ system SU10
 
 system SU11
 	pos -3137.85 -3177.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU15
 	link SU65
@@ -5465,7 +5465,7 @@ system SU11
 
 system SU12
 	pos -2951.85 -3263.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU13
 	asteroids "small rock" 1 1.529
@@ -5511,7 +5511,7 @@ system SU12
 
 system SU13
 	pos -3003.85 -3269.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU63
 	link SU12
@@ -5547,7 +5547,7 @@ system SU13
 
 system SU14
 	pos -3090.85 -3233.1
-	government Militaj
+	government Mil'taj
 	habitable 2160
 	link SU10
 	link SU64
@@ -5613,7 +5613,7 @@ system SU14
 
 system SU15
 	pos -3147.85 -3206.1
-	government Militaj
+	government Mil'taj
 	habitable 2160
 	link SU11
 	asteroids "small rock" 50 3.198
@@ -5666,7 +5666,7 @@ system SU15
 
 system SU16
 	pos -3215.85 -3245.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU17
 	asteroids "large metal" 1 2.272
@@ -5704,7 +5704,7 @@ system SU16
 
 system SU17
 	pos -3278.85 -3211.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU18
 	link SU16
@@ -5759,7 +5759,7 @@ system SU17
 
 system SU18
 	pos -3290.85 -3166.1
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link SU19
 	link SU17
@@ -5800,7 +5800,7 @@ system SU18
 
 system SU19
 	pos -3321.85 -3146.1
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link SU18
 	asteroids "small rock" 6 3.68
@@ -5842,7 +5842,7 @@ system SU19
 
 system SU2
 	pos -2843.85 -3036.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU3
 	link SU1
@@ -5884,7 +5884,7 @@ system SU2
 
 system SU20
 	pos -3259.85 -3115.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU22
 	link SU18
@@ -5940,7 +5940,7 @@ system SU20
 
 system SU21
 	pos -3283.85 -3044.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU22
 	link SU61
@@ -5979,7 +5979,7 @@ system SU21
 
 system SU22
 	pos -3239.85 -3062.1
-	government Militaj
+	government Mil'taj
 	habitable 135
 	link SU23
 	link SU21
@@ -6019,7 +6019,7 @@ system SU22
 
 system SU23
 	pos -3195.85 -3041.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU26
 	link SU22
@@ -6056,7 +6056,7 @@ system SU23
 
 system SU24
 	pos -3188.85 -2969.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU25
 	link SU61
@@ -6097,7 +6097,7 @@ system SU24
 
 system SU25
 	pos -3143.85 -2984.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU27
 	link SU24
@@ -6138,7 +6138,7 @@ system SU25
 
 system SU26
 	pos -3140.85 -3051.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU27
 	link SU23
@@ -6190,7 +6190,7 @@ system SU26
 
 system SU27
 	pos -3103.85 -3042.1
-	government Militaj
+	government Mil'taj
 	habitable 2201.68
 	link SU28
 	link SU26
@@ -6241,7 +6241,7 @@ system SU27
 
 system SU28
 	pos -3043.85 -3055.1
-	government Militaj
+	government Mil'taj
 	habitable 2372.76
 	link SU8
 	link SU27
@@ -6277,7 +6277,7 @@ system SU28
 
 system SU29
 	pos -2876.85 -3158.1
-	government Militaj
+	government Mil'taj
 	habitable 2035
 	link SU32
 	link SU4
@@ -6327,7 +6327,7 @@ system SU29
 
 system SU3
 	pos -2876.85 -3083.1
-	government Militaj
+	government Mil'taj
 	habitable 806.68
 	link SU30
 	link SU2
@@ -6373,7 +6373,7 @@ system SU3
 
 system SU30
 	pos -2812.85 -3108.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU31
 	link SU3
@@ -6416,7 +6416,7 @@ system SU30
 
 system SU31
 	pos -2744.85 -3123.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU35
 	link SU30
@@ -6472,7 +6472,7 @@ system SU31
 
 system SU32
 	pos -2858.85 -3217.1
-	government Militaj
+	government Mil'taj
 	habitable 553.28
 	link SU33
 	link SU29
@@ -6523,7 +6523,7 @@ system SU32
 
 system SU33
 	pos -2760.85 -3218.1
-	government Militaj
+	government Mil'taj
 	habitable 625
 	link SU32
 	link SU34
@@ -6562,7 +6562,7 @@ system SU33
 
 system SU34
 	pos -2723.85 -3183.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU33
 	asteroids "small rock" 32 1.95
@@ -6604,7 +6604,7 @@ system SU34
 
 system SU35
 	pos -2664.85 -3126.1
-	government Militaj
+	government Mil'taj
 	habitable 806.68
 	link SU36
 	link SU31
@@ -6654,7 +6654,7 @@ system SU35
 
 system SU36
 	pos -2593.85 -3114.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU35
 	asteroids "small rock" 4 2.7621
@@ -6693,7 +6693,7 @@ system SU36
 
 system SU37
 	pos -2756.85 -3051.1
-	government Militaj
+	government Mil'taj
 	habitable 1215
 	link SU1
 	link SU38
@@ -6746,7 +6746,7 @@ system SU37
 
 system SU38
 	pos -2708.85 -3018.1
-	government Militaj
+	government Mil'taj
 	habitable 659.2
 	link SU37
 	link SU39
@@ -6794,7 +6794,7 @@ system SU38
 
 system SU39
 	pos -2641.85 -3024.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU38
 	link Su40
@@ -6834,7 +6834,7 @@ system SU39
 
 system SU4
 	pos -2922.85 -3131.1
-	government Militaj
+	government Mil'taj
 	habitable 1050.92
 	link SU29
 	link SU5
@@ -6881,7 +6881,7 @@ system SU4
 
 system SU41
 	pos -2587.85 -2889.1
-	government Militaj
+	government Mil'taj
 	habitable 135
 	link Su40
 	link SU42
@@ -6933,7 +6933,7 @@ system SU41
 
 system SU42
 	pos -2611.85 -2818.1
-	government Militaj
+	government Mil'taj
 	habitable 2140.92
 	link SU41
 	asteroids "small rock" 21 1.716
@@ -6977,7 +6977,7 @@ system SU42
 
 system SU43
 	pos -3170.85 -2928.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU44
 	link SU47
@@ -7021,7 +7021,7 @@ system SU43
 
 system SU44
 	pos -3114.85 -2915.1
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link SU43
 	asteroids "small metal" 3 4.025
@@ -7069,7 +7069,7 @@ system SU44
 
 system SU45
 	pos -3078.85 -2974.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU25
 	link SU46
@@ -7117,7 +7117,7 @@ system SU45
 
 system SU46
 	pos -3029.85 -2938.1
-	government Militaj
+	government Mil'taj
 	habitable 2201.68
 	link SU45
 	asteroids "large metal" 1 2.7075
@@ -7165,7 +7165,7 @@ system SU46
 
 system SU47
 	pos -3168.85 -2892.1
-	government Militaj
+	government Mil'taj
 	habitable 912.6
 	link SU51
 	link SU43
@@ -7219,7 +7219,7 @@ system SU47
 
 system SU48
 	pos -3048.85 -2878.1
-	government Militaj
+	government Mil'taj
 	habitable 2035
 	link SU49
 	asteroids "small rock" 3 3.7125
@@ -7255,7 +7255,7 @@ system SU48
 
 system SU49
 	pos -3081.85 -2849.1
-	government Militaj
+	government Mil'taj
 	habitable 233.28
 	link SU50
 	link SU48
@@ -7297,7 +7297,7 @@ system SU49
 
 system SU5
 	pos -2947.85 -3071.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU6
 	link SU8
@@ -7357,7 +7357,7 @@ system SU5
 
 system SU50
 	pos -3134.85 -2840.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU51
 	link SU49
@@ -7409,7 +7409,7 @@ system SU50
 
 system SU51
 	pos -3173.85 -2852.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU47
 	link SU50
@@ -7456,7 +7456,7 @@ system SU51
 
 system SU52
 	pos -3124.85 -2784.1
-	government Militaj
+	government Mil'taj
 	habitable 1050.92
 	link SU50
 	link SU62
@@ -7510,7 +7510,7 @@ system SU52
 
 system SU53
 	pos -3169.85 -2779.1
-	government Militaj
+	government Mil'taj
 	habitable 466.56
 	link SU52
 	link SU54
@@ -7562,7 +7562,7 @@ system SU53
 
 system SU54
 	pos -3251.85 -2789.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU53
 	link SU55
@@ -7610,7 +7610,7 @@ system SU54
 
 system SU55
 	pos -3299.85 -2823.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU54
 	link SU56
@@ -7661,7 +7661,7 @@ system SU55
 
 system SU56
 	pos -3365.85 -2862.1
-	government Militaj
+	government Mil'taj
 	habitable 945
 	link SU55
 	link SU57
@@ -7723,7 +7723,7 @@ system SU56
 
 system SU57
 	pos -3392.85 -2926.1
-	government Militaj
+	government Mil'taj
 	habitable 320
 	link SU56
 	link SU59
@@ -7766,7 +7766,7 @@ system SU57
 
 system SU58
 	pos -3333.85 -2943.1
-	government Militaj
+	government Mil'taj
 	habitable 5000
 	link SU57
 	link SU61
@@ -7802,7 +7802,7 @@ system SU58
 
 system SU59
 	pos -3450.85 -2966.1
-	government Militaj
+	government Mil'taj
 	habitable 2035
 	link SU60
 	link SU57
@@ -7854,7 +7854,7 @@ system SU59
 
 system SU6
 	pos -2910.85 -3026.1
-	government Militaj
+	government Mil'taj
 	habitable 1715
 	link SU2
 	link SU7
@@ -7907,7 +7907,7 @@ system SU6
 
 system SU60
 	pos -3424.85 -3001.1
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU59
 	asteroids "large metal" 1 3.0576
@@ -7933,7 +7933,7 @@ system SU60
 
 system SU61
 	pos -3263.85 -2983.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU24
 	link SU21
@@ -7982,7 +7982,7 @@ system SU61
 
 system SU62
 	pos -3079.85 -2749.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU52
 	asteroids "small rock" 1 7.788
@@ -8033,7 +8033,7 @@ system SU62
 
 system SU63
 	pos -3045.85 -3293.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU64
 	link SU13
@@ -8077,7 +8077,7 @@ system SU63
 
 system SU64
 	pos -3087.85 -3273.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU14
 	link SU63
@@ -8120,7 +8120,7 @@ system SU64
 
 system SU65
 	pos -3180.69 -3119.36
-	government Militaj
+	government Mil'taj
 	habitable 553.28
 	link SU23
 	link SU11
@@ -8170,7 +8170,7 @@ system SU65
 
 system SU66
 	pos -2973.69 -3151.36
-	government Militaj
+	government Mil'taj
 	habitable 760
 	link SU4
 	link SU67
@@ -8218,7 +8218,7 @@ system SU66
 
 system SU67
 	pos -3024.69 -3111.36
-	government Militaj
+	government Mil'taj
 	habitable 2160
 	link SU9
 	link SU8
@@ -8275,7 +8275,7 @@ system SU67
 
 system SU68
 	pos -2823.69 -3258.36
-	government Militaj
+	government Mil'taj
 	habitable 1080
 	link SU32
 	asteroids "large metal" 1 2.178
@@ -8321,7 +8321,7 @@ system SU68
 
 system SU69
 	pos -2851.69 -2993.36
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU2
 	link SU70
@@ -8372,7 +8372,7 @@ system SU69
 
 system SU7
 	pos -2970.85 -3035.1
-	government Militaj
+	government Mil'taj
 	habitable 4131.68
 	link SU6
 	asteroids "medium rock" 29 1.4144
@@ -8424,7 +8424,7 @@ system SU7
 
 system SU70
 	pos -2891.69 -2987.36
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU69
 	link SU6
@@ -8469,7 +8469,7 @@ system SU70
 
 system SU71
 	pos -2927.69 -2975.36
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU70
 	link SU72
@@ -8521,7 +8521,7 @@ system SU71
 
 system SU72
 	pos -2912.69 -2926.36
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU71
 	link SU73
@@ -8566,7 +8566,7 @@ system SU72
 
 system SU73
 	pos -2902.69 -2881.36
-	government Militaj
+	government Mil'taj
 	habitable 3645
 	link SU72
 	link SU74
@@ -8617,7 +8617,7 @@ system SU73
 
 system SU74
 	pos -2955.69 -2902.36
-	government Militaj
+	government Mil'taj
 	habitable 945
 	link SU72
 	link SU73
@@ -8679,7 +8679,7 @@ system SU74
 
 system SU8
 	pos -2990.85 -3080.1
-	government Militaj
+	government Mil'taj
 	habitable 2795
 	link SU5
 	link SU28
@@ -8742,7 +8742,7 @@ system SU8
 
 system SU9
 	pos -3072.85 -3119.1
-	government Militaj
+	government Mil'taj
 	habitable 486.68
 	link SU10
 	link SU28
@@ -8872,7 +8872,7 @@ system Shaula
 
 system Su40
 	pos -2612.85 -2967.1
-	government Militaj
+	government Mil'taj
 	habitable 425.92
 	link SU39
 	link SU41
@@ -9083,7 +9083,7 @@ system Wraithhome
 	trade Medical 791
 	trade Metal 329
 	trade Plastic 372
-	fleet "Small Militaj" 3000
+	fleet "Small Mil'taj" 3000
 	fleet "Small Plenipotent Dominion" 1500
 	object
 		sprite star/g5
@@ -9382,8 +9382,8 @@ planet Exemption
 planet Florug
 	attributes quarg
 	landscape land/mountain9
-	description `A Quarg planet far from their homelands, settled purely for the purpose of providing the Quarg the planet on the frontlines of their war with the Militaj. Due to Quarg not being able to breath the air here, the only development on the planet are defences for holding off the Militaj. The structures have isolated breathing conditions that result in them being off limits to Humans. The same goes for the Militaj, who require similar atmospheric conditions as Humans do.`
-	spaceport `The Quarg you are used to would typically welcome a human on their planets, however due to the location of this planet, and the fact that the Militaj are allied with the Plenipotent Dominion makes the Quarg here very apprehensive of your being here. There is only one structure on the planet that Humans are allowed in, as it was designed to be breathable for Humans.`
+	description `A Quarg planet far from their homelands, settled purely for the purpose of providing the Quarg the planet on the frontlines of their war with the Mil'taj. Due to Quarg not being able to breath the air here, the only development on the planet are defences for holding off the Mil'taj. The structures have isolated breathing conditions that result in them being off limits to Humans. The same goes for the Mil'taj, who require similar atmospheric conditions as Humans do.`
+	spaceport `The Quarg you are used to would typically welcome a human on their planets, however due to the location of this planet, and the fact that the Mil'taj are allied with the Plenipotent Dominion makes the Quarg here very apprehensive of your being here. There is only one structure on the planet that Humans are allowed in, as it was designed to be breathable for Humans.`
 	"required reputation" 4
 	bribe 0.04
 	security 0.4
@@ -9460,27 +9460,27 @@ planet "Le Morte te Deum"
 		fleet "Large Plenipotent Dominion" 15
 
 planet "Mil'taj Dun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/canyon0
-	description `Extraordinarily barren, there are only a few pockets of life on this planet due to an encounter with the Drak that didn't go too well for the Militaj. What was once populated with the Militaj's cities of what was their homeplanet, is left as a memory of past mistakes, along with the dozens of other planets destroyed by the Drak leaving the once great Militaj as a small mark on the galaxy.`
+	description `Extraordinarily barren, there are only a few pockets of life on this planet due to an encounter with the Drak that didn't go too well for the Mil'taj. What was once populated with the Mil'taj's cities of what was their homeplanet, is left as a memory of past mistakes, along with the dozens of other planets destroyed by the Drak leaving the once great Mil'taj as a small mark on the galaxy.`
 	spaceport `The only thing here is a small station with a few Mil'taj wandering about. They don't seem to care about you being here, or that you are taking some of their fuel for yourself.`
 	"required reputation" 0
 	bribe 0.035
 	security 0
 
 planet "Mil'taj Ful"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/mfield5
-	description `A small moon on the outer edge of Militaj space. So insignificant that not even the Drak bothered to destroy it.`
-	spaceport `A small refueling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Militaj.`
+	description `A small moon on the outer edge of Mil'taj space. So insignificant that not even the Drak bothered to destroy it.`
+	spaceport `A small refueling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Mil'taj.`
 	"required reputation" 0
 	bribe 0.02
 	security 0.1
 
 planet "Mil'taj Fun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/forest1
-	description `The capital of the Militaj is relatively undeveloped. Most of the planet is left blanketed by mountains and forests, however there are large cities situated here and there.`
+	description `The capital of the Mil'taj is relatively undeveloped. Most of the planet is left blanketed by mountains and forests, however there are large cities situated here and there.`
 	description `	Upon entering the atmosphere you are immediately scanned by a Millitaj ship. After a moment, the ship flies away.`
 	spaceport `A large glass dome surrounded by landing pads. Although you are not allowed into the dome, but looking inside you can see all kinds of weapons and outfits being sold.`
 	"required reputation" 3
@@ -9488,26 +9488,26 @@ planet "Mil'taj Fun"
 	security 0.3
 
 planet "Mil'taj Gun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/bwerner3
-	description `The surface of the planet is completely undeveloped apart from a single structure, which is a spire stretching about 1 kilometer into the sky. Along the sides of the spire there are landing pads for ships. The airspace around the spire is jam-packed with Militaj ships flying in all directions.`
-	spaceport `As you land your ship, there are about half a dozen of the Militaj aliens who run over to your ship and hook refueling cables into it. As they perform this job, they often look back at you. The Militaj here probably don't see too many humans.`
+	description `The surface of the planet is completely undeveloped apart from a single structure, which is a spire stretching about 1 kilometer into the sky. Along the sides of the spire there are landing pads for ships. The airspace around the spire is jam-packed with Mil'taj ships flying in all directions.`
+	spaceport `As you land your ship, there are about half a dozen of the Mil'taj aliens who run over to your ship and hook refueling cables into it. As they perform this job, they often look back at you. The Mil'taj here probably don't see too many humans.`
 	"required reputation" 1
 	bribe 0.1
 	security 0.2
 
 planet "Mil'taj Kuh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/lava0
 	description `While most of the planets hit by the Drak, this is one of the few that didn't take much damage at all. While some that had survived had only water, this is the extremely rare exception that had vegetation survive.`
 	description `	There are small settlements placed in habitable places across the entire planet.`
-	spaceport `In the middle of an open field is a small Militaj town with a couple structures that look about 50 meters tall. On top of each of them is a small landing pad with a place to refuel ships, luckily they have fueling cables that fit your ship.`
+	spaceport `In the middle of an open field is a small Mil'taj town with a couple structures that look about 50 meters tall. On top of each of them is a small landing pad with a place to refuel ships, luckily they have fueling cables that fit your ship.`
 	"required reputation" 3
 	bribe 0.09
 	security 0.3
 
 planet "Mil'taj Nul"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/Fimage1
 	description `One of the poor planets that took the primary force of the Drak attack, no attempts have been made to recover anything from this hopeless planet.`
 	"required reputation" 0
@@ -9515,33 +9515,33 @@ planet "Mil'taj Nul"
 	security 0
 
 planet "Mil'taj Nun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/forest3
-	description `The Militaj have hardly developed this planet, despite having been here for a while. There are a few cities with towering green spires sprinkled across the planet.`
+	description `The Mil'taj have hardly developed this planet, despite having been here for a while. There are a few cities with towering green spires sprinkled across the planet.`
 	spaceport `Most of the spires have landing pads of all different sizes shooting out from the sides, each protected with shield bubbles that deactivate and reactivate when ships come to land or take off.`
 	"required reputation" 2
 	bribe 0.2
 	security 0.2
 
 planet "Mil'taj Puh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/snow5
-	description `A frozen wasteland at every corner of the planet, the Militaj have given up any hope of being able to colonize. Although they are so technologically advanced, they have never found any use of finding ways to settle on frozen planets.`
+	description `A frozen wasteland at every corner of the planet, the Mil'taj have given up any hope of being able to colonize. Although they are so technologically advanced, they have never found any use of finding ways to settle on frozen planets.`
 	"required reputation" 0.1
 	bribe 0.01
 	security 0.1
 
 planet "Mil'taj Ruh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/forest3
-	description `Completely covered in mountain and forests, creating cities has been difficult for the Militaj. In order to build cities, they resorted to flattening entire mountain tops to put their massive spires.`
+	description `Completely covered in mountain and forests, creating cities has been difficult for the Mil'taj. In order to build cities, they resorted to flattening entire mountain tops to put their massive spires.`
 	spaceport `Outside one of the spires there was an open landing pad you landed your ship on. Most of the aliens inside the spire don't seem too fond of you being here though, while some are fascinated at the rare sight of a human.`
 	"required reputation" 3
 	bribe 0.08
 	security 0.3
 
 planet "Mil'taj Suh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/badlands3
 	description `One of the planets taking the series blunt of the attack by the Drak, all that's left is sand and rocks from the once sprawling cities that were completely vaporized.`
 	spaceport `There is a small outpost set up that provides refueling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
@@ -9550,32 +9550,32 @@ planet "Mil'taj Suh"
 	security 0.1
 
 planet "Mil'taj Wuh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/dmottl1
-	description `Another victim of the Drak's purge of the Militaj's planets. This is one of the rare cases where the planet still has water, allowing life to gradually return.`
-	spaceport `As of now, there are small spires shooting out of one of the few remaining lakes around the planet. There are hardly any Militaj inside, however the few that are here allow you to refuel.`
+	description `Another victim of the Drak's purge of the Mil'taj's planets. This is one of the rare cases where the planet still has water, allowing life to gradually return.`
+	spaceport `As of now, there are small spires shooting out of one of the few remaining lakes around the planet. There are hardly any Mil'taj inside, however the few that are here allow you to refuel.`
 	"required reputation" 2.5
 	bribe 0.1
 	security 0.3
 
 planet "Mil'taj Yuh"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/valley7
 	description `In an attempt to have a planet on the frontlines of the war, much like how the Quarg have done, this frontline planet has not had as much luck. Constant attacks by the Quarg left most of the planet in ruins, making the planet uninhabited.`
 	"required reputation" 1
 	bribe 0.03
 
 planet "Mil'taj Yun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/canyon2
-	description `Another remnant of the Militaj's encounter with the Drak. The air is near unbreathable as a result of the destruction dealt to the planet.`
+	description `Another remnant of the Mil'taj's encounter with the Drak. The air is near unbreathable as a result of the destruction dealt to the planet.`
 	spaceport `A small refueling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
 	"required reputation" 0
 	bribe 0.03
 	security 0
 
 planet "Mil'taj Zul"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/Fimage12
 	description `Another victim of the Drak, nothing is left of the once towering spires except for the ashes of what could have been the planet's inhabitants at one point.`
 	"required reputation" 0
@@ -9583,12 +9583,12 @@ planet "Mil'taj Zul"
 	security 0
 
 planet "Mil'taj Zun"
-	attributes Militaj
+	attributes Mil'taj
 	landscape land/Fimage10
-	description `An extremely rare case of a Drak attack that didn't work all the way through. While the planet was turned into a frozen wasteland of ice and rock across the entire surface, the Drak had not anticipated that the Militaj had hollowed out portions of the planet and developed a military outpost underground. The world is completely off limits to anything that isn't Militaj, although you appear to be an exception due to your support of the Militaj and your shared hate with their enemies.`
-	spaceport `The 'outpost' turned out to be more like a massive room with large columns supporting the roof, which was metal that held up the surface of the planet directly above it. It wouldn't be surprising if the room went on for many kilometers, and the distance from the floor to the ceiling was near impossible to measure, however even the largest of the Militaj ships had room to take off and fly around with room to spare, although you find it hard to land due to the room's floor being filled to the max with Militaj ships and weapons, and there are some for sale, even to you.`
-	shipyard "Militaj Basics"
-	outfitter "Militaj Basics"
+	description `An extremely rare case of a Drak attack that didn't work all the way through. While the planet was turned into a frozen wasteland of ice and rock across the entire surface, the Drak had not anticipated that the Mil'taj had hollowed out portions of the planet and developed a military outpost underground. The world is completely off limits to anything that isn't Mil'taj, although you appear to be an exception due to your support of the Mil'taj and your shared hate with their enemies.`
+	spaceport `The 'outpost' turned out to be more like a massive room with large columns supporting the roof, which was metal that held up the surface of the planet directly above it. It wouldn't be surprising if the room went on for many kilometers, and the distance from the floor to the ceiling was near impossible to measure, however even the largest of the Mil'taj ships had room to take off and fly around with room to spare, although you find it hard to land due to the room's floor being filled to the max with Mil'taj ships and weapons, and there are some for sale, even to you.`
+	shipyard "Mil'taj Basics"
+	outfitter "Mil'taj Basics"
 	"required reputation" 100
 	bribe 0
 	security 0.5

@@ -345,7 +345,7 @@ phrase "friendly servorum"
 		" to Humans."
 		" to your kind."
 		
-phrase "hostile militaj"
+phrase "hostile mil'taj"
 	word
 		"Vol"
 	word
@@ -355,14 +355,14 @@ phrase "hostile militaj"
 	word
 		" gon ca nan'tel can konda?"
 		
-phrase "hostile militaj"
+phrase "hostile mil'taj"
 	word
 		"Pen"
 		"Ca sek ack"
 	word
 		" dei."
 
-phrase "hostile militaj"
+phrase "hostile mil'taj"
 	word
 		"Vol"
 	word
@@ -378,7 +378,7 @@ phrase "hostile militaj"
 		" can konda?"
 		" can kon?"
 		
-phrase "hostile militaj"
+phrase "hostile mil'taj"
 	word
 		"Ca"
 	word

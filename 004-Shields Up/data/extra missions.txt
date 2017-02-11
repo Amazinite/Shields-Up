@@ -8,25 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-mission "Dominion Battlestars defending Dominion space"
-	invisible
-	landing
-	npc kill
-		government "Plenipotent Dominion"
-		personality heroic vindictive staying
-		system "Kor Dok'tal"
-		ship "Battlestar (Defender)" "Vengence"
-	npc kill
-		government "Plenipotent Dominion"
-		personality heroic vindictive staying
-		system "Omicron Zeta"
-		ship "Battlestar (Defender)" "Vanquisher"
-	npc kill
-		government "Plenipotent Dominion"
-		personality heroic vindictive staying
-		system "Deus Glorificat"
-		ship "Battlestar (Defender)" "Sentinel"
-
 mission "Colonizing Sanctus Part 1"
 	name "Drunky Mission - Pest Control"
 	description "The pirate ship <npc> has been raiding the Teshana system, and some drunk guy asked you to remove it before piracy in that sector gets out of control. Destroy it and any other pirate vessels, then return to <planet> for your alleged payment."

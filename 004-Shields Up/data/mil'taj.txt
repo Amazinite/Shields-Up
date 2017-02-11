@@ -8,32 +8,32 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-shipyard "Militaj Basics"
+shipyard "Mil'taj Basics"
 	"Bodkin"
 	"Curtana"
 
-shipyard "Militaj Advanced"
+shipyard "Mil'taj Advanced"
 	"Bodkin"
 	"Curtana"
 	"Ballista"
 	"Halberd"
 	"Pilum"
 
-outfitter "Militaj Basics"
+outfitter "Mil'taj Basics"
 	"Mil'taj Cooling Cell"
 	"Mil'taj Curtana Battery"
 	"Mil'taj Grey Generator"
 	"Mil'taj Point-Defence Turret"
 	"Mil'taj Particle Cannon"
 
-outfitter "Militaj Weapons"
+outfitter "Mil'taj Weapons"
 	"Mil'taj Anti-Missile Turret"
 	"Mil'taj Point-Defence Turret"
 	"Mil'taj Plasma Cannon"
 	"Mil'taj Particle Cannon"
 	"Mil'taj Shield Scrambler"
 
-outfitter "Militaj Hardware"
+outfitter "Mil'taj Hardware"
 	"Mil'taj Grey Generator"
 	"Mil'taj Black Generator"
 	"Mil'taj Cooling Cell"
@@ -41,8 +41,8 @@ outfitter "Militaj Hardware"
 	"Mil'taj Curtana Battery"
 	"Mil'taj Condensed Battery"
 
-fleet "Small Militaj"
-	government "Militaj"
+fleet "Small Mil'taj"
+	government "Mil'taj"
 	names "pug"
 	cargo 1
 	personality
@@ -57,8 +57,8 @@ fleet "Small Militaj"
 		"Ballista"
 		"Bodkin"
 		
-fleet "Small Mk2 Militaj"
-	government "Militaj"
+fleet "Small Mk2 Mil'taj"
+	government "Mil'taj"
 	names "pug"
 	cargo 1
 	personality
@@ -73,8 +73,8 @@ fleet "Small Mk2 Militaj"
 		"Ballista"
 		"Bodkin"
 		
-fleet "Cargo Militaj"
-	government "Militaj"
+fleet "Cargo Mil'taj"
+	government "Mil'taj"
 	names "pug"
 	cargo 4
 	personality
@@ -99,8 +99,8 @@ fleet "Cargo Militaj"
 		"Ballista"
 		"Bodkin"
 
-fleet "Large Militaj"
-	government "Militaj"
+fleet "Large Mil'taj"
+	government "Mil'taj"
 	names "pug"
 	cargo 1
 	personality

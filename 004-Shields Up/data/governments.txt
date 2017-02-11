@@ -10,7 +10,7 @@
 
 government "Korath"
 	"attitude toward"
-		"Militaj" -.1
+		"Mil'taj" -.1
 		
 government "shieldsup"
 	swizzle 0
@@ -18,21 +18,23 @@ government "shieldsup"
 
 	"player reputation" 10
 		
-government "Militaj"
+government "Mil'taj"
 	swizzle 0
 	color .99 .89 .70
+	language "Mil'taj"
 	
 	"player reputation" -1
 	"attitude toward"
-		"Merchant" -.025
-		"Quarg" -.1
-		"Syndicate" -.025
-		"Free Worlds" -.025
-		"Deep Sky" -.025
-		"Republic" -.025
-		"Korath" -.1
+		"Merchant" -.01
+		"Quarg" -.01
+		"Syndicate" -.01
+		"Free Worlds" -.01
+		"Deep Sky" -.01
+		"Republic" -.01
+		"Korath" -.01
 	"fine" 0
-	"hostile hail" "hostile militaj"
+	"bribe" 0
+	"hostile hail" "hostile mil'taj"
 		
 government "Republic"
 	"attitude toward"
@@ -78,7 +80,7 @@ government "Plenipotent Dominion"
 		"Deep Sky" -.1
 		"Syndicate" -.1
 		"Pirate" .1
-		"Militaj" .1
+		"Mil'taj" .1
 		"Merchant" -.1
 	"fine" 0
 	"friendly hail" "friendly dominion"

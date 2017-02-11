@@ -214,6 +214,5 @@ mission "SU fwc peace with the navy"
 		has "FWC End: done"
 	on offer
 		"reputation: Deep Sky" += 20
-		event "SU War Start" 100
 		event "deep sky tech available"
 		fail
