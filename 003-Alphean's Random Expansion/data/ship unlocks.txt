@@ -13,47 +13,11 @@ event "kriegsmacher"
 	planet Geminus
 		shipyard "Warmaker"
 
-mission "kriegsmacher"
-	landing
-	source
-		government "Republic" "Free Worlds" "Neutral" "Syndicate" "Quarg" "Hai" "Pirate" "Federation"
-	to offer
-		has "event: kriegsmacher"
-	on offer
-		conversation
-			scene ship/kriegmacher
-			`It has been years after rumours of a giant work-in-progress ship.`
-			`Many were sent to mental health institutes because they went insane, believing it existed.`
-			`But today after a total 19 years of development, the Kriegsmacher is finaly done.`
-			`It is giant, just like it's price.`
-			
-event "capitalis viatoris"
-	shipyard "Tarazed Advanced"
-		"Capitalis Viatoris"
-		
-mission "capitalis viatoris"
-	landing
-	source
-		government "Republic" "Free Worlds" "Neutral" "Syndicate" "Quarg" "Hai" "Pirate" "Federation"
-	to offer
-		has "event: fw gets catalytic ramscoop"
-		has "event: pug invasion 3"
-	on offer
-		set "license: Tarazed"
-		event "capitalis viatoris"
-		conversation
-			scene "ship/capitalis viatoris"
-			`After the Pug invasion a supercapital was finished.`
-			`The Capitalis Viatoris! The pinnacle of Tarazed technology.`
-			`Hopefully, someone will be able to use it to ward off the aliens.`
-			`It is giant, just like it's price.`
-			
 mission "Max Combat Rating License"
-	name "License"
-	description "License."
-	source
-		government "Republic" "Free Worlds" "Neutral" "Syndicate" "Quarg" "Hai" "Pirate" "Federation"
+	invisible
+	landing
 	to offer
-		"combat rating" >= 1202878
+		"combat rating" >= 485165195
 	on offer
-		set "license: Terror of the Galaxy"
+		set "license: Destroyer of Worlds"
+		fail

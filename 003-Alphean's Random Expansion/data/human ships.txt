@@ -149,7 +149,7 @@ ship "Modified Firebird"
 
 ship "Kriegsmacher"
 	licenses
-		"Terror of the Galaxy"
+		"Destroyer of Worlds"
 	sprite "ship/Kriegsmacher" #Thanks, Matthew Smestad!
 	attributes
 		category "Heavy Warship"

@@ -152,24 +152,24 @@ planet Human
 	shipyard "AE Human"
 	shipyard "AE Federation"
 
-mission "Add Terror of the Galaxy License"
+mission "Add Destroyer of Worlds License"
 	repeat
 	job
 	source
 		attributes forgelicenses
-	description "Gives you a Terror of the Galaxy license."
+	description "Gives you a Destroyer of Worlds license."
 	on accept
-		set "license: Terror of the Galaxy"
+		set "license: Destroyer of Worlds"
 		fail
 
-mission "Remove Terror of the Galaxy License"
+mission "Remove Destroyer of Worlds License"
 	repeat
 	job
 	source
 		attributes forgelicenses
-	description "Gives your Terror of the Galaxy license."
+	description "Removes your Destroyer of Worlds license."
 	on accept
-		clear "license: Terror of the Galaxy"
+		clear "license: Destroyer of Worlds"
 		fail
 
 mission "Add Tarazed License"
@@ -187,7 +187,7 @@ mission "Remove Tarazed License"
 	job
 	source
 		attributes forgelicenses
-	description "Gives your Tarazed license."
+	description "Removes your Tarazed license."
 	on accept
 		clear "license: Tarazed"
 		fail
