@@ -86,8 +86,8 @@ outfit "Piezoelectric Generator"
 	thumbnail "outfit/unknown"
 	"mass" 20
 	"outfit space" -20
-	"energy generation" 2.4
-	"heat generation" 2.4
+	"energy generation" 1.6
+	"heat generation" 1.6
 
 outfit "Cold Fusion Reactor"
 	category "Power"
@@ -95,8 +95,8 @@ outfit "Cold Fusion Reactor"
 	thumbnail "outfit/unknown"
 	"mass" 58
 	"outfit space" -58
-	"energy generation" 9
-	"heat generation" 9.9
+	"energy generation" 8
+	"heat generation" 9.6
 
 outfit "Gravduction Core"
 	category "Power"
@@ -104,8 +104,8 @@ outfit "Gravduction Core"
 	thumbnail "outfit/unknown"
 	"mass" 88
 	"outfit space" -88
-	"energy generation" 15
-	"heat generation" 18
+	"energy generation" 14
+	"heat generation" 19.6
 
 outfit "Plasmatic Fusion Ring"
 	category "Power"
@@ -113,8 +113,8 @@ outfit "Plasmatic Fusion Ring"
 	thumbnail "outfit/unknown"
 	"mass" 113
 	"outfit space" -113
-	"energy generation" 22.9
-	"heat generation" 29.7
+	"energy generation" 20.9
+	"heat generation" 33.4
 
 outfit "Zircon Power Storage"
 	category "Power"

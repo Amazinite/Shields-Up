@@ -18,7 +18,7 @@ ship "Arowana"
 		"required crew" 1
 		"bunks" 1
 		"mass" 50
-		"drag" 1.3
+		"drag" 1
 		"heat dissipation" .7
 		"outfit space" 98
 		"weapon capacity" 20
@@ -54,7 +54,7 @@ ship "Catla"
 		"required crew" 5
 		"bunks" 15
 		"mass" 400
-		"drag" 5.4
+		"drag" 4
 		"heat dissipation" .7
 		"fuel capacity" 600
 		"cargo space" 150
@@ -70,12 +70,12 @@ ship "Catla"
 		"Particle Accelerator"
 		"Jammer Cluster" 2
 
-		"Gravduction Core"
-		"Emerald Power Storage"
+		"Cold Fusion Reactor" 2
+		"Sapphire Power Storage" 2
 
-		"Overdrive Draco Thruster"
-		"Overdrive Aries Thruster"
-		"Overdrive Hydra Steering"
+		"Overdrive Hydra Thruster"
+		"Overdrive Draco Steering"
+		"Overdrive Aries Steering"
 		"Hyperdrive"
 
 	engine -16 113
@@ -100,7 +100,7 @@ ship "Albacore"
 		"required crew" 7
 		"bunks" 20
 		"mass" 380
-		"drag" 6.5
+		"drag" 4.9
 		"heat dissipation" .7
 		"fuel capacity" 400
 		"cargo space" 35
@@ -117,10 +117,11 @@ ship "Albacore"
 		"Jammer Cluster"
 
 		"Cold Fusion Reactor"
+		"Piezoelectric Generator"
 		"Zircon Power Storage"
-		"Ruby Power Storage"
+		"Sapphire Power Storage"
 
-		"Overdrive Draco Thruster"
+		"Overdrive Draco Thruster" 2
 		"Overdrive Draco Steering"
 		"Hyperdrive"
 
@@ -137,6 +138,8 @@ ship "Albacore"
 
 ship "Gourami"
 	sprite "ship/gourami"
+	license
+		"Servorum"
 	attributes
 		category "Medium Warship"
 		"cost" 8000000
@@ -145,7 +148,7 @@ ship "Gourami"
 		"required crew" 30
 		"bunks" 70
 		"mass" 530
-		"drag" 9.8
+		"drag" 7.4
 		"heat dissipation" .6
 		"fuel capacity" 600
 		"cargo space" 90
@@ -193,6 +196,8 @@ ship "Gourami"
 
 ship "Cisco"
 	sprite "ship/cisco"
+	license
+		"Servorum"
 	attributes
 		category "Heavy Warship"
 		"cost" 17500000
@@ -201,7 +206,7 @@ ship "Cisco"
 		"required crew" 70
 		"bunks" 130
 		"mass" 980
-		"drag" 14.4
+		"drag" 10.8
 		"heat dissipation" .5
 		"fuel capacity" 800
 		"cargo space" 60

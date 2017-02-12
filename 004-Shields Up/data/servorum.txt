@@ -8,6 +8,43 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+shipyard "Servorum Basic"
+	"Arowana"
+	"Catla"
+	"Albacore"
+
+shipyard "Servorum Advanced"
+	"Gourami"
+	"Cisco"
+
+outfitter "Servorum Basic"
+	"Overdrive Aries Thruster"
+	"Overdrive Aries Steering"
+	"Overdrive Draco Thruster"
+	"Overdrive Draco Steering"
+	"Overdrive Hydra Thruster"
+	"Overdrive Hydra Steering"
+	"Dynamic Heat Pump"
+	"Zircon Power Storage"
+	"Sapphire Power Storage"
+	"Piezoelectric Generator"
+	"Cold Fusion Reactor"
+	"Jammer Cluster"
+	"Shock Cannon"
+	"Particle Accelerator"
+
+outfitter "Servorum Advanced"
+	"Overdrive Orion Thruster"
+	"Overdrive Orion Steering"
+	"Overdrive Virgo Thruster"
+	"Overdrive Virgo Steering"
+	"Absolute Zero Cooling"
+	"Ruby Power Storage"
+	"Emerald Power Storage"
+	"Diamond Power Storage"
+	"Gravduction Core"
+	"Plasmatic Fusion Ring"
+
 fleet "Small Servorum Dei"
 	government "Servorum Dei"
 	names "pirate"

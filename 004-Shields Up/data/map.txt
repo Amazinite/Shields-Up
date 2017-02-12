@@ -30,40 +30,9 @@ system Agon
 		sprite star/a0
 		period 10
 	object
-		sprite planet/lava4
-		distance 282.943
-		period 26.923
-		offset 352.712
-	object
-		sprite planet/desert10
-		distance 649.193
-		period 93.5699
-		offset 231.319
-	object
-		sprite planet/gas13
-		distance 2425.87
-		period 675.889
-		offset 152.184
-		object
-			sprite planet/desert4
-			distance 402.863
-			period 22.8269
-			offset 81.4198
-		object
-			sprite planet/tethys
-			distance 617.611
-			period 43.3294
-			offset 180.233
-		object
-			sprite planet/rock17
-			distance 766.464
-			period 59.9029
-			offset 73.7671
-	object
 		sprite planet/wisp
-		distance 4636.11
-		period 1785.69
-		offset 104.543
+		distance 1000
+		period 300
 
 system Algieba
 	pos -691 -52
@@ -5003,12 +4972,11 @@ planet Kullat
 	landscape land/Fimage13
 	description `Perhaps the most misleading of the Servorum Dei's planets; Kullat looks like a beautiful, undeveloped planet from the surface. It makes it hard to believe that this is their capital, however there are a few towns scattered around, each with a huge circular hole in the middle large enough for something even of a Bactrian's size to fit in. Deep inside those holes are large spherical openings for ships to land, with tunnels connecting all the towns on the surface together, and all the tunnels eventually converging at the Servorum Dei's capital city built deep under one of the many tall mountains.`
 	spaceport `The air is thick with a smoke emanating from the underground factories around the landing pads, with Alphas and Humans alike walking here and there to the different merchants and structures.`
-	shipyard "FTek Basics"
-	shipyard "FTek Advanced"
 	outfitter "Basic Outfits"
-	outfitter "FTek Basics"
-	outfitter "FTek Advanced"
-	"required reputation" 3
+	outfitter "Servorum Basic"
+	shipyard "Servorum Basic"
+	shipyard "Servorum Advanced"
+	"required reputation" 0
 	bribe 0.075
 	security 0.3
 
@@ -5163,8 +5131,10 @@ planet "Minas Tekel"
 	landscape land/mountain7
 	description `Primarily used as a textile manufacturer as well as a large producer of minerals due to the rugged terrain making this planet rather useless for other purposes, it also manages to attract tourists, generating small income for the Servorum Dei.`
 	spaceport `You caught slightly off guard, as the spaceport is pretty nice for such an under-developed planet. A quick look around explains why, there are rather large amounts of tourists in the area who are welcomed, despite the planet being owned by Alphas.`
-	outfitter "Common Outfits"
-	"required reputation" 1.5
+	outfitter "Basic Outfits"
+	outfitter "Servorum Basic"
+	shipyard "Servorum Basic"
+	"required reputation" 100
 	bribe 0.02
 	security 0.1
 
@@ -5268,8 +5238,8 @@ planet Parsine
 	description `For the most part, this planet is undeveloped. However, it is the main source of food for the Servorum Dei, as they have a very limited amount of worlds.`
 	spaceport `It isn't a whole lot to look at, it's a few landing pads surrounding a few fuel tanks in the middle of a small town. The locals keep glancing at you every now and then.`
 	outfitter "Basic Outfits"
-	outfitter "FTek Basics"
-	"required reputation" 1
+	outfitter "Servorum Basic"
+	"required reputation" 100
 	bribe 0.03
 	security 0.1
 
