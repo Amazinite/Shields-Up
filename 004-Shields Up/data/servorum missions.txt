@@ -50,7 +50,7 @@ mission "Servorum Dei: First Contact"
 					goto return
 				`	"If you are Gammas and there are Alphas, then what are the Betas?"`
 				
-			`	"The Alphas were similar to the Betas, but they were not evil. They served aside humanity, just like us, only they looked like humans. They were able to better blend into humanity, thus avoiding persecution. Although, we do not know if any Betas are still alive to this day."`
+			`	"The Betas were similar to the Alphas, but they were not evil. They served aside humanity, just like us, only they looked like humans. They were able to better blend into humanity, thus avoiding persecution. Although, we do not know if any Betas are still alive to this day."`
 				goto choice
 			
 			label return
@@ -62,11 +62,11 @@ mission "Servorum Dei: First Contact"
 					goto tech
 				`	"Thank you for this information."`
 			
-			`	"You are welcome. And so you know, you may buy our smaller ships and outfits, but we do not allow others to use our more advanced technology until they have proven themselves trustworthy. If ever you have other questions, just ask"`
+			`	"You are welcome. And so you know, you may buy our smaller ships and outfits, but we do not allow others to use our more advanced technology until they have proven themselves trustworthy. If ever you have other questions, just ask."`
 				decline
 			
 			label tech
-			`	"Some of it, but not all. You may buy our smaller ships and outfits, but we do not allow others to use our more advanced technology until they have proven themselves trustworthy. If ever you have other questions, just ask"`
+			`	"Some of it, but not all. You may buy our smaller ships and outfits, but we do not allow others to use our more advanced technology until they have proven themselves trustworthy. If ever you have other questions, just ask."`
 				decline
 
 event "known by Servorum"
@@ -81,12 +81,12 @@ mission "Servorum Dei: Wisp"
 	source Kullat
 	
 	on enter "Agon"
-		dialog "As you hyperdrive into the system, you notice a strange wisp of purple gas orbiting the sun. Maybe the Servorum will tell you what this is."
+		dialog "As you jump into the system, you notice a strange wisp of purple gas orbiting the sun. Maybe the Servorum will tell you what this is."
 	
 	on complete
 		conversation
-			`	Landing on Kullat, you try to find the woman who you spoke to before. After asking around a bit, they point you to the main building in the spaceport. You are escorted to a room near the top of the building which overviews the entier spaceport.`
-			`	The woman is sitting in a large arm chair while looking at three different monitors. Two of them are filled with lines of data that might be arrival and depature information. The screen rapidly scroll as more data comes up, and she seems to be taking it all in at the same time. The third monitor is displaying a simple game of chess, which she occasionally looks to to make her move.`
+			`	Landing on Kullat, you try to find the woman who you spoke to before. After asking around a bit, they point you to the main building in the spaceport. You are escorted to a room near the top of the building which overviews the entire spaceport.`
+			`	The woman is sitting in a large arm chair while looking at three different monitors. Two of them are filled with lines of data that might be arrival and depature information. The screens rapidly scroll as more data comes up, and she seems to be taking it all in at the same time. The third monitor is displaying a simple game of chess, which she occasionally looks to to make her move.`
 			`	The woman pauses the monitors and looks up to you.`
 			`	"Hello, captain. I realized that I didn't get your name last time."`
 			choice
@@ -97,8 +97,8 @@ mission "Servorum Dei: Wisp"
 			`	"Hello, I am Delilah Sif, current prime minister of the Servorum Dei worlds. I believe I would be right to assume that you have a question to ask of me?"`
 			`	You mention the purple wisp that you found in Agon and ask what it is.`
 			`	"Oh, yes. The wisp. There is a rather long story to that object, but given the time I have I'll have to give you the short version."`
-			`	"Back when we first left human space to colonize these worlds, that wisp was a wormhole. We expanded out to a cluster of systems in the south east of the galaxy. Things were good early on, but then an alien race known as the Mil'taj came to our systems."`
-			`	"At first they seemed friendly. They shared their technology with us and we exchanged stories or our people. But then Quag appeared. These aliens began fighting the Quarg, and our people were caught in a crossfire. Some of us evacuated to these systems, but those who stayed were swayed to help the Mil'taj. The Mil'taj placed idea into the heads of many of us that they would give us great technology to get revenge on the humans for casting us out, but only if they helped fight the Quarg. They accepted, and the Quarg were run out of the systems."`
+			`	"Back when we first left human space to colonize these worlds, that wisp was a wormhole. We expanded out to a cluster of systems in the southeast of the galaxy. Things were good early on, but then an alien race known as the Mil'taj came to our systems."`
+			`	"At first they seemed friendly. They shared their technology with us and we exchanged stories of our people. But then Quarg appeared. These aliens began fighting the Quarg, and our people were caught in a crossfire. Some of us evacuated to these systems, but those who stayed were swayed to help the Mil'taj. The Mil'taj placed ideas into the heads of many of us that they would give us great technology to get revenge on the humans for casting us out, but only if we helped fight the Quarg. Some accepted, and the Quarg were run out of the systems."`
 			`	"Those who remained in these systems north of the Deep did not like the idea of attacking the humans. A short war broke out between us and those that stayed with the Mil'taj, who began calling themselves the Plenipotent Dominion."`
 			`	"After fighting to a stalemate and pushing all of the Dominion out of these systems, we severed the wormhole to keep the Dominion away from humanity, and that wisp is all that remains of the wormhole."`
 			choice

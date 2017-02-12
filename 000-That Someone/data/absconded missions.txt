@@ -28,7 +28,7 @@ mission "Hai Absconded: First Contact"
 					goto absconded
 				`	"Why are you here?"`
 			
-			`	"I was born here," Farood says, rather bluntly. You pause for a second while trying to find a questions that could get you the answer you want when Farood begins to speak.`
+			`	"I was born here," Farood says, rather bluntly. You pause for a second while trying to find a question that could get you the answer you want when Farood begins to speak.`
 			`	"I assume that you are meaning to ask what the Absconded are here for."`
 			
 			label absconded
@@ -42,7 +42,7 @@ mission "Hai Absconded: First Contact"
 				decline
 
 			label war
-			`	"Hundreds of years ago, the Hai territory was raided by the aliens from the east. The Korath, they were called. They sent large warships with Jump Drives, able to travel between stars that are not linked. For decades, this war went on, and other the time we collected many Jump Drives. Suddenly, the war stopped, leaving us confused."`
+			`	"Hundreds of years ago, the Hai territory was raided by the aliens from the east. The Korath, they were called. They sent large warships with Jump Drives, able to travel between stars that are not linked. For decades, this war went on, and over the time we collected many Jump Drives. Suddenly, the war stopped, leaving us confused."`
 			`	"Many of those who fought the Korath did not want to stop fighting. They had grown complacent in war after fighting for so many years. Those Hai traveled to the north and controlled three worlds and began to fight the Hai of the Quarg. We, the Absconded, did not want to see any more war, and as such we took the remaining Jump Drives to here."`
 			choice
 				`	"If you have been here for hundreds of years, why is it that you have not colonized all the systems nearby?"`

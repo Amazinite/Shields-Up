@@ -31,7 +31,7 @@ mission "Strange Pug: First Contact"
 			`	Suddenly, they all stop chanting and the robed Pug stare at you as if waiting for you to say something.`
 			choice
 				`	"What do you mean by that?"`
-				`	"Why do you not attack eachother on the planet?"`
+				`	"Why do you not attack each other on the planet?"`
 					goto planet
 			
 			`	Again, the robed Pug speak in unison.`
