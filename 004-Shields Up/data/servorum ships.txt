@@ -138,7 +138,7 @@ ship "Albacore"
 
 ship "Gourami"
 	sprite "ship/gourami"
-	license
+	licenses
 		"Servorum"
 	attributes
 		category "Medium Warship"
@@ -196,7 +196,7 @@ ship "Gourami"
 
 ship "Cisco"
 	sprite "ship/cisco"
-	license
+	licenses
 		"Servorum"
 	attributes
 		category "Heavy Warship"
