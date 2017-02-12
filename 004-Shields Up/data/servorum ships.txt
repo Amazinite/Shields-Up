@@ -61,7 +61,6 @@ ship "Catla"
 		"outfit space" 380
 		"weapon capacity" 70
 		"engine capacity" 95
-		"self destruct" .3
 		weapon
 			"blast radius" 80
 			"shield damage" 800
@@ -108,7 +107,6 @@ ship "Albacore"
 		"outfit space" 320
 		"weapon capacity" 80
 		"engine capacity" 70
-		"self destruct" .3
 		weapon
 			"blast radius" 36
 			"shield damage" 360
@@ -154,7 +152,6 @@ ship "Gourami"
 		"outfit space" 590
 		"weapon capacity" 120
 		"engine capacity" 150
-		"self destruct" .4
 		weapon
 			"blast radius" 60
 			"shield damage" 600
@@ -211,7 +208,6 @@ ship "Cisco"
 		"outfit space" 740
 		"weapon capacity" 180
 		"engine capacity" 170
-		"self destruct" .4
 		weapon
 			"blast radius" 300
 			"shield damage" 3000

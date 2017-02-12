@@ -8,6 +8,51 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+ship "Stiletto"
+	sprite "ship/Stiletto"
+	attributes
+		category "Transport"
+		"cost" 1650000
+		"shields" 3200
+		"hull" 800
+		"required crew" 1
+		"bunks" 8
+		"mass" 150
+		"drag" 2.6
+		"heat dissipation" .75
+		"fuel capacity" 900
+		"cargo space" 20
+		"outfit space" 285
+		"weapon capacity" 70
+		"engine capacity" 110
+		"cloak" .05
+		"cloaking energy" 4
+		weapon
+			"blast radius" 30
+			"shield damage" 300
+			"hull damage" 150
+			"hit force" 450
+	outfits
+		"Particle Accelerator"
+		"Heavy Anti-Missile Turret"
+
+		"Fission Reactor"
+		"LP036a Battery Pack"
+		"FTek Tiny Shield System"
+		"Water Coolant System"
+		"Cooling Ducts"
+
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+	engine 0 62
+	gun 0 -33
+	turret 0 9
+	explode "tiny explosion" 10
+	explode "small explosion" 15
+	description "Somewhere in between a transport and an intercepter, the Stiletto is a stealth craft capable of rendering itself invisible to sneak behind enemy lines, performing undercover mssions for the Dominion. Although if needed, it can handle other craft of similar size."
+
 # ship "Gunong"
 
 ship "Kukri"
@@ -28,7 +73,6 @@ ship "Kukri"
 		"outfit space" 560
 		"weapon capacity" 205
 		"engine capacity" 180
-		"self destruct" .5
 		weapon
 			"blast radius" 260
 			"shield damage" 2600
@@ -87,7 +131,6 @@ ship "Spetum"
 		"outfit space" 670
 		"weapon capacity" 250
 		"engine capacity" 200
-		"self destruct" .7
 		weapon
 			"blast radius" 160
 			"shield damage" 1600

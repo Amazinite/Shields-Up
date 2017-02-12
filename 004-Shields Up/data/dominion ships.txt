@@ -8,53 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "Stiletto"
-	sprite "ship/Stiletto"
-	attributes
-		category "Transport"
-		"cost" 1650000
-		"shields" 3200
-		"hull" 800
-		"required crew" 1
-		"bunks" 8
-		"mass" 150
-		"drag" 2.6
-		"heat dissipation" .75
-		"fuel capacity" 900
-		"cargo space" 20
-		"outfit space" 285
-		"weapon capacity" 70
-		"engine capacity" 110
-		"self destruct" .8
-		"cloak" .05
-		"cloaking energy" 4
-		weapon
-			"blast radius" 30
-			"shield damage" 300
-			"hull damage" 150
-			"hit force" 450
-	outfits
-		"Particle Accelerator"
-		"Heavy Anti-Missile Turret"
-		"Toaster Bot" 8
-
-		"Fission Reactor"
-		"LP036a Battery Pack"
-		"FTek Tiny Shield System"
-		"Water Coolant System"
-		"Cooling Ducts"
-
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine 0 62
-	gun 0 -33
-	turret 0 9
-	explode "tiny explosion" 10
-	explode "small explosion" 15
-	description "Somewhere in between a transport and an intercepter, the Stiletto is a stealth craft capable of rendering itself invisible to sneak behind enemy lines, performing undercover mssions for the Dominion. Although if needed, it can handle other craft of similar size."
-
 ship "Corvo"
 	sprite "ship/Corvo"
 	attributes
@@ -72,7 +25,8 @@ ship "Corvo"
 		"outfit space" 260
 		"weapon capacity" 70
 		"engine capacity" 80
-		"self destruct" .2
+		"bot capacity" 2
+		"armory capacity" 6
 		weapon
 			"blast radius" 16
 			"shield damage" 160
@@ -80,7 +34,7 @@ ship "Corvo"
 			"hit force" 240
 	outfits
 		"Particle Accelerator" 2
-		"Toaster Bot" 6
+		"P-75 Archangel" 2
 
 		"Dwarf Core"
 		"FTek021 Rechargable Battery"
@@ -117,7 +71,8 @@ ship "Sica"
 		"outfit space" 350
 		"weapon capacity" 120
 		"engine capacity" 95
-		"self destruct" .3
+		"bot capacity" 8
+		"armory capacity" 24
 		weapon
 			"blast radius" 72
 			"shield damage" 720
@@ -126,7 +81,7 @@ ship "Sica"
 	outfits
 		"Particle Accelerator" 2
 		"Anti-Missile Turret" 2
-		"Toaster Bot" 16
+		"P-75 Archangel" 8
 
 		"Fission Reactor"
 		"FTek021 Rechargable Battery"
@@ -165,7 +120,8 @@ ship "Nefandous"
 		"outfit space" 480
 		"weapon capacity" 200
 		"engine capacity" 105
-		"self destruct" .3
+		"bot capacity" 20
+		"armory capacity" 60
 		weapon
 			"blast radius" 100
 			"shield damage" 1000
@@ -174,7 +130,7 @@ ship "Nefandous"
 	outfits
 		"Particle Accelerator" 4
 		"Heavy Anti-Missile Turret" 2
-		"Toaster Bot" 38
+		"P-75 Archangel" 20
 
 		"Fission Reactor"
 		"FTek021 Rechargable Battery" 2
@@ -215,7 +171,8 @@ ship "Napoo"
 		"outfit space" 850
 		"weapon capacity" 300
 		"engine capacity" 160
-		"self destruct" .6
+		"bot capacity" 73
+		"armory capacity" 219
 		weapon
 			"blast radius" 400
 			"shield damage" 4000
@@ -224,7 +181,7 @@ ship "Napoo"
 	outfits
 		"Particle Accelerator" 6
 		"Heavy Anti-Missile Turret" 3
-		"Toaster Bot" 124
+		"P-75 Archangel" 73
 
 		"Fusion Reactor"
 		"FTek021 Rechargable Battery" 3
