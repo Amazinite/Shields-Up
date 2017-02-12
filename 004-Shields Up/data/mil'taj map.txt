@@ -3747,3 +3747,74 @@ planet "Mil'taj Zun"
 	"required reputation" 100
 	bribe 0
 	security 0.5
+
+planet "Outpost Bek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Cek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Gek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Jek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Kek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Lek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Nek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Rek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Sek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Wek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Yek"
+	landscape ""
+	description Blank
+	spaceport Blank
+
+planet "Outpost Zek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"

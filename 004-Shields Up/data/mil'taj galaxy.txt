@@ -12,6 +12,19 @@ galaxy Cascade
 	pos -3000 -3000
 	sprite ui/Cascade
 
+system Cascade
+	pos -2995.71 -2988.75
+	government Mil'taj
+	habitable 858.28
+	asteroids "large rock" 1 1.078
+	asteroids "small metal" 1 1.1088
+	asteroids "medium metal" 25 1.309
+	asteroids "large metal" 1 1.1704
+	object
+		sprite star/blackhole
+		distance 32.8877
+		period 18.1729
+
 system SU1
 	pos -2799.85 -3028.1
 	government Mil'taj
@@ -1546,6 +1559,41 @@ system SU4
 			sprite planet/rock0
 			distance 183
 			period 13.1781
+
+system Su40
+	pos -2612.85 -2967.1
+	government Mil'taj
+	habitable 425.92
+	link SU39
+	link SU41
+	asteroids "medium rock" 4 9.1392
+	asteroids "large rock" 1 7.1232
+	asteroids "small metal" 36 5.7792
+	asteroids "medium metal" 25 7.3248
+	asteroids "large metal" 23 4.3008
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/desert8
+		distance 250.25
+		period 76.7286
+		object
+			sprite planet/rock7
+			distance 134
+			period 19.8959
+	object
+		sprite planet/lava2
+		distance 540.26
+		period 243.389
+	object
+		sprite planet/titan
+		distance 694.42
+		period 354.674
+	object
+		sprite planet/gas9
+		distance 1996.83
+		period 1729.45
 
 system SU41
 	pos -2587.85 -2889.1
