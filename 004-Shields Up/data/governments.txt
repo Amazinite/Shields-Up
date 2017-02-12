@@ -20,7 +20,7 @@ government "shieldsup"
 		
 government "Mil'taj"
 	swizzle 0
-	color .99 .89 .70
+	color .7 1 .70
 	language "Mil'taj"
 	
 	"player reputation" -1
