@@ -94,9 +94,9 @@ system "Eta Delphi"
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 1000
-	fleet "Large Quarg" 5000
-	fleet "Small Abs" 1000
-	fleet "Large Abs" 3000
+	fleet "Large Quarg" 2500
+	fleet "Small Abs" 1200
+	fleet "Large Abs" 2400
 	object
 		sprite star/a5
 		period 10
@@ -475,7 +475,9 @@ system Novae
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 1000
-	fleet "Large Quarg" 5000
+	fleet "Large Quarg" 2500
+	fleet "Small Abs" 1600
+	fleet "Large Abs" 3200
 	object
 		sprite star/k0
 		period 10
@@ -524,10 +526,10 @@ system "Plus De"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Abs" 500
-	fleet "Large Abs" 1500
 	fleet Quarg 1000
-	fleet "Large Quarg" 5000
+	fleet "Large Quarg" 2500
+	fleet "Small Abs" 1000
+	fleet "Large Abs" 2000
 	object
 		sprite star/wr
 		distance 15.6664
@@ -647,10 +649,10 @@ system Subra
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 500
+	fleet Quarg 1000
 	fleet "Large Quarg" 2500
-	fleet "Small Abs" 1500
-	fleet "Large Abs" 4500
+	fleet "Small Abs" 1800
+	fleet "Large Abs" 3600
 	object
 		sprite star/g0
 		distance 29.4857
@@ -711,10 +713,10 @@ system Udualudu
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 500
+	fleet Quarg 1000
 	fleet "Large Quarg" 2500
-	fleet "Small Abs" 1000
-	fleet "Large Abs" 3000
+	fleet "Small Abs" 1400
+	fleet "Large Abs" 2800
 	object
 		sprite star/k0
 		period 10
@@ -765,9 +767,10 @@ system Wartorn
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Korath Raid" 1600
-	fleet Quarg 500
+	fleet Quarg 1000
 	fleet "Large Quarg" 2500
+	fleet "Small Abs" 1200
+	fleet "Large Abs" 2400
 	object
 		sprite star/k5
 		distance 54
@@ -833,7 +836,10 @@ system "Zeta Nurphae"
 	trade Metal 297
 	trade Plastic 454
 	fleet Quarg 1000
-	fleet "Large Quarg" 5000
+	fleet "Large Quarg" 2500
+	fleet "Small Abs" 2000
+	fleet "Large Abs" 4000
+	fleet "Small Mil'taj" 12000
 	object
 		sprite star/g0
 		distance 27.7174
@@ -1002,7 +1008,7 @@ planet Blossom
 	spaceport `Trying to dock with the colony ship was quite difficult, because you couldn't hail any pilots, though eventually a computer automatically guided your ship into one of its many docking ports. Walking around on the ship is difficult due to the constant jolt of take off and landing. The ship itself is mostly empty, however this time its halls are filled with the screams of terrified animals being transported to each continent. Refueling tubes are present as well. `
 
 planet "Chrono Station"
-	attributes quargworl
+	attributes quarg "near mil'taj"
 	landscape land/space1
 	description `This is a small manufacturing facility, where the Quarg's advanced technology is produced. Tens of thousands of ships are busily flying around, objects appear and disappear around the station. Unfortunately, the only people who work here are Quarg, and outsiders are not permitted to view their outfits. They do however, have a refueling station. `
 	spaceport `The same strange organic looking tentacles attach to your ship again, though you feel more relaxed walking down the tube this time. The spaceport is completely sealed off from the rest of the station. This station is completely clean like the last one, you see that any speck of dust or dirt that comes off of your body disapears in an instant.`
@@ -1013,26 +1019,26 @@ planet Devastated
 	description `This moon was destroyed by the Korath. Ten thousand years ago, the Korath and Quarg were on equal footing. The planet was a far outpost for the Quarg, used to monitor the Korath. The Korath employed a Sun'ik attack on the outpost, ripping the crust of the entire moon in two, and breaking galactic law. The Drak, in response to the attack, destroyed every star system and planet Korath-owned near Quarg space. They also laid waste to their homeworld, and banished them to the core. They now reside on one virtually unchanged world. `
 
 planet Dupelepe
-	attributes quargworl
+	attributes quarg "near mil'taj"
 	landscape land/sky7
 	description `The planet is a small moon, orbiting a gas planet with small amounts of water vapor and methane in its atmosphere giving it the blue-green color. The moon itself is typical of the Quarg, small with a thin atmosphere, however it is heavily populated with sprawling cities covering the surface. Each of the cities are a different color and texture. There are ships of various colors and designs flying around the planet, some are tens of kilometers long. `
 	spaceport `The spaceport is a lofty structure, both towering into the sky and plunging several miles beneath the surface. There are sections of landing pads for various species' ship hulls, there is even a section for humans, though it is unfinished. You dock your ship in one of the hangars designed for a ship twice the size of yours, because the proportions are so odd you face banging an antenae off versus inconveniencing an alien freighter. Surprisingly, this world is selling Quarg outfits and ships, though you suspect it may not remain that way for long.`
 	security 0.9
 
 planet Genchok
-	attributes quargworl
+	attributes quarg "near mil'taj"
 	landscape land/desert4
 	description `A slightly montainous moon, the Quarg use this moon for power generation, using the planet's violent volcanic and tectonic activity as a power source. Energy is harvested through submantle turbines, made of tungsten. Operations here have been going on for longer than humans have existed, the automated machines that work here have only been replaced twice in the moon's service. Though outdated by Quarg standards, it still sends power to planets with low energy consumption.`
 	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refueled by pilotless drones while you look at the barren landscape before you. `
 
 planet Hoirk'n
-	attributes quargworl
+	attributes quarg "near mil'taj"
 	landscape land/myrabella6
 	description `The moon is a small farming world, crops are grown and harvested several times a day. There are large dome structures around the moon, which occasionally spray bacteria into the atmosphere that are genetically modified to duplicate into whatever plant they come in contact with. There is one city on the planet, it sits on an island far away enough from the main continent that the bacteria can't get to the inhabitants. `
 	spaceport `The spaceport is a large closed dome, hovering a few thousand meters above the city. All visitors are required to wear a spandex-like suit that will prevent you from stealing any bacteria, and also keeps track of what bacteria are on you at all times.  The spaceport itself is filled with luscious blue foliage, perhaps to showoff the crops on the main continent. The Hai frequent this moon alot, as it is the first gas station on the way to Novae. `
 
 planet Kor'ein
-	attributes uninhabited uninhabited
+	attributes uninhabited
 	landscape land/desert4
 	description `The planet seems to be completely destroyed, though many buildings still stick out through the massive lava flows. The planet was demolished by the Korgath through a Sur'nik war amongst the inhabitants some fifty thousand years ago. The planet's twenty billion inhabitants perished in the event.  Unlike Hope, no effective means of evacuation could be achieved due to the Korgath's lack of an organized navy or government. `
 
@@ -1050,7 +1056,7 @@ planet "New Fog"
 	spaceport `The spaceport is the colony ship, with 6 docking ports on sides of it. It remains in perpetual flight over the planet's surface, awaiting further orders. Surprisingly it has refueling tubes, which contort to fit to your ship. The interior is barren and devoid of life. The disharmonious clanks of the gears in the ship make you uneasy, and you want to leave as soon as possible. `
 
 planet Puggldute
-	attributes pug(quarg)
+	attributes pug
 	landscape land/sky2
 	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on pricisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
 	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `

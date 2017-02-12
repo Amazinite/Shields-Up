@@ -14,7 +14,7 @@ galaxy "label southeast"
 
 system Agon
 	pos -633.498 -548.83
-	government "Plenipotent Dominion"
+	government "Servorum Dei"
 	habitable 5000
 	link "Eta Carinae"
 	link "Sanctum Adroit"
@@ -24,8 +24,8 @@ system Agon
 	asteroids "small metal" 45 1.8135
 	asteroids "medium metal" 10 1.716
 	asteroids "large metal" 114 2.262
-	fleet "Large Plenipotent Dominion" 4000
-	fleet "Small Plenipotent Dominion" 1000
+	fleet "Small Servorum Dei" 800
+	fleet "Large Servorum Dei" 2000
 	object
 		sprite star/a0
 		period 10
@@ -92,9 +92,9 @@ system Bera
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 2500
-	fleet "Large Mil'taj" 2200
-	fleet "Small Mk2 Mil'taj" 2200
+	fleet Quarg 1000
+	fleet "Large Quarg" 2500
+	fleet "Small Mil'taj" 8000
 	haze "star/purple haze"
 
 system "Deus Glorificat"
@@ -120,8 +120,8 @@ system "Deus Glorificat"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 3000
 	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/f0
 		period 10
@@ -185,8 +185,8 @@ system "Eta Carinae"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Servorum Dei" 4500
-	fleet "Small Servorum Dei" 2000
+	fleet "Small Servorum Dei" 800
+	fleet "Large Servorum Dei" 2000
 	haze "star/purple haze"
 
 system "Eta Piscium"
@@ -209,8 +209,8 @@ system "Eta Piscium"
 	trade Medical 790
 	trade Metal 290
 	trade Plastic 340
-	fleet "Large Servorum Dei" 3500
-	fleet "Small Servorum Dei" 1200
+	fleet "Small Servorum Dei" 800
+	fleet "Large Servorum Dei" 2000
 	object
 		sprite star/g0
 		distance 31.0644
@@ -266,7 +266,9 @@ system Flar
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 900
+	fleet Quarg 1000
+	fleet "Large Quarg" 2500
+	fleet "Small Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -322,7 +324,7 @@ system Gambit
 	trade Metal 430
 	trade Plastic 460
 	fleet "Small Plenipotent Dominion" 1000
-	fleet "Large Plenipotent Dominion" 2500
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/g5
 		period 10
@@ -375,7 +377,9 @@ system Gami
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 1300
+	fleet Quarg 1000
+	fleet "Large Quarg" 2500
+	fleet "Small Mil'taj" 8000
 	object
 		sprite star/f5
 		period 10
@@ -662,8 +666,8 @@ system Laconda
 	asteroids "large rock" 1 1.755
 	asteroids "medium metal" 4 2.673
 	asteroids "large metal" 1 2.079
-	fleet "Large Plenipotent Dominion" 2500
 	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/m0
 		period 10
@@ -724,8 +728,8 @@ system Mechanus
 	trade Medical 760
 	trade Metal 250
 	trade Plastic 460
-	fleet "Large Servorum Dei" 4000
-	fleet "Small Servorum Dei" 1500
+	fleet "Small Servorum Dei" 800
+	fleet "Large Servorum Dei" 2000
 	object
 		sprite star/k5
 		period 10
@@ -761,8 +765,8 @@ system "Mil'taj Bek"
 	asteroids "small metal" 5 5.292
 	asteroids "medium metal" 222 5.4432
 	asteroids "large metal" 42 7.5096
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		distance 26.715
@@ -828,7 +832,8 @@ system "Mil'taj Boh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 5000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		distance 34.9893
@@ -882,6 +887,7 @@ system "Mil'taj Bol"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		period 10
@@ -921,8 +927,8 @@ system "Mil'taj Bon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 5000
-	fleet "Small Mil'taj" 5000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m0
 		period 10
@@ -978,10 +984,8 @@ system "Mil'taj Cek"
 	asteroids "small metal" 8 3.4632
 	asteroids "medium metal" 3 2.8392
 	asteroids "large metal" 23 3.6504
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/b5
 		distance 18.7778
@@ -1040,6 +1044,7 @@ system "Mil'taj Coh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		distance 19.8943
@@ -1100,6 +1105,7 @@ system "Mil'taj Col"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		distance 43.329
@@ -1162,10 +1168,9 @@ system "Mil'taj Con"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet Quarg 1300
-	fleet "Small Mk2 Mil'taj" 2500
-	fleet "Large Mil'taj" 2000
-	fleet "Small Mil'taj" 1500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/k5
 		distance 42.042
@@ -1202,6 +1207,8 @@ system "Mil'taj Dek"
 	asteroids "small metal" 5 1.7094
 	asteroids "medium metal" 41 3.234
 	asteroids "large metal" 6 1.7787
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		period 10
@@ -1246,8 +1253,9 @@ system "Mil'taj Doh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 5000
 	haze "star/white haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 
 system "Mil'taj Dol"
 	pos -117.226 541.439
@@ -1269,9 +1277,9 @@ system "Mil'taj Dol"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Mk2 Mil'taj" 2000
-	fleet "Large Mil'taj" 2000
-	fleet Quarg 2200
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/a5
 		period 10
@@ -1322,8 +1330,8 @@ system "Mil'taj Don"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 4500
-	fleet "Small Mil'taj" 3500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -1374,6 +1382,8 @@ system "Mil'taj Fek"
 	asteroids "small metal" 17 1.248
 	asteroids "medium metal" 8 2.1504
 	asteroids "large metal" 15 2.7264
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		period 10
@@ -1411,8 +1421,9 @@ system "Mil'taj Foh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 4000
 	haze "star/light haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 
 system "Mil'taj Fol"
 	pos -28.515 763.36
@@ -1434,9 +1445,8 @@ system "Mil'taj Fol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 3500
-	fleet "Large Mil'taj" 4500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		period 10
@@ -1499,10 +1509,8 @@ system "Mil'taj Fon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 3000
-	fleet "Small Mil'taj" 2000
-	fleet "Cargo Mil'taj" 5800
-	fleet "Small Mk2 Mil'taj" 8500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g0
 		period 10
@@ -1557,10 +1565,8 @@ system "Mil'taj Gek"
 	asteroids "small metal" 12 5.6448
 	asteroids "medium metal" 139 2.3814
 	asteroids "large metal" 19 6.0858
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m8
 		period 10
@@ -1623,8 +1629,9 @@ system "Mil'taj Goh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 4000
 	haze "star/light haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 
 system "Mil'taj Gol"
 	pos -152.515 725.36
@@ -1642,8 +1649,9 @@ system "Mil'taj Gol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 4000
 	haze "star/white haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 
 system "Mil'taj Gon"
 	pos -303.398 631.817
@@ -1667,9 +1675,8 @@ system "Mil'taj Gon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 4000
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -1729,6 +1736,8 @@ system "Mil'taj Hek"
 	habitable 1080
 	link "Mil'taj Rek"
 	asteroids "large metal" 1 5.852
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g0
 		period 10
@@ -1783,9 +1792,9 @@ system "Mil'taj Hon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet Quarg 2200
-	fleet "Large Mil'taj" 2000
-	fleet "Small Mk2 Mil'taj" 2000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/f5
 		period 10
@@ -1830,10 +1839,8 @@ system "Mil'taj Jek"
 	asteroids "large rock" 1 7.5087
 	asteroids "medium metal" 1 10.3518
 	asteroids "large metal" 1 10.935
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -1895,6 +1902,7 @@ system "Mil'taj Joh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g0
 		distance 40.6891
@@ -1951,6 +1959,7 @@ system "Mil'taj Jon"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g0
 		distance 27.7174
@@ -1999,10 +2008,8 @@ system "Mil'taj Kek"
 	asteroids "large rock" 39 5.0336
 	asteroids "medium metal" 6 7.15
 	asteroids "large metal" 2 2.86
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -2066,9 +2073,8 @@ system "Mil'taj Koh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/b5
 		distance 7.73212
@@ -2128,6 +2134,7 @@ system "Mil'taj Kol"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m0
 		period 10
@@ -2181,6 +2188,8 @@ system "Mil'taj Kon"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/f5
 		distance 19.027
@@ -2218,9 +2227,8 @@ system "Mil'taj Lek"
 	link "Mil'taj Fek"
 	link "Mil'taj Vek"
 	asteroids "large metal" 1 1.9965
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		period 10
@@ -2285,6 +2293,7 @@ system "Mil'taj Loh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		period 10
@@ -2350,7 +2359,8 @@ system "Mil'taj Lon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m4
 		period 10
@@ -2388,6 +2398,8 @@ system "Mil'taj Mek"
 	asteroids "small metal" 48 2.668
 	asteroids "medium metal" 84 3.393
 	asteroids "large metal" 9 2.001
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m0
 		period 10
@@ -2445,7 +2457,8 @@ system "Mil'taj Moh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 5000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		period 10
@@ -2494,10 +2507,10 @@ system "Mil'taj Mon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 2000
-	fleet "Small Mk2 Mil'taj" 2000
-	fleet Quarg 2200
 	haze "star/green haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 
 system "Mil'taj Nek"
 	pos -2855.87 -2728.98
@@ -2509,9 +2522,8 @@ system "Mil'taj Nek"
 	asteroids "small metal" 8 6.237
 	asteroids "medium metal" 1 5.3865
 	asteroids "large metal" 4 4.3659
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m4
 		period 10
@@ -2572,6 +2584,8 @@ system "Mil'taj Noh"
 	trade Metal 297
 	trade Plastic 454
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/f5
 		distance 44.8229
@@ -2622,9 +2636,8 @@ system "Mil'taj Nol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 3500
-	fleet "Large Mil'taj" 4500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m4
 		period 10
@@ -2675,9 +2688,8 @@ system "Mil'taj Non"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		distance 24.7896
@@ -2729,6 +2741,8 @@ system "Mil'taj Pek"
 	asteroids "small metal" 1 7.2358
 	asteroids "medium metal" 2 7.176
 	asteroids "large metal" 3 6.6378
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		period 10
@@ -2790,9 +2804,8 @@ system "Mil'taj Poh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m8
 		period 10
@@ -2859,11 +2872,10 @@ system "Mil'taj Pon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet Quarg 1300
-	fleet "Small Mk2 Mil'taj" 2500
-	fleet "Large Mil'taj" 2000
-	fleet "Small Mil'taj" 1500
 	haze "star/green haze"
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 
 system "Mil'taj Rek"
 	pos -2772.87 -2799.98
@@ -2872,9 +2884,8 @@ system "Mil'taj Rek"
 	link "Mil'taj Vek"
 	link "Mil'taj Hek"
 	asteroids "large metal" 1 2.5404
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		period 10
@@ -2933,9 +2944,9 @@ system "Mil'taj Roh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/g5
 		period 10
@@ -2984,9 +2995,9 @@ system "Mil'taj Ron"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet Quarg 2200
-	fleet "Small Mk2 Mil'taj" 2000
-	fleet "Large Mil'taj" 2000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/k5
 		period 10
@@ -3025,10 +3036,8 @@ system "Mil'taj Sek"
 	habitable 486.68
 	link "Mil'taj Mek"
 	asteroids "large metal" 1 3.3306
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -3075,9 +3084,8 @@ system "Mil'taj Soh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		distance 22.8784
@@ -3142,8 +3150,8 @@ system "Mil'taj Son"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 5000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/a0
 		period 10
@@ -3194,8 +3202,8 @@ system "Mil'taj Tah"
 	asteroids "small metal" 2 3.6972
 	asteroids "medium metal" 13 6.1776
 	asteroids "large metal" 1 3.8844
-	fleet "Small Mil'taj" 3000
-	fleet "Large Mil'taj" 3500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		distance 47.4181
@@ -3242,6 +3250,8 @@ system "Mil'taj Tek"
 	asteroids "small metal" 8 4.005
 	asteroids "medium metal" 18 4.455
 	asteroids "large metal" 1 4.14
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/m4
 		period 10
@@ -3286,8 +3296,8 @@ system "Mil'taj Toh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 3000
-	fleet "Large Mil'taj" 3000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/g5
 		period 10
@@ -3332,6 +3342,7 @@ system "Mil'taj Ton"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		period 10
@@ -3376,6 +3387,8 @@ system "Mil'taj Vek"
 	asteroids "small metal" 3 1.2012
 	asteroids "medium metal" 46 1.5862
 	asteroids "large metal" 10 1.6016
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k0
 		period 10
@@ -3430,6 +3443,9 @@ system "Mil'taj Voh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/g0
 		period 10
@@ -3488,6 +3504,7 @@ system "Mil'taj Von"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		distance 34.188
@@ -3533,9 +3550,8 @@ system "Mil'taj Wek"
 	asteroids "medium rock" 8 3.5496
 	asteroids "large rock" 5 6.9513
 	asteroids "large metal" 2 4.5356
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f0
 		period 10
@@ -3592,9 +3608,9 @@ system "Mil'taj Woh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 3500
-	fleet "Small Mil'taj" 3000
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/k5
 		period 10
@@ -3654,6 +3670,7 @@ system "Mil'taj Won"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		period 10
@@ -3693,9 +3710,8 @@ system "Mil'taj Yek"
 	asteroids "large rock" 4 4.6053
 	asteroids "medium metal" 2 3.7842
 	asteroids "large metal" 1 3.5343
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		distance 39.468
@@ -3763,10 +3779,9 @@ system "Mil'taj Yoh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 1300
-	fleet "Small Mk2 Mil'taj" 2500
-	fleet "Large Mil'taj" 1500
-	fleet "Cargo Mil'taj" 6000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/m0
 		period 10
@@ -3831,9 +3846,8 @@ system "Mil'taj Yon"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Large Mil'taj" 4500
-	fleet "Small Mil'taj" 3500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/a0
 		period 10
@@ -3888,10 +3902,8 @@ system "Mil'taj Zek"
 	asteroids "large rock" 12 4.662
 	asteroids "medium metal" 5 2.142
 	asteroids "large metal" 2 5.082
-	fleet "Large Mil'taj" 2500
-	fleet "Small Mil'taj" 1500
-	fleet "Cargo Mil'taj" 7000
-	fleet "Small Mk2 Mil'taj" 4500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/f5
 		period 10
@@ -3955,9 +3967,9 @@ system "Mil'taj Zoh"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 1300
-	fleet "Small Mk2 Mil'taj" 2500
-	fleet "Large Mil'taj" 2000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/g5
 		period 10
@@ -4009,9 +4021,8 @@ system "Mil'taj Zol"
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet "Small Mil'taj" 3500
-	fleet "Large Mil'taj" 4500
-	fleet "Cargo Mil'taj" 7000
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
 	object
 		sprite star/k5
 		period 10
@@ -4063,10 +4074,9 @@ system "Mil'taj Zon"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Mil'taj" 3000
-	fleet "Large Mil'taj" 3500
-	fleet "Cargo Mil'taj" 6000
-	fleet "Small Mk2 Mil'taj" 8500
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	fleet "Large Quarg" 12000
 	object
 		sprite star/k5
 		distance 49
@@ -4113,7 +4123,6 @@ system "New New Providence"
 	asteroids "large metal" 1 3.78
 	fleet "Small Southern Pirates" 2000
 	fleet "Large Southern Pirates" 4000
-	fleet "Small Northern Pirates" 2000
 	object
 		sprite star/g5
 		distance 49.0322
@@ -4184,8 +4193,8 @@ system "Omega Kappa"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 2000
 	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/m0
 		distance 56.5
@@ -4246,8 +4255,8 @@ system "Omega Mu"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Plenipotent Dominion" 1500
-	fleet "Large Plenipotent Dominion" 2500
+	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/g0
 		distance 12.4444
@@ -4318,8 +4327,8 @@ system "Omicron Gamma"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Small Mk2 Mil'taj" 6000
-	fleet "Small Plenipotent Dominion" 2000
+	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/k5
 		distance 42.1121
@@ -4381,8 +4390,8 @@ system Paloma
 	asteroids "small metal" 5 6.363
 	asteroids "medium metal" 6 3.15
 	asteroids "large metal" 10 8.568
+	fleet "Small Plenipotent Dominion" 1000
 	fleet "Large Plenipotent Dominion" 3000
-	fleet "Small Plenipotent Dominion" 2000
 	object
 		sprite star/g5
 		period 10
@@ -4447,8 +4456,8 @@ system "Pax Cruciatus"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 3000
 	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/k0
 		period 10
@@ -4509,7 +4518,8 @@ system Qarn
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 1200
+	fleet Quarg 1000
+	fleet "Large Quarg" 2500
 	object
 		sprite star/m8
 		period 10
@@ -4573,8 +4583,8 @@ system "Sanctum Adroit"
 	trade Medical 770
 	trade Metal 430
 	trade Plastic 470
-	fleet "Large Servorum Dei" 4000
-	fleet "Small Servorum Dei" 1200
+	fleet "Small Servorum Dei" 800
+	fleet "Large Servorum Dei" 2000
 	object
 		sprite star/g5
 		period 10
@@ -4670,8 +4680,8 @@ system Tyrant
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Large Plenipotent Dominion" 2500
-	fleet "Small Plenipotent Dominion" 1500
+	fleet "Small Plenipotent Dominion" 1000
+	fleet "Large Plenipotent Dominion" 3000
 	object
 		sprite star/a5
 		period 10
@@ -4763,7 +4773,9 @@ system Yarg
 	trade Medical 915
 	trade Metal 297
 	trade Plastic 454
-	fleet Quarg 1500
+	fleet Quarg 1000
+	fleet "Large Quarg" 2500
+	fleet "Small Mil'taj" 8000
 	object
 		sprite star/m4
 		period 10
@@ -4821,8 +4833,6 @@ system Zorica
 	fleet "Small Northern Pirates" 1700
 	fleet "Small Northern Merchants" 2000
 	fleet "Large Northern Merchants" 23000
-	fleet "Small Plenipotent Dominion" 3500
-	fleet "Large Plenipotent Dominion" 4000
 	object
 		sprite star/f0
 		period 10
@@ -4905,15 +4915,8 @@ system Zosma
 	link Gomeisa
 	link Zorica
 
-planet "Cruciatus Station"
-	attributes station
-	landscape land/myrabella7
-	outfitter "Common Outfits"
-	"required reputation" 0
-	bribe 0.01
-	security 0.1
-
 planet "Dead Man's Refuge"
+	attributes pirate
 	landscape land/bwerner8
 	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
 	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
@@ -4929,24 +4932,9 @@ planet "Dead Man's Refuge"
 	"required reputation" 1
 	bribe 0.05
 	security 0
-	tribute 400
-		threshold 4000
-		fleet "Large Southern Pirates" 10
-
-planet Devastated
-	attributes uninhabited
-	landscape land/lava2
-	description `This moon was destroyed by the Korath. Ten thousand years ago, the Korath and Quarg were on equal footing. The planet was a far outpost for the Quarg, used to monitor the Korath. The Korath employed a Sun'ik attack on the outpost, ripping the crust of the entire moon in two, and breaking galactic law. The Drak, in response to the attack, destroyed every star system and planet Korath-owned near Quarg space. They also laid waste to their homeworld, and banished them to the core. They now reside on one virtually unchanged world. `
-
-planet Dupelepe
-	attributes quargworld
-	landscape land/sky7
-	description `The planet is a small moon, orbiting a gas planet with small amounts of water vapor and methane in its atmosphere giving it the blue-green color. The moon itself is typical of the Quarg, small with a thin atmosphere, however it is heavily populated with sprawling cities covering the surface. Each of the cities are a different color and texture. There are ships of various colors and designs flying around the planet, some are tens of kilometers long. `
-	spaceport `The spaceport is a lofty structure, both towering into the sky and plunging several miles beneath the surface. There are sections of landing pads for various species' ship hulls, there is even a section for humans, though it is unfinished. You dock your ship in one of the hangars designed for a ship twice the size of yours, because the proportions are so odd you face banging an antennae off versus inconveniencing an alien freighter. `
-	security 0.9
 
 planet "Epica Citadel"
-	attributes fortress plenipotent factory
+	attributes dominion
 	landscape land/water6
 	description `A manufacturing planet owned by the Plenitpotent Dominion, a collection of Alphas that have developed a society. Although the planet is mostly filled with factories and military bases, there are quite a few large cities, putting the total population of the planet around two billion, although people often get sick due to the pollution from the many factories. The factories generate a purple smoke that is very visible at certain times of day. It's rather beautiful until you remind yourself how many toxic fumes you're inhaling.`
 	spaceport `The spaceport is rather run down, it is poorly managed, which is rather evident when exiting your ship, you can see that the landing pad is not well supported. It's hard to believe that this is the capital of a race hoping to wipe out most of humanity.`
@@ -4962,11 +4950,9 @@ planet "Epica Citadel"
 	"required reputation" 3
 	bribe 0.085
 	security 0.45
-	tribute 2700
-		threshold 30000
-		fleet "Large Plenipotent Dominion" 10
 
 planet Exemption
+	attributes dominion
 	landscape land/Fimage8
 	description `A beautifully calm planet owned by the Plenipotent Dominion. The main source of food for their planets, Exemption is rightfully named for the relaxing getaway from the typical Dominion planet due to its lack of factories. Instead, Exemption is the breadbasket of the Dominion, producing most of its food.`
 	spaceport `You land in one of the many small towns scattered across the planet. Even though it is a small town, the technologically advanced Alphas go all out with their constructions, the largest structure here being a large, five story high spire with beams sticking out of the side which are supporting landing pads.`
@@ -4978,12 +4964,9 @@ planet Exemption
 	"required reputation" 1
 	bribe 0.06
 	security 0.35
-	tribute 1800
-		threshold 20000
-		fleet "Large Plenipotent Dominion" 20
 
 planet Florug
-	attributes quarg
+	attributes quarg "near mil'taj"
 	landscape land/mountain9
 	description `A Quarg planet far from their homelands, settled purely for the purpose of providing the Quarg the planet on the frontlines of their war with the Mil'taj. Due to Quarg not being able to breath the air here, the only development on the planet are defences for holding off the Mil'taj. The structures have isolated breathing conditions that result in them being off limits to Humans. The same goes for the Mil'taj, who require similar atmospheric conditions as Humans do.`
 	spaceport `The Quarg you are used to would typically welcome a human on their planets, however due to the location of this planet, and the fact that the Mil'taj are allied with the Plenipotent Dominion makes the Quarg here very apprehensive of your being here. There is only one structure on the planet that Humans are allowed in, as it was designed to be breathable for Humans.`
@@ -4991,21 +4974,15 @@ planet Florug
 	security 0.4
 
 planet Gehenna
-	attributes desert plenipotent pirate factory
+	attributes dominion
 	landscape land/desert2
 	description `Desert in all directions. Scattered throughout this barren waste are huge factories for building Plenipotent ships, however the public is not allowed anywhere near them, as death threats will start pouring in, along with base defences being aimed straight at your ship.`
 	"required reputation" 2
 	bribe 0.3
 	security 0.3
 
-planet Genchok
-	attributes quargworld
-	landscape land/desert4
-	description `A slightly mountainous moon, the Quarg use this moon for power generation, using the planet's violent volcanic and tectonic activity as a power source. Energy is harvested through submantle turbines, made of tungsten. Operations here have been going on for longer than humans have existed, the automated machines that work here have only been replaced twice in the moon's service. Though outdated by Quarg standards, it still sends power to planets with low energy consumption.`
-	spaceport `The spaceport is tiny, allowing only a maximum of five ships at a time. Not that it needs more, because you are the only one on the planet. The landing pad deploys an energy dome around you and your ship, and fills with enough air to allow you to breathe. Your ship is refueled by pilotless drones while you look at the barren landscape before you. `
-
 planet "Gol Gotha"
-	attributes plenipotent factory ocean
+	attributes dominion
 	landscape land/badlands2
 	description `An endless wasteland of sand and rock. Or at least, that's what it looks like from outside. Deep underground are many factories building weapons for the Plenipotent Dominion, however no one has ever been down there except for alphas and humans who work for the Dominion.`
 	spaceport `The only structure on the surface of the planet is a heavily guarded military base. The only section of the base opened to the public is watched closely, and sells a rather limited supply of weapons.`
@@ -5017,26 +4994,12 @@ planet "Gol Gotha"
 	"required reputation" 2
 	bribe 0.075
 	security 0.3
-	tribute 2100
-		threshold 30000
-		fleet "Large Plenipotent Dominion" 6
-
-planet Hoirk'n
-	attributes quargworld
-	landscape land/myrabella6
-	description `The moon is a small farming world, crops are grown and harvested several times a day. There are large dome structures around the moon, which occasionally spray bacteria into the atmosphere that are genetically modified to duplicate into whatever plant they come in contact with. There is one city on the planet, it sits on an island far away enough from the main continent that the bacteria can't get to the inhabitants. `
-	spaceport `The spaceport is a large closed dome, hovering a few thousand meters above the city. All visitors are required to wear a spandex-like suit that will prevent you from stealing any bacteria, and also keeps track of what bacteria are on you at all times.  The spaceport itself is filled with luscious blue foliage, perhaps to showoff the crops on the main continent. The Hai frequent this moon a lot, as it is the first gas station on the way to Novae. `
 
 planet "Kor Enlai"
 	landscape ""
 
-planet Kor'ein
-	attributes uninhabited
-	landscape land/sky8
-	description `The planet seems to be completely destroyed, though many buildings still stick out through the massive lava flows. The planet was demolished by the Korath through a Sur'nik war amongst the inhabitants some fifty thousand years ago. The planet's twenty billion inhabitants perished in the event.  Unlike Hope, no effective means of evacuation could be achieved due to the Korath's lack of an organized navy or government. `
-
 planet Kullat
-	attributes Servorum
+	attributes servorum
 	landscape land/Fimage13
 	description `Perhaps the most misleading of the Servorum Dei's planets; Kullat looks like a beautiful, undeveloped planet from the surface. It makes it hard to believe that this is their capital, however there are a few towns scattered around, each with a huge circular hole in the middle large enough for something even of a Bactrian's size to fit in. Deep inside those holes are large spherical openings for ships to land, with tunnels connecting all the towns on the surface together, and all the tunnels eventually converging at the Servorum Dei's capital city built deep under one of the many tall mountains.`
 	spaceport `The air is thick with a smoke emanating from the underground factories around the landing pads, with Alphas and Humans alike walking here and there to the different merchants and structures.`
@@ -5050,7 +5013,7 @@ planet Kullat
 	security 0.3
 
 planet "Le Morte te Deum"
-	attributes forest mining
+	attributes dominion
 	landscape land/forest5
 	description `A dense forest populates the entire planet, covering even the tallest of mountains. This planet has slowly grown into a massive industrial powerhouse, producing lumber and precious metals for the Plenipotent Dominion.`
 	spaceport `You land in one of the major spaceports, where you see it is abundant in landing pads large enough to fit Behemoths, presumably for transporting the materials produced by the planet. You notice that not too many Alphas are here, instead the planet is mainly populated by workers for the mines or pirates and criminals seeking refuge in a place far from the dangers of Republic and Syndicate space.`
@@ -5060,12 +5023,9 @@ planet "Le Morte te Deum"
 	"required reputation" 1
 	bribe 0.05
 	security 0.1
-	tribute 1500
-		threshold 20000
-		fleet "Large Plenipotent Dominion" 15
 
 planet "Mil'taj Dun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/canyon0
 	description `Extraordinarily barren, there are only a few pockets of life on this planet due to an encounter with the Drak that didn't go too well for the Mil'taj. What was once populated with the Mil'taj's cities of what was their homeplanet, is left as a memory of past mistakes, along with the dozens of other planets destroyed by the Drak leaving the once great Mil'taj as a small mark on the galaxy.`
 	spaceport `The only thing here is a small station with a few Mil'taj wandering about. They don't seem to care about you being here, or that you are taking some of their fuel for yourself.`
@@ -5074,7 +5034,7 @@ planet "Mil'taj Dun"
 	security 0
 
 planet "Mil'taj Ful"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/mfield5
 	description `A small moon on the outer edge of Mil'taj space. So insignificant that not even the Drak bothered to destroy it.`
 	spaceport `A small refueling outpost has been set up on top of a low standing mountain with a good view of the surrounding area. You quickly refuel your ship with little interruption from the nearby Mil'taj.`
@@ -5083,7 +5043,7 @@ planet "Mil'taj Ful"
 	security 0.1
 
 planet "Mil'taj Fun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/forest1
 	description `The capital of the Mil'taj is relatively undeveloped. Most of the planet is left blanketed by mountains and forests, however there are large cities situated here and there.`
 	description `	Upon entering the atmosphere you are immediately scanned by a Millitaj ship. After a moment, the ship flies away.`
@@ -5093,7 +5053,7 @@ planet "Mil'taj Fun"
 	security 0.3
 
 planet "Mil'taj Gun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/bwerner3
 	description `The surface of the planet is completely undeveloped apart from a single structure, which is a spire stretching about 1 kilometer into the sky. Along the sides of the spire there are landing pads for ships. The airspace around the spire is jam-packed with Mil'taj ships flying in all directions.`
 	spaceport `As you land your ship, there are about half a dozen of the Mil'taj aliens who run over to your ship and hook refueling cables into it. As they perform this job, they often look back at you. The Mil'taj here probably don't see too many humans.`
@@ -5102,7 +5062,7 @@ planet "Mil'taj Gun"
 	security 0.2
 
 planet "Mil'taj Kuh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/lava0
 	description `While most of the planets hit by the Drak, this is one of the few that didn't take much damage at all. While some that had survived had only water, this is the extremely rare exception that had vegetation survive.`
 	description `	There are small settlements placed in habitable places across the entire planet.`
@@ -5112,7 +5072,7 @@ planet "Mil'taj Kuh"
 	security 0.3
 
 planet "Mil'taj Nul"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/Fimage1
 	description `One of the poor planets that took the primary force of the Drak attack, no attempts have been made to recover anything from this hopeless planet.`
 	"required reputation" 0
@@ -5120,7 +5080,7 @@ planet "Mil'taj Nul"
 	security 0
 
 planet "Mil'taj Nun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/forest3
 	description `The Mil'taj have hardly developed this planet, despite having been here for a while. There are a few cities with towering green spires sprinkled across the planet.`
 	spaceport `Most of the spires have landing pads of all different sizes shooting out from the sides, each protected with shield bubbles that deactivate and reactivate when ships come to land or take off.`
@@ -5129,7 +5089,7 @@ planet "Mil'taj Nun"
 	security 0.2
 
 planet "Mil'taj Puh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/snow5
 	description `A frozen wasteland at every corner of the planet, the Mil'taj have given up any hope of being able to colonize. Although they are so technologically advanced, they have never found any use of finding ways to settle on frozen planets.`
 	"required reputation" 0.1
@@ -5137,7 +5097,7 @@ planet "Mil'taj Puh"
 	security 0.1
 
 planet "Mil'taj Ruh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/forest3
 	description `Completely covered in mountain and forests, creating cities has been difficult for the Mil'taj. In order to build cities, they resorted to flattening entire mountain tops to put their massive spires.`
 	spaceport `Outside one of the spires there was an open landing pad you landed your ship on. Most of the aliens inside the spire don't seem too fond of you being here though, while some are fascinated at the rare sight of a human.`
@@ -5146,7 +5106,7 @@ planet "Mil'taj Ruh"
 	security 0.3
 
 planet "Mil'taj Suh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/badlands3
 	description `One of the planets taking the series blunt of the attack by the Drak, all that's left is sand and rocks from the once sprawling cities that were completely vaporized.`
 	spaceport `There is a small outpost set up that provides refueling services to passing ships. Oddly enough, they allow humans to just land to refuel.`
@@ -5155,7 +5115,7 @@ planet "Mil'taj Suh"
 	security 0.1
 
 planet "Mil'taj Wuh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/dmottl1
 	description `Another victim of the Drak's purge of the Mil'taj's planets. This is one of the rare cases where the planet still has water, allowing life to gradually return.`
 	spaceport `As of now, there are small spires shooting out of one of the few remaining lakes around the planet. There are hardly any Mil'taj inside, however the few that are here allow you to refuel.`
@@ -5164,14 +5124,14 @@ planet "Mil'taj Wuh"
 	security 0.3
 
 planet "Mil'taj Yuh"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/valley7
 	description `In an attempt to have a planet on the frontlines of the war, much like how the Quarg have done, this frontline planet has not had as much luck. Constant attacks by the Quarg left most of the planet in ruins, making the planet uninhabited.`
 	"required reputation" 1
 	bribe 0.03
 
 planet "Mil'taj Yun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/canyon2
 	description `Another remnant of the Mil'taj's encounter with the Drak. The air is near unbreathable as a result of the destruction dealt to the planet.`
 	spaceport `A small refueling station is set up by a massive tower that was knocked down long ago as a result of the Drak.`
@@ -5180,7 +5140,7 @@ planet "Mil'taj Yun"
 	security 0
 
 planet "Mil'taj Zul"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/Fimage12
 	description `Another victim of the Drak, nothing is left of the once towering spires except for the ashes of what could have been the planet's inhabitants at one point.`
 	"required reputation" 0
@@ -5188,7 +5148,7 @@ planet "Mil'taj Zul"
 	security 0
 
 planet "Mil'taj Zun"
-	attributes Mil'taj
+	attributes mil'taj
 	landscape land/Fimage10
 	description `An extremely rare case of a Drak attack that didn't work all the way through. While the planet was turned into a frozen wasteland of ice and rock across the entire surface, the Drak had not anticipated that the Mil'taj had hollowed out portions of the planet and developed a military outpost underground. The world is completely off limits to anything that isn't Mil'taj, although you appear to be an exception due to your support of the Mil'taj and your shared hate with their enemies.`
 	spaceport `The 'outpost' turned out to be more like a massive room with large columns supporting the roof, which was metal that held up the surface of the planet directly above it. It wouldn't be surprising if the room went on for many kilometers, and the distance from the floor to the ceiling was near impossible to measure, however even the largest of the Mil'taj ships had room to take off and fly around with room to spare, although you find it hard to land due to the room's floor being filled to the max with Mil'taj ships and weapons, and there are some for sale, even to you.`
@@ -5199,7 +5159,7 @@ planet "Mil'taj Zun"
 	security 0.5
 
 planet "Minas Tekel"
-	attributes Textile Servorum Tourism
+	attributes servorum
 	landscape land/mountain7
 	description `Primarily used as a textile manufacturer as well as a large producer of minerals due to the rugged terrain making this planet rather useless for other purposes, it also manages to attract tourists, generating small income for the Servorum Dei.`
 	spaceport `You caught slightly off guard, as the spaceport is pretty nice for such an under-developed planet. A quick look around explains why, there are rather large amounts of tourists in the area who are welcomed, despite the planet being owned by Alphas.`
@@ -5218,6 +5178,7 @@ planet "Novum Cardius"
 	description `The Quarg have a good taste in planets, all around you is just beautiful, clean air. The planet is not suitable for Quarg to live on it, so it instead acts as a tourist attraction. It offers a unique way of allowing tourists in as well, there is no spaceport which allows people to land their ship wherever they feel like, making the planet a perfect place for a vacation away from any planetary development.`
 
 planet "Nubia Station"
+	attributes dominion
 	landscape land/space1
 	description `A small broadcasting center for the Plenipotent Dominion located very close to Free World's territory. Using relay beacons on the southern planets planted by loyal supporters, it sends information to and from the main Dominion territory.`
 	spaceport `There are no places for your ship to land in the station, so you have to dock with it, making use of rarely used monitors displaying docking cameras on your ship to carefully manoeuvre and eventually dock with the station.`
@@ -5302,7 +5263,7 @@ planet "Outpost Zek"
 	outfitter "Common Outfits"
 
 planet Parsine
-	attributes Forest Servorum
+	attributes servorum
 	landscape land/badlands1
 	description `For the most part, this planet is undeveloped. However, it is the main source of food for the Servorum Dei, as they have a very limited amount of worlds.`
 	spaceport `It isn't a whole lot to look at, it's a few landing pads surrounding a few fuel tanks in the middle of a small town. The locals keep glancing at you every now and then.`
@@ -5313,6 +5274,7 @@ planet Parsine
 	security 0.1
 
 planet "Pax Station"
+	attributes dominion
 	landscape land/space7
 	description `Pax station was set up by the Plenipotent Dominion as a habitation centre for their workers in the system.`
 	spaceport `A few hangar bays filled with people and transport ships is all this station has to offer.`
@@ -5321,25 +5283,21 @@ planet "Pax Station"
 	security 0.3
 
 planet Puggldute
-	attributes pug(quarg)
 	landscape land/sky2
 	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on precisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
 	spaceport `The spaceport consists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
 
 planet "Quis Custodiat"
-	attributes plenipotent ocean luxuries
+	attributes dominion
 	landscape land/fog3
 	description `Although a massive ocean blankets the entire planet, there are many rigs on the water set up to harvest the plentiful oil supply. The planet is very undeveloped and it's only population are the workers who live on the oil platforms.`
 	spaceport `You are allowed passage onto an oil rig where the workers; comprised of a mix of races that includes Humans and Alphas, hook up refueling cables to your ship.`
 	"required reputation" 0.1
 	bribe 0.03
 	security 0.1
-	tribute 1100
-		threshold 20000
-		fleet "Large Plenipotent Dominion" 10
 
 planet Rodin
-	attributes "The Deep"
+	attributes deep
 	landscape land/forest2
 	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
 	spaceport `The spaceport is heavily guarded by ground personnel wielding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
@@ -5354,6 +5312,7 @@ planet Rodin
 	security 0.8
 
 planet "Rubido Station"
+	attributes dominion
 	landscape land/station4
 	description `The station was built by the Plenipotent Dominion as one of it's primary orbital manufactories for ships.`
 	spaceport `The station is very restrictive in access, very few civilians are on board, and there is little access to anywhere apart from a shipyard and the hanger that your ship is in.`
@@ -5368,6 +5327,7 @@ planet "Rubido Station"
 	security 0.78
 
 planet Sanctus
+	attributes uninhabited
 	landscape land/desert7
 	description `An endless blanket of golden grass glistens from the light of its parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
 	"required reputation" 0
@@ -5390,6 +5350,7 @@ planet "Sessiliki Near"
 	spaceport `x x`
 
 planet "Stark Station"
+	attributes dominion
 	landscape land/space4
 	description `The cramped quarters of this relay station are home of Plenipotent Dominion transmitters. The transmitters broadcast radio channels to and from different locations, and this station somehow allows radio transmissions from here back to Dominion territory way in the south-east, which shouldn't be possible without somehow getting the signal to go all the way through Human space.`
 	spaceport `A very limited number of docking bays are located on the station, all a very small size. Larger ships have no choice but to dock with the station from the outside or don't attach to the station, instead constantly moving at the same trajectory as the station to keep the two objects side by side.`
@@ -5398,6 +5359,7 @@ planet "Stark Station"
 	security 0.2
 
 planet "Viglado Station"
+	attributes dominion
 	landscape land/space2
 	description `What are you doing in this station you cheater. This is not implemented in the mod yet! The only reasonable way you could have gotten in here is by editing your reputation! So go back to the spaceship from whence you came.`
 	spaceport `ey, you, get outta here.`
@@ -5406,7 +5368,7 @@ planet "Viglado Station"
 	security 0.1
 
 planet "Wayshrine Station"
-	attributes station factory tourism
+	attributes servorum
 	landscape land/station1
 	description `A shipbuilding factory for the Servorum Dei used to create who-knows-what. The security is so crazy you have to wonder what they have going on in this station.`
 	spaceport `Everyone keeps watching you to make sure you don't do anything funny. It must be hard on them, so far away from Servorum space, unsure who they can trust.`
