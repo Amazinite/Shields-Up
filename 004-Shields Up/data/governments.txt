@@ -7,10 +7,6 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-government "Korath"
-	"attitude toward"
-		"Mil'taj" -.1
 		
 government "shieldsup"
 	swizzle 0
@@ -23,7 +19,7 @@ government "Mil'taj"
 	color .7 1 .70
 	language "Mil'taj"
 	
-	"player reputation" -1
+	"player reputation" -1000
 	"attitude toward"
 		"Merchant" -.01
 		"Quarg" -.01
@@ -38,7 +34,7 @@ government "Mil'taj"
 		
 government "Republic"
 	"attitude toward"
-		"Deep Sky" .1
+		"Deep Sky" 1
 		"Plenipotent Dominion" -.3
 
 government "Pirate"
@@ -52,6 +48,8 @@ government "Servorum Dei"
 	"player reputation" 3
 	"attitude toward"
 		"Merchant" .1
+		"Plenipotent Dominion" -.5
+		"Mil'taj" -.1
 	"bribe" .055
 	"fine" 0
 	"friendly hail" "friendly servorum"
@@ -63,10 +61,14 @@ government "Deep Sky"
 	
 	"player reputation" 2
 	"attitude toward"
-		"Merchant" .1
+		"Alpha" -.3
+		"Merchant" .25
+		"Militia" .1
 		"Pirate" -.3
-		"Republic" .1
-		"Plenipotent Dominion" -.3
+		"Navy Intelligence" 1
+		"Navy (Oathkeeper)" 1
+		"Republic" 1
+		"Neutral" .1
 	"friendly hail" "friendly deep sky"
 	"hostile hail" "hostile deep sky"
 		
@@ -76,12 +78,13 @@ government "Plenipotent Dominion"
 	
 	"player reputation" -3
 	"attitude toward"
-		"Republic" -.1
-		"Deep Sky" -.1
-		"Syndicate" -.1
-		"Pirate" .1
-		"Mil'taj" .1
-		"Merchant" -.1
+		"Republic" -.01
+		"Deep Sky" -.01
+		"Syndicate" -.01
+		"Pirate" .01
+		"Mil'taj" .01
+		"Merchant" -.01
+		"Quarg" -0.1
 	"fine" 0
 	"friendly hail" "friendly dominion"
 	"hostile hail" "hostile dominion"
