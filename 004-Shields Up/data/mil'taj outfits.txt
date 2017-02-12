@@ -10,7 +10,7 @@
 
 outfit "Mil'taj Black Generator"
 	category "Power"
-	cost 75000000
+	cost 39960000
 	thumbnail "outfit/Militaj Black Generator"
 	"mass" 74
 	"outfit space" -74
@@ -21,7 +21,7 @@ outfit "Mil'taj Black Generator"
 
 outfit "Mil'taj Grey Generator"
 	category "Power"
-	cost 48000000
+	cost 22880000
 	thumbnail "outfit/Militaj Grey Generator"
 	"mass" 44
 	"outfit space" -44
@@ -32,7 +32,7 @@ outfit "Mil'taj Grey Generator"
 
 outfit "Mil'taj White Generator"
 	category "Power"
-	cost 22000000
+	cost 9000000
 	thumbnail "outfit/Militaj Grey Generator"
 	"mass" 18
 	"outfit space" -18

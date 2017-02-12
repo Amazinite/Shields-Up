@@ -220,6 +220,7 @@ ship "Pilum"
 		"Mil'taj Black Generator" 2
 		"Mil'taj Grey Generator"
 		"Mil'taj Condensed Battery"
+		"Mil'taj Cooling Unit"
 
 		"A520 Atomic Thruster"
 		"A865 Atomic Steering"
