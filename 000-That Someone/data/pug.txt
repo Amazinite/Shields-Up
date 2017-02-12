@@ -8,21 +8,23 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-government "Pug (Research)"
-	swizzle 0
+government "Blue Pug"
+	swizzle 5
 	color .8 .47 .3
 	
 	"player reputation" 1
 	"attitude toward"
-		"Pug (Attackers)" -10 
+		"Red Pug" -.01
+		"Pug" -.01
 
-government "Pug (Attackers)"
-	swizzle 0
+government "Red Pug"
+	swizzle 6
 	color .8 .47 .3
 	
 	"player reputation" 1
 	"attitude toward"
-		"Pug (Research)" -10
+		"Blue Pug" -.01
+		"Pug" -.01
 
 outfit "T4 Zapper"
 	category "Guns"
@@ -213,8 +215,8 @@ ship "Zibruka"
 		"mass" 240
 		"drag" 3.1
 		"heat dissipation" 50.8
-		"fuel capacity" 6000
-		"cargo space" 20000
+		"fuel capacity" 200
+		"cargo space" 1000
 		"outfit space" 180
 		"weapon capacity" 68
 		"engine capacity" 76
@@ -235,8 +237,8 @@ ship "Zibruka"
 		"T4 Akfar Steering"
 	engine -7 35
 	engine 7 35
-	gun -15 -42 "Zapper"
-	gun 15 -42 "Zapper"
+	gun -15 -42 "T4 Zapper"
+	gun 15 -42 "T4 Zapper"
 	explode "tiny explosion" 10
 	explode "small explosion" 15
 	explode "medium explosion" 20
@@ -255,8 +257,8 @@ ship "Enfolta"
 		"mass" 410
 		"drag" 5.9
 		"heat dissipation" 50.7
-		"fuel capacity" 6000
-		"cargo space" 40
+		"fuel capacity" 200
+		"cargo space" 1000
 		"outfit space" 360
 		"weapon capacity" 184
 		"engine capacity" 106
@@ -279,11 +281,11 @@ ship "Enfolta"
 		"T4 Cormet Steering"
 	engine -11 68
 	engine 11 68
-	gun -11 -85 "Zapper"
-	gun 11 -85 "Zapper"
-	gun -11 -85 "Seeker"
-	gun 11 -85 "Seeker"
-	turret 0 7 "Zapper Turret"
+	gun -11 -85 "T4 Zapper"
+	gun 11 -85 "T4 Zapper"
+	gun -11 -85 "T4 Seeker"
+	gun 11 -85 "T4 Seeker"
+	turret 0 7 "T4 Zapper Turret"
 	explode "tiny explosion" 5
 	explode "small explosion" 20
 	explode "medium explosion" 25
@@ -302,8 +304,8 @@ ship "Maboro"
 		"mass" 940
 		"drag" 9.8
 		"heat dissipation" 50.6
-		"fuel capacity" 6000
-		"cargo space" 70
+		"fuel capacity" 200
+		"cargo space" 1000
 		"outfit space" 560
 		"weapon capacity" 309
 		"engine capacity" 148
@@ -326,13 +328,13 @@ ship "Maboro"
 		"T4 Lohmar Steering"
 	engine -11 68
 	engine 11 68
-	gun -20 -150 "Seeker"
-	gun 20 -150 "Seeker"
-	gun -10 -150 "Seeker"
-	gun 10 -150 "Seeker"
-	turret 0 -50 "Anti-Missile"
-	turret -15 -35 "Zapper Turret"
-	turret 15 -35 "Zapper Turret"
+	gun -20 -150 "T4 Seeker"
+	gun 20 -150 "T4 Seeker"
+	gun -10 -150 "T4 Seeker"
+	gun 10 -150 "T4 Seeker"
+	turret 0 -50 "T4 Anti-Missile"
+	turret -15 -35 "T4 Zapper Turret"
+	turret 15 -35 "T4 Zapper Turret"
 	explode "small explosion" 25
 	explode "medium explosion" 30
 	explode "big explosion" 20
@@ -340,11 +342,11 @@ ship "Maboro"
 	description "This is the largest Pug warship."
 
 fleet "Pug Research"
-	government "Pug (Research)"
+	government "Blue Pug"
 	names "pug"
 	cargo 1
 	personality
-		heroic
+		heroic vindictive
 	variant 1
 		"Enfolta" 5
 		"Zibruka" 7
@@ -368,11 +370,11 @@ fleet "Pug Research"
 		"Zibruka" 7
 
 fleet "Pug Attackers"
-	government "Pug (Attackers)"
+	government "Red Pug"
 	names "pug"
 	cargo 1
 	personality
-		heroic
+		heroic vindictive
 	variant 1
 		"Enfolta" 5
 		"Zibruka" 7
@@ -394,5 +396,3 @@ fleet "Pug Attackers"
 		"Maboro" 5
 		"Enfolta" 5
 		"Zibruka" 7
-
-
