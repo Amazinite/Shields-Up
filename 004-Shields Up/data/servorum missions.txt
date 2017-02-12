@@ -78,9 +78,7 @@ event "known by Servorum"
 mission "Servorum Dei: Wisp"
 	landing
 	invisible
-	destination Kullat
-	to offer
-		has "Servorum Dei: First Contact: offered"
+	source Kullat
 	
 	on enter "Agon"
 		dialog "As you hyperdrive into the system, you notice a strange wisp of purple gas orbiting the sun. Maybe the Servorum will tell you what this is."
