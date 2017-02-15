@@ -1,3 +1,44 @@
+Shields Up Reborn v1.1
+	New Content
+		* (Shields Up and That Someone) Created first contact missions for the warring Pug, Hai (Absconded), Mil'taj (talk to some nearby Quarg), and Servorum
+		* (Shields Up) You can now buy Servorum ships and outfits... or at least most of them... and only after you talk to them for the first time
+	Content Changes
+		* (Alphean's) Due to Takarada not wanting to continue working on them and me not liking the idea Alr space has been removed
+		* (Pompano's) Moved the Tuk'ux systems from the east to the far west (the wormhole system is in the same place, though)
+		* (Shields Up) Changed Paul's mission chain to now offer no matter what class of ship you have (previously only offered if you had an interceptor, freighter, or transport)
+		* (Shields Up) Removed the jobs from Deep Sky space (some of them were old, and the implementation of jobs in Deep Sky space wasn't the most eligant)
+		* (Alphean) Changed the Terror of the Galaxy license to the Destroyer of Worlds license (the new max combat rating title) and changed the combat rating required
+		* (Shields Up) Standardized "Mil'taj" to the correct spelling of the race
+		* (Shields Up) You can no longer gain reputation with the Mil'taj or hail their ships/planets
+		* (Shields Up and Alphean's) Removed a bunch of old missions
+		* (Shields Up and That Someone) MASSIVELY changed the layout of the map; the Mil'taj are now more to the south, the Dominion are now east of the Mil'taj, the Servorum are now north of the Deep, and a lot of uninhabited systems that were connected to vanilla space were removed (and as such, changed a lot of fleet spawns and planet attributes)
+		* (That Someone) Renamed the researcher and attacker Pug to the blue and red Pug
+		* (Shields Up) Changed the Mil'taj to have a mint green color on the government map
+		* (Shields Up) Changed a bunch of government attitudes; the Republic and Deep Sky now have a 1:1 relationship (killing one hurts your reputation with them as much as it does the other government), the Dominion will never like you, and the Servorum hate the Dominion and Mil'taj 
+		* (Shields Up and Alphean's) Removed the ships from the two mentioned plugins from appearing in NPC fleets; next update will see a big fleet overhaul that makes sure that fleets include ships and outfits from the entire pack
+	Balance Changes
+		* (Shields Up) Buffed the total HP of the Servorum ships and nerfed their generators
+		* (Phil's) Buffed the Alliance Battleship engine space by one point
+		* (Shields Up) Dominion ships now have built-in armories and use androids to defend themselves in combat
+		* (Shields Up) Lowered the worth of the Mil'taj generators by anywhere from 47% to 59%, as well as increasing their fleet sizes to make them more difficult to fight
+	Bug Fixes
+		* (Shields Up) Fixed a type on the hull of the Derelict
+		* (Shields Up) Fixed a bug that made the Servorum Albacore have a Mil'taj weapon
+		* (Phil's) Fixed a bug where some Syndicate fleets used outfits from after the war
+		* (Phil's) Removed an old 4500X2 Armed Freighter frame that was ruining the animation 
+		* (Phil's) Redid the hardpoints on all of the Phil's Flavours ships so they should be in the right positions now
+		* (Phil's) Fixed a mistake on one of the Silver Protector variants that made it have negative free outfit space
+		* (Shields Up) Fixed a type in the Ion Laser Turret description
+		* (Shields Up) Fixed a bug where Dominion ships had ghost outfits
+		* (That Someone) Fixed a bug that stopped the Pug from shooting eachother
+		* (Shields Up) Fixed a bug where the Pilum would always overheat because it had no cooling
+		* Typo fixes from @KiLEdEnNis
+	Misc
+		* Added special plural forms for all ships and outfits that needed them
+		* Condensed the previously 10 folders into 6 now; Tufton and That Someone got merged into Shields Up Legacy, the old Shields Up folder, Shields Up Extra, and Alphean's got merged into the current Shields Up folder, and Deprecated and Compatibility folders were also merged into SU Housekeeping
+		* All plugins now have icons and about files to be viewed in the plugins tab of the preferences
+		* Shortened the name of Pompano's plugin a bit so it doesnt run into the description menu on the plugins tab of the preferences
+
 Shields Up Reborn v1
 	New Content
 		* All included plugins are now compatible with World Forge.
@@ -12,7 +53,7 @@ Shields Up Reborn v1
 	Content Changes
 		* (Tufton) Renamed "Ion Beam Turret" to "Ion Laser Turret" to keep complability with Ursa Polaris
 		* (SU-Extra) The Extended Bunk Room is now unplunderable
-		* (Pompano's) Tuk'ux no have their own government instead of just being considered uninhabited
+		* (Pompano's) Tuk'ux now have their own government instead of just being considered uninhabited
 		* (Pompano's) Replaced old ship images with new ones that swizzle better
 		* Any wormholes are now linked so that you may travel through them through the map
 		* Moved a number of systems from multiple plugins in order to keep compatibility with other mods and with the vanilla map. 
