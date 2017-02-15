@@ -2,6 +2,7 @@ Shields Up Reborn v1.1
 	New Content
 		* (Shields Up and That Someone) Created first contact missions for the warring Pug, Hai (Absconded), Mil'taj (talk to some nearby Quarg), and Servorum
 		* (Shields Up) You can now buy Servorum ships and outfits... or at least most of them... and only after you talk to them for the first time
+		* (Shields Up) Made the nebula a lot more cooler by turning them from "planets" into system haze. See the release image for what I mean: https://github.com/Amazinite/Shields-Up/releases/tag/V1.1
 	Content Changes
 		* (Alphean's) Due to Takarada not wanting to continue working on them and me not liking the idea Alr space has been removed
 		* (Pompano's) Moved the Tuk'ux systems from the east to the far west (the wormhole system is in the same place, though)
