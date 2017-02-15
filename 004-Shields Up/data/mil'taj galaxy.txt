@@ -3507,3 +3507,688 @@ system SU9
 			sprite planet/miranda
 			distance 695
 			period 78.2799
+
+system "Mil'taj Bek"
+	pos -2860.87 -2794.98
+	government Mil'taj
+	habitable 560.92
+	link "Mil'taj Nek"
+	link "Mil'taj Tek"
+	asteroids "medium rock" 8 2.52
+	asteroids "large rock" 4 3.9312
+	asteroids "small metal" 5 5.292
+	asteroids "medium metal" 222 5.4432
+	asteroids "large metal" 42 7.5096
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/k5
+		distance 26.715
+		period 19.7512
+		offset 180
+	object
+		sprite star/m8
+		distance 84.285
+		period 19.7512
+	object
+		sprite planet/desert10
+		distance 326.285
+		period 99.5417
+		object
+			sprite planet/oberon
+			distance 145
+			period 17.8755
+	object
+		sprite planet/rock10
+		distance 682.095
+		period 300.869
+	object
+		sprite planet/gas9
+		distance 1529.34
+		period 1010.11
+		object
+			sprite planet/dust0
+			distance 253
+			period 15.0894
+		object
+			sprite planet/callisto
+			distance 346
+			period 24.1326
+	object
+		sprite planet/gas6
+		distance 3121.59
+		period 2945.6
+		offset 8.30723
+		object "Outpost Bek"
+			sprite planet/station2
+			distance 442.371
+			period 23.7654
+			offset 190.235
+
+system "Mil'taj Cek"
+	pos -2786.22 -2992.61
+	government Mil'taj
+	habitable 9720
+	link "Mil'taj Wek"
+	asteroids "small rock" 41 2.2776
+	asteroids "medium rock" 213 3.2136
+	asteroids "large rock" 1 4.4304
+	asteroids "small metal" 8 3.4632
+	asteroids "medium metal" 3 2.8392
+	asteroids "large metal" 23 3.6504
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/b5
+		distance 18.7778
+		period 8.91368
+	object
+		sprite star/g0
+		distance 150.222
+		period 8.91368
+		offset 180
+	object
+		sprite planet/cloud4
+		distance 323.472
+		period 23.6038
+	object
+		sprite planet/jupiter
+		distance 722.362
+		period 78.7697
+	object
+		sprite planet/gas16
+		distance 1479.36
+		period 230.855
+		object
+			sprite planet/rock7
+			distance 197
+			period 14.5545
+	object
+		sprite planet/gas10
+		distance 2443.51
+		period 490.058
+		offset 214.482
+		object "Outpost Cek"
+			sprite planet/station4
+			distance 219.796
+			period 17.1525
+			offset 272.771
+
+system "Mil'taj Gek"
+	pos -2880.87 -2866.98
+	government Mil'taj
+	habitable 135
+	link "Mil'taj Fek"
+	link "Mil'taj Tek"
+	asteroids "small rock" 60 3.3075
+	asteroids "medium rock" 113 4.7187
+	asteroids "large rock" 19 5.0715
+	asteroids "small metal" 12 5.6448
+	asteroids "medium metal" 139 2.3814
+	asteroids "large metal" 19 6.0858
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/dust6
+		distance 125.24
+		period 48.2512
+	object
+		sprite planet/gas9
+		distance 848.49
+		period 850.87
+		object
+			sprite planet/miranda
+			distance 248
+			period 14.6443
+		object
+			sprite planet/oberon
+			distance 388
+			period 28.6575
+		object
+			sprite planet/rock17
+			distance 498
+			period 41.6711
+	object
+		sprite planet/gas17
+		distance 2030.1
+		period 3148.98
+		offset 9.96283
+		object
+			sprite planet/luna
+			distance 244
+			period 16.2839
+		object
+			sprite planet/dust3
+			distance 350
+			period 27.9753
+		object
+			sprite planet/rock0
+			distance 452
+			period 41.0564
+		object "Outpost Gek"
+			sprite planet/station2
+			distance 570.61
+			period 58.2348
+			offset 161.613
+
+system "Mil'taj Jek"
+	pos -2974.87 -2932.98
+	government Mil'taj
+	habitable 486.68
+	link "Mil'taj Mek"
+	asteroids "large rock" 1 7.5087
+	asteroids "medium metal" 1 10.3518
+	asteroids "large metal" 1 10.935
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert10
+		distance 290
+		period 89.5437
+		offset 76.495
+		object "Outpost Jek"
+			sprite planet/station4
+			distance 172
+			period 23.094
+			offset 332.305
+	object
+		sprite planet/titan
+		distance 661.41
+		period 308.421
+		offset 153.51
+	object
+		sprite planet/ice7
+		distance 873.25
+		period 467.893
+		offset 162.829
+	object
+		sprite planet/desert8
+		distance 1150.34
+		period 707.42
+		offset 235.207
+	object
+		sprite planet/uranus
+		distance 2328.34
+		period 2037.08
+		offset 34.5162
+		object
+			sprite planet/dust7
+			distance 233
+			period 15.1952
+
+system "Mil'taj Kek"
+	pos -2881.87 -2954.98
+	government Mil'taj
+	habitable 486.68
+	link "Mil'taj Fek"
+	asteroids "small rock" 33 5.7772
+	asteroids "medium rock" 65 3.0316
+	asteroids "large rock" 39 5.0336
+	asteroids "medium metal" 6 7.15
+	asteroids "large metal" 2 2.86
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert10
+		distance 257.76
+		period 75.0346
+		object
+			sprite planet/desert4
+			distance 146
+			period 18.0608
+	object
+		sprite planet/tethys
+		distance 666.05
+		period 311.673
+	object
+		sprite planet/dust6
+		distance 903.06
+		period 492.054
+	object
+		sprite planet/gas0
+		distance 1396.31
+		period 946.043
+		object
+			sprite planet/luna
+			distance 254
+			period 11.8633
+		object
+			sprite planet/io
+			distance 350
+			period 19.1893
+	object
+		sprite planet/gas14
+		distance 3192.85
+		period 3271.2
+		offset 313.238
+		object "Outpost Kek"
+			sprite planet/station2
+			distance 540.799
+			period 51.2168
+			offset 301.275
+
+system "Mil'taj Lek"
+	pos -2801.87 -2856.98
+	government Mil'taj
+	habitable 625
+	link "Mil'taj Fek"
+	link "Mil'taj Vek"
+	asteroids "large metal" 1 1.9965
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/titan
+		distance 180.84
+		period 38.91
+	object
+		sprite planet/ice4
+		distance 408.84
+		period 132.267
+	object
+		sprite planet/gas1
+		distance 1381
+		period 821.127
+		object
+			sprite planet/rhea
+			distance 257
+			period 16.467
+		object
+			sprite planet/callisto
+			distance 393
+			period 31.139
+		object
+			sprite planet/rock14
+			distance 564
+			period 53.5346
+	object
+		sprite planet/gas13
+		distance 3313.49
+		period 3051.75
+		offset 7.20457
+		object
+			sprite planet/desert4
+			distance 266
+			period 12.2471
+		object "Outpost Lek"
+			sprite planet/station3
+			distance 529.169
+			period 34.3639
+			offset 81.4657
+
+system "Mil'taj Nek"
+	pos -2855.87 -2728.98
+	government Mil'taj
+	habitable 233.28
+	link "Mil'taj Bek"
+	asteroids "medium rock" 3 8.2782
+	asteroids "large rock" 2 5.7834
+	asteroids "small metal" 8 6.237
+	asteroids "medium metal" 1 5.3865
+	asteroids "large metal" 4 4.3659
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/m4
+		period 10
+	object
+		sprite planet/tethys
+		distance 111.21
+		period 30.714
+	object
+		sprite planet/titan
+		distance 254.1
+		period 106.079
+	object
+		sprite planet/rock18
+		distance 434.31
+		period 237.04
+	object
+		sprite planet/rock10
+		distance 766.32
+		period 555.567
+		offset 188.212
+		object "Outpost Nek"
+			sprite planet/station1
+			distance 177
+			period 19.8187
+	object
+		sprite planet/gas15
+		distance 2599.41
+		period 3470.83
+		offset 16.3463
+		object
+			sprite planet/oberon
+			distance 221
+			period 17.2936
+		object
+			sprite planet/rock14
+			distance 326
+			period 30.983
+
+system "Mil'taj Rek"
+	pos -2772.87 -2799.98
+	government Mil'taj
+	habitable 625
+	link "Mil'taj Vek"
+	link "Mil'taj Hek"
+	asteroids "large metal" 1 2.5404
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/ice0
+		distance 184.25
+		period 40.0158
+	object
+		sprite planet/neptune
+		distance 761.89
+		period 336.479
+		object
+			sprite planet/miranda
+			distance 229
+			period 17.2657
+		object
+			sprite planet/rock3
+			distance 337
+			period 30.8232
+	object
+		sprite planet/rock14
+		distance 1566.78
+		period 992.275
+	object
+		sprite planet/gas2
+		distance 2239.08
+		period 1695.21
+		offset 72.0413
+		object
+			sprite planet/desert4
+			distance 173
+			period 13.7874
+		object "Outpost Rek"
+			sprite planet/station4
+			distance 318.41
+			period 34.4266
+			offset 125.508
+
+system "Mil'taj Sek"
+	pos -3064.87 -2902.98
+	government Mil'taj
+	habitable 486.68
+	link "Mil'taj Mek"
+	asteroids "large metal" 1 3.3306
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/gas11
+		distance 881.232
+		period 474.322
+		offset 199.365
+		object "Outpost Sek"
+			sprite planet/station1
+			distance 368.53
+			period 23.3339
+			offset 82.2917
+	object
+		sprite planet/cloud4
+		distance 1930.33
+		period 1537.75
+		offset 85.9602
+	object
+		sprite planet/miranda
+		distance 2589.19
+		period 2388.83
+		offset 157.915
+	object
+		sprite planet/gas15
+		distance 3529.8
+		period 3802.45
+		offset 60.3728
+
+system "Mil'taj Wek"
+	pos -2798 -2949.85
+	government Mil'taj
+	habitable 2372.76
+	link "Mil'taj Fek"
+	link "Mil'taj Dek"
+	link "Mil'taj Cek"
+	asteroids "small rock" 4 5.7681
+	asteroids "medium rock" 8 3.5496
+	asteroids "large rock" 5 6.9513
+	asteroids "large metal" 2 4.5356
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/f0
+		period 10
+	object
+		sprite planet/ice5
+		distance 309.25
+		period 44.6578
+		object
+			sprite planet/io
+			distance 154
+			period 18.9022
+	object
+		sprite planet/gas8
+		distance 684.5
+		period 147.06
+	object
+		sprite planet/gas10
+		distance 1186.75
+		period 335.716
+		object
+			sprite planet/dust4
+			distance 187
+			period 13.4605
+	object
+		sprite planet/dust1
+		distance 1926.83
+		period 694.544
+		offset 119.598
+		object "Outpost Wek"
+			sprite planet/station1
+			distance 208.819
+			period 90.5182
+			offset 64.0421
+
+system "Mil'taj Yek"
+	pos -2974 -2809.85
+	government Mil'taj
+	habitable 745.92
+	link "Mil'taj Tek"
+	link "Mil'taj Pek"
+	asteroids "small rock" 3 4.3554
+	asteroids "medium rock" 7 4.3911
+	asteroids "large rock" 4 4.6053
+	asteroids "medium metal" 2 3.7842
+	asteroids "large metal" 1 3.5343
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/k5
+		distance 39.468
+		period 12.924
+		offset 180
+	object
+		sprite star/m0
+		distance 52.532
+		period 12.924
+	object
+		sprite planet/gas16
+		distance 670.822
+		period 254.463
+		object
+			sprite planet/rock0
+			distance 181
+			period 12.8178
+		object
+			sprite planet/rhea
+			distance 336
+			period 32.4195
+		object
+			sprite planet/dust0
+			distance 461
+			period 52.1013
+	object
+		sprite planet/gas6
+		distance 2268.83
+		period 1582.77
+		offset 45.0581
+		object
+			sprite planet/ice7
+			distance 297
+			period 13.0737
+		object
+			sprite planet/dust7
+			distance 413
+			period 21.4383
+		object
+			sprite planet/dust3
+			distance 567
+			period 34.4857
+		object "Outpost Yek"
+			sprite planet/station6
+			distance 772
+			period 54.7887
+
+system "Mil'taj Zek"
+	pos -3055 -2789.85
+	government Mil'taj
+	habitable 1715
+	link "Mil'taj Pek"
+	asteroids "small rock" 63 3.15
+	asteroids "medium rock" 3 4.494
+	asteroids "large rock" 12 4.662
+	asteroids "medium metal" 5 2.142
+	asteroids "large metal" 2 5.082
+	fleet "Small Mil'taj" 4000
+	fleet "Large Mil'taj" 8000
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/cloud5
+		distance 261.84
+		period 40.9244
+	object
+		sprite planet/ice3
+		distance 643.09
+		period 157.52
+		object
+			sprite planet/miranda
+			distance 152
+			period 17.9207
+	object
+		sprite planet/gas5
+		distance 1517.25
+		period 570.839
+		offset 80.3907
+		object
+			sprite planet/rhea
+			distance 278
+			period 15.414
+		object "Outpost Zek"
+			sprite planet/station3
+			distance 391
+			period 25.7106
+	object
+		sprite planet/gas14
+		distance 2414.74
+		period 1146.13
+		offset 51.5508
+		object
+			sprite planet/dust7
+			distance 246
+			period 15.7131
+		object
+			sprite planet/lava0
+			distance 355
+			period 27.2396
+
+planet "Outpost Bek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Cek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Gek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Jek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Kek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Lek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Nek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Rek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Sek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Wek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
+
+planet "Outpost Yek"
+	landscape ""
+	description Blank
+	spaceport Blank
+
+planet "Outpost Zek"
+	landscape ""
+	description Blank
+	spaceport Blank
+	outfitter "Common Outfits"
