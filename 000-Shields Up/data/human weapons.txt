@@ -349,6 +349,7 @@ outfit "Grenade"  #Thanks, Michael Feather!
 	description "The ammunition used by the Grenade Launchers."
 
 outfit "Anti-Ship Battery"
+	plural "Anti-Ship Batteries"
     category "Secondary Weapons"
     cost 2000000
     thumbnail "outfit/asb"

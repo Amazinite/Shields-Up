@@ -1023,6 +1023,7 @@ ship "Hunter Drone"
 	description "An experimental missile drone, this is a modified Sparrow with a small AI mainframe inside. Although developed by Lionheart, they are very rarely seen in the Deep itself, but are rather popular in southern areas of space."
 
 ship "Aerie (Drone)"
+	plural "Aeries (Drone)"
 	sprite "ship/aerie"
 	attributes
 		category "Medium Warship"
@@ -1356,6 +1357,7 @@ ship "Capitalis Viatoris"
 	description "It was created after the need to defend humanity from aliens arose. With the proper connections, you, too, can have this one of a kind beast."
 	
 ship "Goose"  #Thanks, Michael Feather!
+	plural "Geese"
 	sprite "ship/goose"
 	attributes
 		category "Medium Warship"

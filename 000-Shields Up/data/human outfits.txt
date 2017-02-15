@@ -93,6 +93,7 @@ outfit "FTek Capacitor"
 	description "17% more effective than leading competitors!"
 
 outfit "FTek021 Rechargable Battery"
+	plural "FTek021 Rechargable Batteries"
 	category "Power"
 	cost 94000
 	thumbnail "outfit/ftek021 battery"
@@ -398,6 +399,7 @@ outfit "Developmental Lock"
 	mass 1
 	
 outfit "Ship Armory"
+	plural "Ship Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/armory"
 	cost 480000

@@ -138,6 +138,7 @@ ship "Albacore"
 
 ship "Gourami"
 	sprite "ship/gourami"
+	plural "Gouramie"
 	licenses
 		"Servorum"
 	attributes

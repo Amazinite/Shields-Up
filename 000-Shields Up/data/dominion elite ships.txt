@@ -56,6 +56,7 @@ ship "Stiletto"
 # ship "Gunong"
 
 ship "Kukri"
+	plural "Kukri"
 	sprite "ship/Kukri"
 	attributes
 		category "Medium Warship"

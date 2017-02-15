@@ -60,6 +60,7 @@ outfit "Mil'taj Cooling Cell"
 	description "The smallest Militaj cooling unit, designed for the smallest of their ships."
 	
 outfit "Mil'taj Condensed Battery"
+	plural "Mil'taj Condensed Batteries"
 	category "Power"
 	cost 2964000
 	thumbnail "outfit/small biochemical"
@@ -68,6 +69,7 @@ outfit "Mil'taj Condensed Battery"
 	"energy capacity" 22800
 	
 outfit "Mil'taj Curtana Battery"
+	plural "Mil'taj Curtana Batteries"
 	category "Power"
 	cost 1000000
 	thumbnail "outfit/small biochemical"

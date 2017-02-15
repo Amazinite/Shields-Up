@@ -9,6 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 ship "Erebus"
+	plural "Erebuses"
 	sprite "ship/Erebus"
 	attributes
 		category "Heavy Warship"

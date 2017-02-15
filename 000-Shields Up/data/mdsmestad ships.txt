@@ -116,6 +116,7 @@ ship "Bactrian T2"
 		"frame rate" 30
 		"rewind"
 		"delay" 85
+	plural "Bactrians T2"
 	licenses
 		"Deep Sky"
 	attributes
