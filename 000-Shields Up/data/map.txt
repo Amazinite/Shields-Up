@@ -40,7 +40,7 @@ system Agon
 
 system Algieba
 	pos -691 -52
-	government "Deep Sky"
+	government "Republic"
 	habitable 2695
 	link "Tania Australis"
 	link Alphard
@@ -4625,7 +4625,7 @@ system Yarg
 
 system Zorica
 	pos -709.56 -120.384
-	government "Deep Sky"
+	government "Republic"
 	habitable 2372.76
 	link Zosma
 	asteroids "medium rock" 7 4.275
@@ -5142,6 +5142,7 @@ planet Rodin
 	"required reputation" 2
 	bribe 0.5
 	security 0.8
+	government "Deep Sky"
 
 planet "Rubido Station"
 	attributes dominion
@@ -5232,3 +5233,50 @@ planet Ztewgf
 	bribe 0
 	security 0
 
+planet Memory
+	government "Deep Sky"
+	
+planet "Huginn Station"
+	government "Deep Sky"
+	
+planet "Nifel"
+	government "Deep Sky"
+	
+planet "Norn"
+	government "Deep Sky"
+	
+planet "Muspel"
+	government "Deep Sky"
+	
+planet "Valhalla"
+	government "Deep Sky"
+	
+planet "Mani"
+	government "Deep Sky"
+	
+planet "Fenrir Station"
+	government "Deep Sky"
+	
+planet "Bivrost"
+	government "Deep Sky"
+	
+planet "Windblain"
+	government "Deep Sky"
+	
+planet "Leviathan Station"
+	government "Deep Sky"
+	
+planet "Helheim"
+	government "Deep Sky"
+	
+planet "Asgard"
+	government "Deep Sky"
+	
+planet "Midgard"
+	government "Deep Sky"
+	
+planet "Phoenix Station"
+	government "Deep Sky"
+	
+planet "Alfheim"
+	government "Deep Sky"
