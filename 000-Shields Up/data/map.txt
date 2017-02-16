@@ -38,9 +38,45 @@ system Agon
 		distance 1000
 		period 300
 
+system Dubhe
+	government "Deep Sky"
+	
+system Gomeisa
+	government "Deep Sky"
+	
+system Adhara
+	government "Deep Sky"
+	
+system "Epsilon Leonis"
+	government "Deep Sky"
+	
+system Aspidiske
+	government "Deep Sky"
+	
+system Avior
+	government "Deep Sky"
+	
+system Markeb
+	government "Deep Sky"
+	
+system Regor
+	government "Deep Sky"
+	
+system Suhail
+	government "Deep Sky"
+	
+system Naos
+	government "Deep Sky"
+	
+system Aludra
+	government "Deep Sky"
+	
+system Wezen
+	government "Deep Sky"
+		
 system Algieba
 	pos -691 -52
-	government "Republic"
+	government "Deep Sky"
 	habitable 2695
 	link "Tania Australis"
 	link Alphard
@@ -4723,6 +4759,7 @@ system Zorica
 
 system Zosma
 	pos -640 -123
+	government "Deep Sky"
 	habitable 455.625
 	link Algieba
 	link Dubhe
@@ -5142,7 +5179,7 @@ planet Rodin
 	"required reputation" 2
 	bribe 0.5
 	security 0.8
-	government "Deep Sky"
+	government "Republic"
 
 planet "Rubido Station"
 	attributes dominion
@@ -5234,49 +5271,49 @@ planet Ztewgf
 	security 0
 
 planet Memory
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Huginn Station"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Nifel"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Norn"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Muspel"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Valhalla"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Mani"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Fenrir Station"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Bivrost"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Windblain"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Leviathan Station"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Helheim"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Asgard"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Midgard"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Phoenix Station"
-	government "Deep Sky"
+	government "Republic"
 	
 planet "Alfheim"
-	government "Deep Sky"
+	government "Republic"
