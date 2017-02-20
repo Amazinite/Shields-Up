@@ -35,7 +35,7 @@ mission "Strange Pug: First Contact"
 					goto planet
 			
 			`	Again, the robed Pug speak in unison.`
-			`	"During war, technology advances. You will learn, or may bave learned, that this is truth. During war is when we grow, so war is what we must do."`
+			`	"During war, technology advances. You will learn, or may have learned, that this is truth. During war is when we grow, so war is what we must do."`
 			
 			label planet
 			`	"It is pointless to fight here. Here we advance, up there is the war."`
