@@ -27,7 +27,7 @@ mission "Strange Pug: First Contact"
 			`	Again, the Pug begin speaking in unison.`
 			`	"We fight for power. We fight for advancement. War is the only way to advance. War is good."`
 			`	As the two robed Pug say "War is good," the rest of the Pug in the spaceport begin chanting it as well. The sound is almost deafening as they all chant, getting louder and louder.`
-			`	"War is good! War is good! War is good!"
+			`	"War is good! War is good! War is good!"`
 			`	Suddenly, they all stop chanting and the robed Pug stare at you as if waiting for you to say something.`
 			choice
 				`	"What do you mean by that?"`
