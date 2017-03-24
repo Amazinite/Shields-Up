@@ -14,8 +14,8 @@ mission "Servorum Dei: First Contact"
 	on offer
 		event "known by Servorum"
 		conversation
-			`The beings here appear to be human, but are slightly different in many ways. Their heads are slightly larger in size and they are taller than most humans that you know of. A group of them approaches you with some sort of weapon in their hands and aim them at you..`
-			`	"What are you doing here, human?" a distinctly female voice asks."`
+			`The beings here appear to be human, but are slightly different in a couple of ways. Their heads appear larger in size and they are taller than most humans that you know of, almost as if they had grown up on a low gravity world like Longjump, but the gravity here is very close to that of Earth, maybe only slightly stronger. A group of them approaches you with some sort of weapon in their hands and aim them at you.`
+			`	"What are you doing here, human?" a distinctly female voice asks.`
 			choice
 				`	"I come in peace."`
 					goto peace
@@ -29,7 +29,7 @@ mission "Servorum Dei: First Contact"
 					goto lowers
 			
 			label peace
-			`	"We've heard that one before."`
+			`	"We've heard that one before," a different voice says, quieter than the first, and is followed by a few laughs.`
 			
 			label lowers
 			`	The beings lower their weapons and the being that was talking comes out of the group to approach you. She holsters her weapon and shakes your hand.`
@@ -81,7 +81,7 @@ mission "Servorum Dei: Wisp"
 	source Kullat
 	
 	on enter "Agon"
-		dialog "As you jump into the system, you notice a strange wisp of purple gas orbiting the sun. Maybe the Servorum will tell you what this is."
+		dialog "As you jump into the system, you notice a strange wisp of purple gas orbiting the star. Maybe the Servorum will tell you what this is."
 	
 	on complete
 		conversation
@@ -94,7 +94,7 @@ mission "Servorum Dei: Wisp"
 			
 			`	"<first> <last>," you respond.`
 			`	"Afternoon, Captain <last>. Given that I know your name, it is only appropriate that you know mine." The woman gets up from her chair and walks over to shake your hand.`
-			`	"Hello, I am Delilah Sif, current prime minister of the Servorum Dei worlds. I believe I would be right to assume that you have a question to ask of me?"`
+			`	"Hello, I am Delilah Sif, current leader of the Servorum Dei worlds. I believe I would be right to assume that you have a question to ask of me?"`
 			`	You mention the purple wisp that you found in Agon and ask what it is.`
 			`	"Oh, yes. The wisp. There is a rather long story to that object, but given the time I have I'll have to give you the short version."`
 			`	"Back when we first left human space to colonize these worlds, that wisp was a wormhole. We expanded out to a cluster of systems in the southeast of the galaxy. Things were good early on, but then an alien race known as the Mil'taj came to our systems."`
