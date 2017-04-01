@@ -17,15 +17,6 @@ outfit "Soaker Missile Cap-Up"
 	"soaker capacity" 10
 	description "The Soaker Missile Capacity Upgrader will increase the amount of secondary ammo you can carry for your Soaker Missile Launcher."
 
-outfit "Grenade Cap-Up"
-	category "Ammunition"
-	cost 40000
-	thumbnail "outfit/grenade cap"
-	"mass" 2
-	"outfit space" -7
-	"grenade capacity" 25
-	description "The Grenade Capacity Upgrader will increase the amount of secondary ammo you can carry for your Grenade Launcher."
-
 outfit "Intelligent Rocket Cap-Up"
 	category "Ammunition"
 	cost 45000
@@ -34,15 +25,6 @@ outfit "Intelligent Rocket Cap-Up"
 	"outfit space" -5
 	"intelrock capacity" 10
 	description "The Intelligent Rocket Capacity Upgrader will increase the amount of secondary ammo you can carry for your Intelligent Rocket Launcher."
-
-outfit "Khorne Rocket Cap-Up"
-	category "Ammunition"
-	cost 87500
-	thumbnail "outfit/rocket cap"
-	"mass" 2
-	"outfit space" -7
-	"khorne capacity" 20
-	description "The Khorne Rocket Capacity Upgrader will increase the amount of secondary ammo you can carry for your Khorne Rocket Launcher."
 
 outfit "EMP Bomb Cap-Up"
 	category "Ammunition"

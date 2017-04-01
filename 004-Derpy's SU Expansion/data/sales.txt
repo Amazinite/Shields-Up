@@ -14,12 +14,6 @@ outfitter "Pirate Outfits"
 outfitter "Kraz Advanced"
 	"Soaker Missile Cap-Up"
 
-outfitter "Tyil Basics"
-	"Grenade Cap-Up"
-
-outfitter "Tyil Advanced"
-	"Grenade Cap-Up"
-
 outfitter "Lovelace Advanced"
 	"EMP Bomb Cap-Up"
 

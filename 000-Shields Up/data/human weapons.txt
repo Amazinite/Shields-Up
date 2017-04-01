@@ -133,54 +133,6 @@ outfit "FTek Homing Blaster"
 	description "What's the point of a blaster if you can't hit your target? If you find yourself lacking the ability to aim at a target correctly, boy does FTek have a product for you!"
 	description "Remember, FTek builds murder weapons, so you don't have to!™"
 	
-outfit "Turbo Laser Turret"
-	category "Turrets"
-	cost 660000
-	thumbnail "outfit/turbolaser turret"
-	"mass" 24
-	"outfit space" -24
-	"weapon capacity" -24
-	"turret mounts" -1
-	"required crew" 1
-	weapon
-		sprite "projectile/green turbolaser"
-			"random start frame"
-		sound "turbolaser"
-		"hit effect" "green impact"
-		"inaccuracy" 1
-		"velocity" 18
-		"lifetime" 60
-		"reload" 40
-		"firing energy" 212
-		"firing heat" 94
-		"shield damage" 167
-		"hull damage" 42
-	description "A heavy laser turret that deals large amounts of damage to ship hulls."
-	
-outfit "Light Turbo Laser Turret"
-	category "Turrets"
-	cost 375000
-	thumbnail "outfit/turbolaser turret"
-	"mass" 17
-	"outfit space" -17
-	"weapon capacity" -17
-	"turret mounts" -1
-	"required crew" 1
-	weapon
-		sprite "projectile/blue turbolaser"
-			"random start frame"
-		sound "turbolaser"
-		"hit effect" "blue impact"
-		"inaccuracy" 1
-		"velocity" 14
-		"lifetime" 55
-		"reload" 20
-		"firing energy" 89
-		"firing heat" 40
-		"shield damage" 52
-		"hull damage" 13
-	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
-
 outfit "Intelligent Rocket"
 	category "Ammunition"
 	cost 4000
@@ -304,49 +256,6 @@ outfit "Energy Chaingun"
 		"shield damage" 15
 		"hull damage" 10
 	description "Taking blaster technology to the next level, the Energy Chaingun is sure to mow down any ship unfortunate enough to get too close. The Energy Chaingun uses four overclocked blasters to fire an almost continuous stream of energy. Although, the amount of space and power required to weild such a weapon is difficult to achieve for many."
-		
-outfit "Grenade Launcher" #Thanks, Michael Feather!
-	category "Secondary Weapons"
-	cost 80000
-	thumbnail "outfit/grenadel"
-	"mass" 30
-	"outfit space" -35
-	"weapon capacity" -35
-	"gun ports" -1
-	"grenade capacity" 25
-	weapon
-		sprite "projectile/grenade"
-			"no repeat"
-			"frame rate" .0025
-		sound "torpedo"
-		ammo "Grenade"
-		icon "icon/typhoon"
-		"fire effect" "torpedo fire"
-		"hit effect" "big explosion"
-		"die effect" "tiny explosion"
-		"inaccuracy" 5
-		"velocity" 30
-		"lifetime" 150
-		"reload" 120
-		"firing energy" 10
-		"firing heat" 50
-		"acceleration" 0.001
-		"drag" .100
-		"shield damage" 1000
-		"hull damage" 467
-		"hit force" 200
-		"missile strength" 150
-		"trigger radius" 60
-		"blast radius" 100
-	description "After seeing so many different missile designs that all focused on firing swarms of weak homing projectiles, Tyil Corporation took inspiration from an archaeic design - grenades. Instead of making the shot home towards its target, grenades are meant to be fired mid-range, and let the effective radius work for you."
-	
-outfit "Grenade"  #Thanks, Michael Feather!
-	category "Ammunition"
-	cost 1000
-	thumbnail "outfit/grenade"
-	"grenade capacity" -1
-	mass .2
-	description "The ammunition used by the Grenade Launchers."
 
 outfit "Anti-Ship Battery"
 	plural "Anti-Ship Batteries"

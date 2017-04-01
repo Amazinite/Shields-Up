@@ -60,7 +60,14 @@ outfit "Expanded Map"
 	cost 10000
 	thumbnail "outfit/map"
 	"map" 36
-	description "A data chip containing a large amount of data on the nearby systems."
+	description "A data chip containing a three times the amount of data on nearby systems than normal maps."
+
+outfit "Sizeable Map"
+	category "Special"
+	cost 50000
+	thumbnail "outfit/map"
+	"map" 100
+	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
 
 outfit "FTek Jump Drive"
 	category "Systems"
@@ -170,16 +177,6 @@ outfit "Scrap Shield Generator"
 	"shield heat" 0.1
 	description "A few scraps put together to form a make-shift shield generator."
 	
-outfit "Star Destroyer Shield Generator"
-	category "Systems"
-	cost 500000
-	thumbnail "outfit/huge shield"
-	"mass" 30
-	"outfit space" -20
-	"shield generation" 2.5
-	"shield energy" 2.5
-	description "A shield generator for all your star destroying needs!"
-
 outfit "RCS10 Steering"
 	category "Engines"
 	"cost" 3000
@@ -263,13 +260,6 @@ outfit "Hervar Regenerator"
 	"heat generation" 4
     "shield energy" 1
 	description "A prototype shield regenerator originally developed by the Republic, the only working prototype of it was stolen by pirates, who then starting producing them. For their size, they produce exceptional shield generation, but still are only used by pirates who don't care about heat or power. They do, however, cost a lot of money."
-
-outfit "Sizeable Map"
-	category "Special"
-	cost 50000
-	thumbnail "outfit/map"
-	"map" 108
-	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
 
 outfit "Interference Hull"
 	category "Systems"
@@ -379,25 +369,6 @@ outfit "Navy Cloaking Device"
 	"cloaking energy" 3.5
 	description "An experimental Cloaking Device used by Navy Stealth Cruisers."
 
-outfit "Capital Identification"
-	category "Special"
-	cost 10
-	thumbnail "outfit/unknown"
-	"identification" 1
-	unplunderable 1
-	description "Identifies you ship as a capital in the ship registry."
-	
-outfit "Crew Raiser"
-	category "Special"
-	"required crew" 5
-	unplunderable 1
-	description "Makes your ship require more crew, thus making its defense better."
-	
-outfit "Developmental Lock"
-	category "Special"
-	cost 1
-	mass 1
-	
 outfit "Ship Armory"
 	plural "Ship Armories"
 	category "Hand to Hand"
@@ -466,21 +437,3 @@ outfit "Pillager Bolt-on Cockpit"
 	unplunderable 1
 	description "For the captain who needs more outfit space and does not particularily care about their mass and hull strength."
 	description "The Pillager Bolt-on Cockpit is a used Heavy Shuttle renovated and modified to be bolted onto a ship. Security systems installed make it so that it has less outfit space than the Heavy Shuttle itself."
-	
-outfit "MEGA Safety Unlock"
-    category "Systems"
-    cost 2500000
-    mass 50
-    "megaship capacity" 100
-    "safety unlock" 1
-	unplunderable 1
-    description "Megaships have their turret mounts and gun ports protected by a special safety code. To unlock it, a safety unlock has to be installed allowing one mega weapon per unlock."
-    
-outfit "MEGA Shield Module"
-    category "Systems"
-    cost 10000000
-    mass 100
-    "megaship capacity" 500
-    "shield generation" 45
-    "shield energy" 50
-    description "Megaships are the leader of the battlefield. As such they need adequate protection. A large amount of shield energy means that the megaship also requires a strong shield generator."

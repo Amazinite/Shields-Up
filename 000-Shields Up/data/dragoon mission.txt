@@ -12,7 +12,7 @@ mission "Dragoon Trigger"
 event "dragoon trigger"
 		
 mission "Dragoon Testing"
-	name "Warship Testing 2"
+	name "Meet with Lionheart"
 	landing
 	description "Travel to the Epsilon Leonis system and meet with the Lionheart liason."
 	destination "Valhalla"
@@ -42,7 +42,7 @@ mission "Dragoon Testing"
 			`	"I'm not allowed to tell you much, but the ship you'll be facing is located in the Aspidiske system.  Disable her, but don't destroy her or kill her crew.  When you're done, return back here for your payment."`
 			
 mission "Dragoon Testing 2"
-	name "Warship Testing 2"
+	name "Warship Testing"
 	description "Travel to the Aspidiske system and disable the ship that is waiting for you there, then return to Valhalla.  If you destroy the ship, you will fail the mission."
 	source Valhalla
 	waypoint Aspidiske

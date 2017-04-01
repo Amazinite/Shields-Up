@@ -152,3 +152,116 @@ ship "Switchblade"
 	explode "small explosion" 5
 	description "The Switchblade is a modified Dagger; its lasers have been swapped out for missile launchers, its power plant has been downgraded and its shield generator has been removed entirely."
 	description "	Although useful in combat in emergencies, its primary utility is the extra 15 tons of cargohold space it gives its fleet."
+
+outfit "Turbo Laser Turret"
+	category "Turrets"
+	cost 660000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 24
+	"outfit space" -24
+	"weapon capacity" -24
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/green turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "green impact"
+		"inaccuracy" 1
+		"velocity" 18
+		"lifetime" 60
+		"reload" 40
+		"firing energy" 212
+		"firing heat" 94
+		"shield damage" 167
+		"hull damage" 42
+	description "A heavy laser turret that deals large amounts of damage to ship hulls."
+	
+outfit "Light Turbo Laser Turret"
+	category "Turrets"
+	cost 375000
+	thumbnail "outfit/turbolaser turret"
+	"mass" 17
+	"outfit space" -17
+	"weapon capacity" -17
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/blue turbolaser"
+			"random start frame"
+		sound "turbolaser"
+		"hit effect" "blue impact"
+		"inaccuracy" 1
+		"velocity" 14
+		"lifetime" 55
+		"reload" 20
+		"firing energy" 89
+		"firing heat" 40
+		"shield damage" 52
+		"hull damage" 13
+	description "Unlike it's counterpart, this turret is more effective against shields, making the combination of both extremeley powerful."
+
+ship "Star Destroyer"
+	sprite "ship/kar ik vot 349"
+	attributes
+		category "Heavy Warship"
+		"cost" 8000000
+		"shields" 20000
+		"hull" 7000
+		"required crew" 50
+		"bunks" 370
+		"mass" 1600
+		"drag" 11
+		"heat dissipation" .65
+		"fuel capacity" 800
+		"cargo space" 60
+		"outfit space" 1000
+		"weapon capacity" 200
+		"engine capacity" 200
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Turbo Laser Turret" 3
+		"Light Turbo Laser Turret" 3
+		"Heavy Anti-Missile Turret"
+
+		"Fusion Reactor" 2
+		"LP288a Battery Pack" 3
+		"Liquid Helium Cooler" 2
+		"Catalytic Ramscoop"
+		"Star Destroyer Shield Generator" 2
+
+		"X4700 Ion Thruster"
+		"X5200 Ion Steering"
+		"Hyperdrive"
+
+	engine -39 112.5
+	engine 39 112.5
+	turret -41 44.5 "Turbo Laser Turret"
+	turret 41 44.5 "Light Turbo Laser Turret"
+	turret -46 57.5 "Light Turbo Laser Turret"
+	turret 46 57.5 "Turbo Laser Turret"
+	turret -51 71.5 "Turbo Laser Turret"
+	turret 51 71.5 "Light Turbo Laser Turret"
+	turret 0 25.5 "Heavy Anti-Missile Turret"
+	fighter 0 20
+	fighter 0 20
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "big explosion" 40
+	explode "huge explosion" 10
+	description "I'm sorry, do you actually need someone to tell you what this is?"
+
+outfit "Star Destroyer Shield Generator"
+	category "Systems"
+	cost 500000
+	thumbnail "outfit/huge shield"
+	"mass" 30
+	"outfit space" -20
+	"shield generation" 2.5
+	"shield energy" 2.5
+	description "A shield generator for all your star destroying needs!"

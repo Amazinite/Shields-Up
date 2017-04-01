@@ -73,76 +73,6 @@ system Aludra
 	
 system Wezen
 	government "Deep Sky"
-		
-system Algieba
-	pos -691 -52
-	government "Deep Sky"
-	habitable 2695
-	link "Tania Australis"
-	link Alphard
-	link Zosma
-	link Teshana
-	fleet "Small Deep" 1000
-	fleet "Large Deep" 2500
-
-system Aurum
-	pos -750.204 138.972
-	government Republic
-	habitable 1505.92
-	link Silicium
-	link Turais
-	link Gacrux
-	asteroids "small rock" 1 2.9393
-	asteroids "large rock" 1 2.717
-	asteroids "large metal" 1 2.7664
-	trade Clothing 315
-	trade Electronics 788
-	trade Equipment 654
-	trade Food 455
-	trade "Heavy Metals" 1071
-	trade Industrial 792
-	trade "Luxury Goods" 1427
-	trade Medical 567
-	trade Metal 313
-	trade Plastic 415
-	fleet "Small Southern Merchants" 1300
-	fleet "Large Southern Merchants" 2200
-	fleet "Small Southern Pirates" 3200
-	object
-		sprite star/g0
-		distance 27.7174
-		period 9.99996
-	object
-		sprite star/k5
-		distance 70.2826
-		period 9.99996
-		offset 180
-	object
-		sprite planet/fog0
-		distance 347.293
-		period 66.7118
-	object
-		sprite planet/cloud1
-		distance 651.903
-		period 171.567
-	object
-		sprite planet/water0
-		distance 891.543
-		period 274.392
-	object
-		sprite planet/rock15
-		distance 1787.95
-		period 779.279
-	object
-		sprite planet/gas3
-		distance 2246.59
-		period 1097.6
-		offset 42.5384
-		object "Aurum Station"
-			sprite planet/station5
-			distance 297
-			period 13.0737
-			offset 144.789
 
 system Bera
 	pos -541.892 704.228
@@ -521,13 +451,6 @@ system Flar
 			sprite planet/rhea
 			distance 538
 			period 41.1577
-
-system Gacrux
-	link "Cor Caroli"
-	link Muhlifain
-	link Turais
-	link Silicium
-	link Aurum
 
 system Gambit
 	pos 141.438 656.132
@@ -3483,63 +3406,6 @@ system "New Eden"
 			distance 223
 			period 17.5289
 
-system "New New Providence"
-	pos -816.176 -5.9298
-	government Pirate
-	habitable 1111.68
-	link Teshana
-	asteroids "large metal" 1 3.78
-	fleet "Small Southern Pirates" 2000
-	fleet "Large Southern Pirates" 4000
-	object
-		sprite star/g5
-		distance 49.0322
-		period 14.2199
-	object
-		sprite star/k0
-		distance 62.9678
-		period 14.2199
-		offset 180
-	object
-		sprite planet/gas16
-		distance 661.81
-		period 204.254
-		offset 209.771
-		object
-			sprite planet/dust4
-			distance 228
-			period 18.1217
-		object
-			sprite planet/europa
-			distance 346
-			period 33.8775
-	object "Dead Man's Refuge"
-		sprite planet/rock17
-		distance 1348.03
-		period 593.768
-		offset 182.334
-	object
-		sprite planet/gas7
-		distance 2336.73
-		period 1355.14
-		offset 44.6649
-		object
-			sprite planet/tethys
-			distance 234
-			period 12.7337
-		object
-			sprite planet/luna
-			distance 313
-			period 19.6991
-		object
-			sprite planet/dust5
-			distance 425
-			period 31.1684
-		object
-			sprite planet/lava0
-			distance 567
-			period 48.0292
-
 system Nyx
 	pos 16527.1 -28420
 	government Sentarians
@@ -4280,72 +4146,6 @@ system "Sanctum Adroit"
 			distance 229
 			period 11.4296
 
-system Silicium
-	pos -779.204 165.972
-	government Republic
-	habitable 368.28
-	link Aurum
-	link Gacrux
-	asteroids "large metal" 1 2.6741
-	trade Clothing 315
-	trade Electronics 788
-	trade Equipment 654
-	trade Food 455
-	trade "Heavy Metals" 1071
-	trade Industrial 792
-	trade "Luxury Goods" 1427
-	trade Medical 567
-	trade Metal 313
-	trade Plastic 415
-	fleet "Small Southern Merchants" 1700
-	fleet "Small Southern Pirates" 2400
-	fleet "Small Core Merchants" 3400
-	object
-		sprite star/m4
-		distance 39.956
-		period 23.7198
-	object
-		sprite star/m8
-		distance 69.044
-		period 23.7198
-		offset 180
-	object
-		sprite planet/rock19
-		distance 243.254
-		period 79.0789
-	object Tyil
-		sprite planet/ocean7
-		distance 453.014
-		period 200.973
-	object
-		sprite planet/desert8
-		distance 1206.1
-		period 873.068
-		object
-			sprite planet/dust4
-			distance 167
-			period 27.681
-	object
-		sprite planet/gas3
-		distance 2566.14
-		period 2709.52
-		object
-			sprite planet/luna
-			distance 295
-			period 12.9419
-		object
-			sprite planet/dust0
-			distance 375
-			period 18.5486
-		object
-			sprite planet/rock14
-			distance 488
-			period 27.5356
-		object
-			sprite planet/rhea
-			distance 666
-			period 43.9012
-
 system Svartal
 	pos 16751.9 -28560.6
 	government Erufiams
@@ -4398,56 +4198,6 @@ system Svartal
 			sprite planet/tethys
 			distance 209
 			period 15.9044
-
-system Teshana
-	pos -766.88 -39.1427
-	government Pirate
-	habitable 880
-	link "New New Providence"
-	link Algieba
-	asteroids "small rock" 2 1.5106
-	asteroids "medium rock" 7 2.7118
-	asteroids "large rock" 2 1.2376
-	asteroids "small metal" 7 2.2568
-	asteroids "medium metal" 16 0.91
-	asteroids "large metal" 2 2.639
-	object
-		sprite star/g0
-		period 10
-	object
-		sprite planet/rock16
-		distance 336.84
-		period 75.246
-		object
-			sprite planet/dust1
-			distance 154
-			period 26.0824
-	object Sanctus
-		sprite planet/desert8
-		distance 694.05
-		period 222.553
-	object
-		sprite planet/cloud3
-		distance 1366.61
-		period 614.915
-	object
-		sprite planet/gas16
-		distance 2400.17
-		period 1431.24
-		object
-			sprite planet/rock0
-			distance 202
-			period 15.1121
-		object
-			sprite planet/oberon
-			distance 326
-			period 30.983
-
-system Turais
-	link Gacrux
-	link "Delta Velorum"
-	link Algorel
-	link Aurum
 
 system Turnelar
 	pos 16655.9 -28471.4
@@ -4658,145 +4408,6 @@ system Yarg
 			sprite planet/desert4
 			distance 252
 			period 14.2309
-
-system Zorica
-	pos -709.56 -120.384
-	government "Republic"
-	habitable 2372.76
-	link Zosma
-	asteroids "medium rock" 7 4.275
-	asteroids "large rock" 5 2.223
-	asteroids "small metal" 83 2.8785
-	asteroids "medium metal" 49 1.539
-	asteroids "large metal" 13 3.5055
-	trade Clothing 260
-	trade Electronics 820
-	trade Equipment 620
-	trade Food 390
-	trade "Heavy Metals" 1100
-	trade Industrial 770
-	trade "Luxury Goods" 1250
-	trade Medical 730
-	trade Metal 410
-	trade Plastic 390
-	fleet "Small Deep" 800
-	fleet "Large Deep" 1600
-	fleet "Small Northern Pirates" 1700
-	fleet "Small Northern Merchants" 2000
-	fleet "Large Northern Merchants" 23000
-	object
-		sprite star/f0
-		period 10
-	object
-		sprite planet/lava6
-		distance 145
-		period 14.3379
-		offset 77.4729
-	object
-		sprite planet/io
-		distance 398.391
-		period 65.2976
-		offset 286.569
-	object Rodin
-		sprite planet/desert2
-		distance 955.638
-		period 242.59
-		offset 278.024
-		object
-			sprite planet/luna
-			distance 262.938
-			period 47.7536
-			offset 267.142
-	object
-		sprite planet/fog0
-		distance 2043.09
-		period 758.342
-		offset 25.6435
-		object
-			sprite planet/ice7
-			distance 318.931
-			period 42.0169
-			offset 118.005
-	object
-		sprite planet/gas5
-		distance 3350.49
-		period 1592.56
-		offset 191.902
-		object
-			sprite planet/europa
-			distance 229
-			period 11.5239
-		object Mojave
-			sprite planet/rock17
-			distance 347.467
-			period 21.5386
-			offset 339.154
-		object
-			sprite planet/ice0
-			distance 488.467
-			period 35.9005
-			offset 127.482
-	object
-		sprite planet/gas6
-		distance 5564.61
-		period 3408.68
-		offset 171.242
-		object
-			sprite planet/dust7
-			distance 411.662
-			period 21.3342
-			offset 274.954
-		object
-			sprite planet/dust0
-			distance 569.095
-			period 34.677
-			offset 48.6351
-		object
-			sprite planet/dust5
-			distance 760.818
-			period 53.6026
-			offset 126.528
-
-system Zosma
-	pos -640 -123
-	government "Deep Sky"
-	habitable 455.625
-	link Algieba
-	link Dubhe
-	link Alphard
-	link Gomeisa
-	link Zorica
-
-planet "Aurum Station"
-	attributes station tyil "dirt belt"
-	landscape land/station3
-	description `Aurum Station is a station that is still being constructed. You are required to wear oxygen gear so you will not suffocate.`
-	spaceport `The spaceport consists of five hangars each filled with Merchant ships delivering their cargo.`
-	outfitter "Ammo South"
-	"required reputation" 1
-	bribe 0.02
-	security 0.3
-	tribute 500
-		threshold 3000
-		fleet "Large Militia" 2
-
-planet "Dead Man's Refuge"
-	attributes pirate
-	landscape land/bwerner8
-	description `Long ago pirates came here to seek a place to hide from the prying eyes of the Republic. Since then, the planet has evolved into small pirate hub allowing easier passage from the southern parts of the galaxy to the northern parts of the galaxy.`
-	spaceport `Situated in a small town, your ship was parked one of the many landing pads just outside of town stretching across a single line, each with refuelers. The town was fairly simple, there were traders selling all kinds of wares, with bars lining the streets which were filled to the max with people walking in every direction.`
-	shipyard "Northern Pirates"
-	shipyard "Southern Pirates"
-	shipyard "FTek Basics"
-	outfitter "Basic Outfits"
-	outfitter "Basic Weapons"
-	outfitter "FTek Basics"
-	outfitter "Ammo North"
-	outfitter "Ammo South"
-	outfitter "Pirate Outfits"
-	"required reputation" 1
-	bribe 0.05
-	security 0
 
 planet Elora
 	attributes sentar
@@ -5082,10 +4693,6 @@ planet "Minas Tekel"
 	bribe 0.02
 	security 0.1
 
-planet Mojave
-	landscape land/bwerner8
-	description `A barren wasteland covered in a massive desert, the planetoid received it's name from an old Earth desert that was terraformed into farmland.`
-
 planet "Nelur Prime"
 	attributes nelur
 	landscape land/water8
@@ -5165,22 +4772,6 @@ planet "Quis Custodiat"
 	bribe 0.03
 	security 0.1
 
-planet Rodin
-	attributes deep
-	landscape land/forest2
-	description `A beautiful planet left primarily untouched by human hands. Owned by the Republic's military, the entire planet is off limits apart from only five square kilometers, a third of which is the planet's one and only spaceport, with lines of hangers filled with military grade ships and outfits, while the other two thirds are just open fields.`
-	spaceport `The spaceport is heavily guarded by ground personnel wielding highly complex laser rifles, cargo trucks carrying what seems to be giant suits drive past you in a steady stream heading for the main gates of the compound, followed closely by escort fighters. Security here is no joke.`
-	shipyard "Basic Ships"
-	shipyard "Lionheart Basics"
-	shipyard "Lionheart Advanced"
-	outfitter "Common Outfits"
-	outfitter "Basic Weapons"
-	outfitter "Deep Sky Basics"
-	"required reputation" 2
-	bribe 0.5
-	security 0.8
-	government "Republic"
-
 planet "Rubido Station"
 	attributes dominion
 	landscape land/station4
@@ -5195,14 +4786,6 @@ planet "Rubido Station"
 	"required reputation" 2
 	bribe 0.3
 	security 0.78
-
-planet Sanctus
-	attributes uninhabited
-	landscape land/desert7
-	description `An endless blanket of golden grass glistens from the light of its parent star. Sanctus is an undeveloped planet currently owned by the Deep Sky. Although fully colonizable, there have been no attempts at forming any sort of civilization most likely due to the large amount of pirate activity in this sector of the galaxy.`
-	"required reputation" 0
-	bribe 0
-	security 0
 
 planet Sentar
 	attributes sentar
@@ -5229,20 +4812,6 @@ planet "Stark Station"
 	"required reputation" 10
 	bribe 0
 	security 0.2
-
-planet Tyil
-	attributes tyil "dirt belt" research
-	landscape land/myrabella7
-	description `Tyil is the homeplanet of Tyil Corporation. Right now they are still developing technology and setting up base. You can, however, refuel.`
-	spaceport `The spaceport consists of few buildings accompanied by tents. There is a marketplace for the local merchants where, what would normally be insults, are used as a friendly way of greeting someone.`
-	outfitter "Common Outfits"
-	outfitter "Ammo South"
-	"required reputation" 1
-	bribe 0.02
-	security 0.6
-	tribute 700
-		threshold 3000
-		fleet "Large Militia" 5
 
 planet "Viglado Station"
 	attributes dominion
@@ -5316,4 +4885,7 @@ planet "Phoenix Station"
 	government "Republic"
 	
 planet "Alfheim"
+	government "Republic"
+
+planet "Haze"
 	government "Republic"

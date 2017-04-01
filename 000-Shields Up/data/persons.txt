@@ -82,52 +82,6 @@ person "Friendly Neighbour"
 		explode "medium explosion" 35
 		explode "big explosion" 45
 		explode "huge explosion" 30
-		
-		
-person "Direstorm"
-	government "shieldsup"
-	frequency 250
-	personality
-		surveillance
-	phrase
-		word
-			" "
-			" "
-			" "
-			" "
-	ship "Star Destroyer" "USS Dire Storm"
-		"never disabled"
-		outfits
-			"Turbo Laser Turret" 3
-			"Light Turbo Laser Turret" 3
-			"Heavy Anti-Missile Turret"
-			
-			"Fusion Reactor" 2
-			"LP288a Battery Pack" 3
-			"Liquid Helium Cooler" 2
-			"Catalytic Ramscoop"
-			"Star Destroyer Shield Generator" 2
-			
-			"X4700 Ion Thruster"
-			"X5200 Ion Steering"
-			"Hyperdrive"
-			
-		engine -39 112.5
-		engine 39 112.5
-		turret -41 44.5 "Turbo Laser Turret"
-		turret 41 44.5 "Light Turbo Laser Turret"
-		turret -46 57.5 "Light Turbo Laser Turret"
-		turret 46 57.5 "Turbo Laser Turret"
-		turret -51 71.5 "Turbo Laser Turret"
-		turret 51 71.5 "Light Turbo Laser Turret"
-		turret 0 25.5 "Heavy Anti-Missile Turret"
-		fighter 0 20
-		fighter 0 20
-		explode "tiny explosion" 20
-		explode "small explosion" 45
-		explode "medium explosion" 50
-		explode "big explosion" 40
-		explode "huge explosion" 10
 
 person "Alphean Boolean"
 	government "Alphean Boolean"
@@ -193,7 +147,7 @@ person "Alphean Boolean"
 		explode "small explosion" 55
 		explode "medium explosion" 60
 		explode "big explosion" 40
-		
+
 person "Takarada Kaneo"
 	government "Takarada Kaneo"
 	personality

@@ -77,8 +77,6 @@ outfitter "FTek Advanced"
 	"FTek Medium Shield System"
 	"FTek Large Shield System"
 	"FTek Huge Shield System"
-	"Light Turbo Laser Turret"
-	"Turbo Laser Turret"
 	
 outfitter "FTek Drive"
 	"FTek Jump Drive"
@@ -213,22 +211,7 @@ shipyard "Northern Pirates"
 	
 shipyard "Warmaker"
 	Kriegsmacher
-	
-shipyard "Tyil Basics"
-	Argosy
-	Clipper
-	"Star Barge"
-	"Heavy Shuttle"
-	"Therum"
-	Firebird
-	
-shipyard "Tyil Advanced"
-	"Goose"
-	"Falcon"
-	"Blackbird"
-	"Behemoth"
-	"Hauler III"
-	
+
 outfitter "Common Outfits"
 	"Sizeable Map"
 	"RCS15 Thruster"
