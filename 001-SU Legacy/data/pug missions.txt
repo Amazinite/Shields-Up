@@ -19,9 +19,9 @@ mission "Strange Pug: First Contact"
 			choice
 				`	"Why do you attack eachother?`
 					goto attack
-				`	"I mean no harm. I am simply exploring the galaxy with my Jump Drive."`
+				`	"I mean no harm. I am simply exploring the galaxy with my jump drive."`
 				
-			`	"Interesting human. Rare human. Enlightened human," the robed Pug say together. "You are one of the few who know more. and more we shall allow you to know.`
+			`	"Interesting human. Rare human. Enlightened human," the robed Pug say together. "You are one of the few who know more. and more we shall allow you to know."`
 			
 			label attack
 			`	Again, the Pug begin speaking in unison.`
