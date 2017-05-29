@@ -73,11 +73,11 @@ fleet "Large Syndicate"
 	variant 3
 		"Protector B"
 	variant 3
-		"Protector Fortress"
+		"Fortress"
 	variant 3
-		"Protector Fortress A"
+		"Fortress A"
 	variant 3
-		"Protector Fortress B"
+		"Fortress B"
 	variant 3
 		"Vanguard"
 	variant 3
@@ -85,13 +85,13 @@ fleet "Large Syndicate"
 	variant 3
 		"Vanguard A"
 	variant 3
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 3
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 	variant 3
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 	variant 3
-		"Vanguard Trailbreaker C"
+		"Trailbreaker C"
 	variant 3
 		"Splinter"
 		"Heavy Dart" 2
@@ -129,13 +129,13 @@ fleet "Large Syndicate"
 		"Protector B"
 		"Wasp" 3
 	variant 3
-		"Protector Fortress"
+		"Fortress"
 		"Heavy Dart C"
 	variant 3
-		"Protector Fortress A"
+		"Fortress A"
 		"Light Dart C"
 	variant 3
-		"Protector Fortress B"
+		"Fortress B"
 		"Quicksilver A" 2
 	variant 3
 		"Vanguard"
@@ -147,16 +147,16 @@ fleet "Large Syndicate"
 		"Vanguard A"
 		"Quicksilver" 2
 	variant 3
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 		"Wasp" 2
 	variant 3
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 		"Heavy Dart A"
 	variant 3
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 		"Light Dart A"
 	variant 3
-		"Vanguard Trailbreaker C"
+		"Trailbreaker C"
 		"Quicksilver (Mark II)"
 	variant 3
 		"Splinter (Laser)"

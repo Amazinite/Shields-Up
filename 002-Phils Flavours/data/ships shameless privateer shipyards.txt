@@ -1,20 +1,20 @@
 shipyard "Shameless Privateer Shipyard"
-	"The Rum Barrell"
-	"The Hidden Blade"
-	"The Dirty Cutlass"
-	"The Damned Executioner"
-	"The Deceitful Hangman"
-	"The Screams of the Insane"
-	"The Fearless Assassin"
-	"The Deceptive Lover"
-	"The Lightning in the Storm"
-	"The Lifted Purse"
-	"The Pilfered Keg"
-	"The Buried Chest"
-	"The Captain's Hoard"
-	"The Fifth Ace"
+	"Rum Barrell"
+	"Hidden Blade"
+	"Dirty Cutlass"
+	"Damned Executioner"
+	"Deceitful Hangman"
+	"Hellscream"
+	"Fearless Assassin"
+	"Deceptive Lover"
+	"Stormbolt"
+	"Lifted Purse"
+	"Pilfered Keg"
+	"Buried Chest"
+	"Captain's Hoard"
+	"Fifth Ace"
 
-ship "The Fifth Ace"
+ship "Fifth Ace"
 	sprite "ship/the fifth ace"
 	attributes
 		category Interceptor
@@ -53,7 +53,7 @@ ship "The Fifth Ace"
 	explode "small explosion" 15
 	description "You'll have a trick up your sleeve with one of these! A great small interceptor that has two light 360 degree turrets. One of the most versatile ships made by anyone, anywhere!"
 
-ship "The Lifted Purse"
+ship "Lifted Purse"
 	sprite "ship/the lifted purse"
 	attributes
 		category "Light Freighter"
@@ -94,7 +94,7 @@ ship "The Lifted Purse"
 	"final explode" "final explosion small"
 	description "Out little freighter! Just as popular now as when we first made them over 100 years ago. Slide in 80 tonnes of cargo and away you go!"
 
-ship "The Pilfered Keg"
+ship "Pilfered Keg"
 	sprite "ship/the pilfered keg"
 	attributes
 		category "Light Freighter"
@@ -138,7 +138,7 @@ ship "The Pilfered Keg"
 	"final explode" "final explosion small"
 	description "Another of our eternal designs. Whether it's trade or plunder you can put it all in the keg!"
 
-ship "The Buried Chest"
+ship "Buried Chest"
 	sprite "ship/the buried chest"
 	attributes
 		category "Light Freighter"
@@ -183,7 +183,7 @@ ship "The Buried Chest"
 	"final explode" "final explosion medium"
 	description "No need for treasure maps and caches of goods on distant planets! 165 tonnes of cargo space means you can take it with wherever you go."
 
-ship "The Captain's Hoard"
+ship "Captain's Hoard"
 	sprite "ship/the captains hoard"
 	attributes
 		category "Light Freighter"
@@ -233,7 +233,7 @@ ship "The Captain's Hoard"
 	"final explode" "final explosion medium"
 	description "Our biggest freighter! This beauty has the space to put in whatever you want and the firepower to make sure you keep it!"
 
-ship "The Lightning in the Storm"
+ship "Stormbolt"
 	sprite "ship/the lightning in the storm"
 	attributes
 		category "Medium Warship"
@@ -281,7 +281,7 @@ ship "The Lightning in the Storm"
 	"final explode" "final explosion medium"
 	description "One of the fastest medium warships made! Hunt down those interceptors or streak through a battle like a bolt of lightning. Two gunports, backed by two turrets and you've got the speed and agility so that no-one will be able to touch you."
 
-ship "The Deceptive Lover"
+ship "Deceptive Lover"
 	sprite "ship/the deceptive lover"
 	attributes
 		category "Medium Warship"
@@ -331,7 +331,7 @@ ship "The Deceptive Lover"
 	"final explode" "final explosion medium"
 	description "Aye! She looks pretty, but she's got a heart of stone and will put a knife your ribs when your not looking! One of our newer designs, it's got six long guns as well as plenty of shielding to take a hit!"
 
-ship "The Fearless Assassin"
+ship "Fearless Assassin"
 	sprite "ship/the fearless assassin"
 	attributes
 		category "Light Warship"
@@ -379,7 +379,7 @@ ship "The Fearless Assassin"
 	"final explode" "final explosion small"
 	description "Small, dark and lethal, this is the ninja of warships. 4 guns and a turret and the weapon space to use them however you want, you'll fear nothing with one of these beauties!"
 
-ship "The Screams of the Insane"
+ship "Hellscream"
 	sprite "ship/the screams of the insane"
 	attributes
 		category "Medium Warship"
@@ -432,7 +432,7 @@ ship "The Screams of the Insane"
 	"final explode" "final explosion medium"
 	description "In space no-one can hear you scream, but turn on the comms channel and you'll hear them screaming and going insane as you pump your four cannons and turrets into their hull! Our biggest medium warship and definitely the best!"
 
-ship "The Damned Executioner"
+ship "Damned Executioner"
 	sprite "ship/the damned executioner"
 	attributes
 		category "Medium Warship"
@@ -482,7 +482,7 @@ ship "The Damned Executioner"
 	"final explode" "final explosion medium"
 	description "Time to step up from an interceptor or light warship? Look no further, once the top of the range, now a budget classic, 'The Damned' has been using the same design for hundreds of years. Why? because it just works so well!"
 
-ship "The Deceitful Hangman"
+ship "Deceitful Hangman"
 	sprite "ship/the deceitful hangman"
 	attributes
 		category "Light Warship"
@@ -531,7 +531,7 @@ ship "The Deceitful Hangman"
 	"final explode" "final explosion small"
 	description "One of our most popular ships! 'The Deceitful' packs four guns, a turret and the capacity for a small boarding crew into a tiny space. Whether you're pirating or taking down the pirates this is the ship you need!"
 
-ship "The Rum Barrell"
+ship "Rum Barrell"
 	sprite "ship/the rum barrell"
 	attributes
 		category "Transport"
@@ -578,7 +578,7 @@ ship "The Rum Barrell"
 	"final explode" "final explosion small"
 	description "Another stalwart for well over a century. The rum barrell is great transport ship, especially for budget travellers. Amazingly reliable, cheap to repair and the long wings make it easy to fly within a planet's atmosphere."
 
-ship "The Hidden Blade"
+ship "Hidden Blade"
 	sprite "ship/the hidden blade"
 	attributes
 		category "Interceptor"
@@ -620,8 +620,8 @@ ship "The Hidden Blade"
 	explode "small explosion" 8
 	description "Small and dark, it lays waiting. Here's a definite step up from the sparrow for you, it features more shields, a stronger hull and even boasts an extra gun port."
 
-ship "The Dirty Cutlass"
-	plural "The Dirty Cutlasses"
+ship "Dirty Cutlass"
+	plural "Dirty Cutlasses"
 	sprite "ship/the dirty cutlass"
 	attributes
 		category "Interceptor"

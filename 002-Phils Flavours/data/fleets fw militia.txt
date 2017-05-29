@@ -176,13 +176,13 @@ fleet "Large Free Worlds"
 	variant 1
 		"Cebil C"
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 	variant 1
@@ -216,13 +216,13 @@ fleet "Large Free Worlds"
 	variant 1
 		"X2 Gunship C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 1
 		"Falcon"
 	variant 1
@@ -272,17 +272,17 @@ fleet "Large Free Worlds"
 		"Sparrow MKII B"
 		"Wren A"
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Hawk"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 		"Sparrow"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Fury"
 		"Fury (Gatling)"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 		"Black Hawk"
 		"Black Hawk C"
 	variant 1
@@ -321,10 +321,10 @@ fleet "Large Free Worlds"
 		"Black Hawk B"
 		"Black Hawk C"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 		"Sparrow A"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 		"Hawk"
 	variant 1
 		"Falcon"
@@ -562,13 +562,13 @@ fleet "Large Militia"
 	variant 1
 		"Cebil C"
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 	variant 1
@@ -602,13 +602,13 @@ fleet "Large Militia"
 	variant 1
 		"X2 Gunship C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 1
 		"Falcon"
 	variant 1
@@ -658,17 +658,17 @@ fleet "Large Militia"
 		"Sparrow MKII B"
 		"Wren A"
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Hawk"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 		"Sparrow"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Fury"
 		"Fury (Gatling)"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 		"Black Hawk"
 		"Black Hawk C"
 	variant 1
@@ -707,10 +707,10 @@ fleet "Large Militia"
 		"Black Hawk B"
 		"Black Hawk C"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 		"Sparrow A"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 		"Hawk"
 	variant 1
 		"Falcon"
@@ -769,8 +769,3 @@ fleet "Large Militia"
 		"Sparrow (Patrol)"
 		"Sparrow MKII C"
 		"Sparrow A"
-
-
-
-
-

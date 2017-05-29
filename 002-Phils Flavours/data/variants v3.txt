@@ -89,7 +89,7 @@ ship "Sparrow MKII" "Sparrow MKII C"
 		"Sidewinder Missile Launcher" 2
 		"nGVF-BI Integrated Fuel Cell"
 		"Integrated Chipmunk Engines"
-ship "The Hidden Blade" "The Hidden Blade A"
+ship "Hidden Blade" "Hidden Blade A"
 	outfits
 		"Hyperdrive"
 		"Chipmunk Plasma Thruster"
@@ -99,7 +99,7 @@ ship "The Hidden Blade" "The Hidden Blade A"
 		"nGVF-CC Fuel Cell"
 		"Short Range Heavy Laser" 3
 		"Assault Rifle ZX-411" 3
-ship "The Hidden Blade" "The Hidden Blade B"
+ship "Hidden Blade" "Hidden Blade B"
 	outfits
 		"Hyperdrive"
 		"Chipmunk Plasma Thruster"
@@ -110,7 +110,7 @@ ship "The Hidden Blade" "The Hidden Blade B"
 		"D14-RN Shield Generator"
 		"nGVF-CC Fuel Cell"
 		"Assault Rifle ZX-411" 3
-ship "The Hidden Blade" "The Hidden Blade C"
+ship "Hidden Blade" "Hidden Blade C"
 	outfits
 		"Hyperdrive"
 		"nGVF-CC Fuel Cell"
@@ -199,7 +199,7 @@ ship "Sparrow" "Sparrow A"
 		"nGVF-BI Integrated Fuel Cell"
 		"Integrated Chipmunk Engines"
 		"Short Range Heavy Laser" 2
-ship "The Dirty Cutlass" "The Dirty Cutlass A"
+ship "Dirty Cutlass" "Dirty Cutlass A"
 	outfits
 		"Hyperdrive"
 		"Laser Rifle" 5
@@ -209,7 +209,7 @@ ship "The Dirty Cutlass" "The Dirty Cutlass A"
 		"Sidewinder Missile Launcher" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
-ship "The Dirty Cutlass" "The Dirty Cutlass B"
+ship "Dirty Cutlass" "Dirty Cutlass B"
 	outfits
 		"Hyperdrive"
 		"Meteor Missile" 70
@@ -221,7 +221,7 @@ ship "The Dirty Cutlass" "The Dirty Cutlass B"
 		"Sidewinder Missile Launcher" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
-ship "The Dirty Cutlass" "The Dirty Cutlass C"
+ship "Dirty Cutlass" "Dirty Cutlass C"
 	outfits
 		"Hyperdrive"
 		"Small Radar Jammer"
@@ -230,7 +230,7 @@ ship "The Dirty Cutlass" "The Dirty Cutlass C"
 		"nGVF-CI Integrated Fuel Cell"
 		"Long Range Laser" 4
 		"Integrated Greyhound Engines"
-ship "The Fifth Ace" "The Fifth Ace A"
+ship "Fifth Ace" "Fifth Ace A"
 	outfits
 		"Hyperdrive"
 		"Supercapacitor"
@@ -239,7 +239,7 @@ ship "The Fifth Ace" "The Fifth Ace A"
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
-ship "The Fifth Ace" "The Fifth Ace B"
+ship "Fifth Ace" "Fifth Ace B"
 	outfits
 		"Hyperdrive"
 		"Supercapacitor" 2
@@ -248,7 +248,7 @@ ship "The Fifth Ace" "The Fifth Ace B"
 		"Short Range Heavy Laser Turret" 2
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
-ship "The Fifth Ace" "The Fifth Ace C"
+ship "Fifth Ace" "Fifth Ace C"
 	outfits
 		"Hyperdrive"
 		"D41-HY Shield Generator"
@@ -448,7 +448,7 @@ ship "Star Queen" "Star Queen C"
 		"Laser Rifle" 10
 		"Body Armor" 100
 		"Assault Rifle ZX-411" 10
-ship "The Rum Barrell" "The Rum Barrell A"
+ship "Rum Barrell" "Rum Barrell A"
 	outfits
 		"Hyperdrive"
 		"A255 Atomic Steering"
@@ -461,7 +461,7 @@ ship "The Rum Barrell" "The Rum Barrell A"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "The Rum Barrell" "The Rum Barrell B"
+ship "Rum Barrell" "Rum Barrell B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -474,7 +474,7 @@ ship "The Rum Barrell" "The Rum Barrell B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "The Rum Barrell" "The Rum Barrell C"
+ship "Rum Barrell" "Rum Barrell C"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -636,7 +636,7 @@ ship "Star Barge" "Star Barge A"
 		"LP036a Battery Pack"
 		"Modified Blaster Turret"
 		"Assault Rifle ZX-411" 5
-ship "The Lifted Purse" "The Lifted Purse A"
+ship "Lifted Purse" "Lifted Purse A"
 	outfits
 		"Hyperdrive"
 		"Small Radar Jammer" 2
@@ -645,7 +645,7 @@ ship "The Lifted Purse" "The Lifted Purse A"
 		"Integrated Greyhound Engines"
 		"Long Range Laser" 2
 		"Laser Rifle" 5
-ship "The Lifted Purse" "The Lifted Purse B"
+ship "Lifted Purse" "Lifted Purse B"
 	outfits
 		"Hyperdrive"
 		"D67-TM Shield Generator"
@@ -654,7 +654,7 @@ ship "The Lifted Purse" "The Lifted Purse B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
-ship "The Lifted Purse" "The Lifted Purse C"
+ship "Lifted Purse" "Lifted Purse C"
 	outfits
 		"Hyperdrive"
 		"Small Radar Jammer" 2
@@ -664,7 +664,7 @@ ship "The Lifted Purse" "The Lifted Purse C"
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
-ship "The Pilfered Keg" "The Pilfered Keg A"
+ship "Pilfered Keg" "Pilfered Keg A"
 	outfits
 		"Hyperdrive"
 		"A255 Atomic Steering"
@@ -676,7 +676,7 @@ ship "The Pilfered Keg" "The Pilfered Keg A"
 		"S3 Thermionic"
 		"Small Radar Jammer"
 		"Laser Rifle" 8
-ship "The Pilfered Keg" "The Pilfered Keg B"
+ship "Pilfered Keg" "Pilfered Keg B"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -685,7 +685,7 @@ ship "The Pilfered Keg" "The Pilfered Keg B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Particle Cannon Turret" 2
 		"Assault Rifle ZX-411" 8
-ship "The Pilfered Keg" "The Pilfered Keg C"
+ship "Pilfered Keg" "Pilfered Keg C"
 	outfits
 		"Hyperdrive"
 		"X3700 Ion Thruster"
@@ -696,7 +696,7 @@ ship "The Pilfered Keg" "The Pilfered Keg C"
 		"nGVF-CI Integrated Fuel Cell"
 		"Long Range Laser Turret"
 		"Laser Rifle" 8
-ship "The Buried Chest" "The Buried Chest A"
+ship "Buried Chest" "Buried Chest A"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -708,7 +708,7 @@ ship "The Buried Chest" "The Buried Chest A"
 		"Long Range Laser" 4
 		"Laser Rifle" 10
 		"Body Armor" 10
-ship "The Buried Chest" "The Buried Chest B"
+ship "Buried Chest" "Buried Chest B"
 	outfits
 		"Hyperdrive"
 		"A370 Atomic Thruster"
@@ -721,7 +721,7 @@ ship "The Buried Chest" "The Buried Chest B"
 		"LP072a Battery Pack"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 10
-ship "The Buried Chest" "The Buried Chest C"
+ship "Buried Chest" "Buried Chest C"
 	outfits
 		"Hyperdrive"
 		"X3700 Ion Thruster"
@@ -737,7 +737,7 @@ ship "The Buried Chest" "The Buried Chest C"
 		"Small Radar Jammer"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 10
-ship "The Captain's Hoard" "The Captain's Hoard A"
+ship "Captain's Hoard" "Captain's Hoard A"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -749,7 +749,7 @@ ship "The Captain's Hoard" "The Captain's Hoard A"
 		"Long Range Laser" 4
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 10
-ship "The Captain's Hoard" "The Captain's Hoard B"
+ship "Captain's Hoard" "Captain's Hoard B"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -763,7 +763,7 @@ ship "The Captain's Hoard" "The Captain's Hoard B"
 		"S3 Thermionic"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 10
-ship "The Captain's Hoard" "The Captain's Hoard C"
+ship "Captain's Hoard" "Captain's Hoard C"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -780,7 +780,7 @@ ship "The Captain's Hoard" "The Captain's Hoard C"
 		"NT-200 Nucleovoltaic"
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "10000X2 Super Freighter" "10000X2 Super Freighter A"
+ship "10000X2S Freight" "10000X2S Freight A"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -795,7 +795,7 @@ ship "10000X2 Super Freighter" "10000X2 Super Freighter A"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "10000X2 Super Freighter" "10000X2 Super Freighter B"
+ship "10000X2S Freight" "10000X2S Freight B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -809,7 +809,7 @@ ship "10000X2 Super Freighter" "10000X2 Super Freighter B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "8500X2 Super Freighter" "8500X2 Super Freighter A"
+ship "8500X2S Freight" "8500X2S Freight A"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -824,7 +824,7 @@ ship "8500X2 Super Freighter" "8500X2 Super Freighter A"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "8500X2 Super Freighter" "8500X2 Super Freighter B"
+ship "8500X2S Freight" "8500X2S Freight B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -838,7 +838,7 @@ ship "8500X2 Super Freighter" "8500X2 Super Freighter B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "8500X2 Super Freighter" "8500X2 Super Freighter C"
+ship "8500X2S Freight" "8500X2S Freight C"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -855,7 +855,7 @@ ship "8500X2 Super Freighter" "8500X2 Super Freighter C"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "7000X2 Super Freighter" "7000X2 Super Freighter A"
+ship "7000X2S Freight" "7000X2S Freight A"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -868,7 +868,7 @@ ship "7000X2 Super Freighter" "7000X2 Super Freighter A"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "7000X2 Super Freighter" "7000X2 Super Freighter B"
+ship "7000X2S Freight" "7000X2S Freight B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -881,7 +881,7 @@ ship "7000X2 Super Freighter" "7000X2 Super Freighter B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "7000X2 Super Freighter" "7000X2 Super Freighter C"
+ship "7000X2S Freight" "7000X2S Freight C"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -1365,7 +1365,7 @@ ship "Swooping Raven" "Swooping Raven C"
 		"Heavy Anti-Missile Turret"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 5
-ship "The Deceitful Hangman" "The Deceitful Hangman A"
+ship "Deceitful Hangman" "Deceitful Hangman A"
 	outfits
 		"Hyperdrive"
 		"A250 Atomic Thruster"
@@ -1378,7 +1378,7 @@ ship "The Deceitful Hangman" "The Deceitful Hangman A"
 		"Long Range Laser Turret"
 		"Long Range Laser" 4
 		"Laser Rifle" 10
-ship "The Deceitful Hangman" "The Deceitful Hangman B"
+ship "Deceitful Hangman" "Deceitful Hangman B"
 	outfits
 		"Hyperdrive"
 		"D41-HY Shield Generator"
@@ -1389,7 +1389,7 @@ ship "The Deceitful Hangman" "The Deceitful Hangman B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Laser Rifle" 6
 		"Assault Rifle ZX-411" 5
-ship "The Deceitful Hangman" "The Deceitful Hangman C"
+ship "Deceitful Hangman" "Deceitful Hangman C"
 	outfits
 		"Impala Plasma Thruster"
 		"Hyperdrive"
@@ -1405,7 +1405,7 @@ ship "The Deceitful Hangman" "The Deceitful Hangman C"
 		"LP072a Battery Pack"
 		"Small Radar Jammer"
 		"Body Armor" 10
-ship "The Fearless Assassin" "The Fearless Assassin A"
+ship "Fearless Assassin" "Fearless Assassin A"
 	outfits
 		"Hyperdrive"
 		"A250 Atomic Thruster"
@@ -1418,7 +1418,7 @@ ship "The Fearless Assassin" "The Fearless Assassin A"
 		"Particle Cannon Turret"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 5
-ship "The Fearless Assassin" "The Fearless Assassin B"
+ship "Fearless Assassin" "Fearless Assassin B"
 	outfits
 		"Hyperdrive"
 		"A250 Atomic Thruster"
@@ -1432,7 +1432,7 @@ ship "The Fearless Assassin" "The Fearless Assassin B"
 		"Small Radar Jammer" 2
 		"Tactical Military Outfit" 5
 		"Assault Rifle ZX-411" 10
-ship "The Fearless Assassin" "The Fearless Assassin C"
+ship "Fearless Assassin" "Fearless Assassin C"
 	outfits
 		"X1700 Ion Thruster"
 		"Greyhound Plasma Thruster"
@@ -1489,7 +1489,7 @@ ship "Junior Osprey" "Junior Osprey C"
 		"S3 Thermionic"
 		"LP036a Battery Pack"
 		"Laser Rifle" 15
-ship "4500X2 Armed Freight" "4500X2 Armed Freight A"
+ship "4500X2A Freight" "4500X2A Freight A"
 	outfits
 		"Hyperdrive"
 		"A370 Atomic Thruster"
@@ -1505,7 +1505,7 @@ ship "4500X2 Armed Freight" "4500X2 Armed Freight A"
 		"Laser Rifle" 15
 		"Tactical Military Outfit" 5
 		"Body Armor" 10
-ship "4500X2 Armed Freight" "4500X2 Armed Freight B"
+ship "4500X2A Freight" "4500X2A Freight B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -1519,7 +1519,7 @@ ship "4500X2 Armed Freight" "4500X2 Armed Freight B"
 		"D67-TM Shield Generator"
 		"Laser Rifle" 20
 		"Body Armor" 20
-ship "4500X2 Armed Freight" "4500X2 Armed Freight C"
+ship "4500X2A Freight" "4500X2A Freight C"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -1926,7 +1926,7 @@ ship "Splinter" "Splinter B"
 		"Body Armor" 5
 		"Particle Cannon Turret" 3
 		"Tactical Military Outfit" 5
-ship "The Damned Executioner" "The Damned Executioner A"
+ship "Damned Executioner" "Damned Executioner A"
 	outfits
 		"Hyperdrive"
 		"A375 Atomic Steering"
@@ -1940,7 +1940,7 @@ ship "The Damned Executioner" "The Damned Executioner A"
 		"Long Range Laser Turret"
 		"Assault Rifle ZX-411" 10
 		"Long Range Laser" 4
-ship "The Damned Executioner" "The Damned Executioner B"
+ship "Damned Executioner" "Damned Executioner B"
 	outfits
 		"Greyhound Plasma Thruster"
 		"Hyperdrive"
@@ -1952,7 +1952,7 @@ ship "The Damned Executioner" "The Damned Executioner B"
 		"Heavy Anti-Missile Turret"
 		"S3 Thermionic"
 		"Laser Rifle" 20
-ship "The Damned Executioner" "The Damned Executioner C"
+ship "Damned Executioner" "Damned Executioner C"
 	outfits
 		"Greyhound Plasma Thruster"
 		"Hyperdrive"
@@ -1968,7 +1968,7 @@ ship "The Damned Executioner" "The Damned Executioner C"
 		"Laser Rifle" 10
 		"Body Armor" 5
 		"Assault Rifle ZX-411" 5
-ship "The Deceptive Lover" "The Deceptive Lover A"
+ship "Deceptive Lover" "Deceptive Lover A"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -1983,7 +1983,7 @@ ship "The Deceptive Lover" "The Deceptive Lover A"
 		"Heavy Laser" 6
 		"Body Armor" 10
 		"Tactical Military Outfit" 5
-ship "The Deceptive Lover" "The Deceptive Lover B"
+ship "Deceptive Lover" "Deceptive Lover B"
 	outfits
 		"Hyperdrive"
 		"Greyhound Plasma Thruster"
@@ -1995,7 +1995,7 @@ ship "The Deceptive Lover" "The Deceptive Lover B"
 		"Fission Reactor"
 		"Proton Gun" 6
 		"Assault Rifle ZX-411" 15
-ship "The Deceptive Lover" "The Deceptive Lover C"
+ship "Deceptive Lover" "Deceptive Lover C"
 	outfits
 		"Hyperdrive"
 		"A255 Atomic Steering"
@@ -2014,7 +2014,7 @@ ship "The Deceptive Lover" "The Deceptive Lover C"
 		"Small Radar Jammer"
 		"Water Coolant System"
 		"Laser Rifle" 25
-ship "The Lightning in the Storm" "The Lightning in the Storm A"
+ship "Stormbolt" "Stormbolt A"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -2029,7 +2029,7 @@ ship "The Lightning in the Storm" "The Lightning in the Storm A"
 		"Sidewinder Missile Launcher" 2
 		"Particle Cannon Turret" 2
 		"Assault Rifle ZX-411" 10
-ship "The Lightning in the Storm" "The Lightning in the Storm B"
+ship "Stormbolt" "Stormbolt B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -2042,7 +2042,7 @@ ship "The Lightning in the Storm" "The Lightning in the Storm B"
 		"LP072a Battery Pack"
 		"Long Range Laser" 2
 		"Long Range Laser Turret" 2
-ship "The Lightning in the Storm" "The Lightning in the Storm C"
+ship "Stormbolt" "Stormbolt C"
 	outfits
 		"Hyperdrive"
 		"X1200 Ion Steering"
@@ -2055,7 +2055,7 @@ ship "The Lightning in the Storm" "The Lightning in the Storm C"
 		"Particle Cannon Turret" 2
 		"Laser Rifle" 10
 		"Body Armor" 5
-ship "The Screams of the Insane" "The Screams of the Insane A"
+ship "Hellscream" "Hellscream A"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -2073,7 +2073,7 @@ ship "The Screams of the Insane" "The Screams of the Insane A"
 		"Particle Cannon Turret" 2
 		"Tactical Military Outfit" 5
 		"Assault Rifle ZX-411" 10
-ship "The Screams of the Insane" "The Screams of the Insane B"
+ship "Hellscream" "Hellscream B"
 	outfits
 		"Hyperdrive"
 		"X1200 Ion Steering"
@@ -2090,7 +2090,7 @@ ship "The Screams of the Insane" "The Screams of the Insane B"
 		"Fission Reactor"
 		"Heavy Laser" 4
 		"Tactical Military Outfit" 10
-ship "The Screams of the Insane" "The Screams of the Insane C"
+ship "Hellscream" "Hellscream C"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -2332,7 +2332,7 @@ ship "Protector" "Protector B"
 		"Long Range Laser Turret" 5
 		"Body Armor" 20
 		"Assault Rifle ZX-411" 20
-ship "Protector Fortress" "Protector Fortress A"
+ship "Fortress" "Fortress A"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -2350,7 +2350,7 @@ ship "Protector Fortress" "Protector Fortress A"
 		"Body Armor" 20
 		"Assault Rifle ZX-411" 40
 		"Particle Cannon Turret" 10
-ship "Protector Fortress" "Protector Fortress B"
+ship "Fortress" "Fortress B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Steering"
@@ -2388,7 +2388,7 @@ ship "Vanguard" "Vanguard A"
 		"Body Armor" 10
 		"Long Range Laser" 7
 		"Assault Rifle ZX-411" 10
-ship "X2 Gunship (Engines)" "X2 Gunship (Engines) A"
+ship "X2E Gunship" "X2E Gunship A"
 	outfits
 		"Hyperdrive"
 		"Orca Plasma Thruster"
@@ -2402,7 +2402,7 @@ ship "X2 Gunship (Engines)" "X2 Gunship (Engines) A"
 		"Body Armor" 20
 		"Long Range Laser" 6
 		"Long Range Laser Turret" 3
-ship "X2 Gunship (Engines)" "X2 Gunship (Engines) B"
+ship "X2E Gunship" "X2E Gunship B"
 	outfits
 		"Hyperdrive"
 		"Orca Plasma Thruster"
@@ -2417,7 +2417,7 @@ ship "X2 Gunship (Engines)" "X2 Gunship (Engines) B"
 		"Laser Turret" 2
 		"Plasma Cannon" 6
 		"Assault Rifle ZX-411" 20
-ship "X2 Gunship (Engines)" "X2 Gunship (Engines) C"
+ship "X2E Gunship" "X2E Gunship C"
 	outfits
 		"Hyperdrive"
 		"A520 Atomic Thruster"
@@ -2434,7 +2434,7 @@ ship "X2 Gunship (Engines)" "X2 Gunship (Engines) C"
 		"Tactical Military Outfit" 5
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 15
-ship "The Silver Star" "The Silver Star A"
+ship "Silver Star" "Silver Star A"
 	outfits
 		"Hyperdrive"
 		"X3700 Ion Thruster"
@@ -2449,7 +2449,7 @@ ship "The Silver Star" "The Silver Star A"
 		"Long Range Laser" 4
 		"Assault Rifle ZX-411" 20
 		"Long Range Laser Turret" 6
-ship "The Silver Star" "The Silver Star B"
+ship "Silver Star" "Silver Star B"
 	outfits
 		"Hyperdrive"
 		"A370 Atomic Thruster"
@@ -2466,7 +2466,7 @@ ship "The Silver Star" "The Silver Star B"
 		"Assault Rifle ZX-411" 10
 		"Tactical Military Outfit" 10
 		"Particle Cannon Turret" 6
-ship "The Silver Star" "The Silver Star C"
+ship "Silver Star" "Silver Star C"
 	outfits
 		"Hyperdrive"
 		"Chipmunk Plasma Thruster"
@@ -2610,7 +2610,7 @@ ship "4500X2 gunship" "4500X2 gunship C"
 		"Tactical Military Outfit" 10
 		"Body Armor" 10
 		"Long Range Laser Turret" 2
-ship "The Black Star" "The Black Star A"
+ship "Black Star" "Black Star A"
 	outfits
 		"LP144a Battery Pack"
 		"Heavy Laser Turret" 4
@@ -2625,7 +2625,7 @@ ship "The Black Star" "The Black Star A"
 		"Fission Reactor"
 		"Assault Rifle ZX-411" 20
 		"Tactical Military Outfit" 5
-ship "The Black Star" "The Black Star B"
+ship "Black Star" "Black Star B"
 	outfits
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
@@ -2642,7 +2642,7 @@ ship "The Black Star" "The Black Star B"
 		"Particle Cannon Turret" 3
 		"Assault Rifle ZX-411" 10
 		"Tactical Military Outfit" 5
-ship "The Black Star" "The Black Star C"
+ship "Black Star" "Black Star C"
 	outfits
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"

@@ -14,8 +14,8 @@ shipyard "Syndicate Basics"
 	"Arrowhead"
 
 shipyard "Syndicate Advanced"
-	"Protector Fortress"
-	"Vanguard Trailbreaker"
+	"Fortress"
+	"Trailbreaker"
 
 shipyard "Betelgeuse Basics"
 	"Dark Berserker"
@@ -452,7 +452,7 @@ ship "Star Princess"
 	"final explode" "final explosion small"
 	description `The Star Princess is the predecessor to the Star Queen. Less opulent in its fittings, it is popular for long range transport as well as for budget and mid price tours.`
 
-ship "Vanguard Trailbreaker"
+ship "Trailbreaker"
 	sprite ship/trailbreaker
 	attributes
 		category "Heavy Warship"
@@ -507,8 +507,8 @@ ship "Vanguard Trailbreaker"
 	"final explode" "final explosion large"
 	description "The 'Trailbreaker' is designed to be either a flagship or to be strong enough to work on its own. The significantly increased shields and hull are also enhanced by an extra gun and turret mount."
 
-ship "Protector Fortress"
-	plural "Protector Fortresses"
+ship "Fortress"
+	plural "Fortresses"
 	sprite "ship/protector fortress"
 	attributes
 		category "Heavy Warship"

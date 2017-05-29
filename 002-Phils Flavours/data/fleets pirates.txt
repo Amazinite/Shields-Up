@@ -19,13 +19,13 @@ fleet "pirate raid"
 		"Aerie C"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Bastion"
 	variant 1
@@ -113,37 +113,37 @@ fleet "pirate raid"
 	variant 1
 		"Silver Protector C"
 	variant 1
-		"The Damned Executioner"
+		"Damned Executioner"
 	variant 1
-		"The Damned Executioner A"
+		"Damned Executioner A"
 	variant 1
-		"The Damned Executioner B"
+		"Damned Executioner B"
 	variant 1
-		"The Damned Executioner C"
+		"Damned Executioner C"
 	variant 1
-		"The Lightning in the Storm"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm A"
+		"Stormbolt A"
 	variant 1
-		"The Lightning in the Storm B"
+		"Stormbolt B"
 	variant 1
-		"The Lightning in the Storm C"
+		"Stormbolt C"
 	variant 1
-		"The Deceptive Lover"
+		"Deceptive Lover"
 	variant 1
-		"The Deceptive Lover A"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover B"
+		"Deceptive Lover B"
 	variant 1
-		"The Deceptive Lover C"
+		"Deceptive Lover C"
 	variant 1
-		"The Screams of the Insane"
+		"Hellscream"
 	variant 1
-		"The Screams of the Insane A"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane B"
+		"Hellscream B"
 	variant 1
-		"The Screams of the Insane C"
+		"Hellscream C"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -241,21 +241,21 @@ fleet "pirate raid"
 	variant 1
 		"Modified Argosy (Missile)"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 	variant 2
 		"Berserker" 3
 	variant 2
@@ -394,45 +394,45 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Wren C"
 	variant 1
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 1
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 1
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 1
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 1
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 1
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 	variant 1
 		"Balau"
 	variant 1
@@ -564,41 +564,41 @@ fleet "Small Southern Pirates"
 		"Wren C"
 		"Wren B"
 	variant 1
-		"The Dirty Cutlass"
-		"The Hidden Blade C"
+		"Dirty Cutlass"
+		"Hidden Blade C"
 	variant 1
-		"The Dirty Cutlass A"
-		"The Dirty Cutlass"
+		"Dirty Cutlass A"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass B"
-		"The Dirty Cutlass A"
+		"Dirty Cutlass B"
+		"Dirty Cutlass A"
 	variant 1
-		"The Dirty Cutlass C"
-		"The Dirty Cutlass B"
+		"Dirty Cutlass C"
+		"Dirty Cutlass B"
 	variant 1
-		"The Fifth Ace"
-		"The Dirty Cutlass C"
+		"Fifth Ace"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace A"
-		"The Fifth Ace"
+		"Fifth Ace A"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace B"
-		"The Fifth Ace A"
+		"Fifth Ace B"
+		"Fifth Ace A"
 	variant 1
-		"The Fifth Ace C"
-		"The Fifth Ace B"
+		"Fifth Ace C"
+		"Fifth Ace B"
 	variant 1
-		"The Hidden Blade"
-		"The Fifth Ace C"
+		"Hidden Blade"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade A"
-		"The Hidden Blade"
+		"Hidden Blade A"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade B"
-		"The Hidden Blade A"
+		"Hidden Blade B"
+		"Hidden Blade A"
 	variant 1
-		"The Hidden Blade C"
-		"The Hidden Blade B"
+		"Hidden Blade C"
+		"Hidden Blade B"
 	variant 1
 		"Hawk"
 		"Hawk (Rocket)"
@@ -696,53 +696,53 @@ fleet "Small Southern Pirates"
 		"Elepaio"
 		"Elepaio A"
 	variant 1
-		"The Dirty Cutlass"
-		"The Dirty Cutlass A"
-		"The Dirty Cutlass B"
+		"Dirty Cutlass"
+		"Dirty Cutlass A"
+		"Dirty Cutlass B"
 	variant 1
-		"The Dirty Cutlass A"
-		"The Dirty Cutlass B"
-		"The Dirty Cutlass C"
+		"Dirty Cutlass A"
+		"Dirty Cutlass B"
+		"Dirty Cutlass C"
 	variant 1
-		"The Dirty Cutlass B"
-		"The Dirty Cutlass C"
-		"The Fifth Ace"
+		"Dirty Cutlass B"
+		"Dirty Cutlass C"
+		"Fifth Ace"
 	variant 1
-		"The Dirty Cutlass C"
-		"The Fifth Ace"
-		"The Fifth Ace A"
+		"Dirty Cutlass C"
+		"Fifth Ace"
+		"Fifth Ace A"
 	variant 1
-		"The Fifth Ace"
-		"The Fifth Ace A"
-		"The Fifth Ace B"
+		"Fifth Ace"
+		"Fifth Ace A"
+		"Fifth Ace B"
 	variant 1
-		"The Fifth Ace A"
-		"The Fifth Ace B"
-		"The Fifth Ace C"
+		"Fifth Ace A"
+		"Fifth Ace B"
+		"Fifth Ace C"
 	variant 1
-		"The Fifth Ace B"
-		"The Fifth Ace C"
-		"The Hidden Blade"
+		"Fifth Ace B"
+		"Fifth Ace C"
+		"Hidden Blade"
 	variant 1
-		"The Fifth Ace C"
-		"The Hidden Blade"
-		"The Hidden Blade A"
+		"Fifth Ace C"
+		"Hidden Blade"
+		"Hidden Blade A"
 	variant 1
-		"The Hidden Blade"
-		"The Hidden Blade A"
-		"The Hidden Blade B"
+		"Hidden Blade"
+		"Hidden Blade A"
+		"Hidden Blade B"
 	variant 1
-		"The Hidden Blade A"
-		"The Hidden Blade B"
-		"The Hidden Blade C"
+		"Hidden Blade A"
+		"Hidden Blade B"
+		"Hidden Blade C"
 	variant 1
-		"The Hidden Blade B"
-		"The Hidden Blade C"
-		"The Dirty Cutlass"
+		"Hidden Blade B"
+		"Hidden Blade C"
+		"Dirty Cutlass"
 	variant 1
-		"The Hidden Blade C"
-		"The Dirty Cutlass"
-		"The Dirty Cutlass A"
+		"Hidden Blade C"
+		"Dirty Cutlass"
+		"Dirty Cutlass A"
 
 fleet "Large Southern Pirates"
 	government "Pirate"
@@ -791,29 +791,29 @@ fleet "Large Southern Pirates"
 	variant 1
 		"X2 Gunship C"
 	variant 2
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 2
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 3
-		"The Black Star"
+		"Black Star"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 3
-		"The Silver Star A"
+		"Silver Star A"
 	variant 2
-		"The Silver Star B"
+		"Silver Star B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 2
 		"Silver Defender"
 	variant 2
@@ -823,13 +823,13 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Silver Defender C"
 	variant 3
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 2
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 2
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 2
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 3
 		"Bastion"
 	variant 2
@@ -879,49 +879,49 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Silver Protector C"
 	variant 3
-		"The Damned Executioner"
+		"Damned Executioner"
 	variant 2
-		"The Damned Executioner A"
+		"Damned Executioner A"
 	variant 1
-		"The Damned Executioner B"
+		"Damned Executioner B"
 	variant 1
-		"The Damned Executioner C"
+		"Damned Executioner C"
 	variant 3
-		"The Lightning in the Storm"
+		"Stormbolt"
 	variant 2
-		"The Lightning in the Storm A"
+		"Stormbolt A"
 	variant 1
-		"The Lightning in the Storm B"
+		"Stormbolt B"
 	variant 1
-		"The Lightning in the Storm C"
+		"Stormbolt C"
 	variant 3
-		"The Deceptive Lover"
+		"Deceptive Lover"
 	variant 2
-		"The Deceptive Lover A"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover B"
+		"Deceptive Lover B"
 	variant 1
-		"The Deceptive Lover C"
+		"Deceptive Lover C"
 	variant 3
-		"The Screams of the Insane"
+		"Hellscream"
 	variant 2
-		"The Screams of the Insane A"
+		"Hellscream A"
 	variant 2
-		"The Screams of the Insane B"
+		"Hellscream B"
 	variant 2
-		"The Screams of the Insane C"
+		"Hellscream C"
 	variant 1
-		"The Deceitful Hangman"
-		"The Fearless Assassin"
+		"Deceitful Hangman"
+		"Fearless Assassin"
 	variant 1
-		"The Deceitful Hangman A"
-		"The Fearless Assassin A"
+		"Deceitful Hangman A"
+		"Fearless Assassin A"
 	variant 1
-		"The Deceitful Hangman B"
-		"The Fearless Assassin B"
+		"Deceitful Hangman B"
+		"Fearless Assassin B"
 	variant 1
-		"The Deceitful Hangman C"
-		"The Fearless Assassin C"
+		"Deceitful Hangman C"
+		"Fearless Assassin C"
 	variant 3
 		"Junior Osprey"
 		"Junior Osprey B"
@@ -949,181 +949,181 @@ fleet "Large Southern Pirates"
 		"Modified Argosy (Missile)"
 		"Argosy (Turret)"
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Dirty Cutlass"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Dirty Cutlass A"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Dirty Cutlass B"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Dirty Cutlass B"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Dirty Cutlass C"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Dirty Cutlass C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Fifth Ace"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Fifth Ace"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace A"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fifth Ace A"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fifth Ace B"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fifth Ace B"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Fifth Ace C"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Fifth Ace C"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Hidden Blade"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Hidden Blade"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Hidden Blade A"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Hidden Blade A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Hidden Blade B"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Hidden Blade B"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Hidden Blade C"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Hidden Blade C"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Fifth Ace B"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Fifth Ace B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace C"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fifth Ace C"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Hidden Blade"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Hidden Blade"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Hidden Blade A"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Hidden Blade A"
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Damned Executioner"
-		"The Damned Executioner C"
+		"Damned Executioner"
+		"Damned Executioner C"
 	variant 1
-		"The Damned Executioner A"
-		"The Lightning in the Storm C"
+		"Damned Executioner A"
+		"Stormbolt C"
 	variant 1
-		"The Damned Executioner B"
-		"The Deceptive Lover C"
+		"Damned Executioner B"
+		"Deceptive Lover C"
 	variant 1
-		"The Damned Executioner C"
-		"The Screams of the Insane C"
+		"Damned Executioner C"
+		"Hellscream C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Damned Executioner"
+		"Stormbolt"
+		"Damned Executioner"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Lightning in the Storm"
+		"Stormbolt A"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Deceptive Lover"
+		"Stormbolt B"
+		"Deceptive Lover"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Screams of the Insane"
+		"Stormbolt C"
+		"Hellscream"
 	variant 1
-		"The Deceptive Lover"
-		"The Damned Executioner A"
+		"Deceptive Lover"
+		"Damned Executioner A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Lightning in the Storm A"
+		"Deceptive Lover A"
+		"Stormbolt A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Deceptive Lover A"
+		"Deceptive Lover B"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Screams of the Insane A"
+		"Deceptive Lover C"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane"
-		"The Damned Executioner B"
+		"Hellscream"
+		"Damned Executioner B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Lightning in the Storm B"
+		"Hellscream A"
+		"Stormbolt B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Deceptive Lover B"
+		"Hellscream B"
+		"Deceptive Lover B"
 	variant 1
-		"The Screams of the Insane C"
-		"The Screams of the Insane B"
+		"Hellscream C"
+		"Hellscream B"
 	variant 1
 		"Silver Defender"
 		"Silver Protector"
@@ -1153,7 +1153,7 @@ fleet "Large Southern Pirates"
 		"Silver Escort B"
 		"Silver Escort C"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 		"Silver Escort C"
 		"Silver Escort"
 	variant 1
@@ -1165,24 +1165,24 @@ fleet "Large Southern Pirates"
 		"Silver Protector B"
 		"Silver Protector A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 		"Silver Protector B"
 		"Silver Escort C"
 	variant 2
-		"The Black Star"
-		"The Black Star A"
+		"Black Star"
+		"Black Star A"
 	variant 2
-		"The Silver Star A"
-		"The Black Star"
+		"Silver Star A"
+		"Black Star"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 		"Silver Escort A"
 		"Silver Escort B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 		"Silver Escort C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 		"Silver Protector C"
 	variant 1
 		"Gidgee"
@@ -1269,11 +1269,11 @@ fleet "Large Southern Pirates"
 		"Balau A"
 		"Balau"
 	variant 1
-		"4500X2 gunship"
-		"4500X2 gunship B"
+		"4500X2 Gunship"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship A"
-		"4500X2 gunship C"
+		"4500X2 Gunship A"
+		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 		"Quebracho B"
@@ -1374,37 +1374,37 @@ fleet "Large Southern Pirates"
 		"Argosy (Turret)"
 		"Hawk"
 	variant 1
-		"The Deceitful Hangman"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 1
-		"The Deceitful Hangman A"
-		"The Dirty Cutlass A"
-		"The Hidden Blade A"
+		"Deceitful Hangman A"
+		"Dirty Cutlass A"
+		"Hidden Blade A"
 	variant 1
-		"The Deceitful Hangman B"
-		"The Dirty Cutlass B"
-		"The Hidden Blade B"
+		"Deceitful Hangman B"
+		"Dirty Cutlass B"
+		"Hidden Blade B"
 	variant 1
-		"The Deceitful Hangman C"
-		"The Dirty Cutlass C"
-		"The Hidden Blade C"
+		"Deceitful Hangman C"
+		"Dirty Cutlass C"
+		"Hidden Blade C"
 	variant 1
-		"The Fearless Assassin"
-		"The Fifth Ace"
-		"The Fifth Ace B"
+		"Fearless Assassin"
+		"Fifth Ace"
+		"Fifth Ace B"
 	variant 1
-		"The Fearless Assassin A"
-		"The Fifth Ace A"
-		"The Fifth Ace C"
+		"Fearless Assassin A"
+		"Fifth Ace A"
+		"Fifth Ace C"
 	variant 1
-		"The Fearless Assassin B"
-		"The Fifth Ace B"
-		"The Fifth Ace"
+		"Fearless Assassin B"
+		"Fifth Ace B"
+		"Fifth Ace"
 	variant 1
-		"The Fearless Assassin C"
-		"The Fifth Ace C"
-		"The Fifth Ace A"
+		"Fearless Assassin C"
+		"Fifth Ace C"
+		"Fifth Ace A"
 	variant 1
 		"Balau"
 		"Wren"
@@ -1522,21 +1522,21 @@ fleet "Large Southern Pirates"
 		"Hawk"
 		"Black Hawk"
 	variant 1
-		"The Dirty Cutlass"
-		"The Hidden Blade"
-		"The Fifth Ace"
+		"Dirty Cutlass"
+		"Hidden Blade"
+		"Fifth Ace"
 	variant 1
-		"The Dirty Cutlass A"
-		"The Hidden Blade A"
-		"The Fifth Ace A"
+		"Dirty Cutlass A"
+		"Hidden Blade A"
+		"Fifth Ace A"
 	variant 1
-		"The Dirty Cutlass B"
-		"The Hidden Blade B"
-		"The Fifth Ace B"
+		"Dirty Cutlass B"
+		"Hidden Blade B"
+		"Fifth Ace B"
 	variant 1
-		"The Dirty Cutlass C"
-		"The Hidden Blade C" 2
-		"The Fifth Ace C"
+		"Dirty Cutlass C"
+		"Hidden Blade C" 2
+		"Fifth Ace C"
 	variant 1
 		"Wren"
 		"Elepaio"
@@ -1655,16 +1655,16 @@ fleet "Large Southern Pirates"
 		"Wren"
 		"Wren B"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 		"Hawk (Speedy)"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 		"Junior Osprey"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 		"Sparrow" 2
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 		"Wren B"
 		"Elepaio"
 		
@@ -1740,21 +1740,21 @@ fleet "Small Core Pirates"
 	variant 1
 		"Silver Escort C"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 	variant 1
 		"Hawk"
 	variant 1
@@ -1784,53 +1784,53 @@ fleet "Small Core Pirates"
 	variant 1
 		"Wasp (Proton)"
 	variant 1
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 1
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 1
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 1
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 1
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 1
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
-		"The Deceitful Hangman"
-		"The Fifth Ace"
+		"Deceitful Hangman"
+		"Fifth Ace"
 	variant 1
-		"The Deceitful Hangman A"
-		"The Fifth Ace A"
+		"Deceitful Hangman A"
+		"Fifth Ace A"
 	variant 1
-		"The Deceitful Hangman B"
-		"The Fifth Ace B"
+		"Deceitful Hangman B"
+		"Fifth Ace B"
 	variant 1
-		"The Deceitful Hangman C"
-		"The Fifth Ace C"
+		"Deceitful Hangman C"
+		"Fifth Ace C"
 	variant 1
-		"The Fearless Assassin"
-		"The Hidden Blade"
+		"Fearless Assassin"
+		"Hidden Blade"
 	variant 1
-		"The Fearless Assassin A"
-		"The Hidden Blade A"
+		"Fearless Assassin A"
+		"Hidden Blade A"
 	variant 1
-		"The Fearless Assassin B"
-		"The Hidden Blade B"
+		"Fearless Assassin B"
+		"Hidden Blade B"
 	variant 1
-		"The Fearless Assassin C"
-		"The Hidden Blade C"
+		"Fearless Assassin C"
+		"Hidden Blade C"
 	variant 1
 		"Sparrow"
 		"Sparrow MKII"
@@ -1880,41 +1880,41 @@ fleet "Small Core Pirates"
 		"Sparrow MKII C"
 		"Wasp (Proton)"
 	variant 1
-		"The Dirty Cutlass"
-		"The Hidden Blade B"
+		"Dirty Cutlass"
+		"Hidden Blade B"
 	variant 1
-		"The Dirty Cutlass A"
-		"The Hidden Blade C"
+		"Dirty Cutlass A"
+		"Hidden Blade C"
 	variant 1
-		"The Dirty Cutlass B"
-		"The Dirty Cutlass"
+		"Dirty Cutlass B"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass C"
-		"The Dirty Cutlass A"
+		"Dirty Cutlass C"
+		"Dirty Cutlass A"
 	variant 1
-		"The Fifth Ace"
-		"The Dirty Cutlass B"
+		"Fifth Ace"
+		"Dirty Cutlass B"
 	variant 1
-		"The Fifth Ace A"
-		"The Dirty Cutlass C"
+		"Fifth Ace A"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace B"
-		"The Fifth Ace"
+		"Fifth Ace B"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace C"
-		"The Fifth Ace A"
+		"Fifth Ace C"
+		"Fifth Ace A"
 	variant 1
-		"The Hidden Blade"
-		"The Fifth Ace B"
+		"Hidden Blade"
+		"Fifth Ace B"
 	variant 1
-		"The Hidden Blade A"
-		"The Fifth Ace C"
+		"Hidden Blade A"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade B"
-		"The Hidden Blade"
+		"Hidden Blade B"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade C"
-		"The Hidden Blade A"
+		"Hidden Blade C"
+		"Hidden Blade A"
 	variant 2
 		"Quicksilver"
 		"Hawk"
@@ -2085,29 +2085,29 @@ fleet "Large Core Pirates"
 	variant 1
 		"X2 Gunship C"
 	variant 2
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 2
-		"The Black Star"
+		"Black Star"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 	variant 2
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 2
-		"The Silver Star A"
+		"Silver Star A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 2
 		"Silver Defender"
 	variant 1
@@ -2117,181 +2117,181 @@ fleet "Large Core Pirates"
 	variant 1
 		"Silver Defender C"
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Dirty Cutlass"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Dirty Cutlass A"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Dirty Cutlass B"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Dirty Cutlass B"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Dirty Cutlass C"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Dirty Cutlass C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Fifth Ace"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Fifth Ace"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace A"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fifth Ace A"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fifth Ace B"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fifth Ace B"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Fifth Ace C"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Fifth Ace C"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Hidden Blade"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Hidden Blade"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Hidden Blade A"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Hidden Blade A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Hidden Blade B"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Hidden Blade B"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Hidden Blade C"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Hidden Blade C"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Fifth Ace B"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Fifth Ace B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace C"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fifth Ace C"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Hidden Blade"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Hidden Blade"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Hidden Blade A"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Hidden Blade A"
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Damned Executioner"
-		"The Damned Executioner C"
+		"Damned Executioner"
+		"Damned Executioner C"
 	variant 1
-		"The Damned Executioner A"
-		"The Lightning in the Storm C"
+		"Damned Executioner A"
+		"Stormbolt C"
 	variant 1
-		"The Damned Executioner B"
-		"The Deceptive Lover C"
+		"Damned Executioner B"
+		"Deceptive Lover C"
 	variant 1
-		"The Damned Executioner C"
-		"The Screams of the Insane C"
+		"Damned Executioner C"
+		"Hellscream C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Damned Executioner"
+		"Stormbolt"
+		"Damned Executioner"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Lightning in the Storm"
+		"Stormbolt A"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Deceptive Lover"
+		"Stormbolt B"
+		"Deceptive Lover"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Screams of the Insane"
+		"Stormbolt C"
+		"Hellscream"
 	variant 1
-		"The Deceptive Lover"
-		"The Damned Executioner A"
+		"Deceptive Lover"
+		"Damned Executioner A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Lightning in the Storm A"
+		"Deceptive Lover A"
+		"Stormbolt A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Deceptive Lover A"
+		"Deceptive Lover B"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Screams of the Insane A"
+		"Deceptive Lover C"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane"
-		"The Damned Executioner B"
+		"Hellscream"
+		"Damned Executioner B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Lightning in the Storm B"
+		"Hellscream A"
+		"Stormbolt B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Deceptive Lover B"
+		"Hellscream B"
+		"Deceptive Lover B"
 	variant 1
-		"The Screams of the Insane C"
-		"The Screams of the Insane B"
+		"Hellscream C"
+		"Hellscream B"
 	variant 1
 		"Silver Defender"
 		"Silver Protector"
@@ -2321,7 +2321,7 @@ fleet "Large Core Pirates"
 		"Silver Escort B"
 		"Silver Escort C"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 		"Silver Escort A"
 		"Silver Escort"
 	variant 1
@@ -2333,24 +2333,24 @@ fleet "Large Core Pirates"
 		"Silver Protector"
 		"Silver Protector C"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 		"Silver Protector B"
 		"Silver Escort"
 	variant 1
-		"The Black Star C"
-		"The Black Star A"
+		"Black Star C"
+		"Black Star A"
 	variant 1
-		"The Silver Star A"
-		"The Black Star A"
+		"Silver Star A"
+		"Black Star A"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 		"Silver Escort C"
 		"Silver Escort B"
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 		"Silver Escort A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 		"Silver Protector B"
 	variant 1
 		"Gidgee"
@@ -2398,10 +2398,10 @@ fleet "Large Core Pirates"
 		"Balau"
 		"Camelthorn C"
 	variant 2
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 		"Splinter"
 	variant 2
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Splinter (Laser)"
 	variant 2
 		"Splinter"
@@ -2423,16 +2423,16 @@ fleet "Large Core Pirates"
 		"Firebird A"
 	variant 1
 		"Firebird (Plasma)"
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
 		"Firebird A"
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship"
-		"4500X2 gunship B"
+		"4500X2 Gunship"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship A"
-		"4500X2 gunship C"
+		"4500X2 Gunship A"
+		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 		"Quebracho B"
@@ -2484,19 +2484,19 @@ fleet "Large Core Pirates"
 		"Arrowhead A"
 		"Light Dart A"
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Arrowhead B"
 		"Heavy Dart"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 		"Arrowhead C"
 		"Light Dart"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Headhunter"
 		"Arrowhead"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 		"Headhunter (Particle)"
 		"Quicksilver"
 	variant 2
@@ -2652,16 +2652,16 @@ fleet "Large Core Pirates"
 		"X2 Gunship C"
 		"Arrowhead"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 		"Wasp" 2
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 		"Quicksilver A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 		"Light Dart"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 		"Quicksilver (Proton)"
 		
 fleet "Small Northern Pirates"
@@ -2792,105 +2792,105 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Wren C"
 	variant 1
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 1
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 1
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 1
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 1
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 1
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 	variant 1
-		"The Deceitful Hangman"
-		"The Dirty Cutlass"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
 	variant 1
-		"The Deceitful Hangman A"
-		"The Fifth Ace"
+		"Deceitful Hangman A"
+		"Fifth Ace"
 	variant 1
-		"The Deceitful Hangman B"
-		"The Hidden Blade"
+		"Deceitful Hangman B"
+		"Hidden Blade"
 	variant 1
-		"The Deceitful Hangman C"
-		"The Dirty Cutlass A"
+		"Deceitful Hangman C"
+		"Dirty Cutlass A"
 	variant 1
-		"The Fearless Assassin"
-		"The Fifth Ace A"
+		"Fearless Assassin"
+		"Fifth Ace A"
 	variant 1
-		"The Fearless Assassin A"
-		"The Hidden Blade A"
+		"Fearless Assassin A"
+		"Hidden Blade A"
 	variant 1
-		"The Fearless Assassin B"
-		"The Dirty Cutlass B"
+		"Fearless Assassin B"
+		"Dirty Cutlass B"
 	variant 1
-		"The Fearless Assassin C"
-		"The Fifth Ace B"
+		"Fearless Assassin C"
+		"Fifth Ace B"
 	variant 1
-		"The Dirty Cutlass"
-		"The Hidden Blade B"
+		"Dirty Cutlass"
+		"Hidden Blade B"
 	variant 1
-		"The Dirty Cutlass A"
-		"The Hidden Blade C"
+		"Dirty Cutlass A"
+		"Hidden Blade C"
 	variant 1
-		"The Dirty Cutlass B"
-		"The Dirty Cutlass"
+		"Dirty Cutlass B"
+		"Dirty Cutlass"
 	variant 1
-		"The Dirty Cutlass C"
-		"The Dirty Cutlass A"
+		"Dirty Cutlass C"
+		"Dirty Cutlass A"
 	variant 1
-		"The Fifth Ace"
-		"The Dirty Cutlass B"
+		"Fifth Ace"
+		"Dirty Cutlass B"
 	variant 1
-		"The Fifth Ace A"
-		"The Dirty Cutlass C"
+		"Fifth Ace A"
+		"Dirty Cutlass C"
 	variant 1
-		"The Fifth Ace B"
-		"The Fifth Ace"
+		"Fifth Ace B"
+		"Fifth Ace"
 	variant 1
-		"The Fifth Ace C"
-		"The Fifth Ace A"
+		"Fifth Ace C"
+		"Fifth Ace A"
 	variant 1
-		"The Hidden Blade"
-		"The Fifth Ace B"
+		"Hidden Blade"
+		"Fifth Ace B"
 	variant 1
-		"The Hidden Blade A"
-		"The Fifth Ace C"
+		"Hidden Blade A"
+		"Fifth Ace C"
 	variant 1
-		"The Hidden Blade B"
-		"The Hidden Blade"
+		"Hidden Blade B"
+		"Hidden Blade"
 	variant 1
-		"The Hidden Blade C"
-		"The Hidden Blade A"
+		"Hidden Blade C"
+		"Hidden Blade A"
 	variant 1
 		"Balau"
 		"Berserker"
@@ -3044,181 +3044,181 @@ fleet "Large Northern Pirates"
 	personality
 		plunders
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Dirty Cutlass"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Dirty Cutlass A"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Dirty Cutlass A"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Dirty Cutlass B"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Dirty Cutlass B"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Dirty Cutlass C"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Dirty Cutlass C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Fifth Ace"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Fifth Ace"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace A"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fifth Ace A"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fifth Ace B"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fifth Ace B"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Fifth Ace C"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Fifth Ace C"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Hidden Blade"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Hidden Blade"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Hidden Blade A"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Hidden Blade A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Hidden Blade B"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Hidden Blade B"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Hidden Blade C"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Hidden Blade C"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Fifth Ace B"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Fifth Ace B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fifth Ace C"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fifth Ace C"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Hidden Blade"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Hidden Blade"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Hidden Blade A"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Hidden Blade A"
 	variant 1
-		"The Damned Executioner"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Damned Executioner"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Damned Executioner A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Damned Executioner A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Damned Executioner B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Damned Executioner B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Damned Executioner C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Damned Executioner C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Lightning in the Storm"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Stormbolt"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Stormbolt A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Stormbolt B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Stormbolt C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceptive Lover"
-		"The Deceitful Hangman"
-		"The Deceitful Hangman A"
+		"Deceptive Lover"
+		"Deceitful Hangman"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Deceitful Hangman A"
-		"The Fearless Assassin"
+		"Deceptive Lover A"
+		"Deceitful Hangman A"
+		"Fearless Assassin"
 	variant 1
-		"The Deceptive Lover B"
-		"The Fearless Assassin"
-		"The Fearless Assassin A"
+		"Deceptive Lover B"
+		"Fearless Assassin"
+		"Fearless Assassin A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Fearless Assassin A"
-		"The Deceitful Hangman B"
+		"Deceptive Lover C"
+		"Fearless Assassin A"
+		"Deceitful Hangman B"
 	variant 1
-		"The Screams of the Insane"
-		"The Deceitful Hangman B"
-		"The Deceitful Hangman C"
+		"Hellscream"
+		"Deceitful Hangman B"
+		"Deceitful Hangman C"
 	variant 1
-		"The Screams of the Insane A"
-		"The Deceitful Hangman C"
-		"The Fearless Assassin B"
+		"Hellscream A"
+		"Deceitful Hangman C"
+		"Fearless Assassin B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Fearless Assassin B"
-		"The Fearless Assassin C"
+		"Hellscream B"
+		"Fearless Assassin B"
+		"Fearless Assassin C"
 	variant 1
-		"The Screams of the Insane C"
-		"The Fearless Assassin C"
-		"The Deceitful Hangman"
+		"Hellscream C"
+		"Fearless Assassin C"
+		"Deceitful Hangman"
 	variant 1
-		"The Damned Executioner"
-		"The Damned Executioner C"
+		"Damned Executioner"
+		"Damned Executioner C"
 	variant 1
-		"The Damned Executioner A"
-		"The Lightning in the Storm C"
+		"Damned Executioner A"
+		"Stormbolt C"
 	variant 1
-		"The Damned Executioner B"
-		"The Deceptive Lover C"
+		"Damned Executioner B"
+		"Deceptive Lover C"
 	variant 1
-		"The Damned Executioner C"
-		"The Screams of the Insane C"
+		"Damned Executioner C"
+		"Hellscream C"
 	variant 1
-		"The Lightning in the Storm"
-		"The Damned Executioner"
+		"Stormbolt"
+		"Damned Executioner"
 	variant 1
-		"The Lightning in the Storm A"
-		"The Lightning in the Storm"
+		"Stormbolt A"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm B"
-		"The Deceptive Lover"
+		"Stormbolt B"
+		"Deceptive Lover"
 	variant 1
-		"The Lightning in the Storm C"
-		"The Screams of the Insane"
+		"Stormbolt C"
+		"Hellscream"
 	variant 1
-		"The Deceptive Lover"
-		"The Damned Executioner A"
+		"Deceptive Lover"
+		"Damned Executioner A"
 	variant 1
-		"The Deceptive Lover A"
-		"The Lightning in the Storm A"
+		"Deceptive Lover A"
+		"Stormbolt A"
 	variant 1
-		"The Deceptive Lover B"
-		"The Deceptive Lover A"
+		"Deceptive Lover B"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover C"
-		"The Screams of the Insane A"
+		"Deceptive Lover C"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane"
-		"The Damned Executioner B"
+		"Hellscream"
+		"Damned Executioner B"
 	variant 1
-		"The Screams of the Insane A"
-		"The Lightning in the Storm B"
+		"Hellscream A"
+		"Stormbolt B"
 	variant 1
-		"The Screams of the Insane B"
-		"The Deceptive Lover B"
+		"Hellscream B"
+		"Deceptive Lover B"
 	variant 1
-		"The Screams of the Insane C"
-		"The Screams of the Insane B"
+		"Hellscream C"
+		"Hellscream B"
 	variant 1
 		"Silver Defender"
 		"Silver Protector"
@@ -3248,7 +3248,7 @@ fleet "Large Northern Pirates"
 		"Silver Escort B"
 		"Silver Escort C"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 		"Silver Escort A"
 		"Silver Escort"
 	variant 1
@@ -3260,24 +3260,24 @@ fleet "Large Northern Pirates"
 		"Silver Protector"
 		"Silver Protector C"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 		"Silver Protector B"
 		"Silver Escort"
 	variant 1
-		"The Black Star C"
-		"The Black Star A"
+		"Black Star C"
+		"Black Star A"
 	variant 1
-		"The Silver Star A"
-		"The Black Star A"
+		"Silver Star A"
+		"Black Star A"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 		"Silver Escort C"
 		"Silver Escort B"
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 		"Silver Escort A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 		"Silver Protector B"
 	variant 1
 		"Bactrian"
@@ -3329,29 +3329,29 @@ fleet "Large Northern Pirates"
 	variant 2
 		"X2 Gunship C"
 	variant 2
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 2
-		"The Black Star"
+		"Black Star"
 	variant 2
-		"The Black Star A"
+		"Black Star A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 2
-		"The Silver Star A"
+		"Silver Star A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 	variant 2
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 1
 		"Silver Defender"
 	variant 1
@@ -3373,13 +3373,13 @@ fleet "Large Northern Pirates"
 		"Aerie C"
 		"Dagger" 2
 	variant 2
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 2
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 2
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 2
 		"Cebil"
 	variant 1
@@ -3451,17 +3451,17 @@ fleet "Large Northern Pirates"
 		"Raven"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Swooping Raven"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 		"Dark Berserker B"
 		"Dark Berserker C"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Balau A"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 		"Camelthorn A"
 	variant 1
 		"Cebil"
@@ -3555,25 +3555,25 @@ fleet "Large Northern Pirates"
 		"Dagger" 4
 	variant 1
 		"Aerie B"
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Dagger" 2
 	variant 1
 		"Aerie C"
 		"Cebil"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Corvette"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 		"Firebird"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 		"Mule B"
 		"Dagger"
 	variant 1
-		"4500X2 gunship C"
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Cebil"
 		"Cebil C"
@@ -3599,7 +3599,7 @@ fleet "Large Northern Pirates"
 		"Gidgee C"
 	variant 1
 		"Corvette A"
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
 		"Corvette B"
 		"Cebil B"
@@ -3612,7 +3612,7 @@ fleet "Large Northern Pirates"
 		"Dagger"
 	variant 1
 		"Firebird (Plasma)"
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
 		"Firebird A"
 		"Corvette (Speedy)"
@@ -3730,34 +3730,34 @@ fleet "Large Northern Pirates"
 		"X2 Gunship C"
 		"Swooping Raven C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 		"Balau"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 		"Camelthorn"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 		"Headhunter"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 		"Raven"
 	variant 1
-		"The Black Star"
+		"Black Star"
 		"Swooping Raven" 2
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 		"Dark Berserker B" 2
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 		"Balau A" 2
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 		"Camelthorn A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 		"Headhunter (Particle)"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 		"Raven (Afterburner)"
 
 

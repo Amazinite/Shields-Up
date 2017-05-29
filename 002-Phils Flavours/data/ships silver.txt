@@ -2,8 +2,8 @@ shipyard "Silver Manufacturing Pty Ltd"
 	"Silver Defender"
 	"Silver Escort"
 	"Silver Protector"
-	"The Silver Star"
-	"The Black Star"
+	"Silver Star"
+	"Black Star"
 	"Silver Stream"
 
 ship "Silver Stream"
@@ -48,7 +48,7 @@ ship "Silver Stream"
 	"final explode" "final explosion medium"
 	description "Referred to colloquially as the 'blingbird', the silver stream features an opulent interior to match the shine and shimmer of the external rendering. It is most commonly used as a private transport ship by actors, musicians and VIP's who travel with a small entourage."
 
-ship "The Black Star"
+ship "Black Star"
 	sprite "ship/the black star"
 	attributes
 		category "Medium Warship"
@@ -100,7 +100,7 @@ ship "The Black Star"
 	"final explode" "final explosion medium"
 	description "Featuring four gun ports as well as four turrets, 'The Black Star' is one of the most heavily armed medium class warships available on the market today. Its unique design and lack of color appeals to a particular niche of customers who will adamantly defend and espouse the features of the ship."
 
-ship "The Silver Star"
+ship "Silver Star"
 	sprite "ship/the silver star"
 	attributes
 		category "Heavy Warship"

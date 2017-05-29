@@ -73,13 +73,13 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Star Queen C"
 	variant 6
-		"The Rum Barrell"
+		"Rum Barrell"
 	variant 4
-		"The Rum Barrell A"
+		"Rum Barrell A"
 	variant 4
-		"The Rum Barrell B"
+		"Rum Barrell B"
 	variant 4
-		"The Rum Barrell C"
+		"Rum Barrell C"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -286,18 +286,18 @@ fleet "Small Southern Merchants"
 		"Star Queen C"
 		"Raven A"
 	variant 2
-		"The Rum Barrell"
-		"The Dirty Cutlass"
+		"Rum Barrell"
+		"Dirty Cutlass"
 	variant 2
-		"The Rum Barrell A"
-		"The Fifth Ace"
+		"Rum Barrell A"
+		"Fifth Ace"
 	variant 2
-		"The Rum Barrell B"
-		"The Hidden Blade"
+		"Rum Barrell B"
+		"Hidden Blade"
 	variant 2
-		"The Rum Barrell C"
-		"The Hidden Blade"
-		"The Fifth Ace"
+		"Rum Barrell C"
+		"Hidden Blade"
+		"Fifth Ace"
 	variant 4
 		"3000X2 Freight"
 	variant 4
@@ -361,37 +361,37 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Star Barge A"
 	variant 4
-		"The Buried Chest"
+		"Buried Chest"
 	variant 4
-		"The Buried Chest A"
+		"Buried Chest A"
 	variant 4
-		"The Buried Chest B"
+		"Buried Chest B"
 	variant 4
-		"The Buried Chest C"
+		"Buried Chest C"
 	variant 4
-		"The Captain's Hoard"
+		"Captain's Hoard"
 	variant 4
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 	variant 4
-		"The Captain's Hoard B"
+		"Captain's Hoard B"
 	variant 4
-		"The Captain's Hoard C"
+		"Captain's Hoard C"
 	variant 4
-		"The Lifted Purse"
+		"Lifted Purse"
 	variant 4
-		"The Lifted Purse A"
+		"Lifted Purse A"
 	variant 4
-		"The Lifted Purse B"
+		"Lifted Purse B"
 	variant 4
-		"The Lifted Purse C"
+		"Lifted Purse C"
 	variant 4
-		"The Pilfered Keg"
+		"Pilfered Keg"
 	variant 4
-		"The Pilfered Keg A"
+		"Pilfered Keg A"
 	variant 4
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 	variant 4
-		"The Pilfered Keg C"
+		"Pilfered Keg C"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -500,65 +500,65 @@ fleet "Small Southern Merchants"
 		"Star Barge A"
 		"Star Barge A"
 	variant 3
-		"The Buried Chest"
-		"The Pilfered Keg"
+		"Buried Chest"
+		"Pilfered Keg"
 	variant 3
-		"The Buried Chest A"
-		"The Captain's Hoard C"
+		"Buried Chest A"
+		"Captain's Hoard C"
 	variant 3
-		"The Buried Chest B"
+		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"The Buried Chest C"
-		"The Lifted Purse A"
+		"Buried Chest C"
+		"Lifted Purse A"
 	variant 3
-		"The Captain's Hoard"
-		"The Lifted Purse B"
+		"Captain's Hoard"
+		"Lifted Purse B"
 	variant 3
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 		"3000X2 Freight"
 	variant 3
-		"The Captain's Hoard B"
-		"The Pilfered Keg B"
+		"Captain's Hoard B"
+		"Pilfered Keg B"
 	variant 3
-		"The Captain's Hoard C"
-		"The Pilfered Keg C"
+		"Captain's Hoard C"
+		"Pilfered Keg C"
 	variant 3
-		"The Lifted Purse"
+		"Lifted Purse"
 		"Freighter"
 	variant 3
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
+		"Lifted Purse A"
+		"Pilfered Keg A"
 	variant 3
-		"The Lifted Purse C"
-		"The Pilfered Keg C"
+		"Lifted Purse C"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg"
-		"The Pilfered Keg B"
-		"The Pilfered Keg A"
+		"Pilfered Keg"
+		"Pilfered Keg B"
+		"Pilfered Keg A"
 	variant 3
-		"The Pilfered Keg A"
-		"The Pilfered Keg C"
+		"Pilfered Keg A"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 		"Star Barge (Armed)"
 		"Star Barge A"
 	variant 3
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 3
-		"The Lifted Purse A"
-		"The Lifted Purse C"
-		"The Lifted Purse"
+		"Lifted Purse A"
+		"Lifted Purse C"
+		"Lifted Purse"
 	variant 3
-		"The Lifted Purse B"
-		"The Lifted Purse"
-		"The Lifted Purse A"
+		"Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse A"
 	variant 3
-		"The Lifted Purse C"
-		"The Lifted Purse A"
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse C"
+		"Lifted Purse A"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 2
 		"3000X2 Freight"
 		"Elepaio"
@@ -660,59 +660,59 @@ fleet "Small Southern Merchants"
 		"Hauler C"
 		"Dark Berserker" 2
 	variant 2
-		"The Buried Chest"
-		"The Dirty Cutlass"
+		"Buried Chest"
+		"Dirty Cutlass"
 	variant 2
-		"The Buried Chest A"
-		"The Fifth Ace"
+		"Buried Chest A"
+		"Fifth Ace"
 	variant 2
-		"The Buried Chest B"
-		"The Hidden Blade"
+		"Buried Chest B"
+		"Hidden Blade"
 	variant 2
-		"The Buried Chest C"
-		"The Dirty Cutlass A"
+		"Buried Chest C"
+		"Dirty Cutlass A"
 	variant 2
-		"The Captain's Hoard"
-		"The Fifth Ace A"
+		"Captain's Hoard"
+		"Fifth Ace A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Hidden Blade A"
+		"Captain's Hoard A"
+		"Hidden Blade A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Dirty Cutlass B"
+		"Captain's Hoard B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Captain's Hoard C"
-		"The Fifth Ace B"
+		"Captain's Hoard C"
+		"Fifth Ace B"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade B"
+		"Lifted Purse"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass C"
+		"Lifted Purse A"
+		"Dirty Cutlass C"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace C"
+		"Lifted Purse C"
+		"Fifth Ace C"
 	variant 2
-		"The Pilfered Keg"
-		"The Hidden Blade C"
+		"Pilfered Keg"
+		"Hidden Blade C"
 	variant 2
-		"The Pilfered Keg A"
-		"The Dirty Cutlass"
+		"Pilfered Keg A"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg B"
-		"The Fifth Ace"
+		"Pilfered Keg B"
+		"Fifth Ace"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade"
+		"Lifted Purse"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass A"
+		"Lifted Purse A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Lifted Purse B"
-		"The Fifth Ace A"
+		"Lifted Purse B"
+		"Fifth Ace A"
 	variant 2
-		"The Lifted Purse C"
-		"The Hidden Blade A"
+		"Lifted Purse C"
+		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
@@ -786,68 +786,68 @@ fleet "Small Southern Merchants"
 		"Sparrow MKII A"
 		"Star Barge A"
 	variant 2
-		"The Buried Chest"
-		"The Hidden Blade A"
-		"The Fifth Ace B"
+		"Buried Chest"
+		"Hidden Blade A"
+		"Fifth Ace B"
 	variant 2
-		"The Buried Chest A"
-		"The Dirty Cutlass"
-		"The Hidden Blade B"
+		"Buried Chest A"
+		"Dirty Cutlass"
+		"Hidden Blade B"
 	variant 2
-		"The Buried Chest B"
-		"The Fifth Ace"
-		"The Dirty Cutlass C"
+		"Buried Chest B"
+		"Fifth Ace"
+		"Dirty Cutlass C"
 	variant 2
-		"The Buried Chest C"
-		"The Hidden Blade"
-		"The Fifth Ace C"
+		"Buried Chest C"
+		"Hidden Blade"
+		"Fifth Ace C"
 	variant 2
-		"The Captain's Hoard"
-		"The Dirty Cutlass A"
-		"The Hidden Blade C"
+		"Captain's Hoard"
+		"Dirty Cutlass A"
+		"Hidden Blade C"
 	variant 2
-		"The Captain's Hoard A"
-		"The Fifth Ace A"
-		"The Dirty Cutlass"
+		"Captain's Hoard A"
+		"Fifth Ace A"
+		"Dirty Cutlass"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace"
 	variant 2
-		"The Captain's Hoard C"
-		"The Dirty Cutlass B"
-		"The Hidden Blade"
+		"Captain's Hoard C"
+		"Dirty Cutlass B"
+		"Hidden Blade"
 	variant 2
-		"The Pilfered Keg"
-		"The Fifth Ace C"
-		"The Dirty Cutlass"
+		"Pilfered Keg"
+		"Fifth Ace C"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg A"
-		"The Hidden Blade C"
-		"The Fifth Ace"
+		"Pilfered Keg A"
+		"Hidden Blade C"
+		"Fifth Ace"
 	variant 2
-		"The Pilfered Keg B"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Pilfered Keg B"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse"
-		"The Fifth Ace"
-		"The Dirty Cutlass A"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Fifth Ace"
+		"Dirty Cutlass A"
+		"Lifted Purse B"
 	variant 2
-		"The Lifted Purse A"
-		"The Hidden Blade"
-		"The Fifth Ace A"
-		"The Lifted Purse C"
+		"Lifted Purse A"
+		"Hidden Blade"
+		"Fifth Ace A"
+		"Lifted Purse C"
 	variant 2
-		"The Lifted Purse B"
-		"The Dirty Cutlass A"
-		"The Hidden Blade A"
-		"The Lifted Purse"
+		"Lifted Purse B"
+		"Dirty Cutlass A"
+		"Hidden Blade A"
+		"Lifted Purse"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace A"
-		"The Dirty Cutlass B"
+		"Lifted Purse C"
+		"Fifth Ace A"
+		"Dirty Cutlass B"
 	variant 2
 		"Berserker"
 	variant 2
@@ -921,29 +921,29 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Wren C"
 	variant 2
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 2
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 2
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 2
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 2
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 2
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 2
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 2
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 2
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 2
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -1033,21 +1033,21 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Modified Argosy (Missile)"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 
 fleet "Small Core Merchants"
 	government "Merchant"
@@ -1123,13 +1123,13 @@ fleet "Small Core Merchants"
 	variant 4
 		"Star Queen C"
 	variant 6
-		"The Rum Barrell"
+		"Rum Barrell"
 	variant 4
-		"The Rum Barrell A"
+		"Rum Barrell A"
 	variant 4
-		"The Rum Barrell B"
+		"Rum Barrell B"
 	variant 4
-		"The Rum Barrell C"
+		"Rum Barrell C"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -1336,18 +1336,18 @@ fleet "Small Core Merchants"
 		"Star Queen C"
 		"Raven A"
 	variant 2
-		"The Rum Barrell"
-		"The Dirty Cutlass"
+		"Rum Barrell"
+		"Dirty Cutlass"
 	variant 2
-		"The Rum Barrell A"
-		"The Fifth Ace"
+		"Rum Barrell A"
+		"Fifth Ace"
 	variant 2
-		"The Rum Barrell B"
-		"The Hidden Blade"
+		"Rum Barrell B"
+		"Hidden Blade"
 	variant 2
-		"The Rum Barrell C"
-		"The Hidden Blade"
-		"The Fifth Ace"
+		"Rum Barrell C"
+		"Hidden Blade"
+		"Fifth Ace"
 	variant 4
 		"3000X2 Freight"
 	variant 4
@@ -1411,37 +1411,37 @@ fleet "Small Core Merchants"
 	variant 4
 		"Star Barge A"
 	variant 4
-		"The Buried Chest"
+		"Buried Chest"
 	variant 4
-		"The Buried Chest A"
+		"Buried Chest A"
 	variant 4
-		"The Buried Chest B"
+		"Buried Chest B"
 	variant 4
-		"The Buried Chest C"
+		"Buried Chest C"
 	variant 4
-		"The Captain's Hoard"
+		"Captain's Hoard"
 	variant 4
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 	variant 4
-		"The Captain's Hoard B"
+		"Captain's Hoard B"
 	variant 4
-		"The Captain's Hoard C"
+		"Captain's Hoard C"
 	variant 4
-		"The Lifted Purse"
+		"Lifted Purse"
 	variant 4
-		"The Lifted Purse A"
+		"Lifted Purse A"
 	variant 4
-		"The Lifted Purse B"
+		"Lifted Purse B"
 	variant 4
-		"The Lifted Purse C"
+		"Lifted Purse C"
 	variant 4
-		"The Pilfered Keg"
+		"Pilfered Keg"
 	variant 4
-		"The Pilfered Keg A"
+		"Pilfered Keg A"
 	variant 4
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 	variant 4
-		"The Pilfered Keg C"
+		"Pilfered Keg C"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -1550,65 +1550,65 @@ fleet "Small Core Merchants"
 		"Star Barge A"
 		"Star Barge A"
 	variant 3
-		"The Buried Chest"
-		"The Pilfered Keg"
+		"Buried Chest"
+		"Pilfered Keg"
 	variant 3
-		"The Buried Chest A"
-		"The Captain's Hoard C"
+		"Buried Chest A"
+		"Captain's Hoard C"
 	variant 3
-		"The Buried Chest B"
+		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"The Buried Chest C"
-		"The Lifted Purse A"
+		"Buried Chest C"
+		"Lifted Purse A"
 	variant 3
-		"The Captain's Hoard"
-		"The Lifted Purse B"
+		"Captain's Hoard"
+		"Lifted Purse B"
 	variant 3
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 		"3000X2 Freight"
 	variant 3
-		"The Captain's Hoard B"
-		"The Pilfered Keg B"
+		"Captain's Hoard B"
+		"Pilfered Keg B"
 	variant 3
-		"The Captain's Hoard C"
-		"The Pilfered Keg C"
+		"Captain's Hoard C"
+		"Pilfered Keg C"
 	variant 3
-		"The Lifted Purse"
+		"Lifted Purse"
 		"Freighter"
 	variant 3
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
+		"Lifted Purse A"
+		"Pilfered Keg A"
 	variant 3
-		"The Lifted Purse C"
-		"The Pilfered Keg C"
+		"Lifted Purse C"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg"
-		"The Pilfered Keg B"
-		"The Pilfered Keg A"
+		"Pilfered Keg"
+		"Pilfered Keg B"
+		"Pilfered Keg A"
 	variant 3
-		"The Pilfered Keg A"
-		"The Pilfered Keg C"
+		"Pilfered Keg A"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 		"Star Barge (Armed)"
 		"Star Barge A"
 	variant 3
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 3
-		"The Lifted Purse A"
-		"The Lifted Purse C"
-		"The Lifted Purse"
+		"Lifted Purse A"
+		"Lifted Purse C"
+		"Lifted Purse"
 	variant 3
-		"The Lifted Purse B"
-		"The Lifted Purse"
-		"The Lifted Purse A"
+		"Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse A"
 	variant 3
-		"The Lifted Purse C"
-		"The Lifted Purse A"
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse C"
+		"Lifted Purse A"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 2
 		"3000X2 Freight"
 		"Elepaio"
@@ -1710,59 +1710,59 @@ fleet "Small Core Merchants"
 		"Hauler C"
 		"Dark Berserker" 2
 	variant 2
-		"The Buried Chest"
-		"The Dirty Cutlass"
+		"Buried Chest"
+		"Dirty Cutlass"
 	variant 2
-		"The Buried Chest A"
-		"The Fifth Ace"
+		"Buried Chest A"
+		"Fifth Ace"
 	variant 2
-		"The Buried Chest B"
-		"The Hidden Blade"
+		"Buried Chest B"
+		"Hidden Blade"
 	variant 2
-		"The Buried Chest C"
-		"The Dirty Cutlass A"
+		"Buried Chest C"
+		"Dirty Cutlass A"
 	variant 2
-		"The Captain's Hoard"
-		"The Fifth Ace A"
+		"Captain's Hoard"
+		"Fifth Ace A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Hidden Blade A"
+		"Captain's Hoard A"
+		"Hidden Blade A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Dirty Cutlass B"
+		"Captain's Hoard B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Captain's Hoard C"
-		"The Fifth Ace B"
+		"Captain's Hoard C"
+		"Fifth Ace B"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade B"
+		"Lifted Purse"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass C"
+		"Lifted Purse A"
+		"Dirty Cutlass C"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace C"
+		"Lifted Purse C"
+		"Fifth Ace C"
 	variant 2
-		"The Pilfered Keg"
-		"The Hidden Blade C"
+		"Pilfered Keg"
+		"Hidden Blade C"
 	variant 2
-		"The Pilfered Keg A"
-		"The Dirty Cutlass"
+		"Pilfered Keg A"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg B"
-		"The Fifth Ace"
+		"Pilfered Keg B"
+		"Fifth Ace"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade"
+		"Lifted Purse"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass A"
+		"Lifted Purse A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Lifted Purse B"
-		"The Fifth Ace A"
+		"Lifted Purse B"
+		"Fifth Ace A"
 	variant 2
-		"The Lifted Purse C"
-		"The Hidden Blade A"
+		"Lifted Purse C"
+		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
@@ -1836,68 +1836,68 @@ fleet "Small Core Merchants"
 		"Sparrow MKII A"
 		"Star Barge A"
 	variant 2
-		"The Buried Chest"
-		"The Hidden Blade A"
-		"The Fifth Ace B"
+		"Buried Chest"
+		"Hidden Blade A"
+		"Fifth Ace B"
 	variant 2
-		"The Buried Chest A"
-		"The Dirty Cutlass"
-		"The Hidden Blade B"
+		"Buried Chest A"
+		"Dirty Cutlass"
+		"Hidden Blade B"
 	variant 2
-		"The Buried Chest B"
-		"The Fifth Ace"
-		"The Dirty Cutlass C"
+		"Buried Chest B"
+		"Fifth Ace"
+		"Dirty Cutlass C"
 	variant 2
-		"The Buried Chest C"
-		"The Hidden Blade"
-		"The Fifth Ace C"
+		"Buried Chest C"
+		"Hidden Blade"
+		"Fifth Ace C"
 	variant 2
-		"The Captain's Hoard"
-		"The Dirty Cutlass A"
-		"The Hidden Blade C"
+		"Captain's Hoard"
+		"Dirty Cutlass A"
+		"Hidden Blade C"
 	variant 2
-		"The Captain's Hoard A"
-		"The Fifth Ace A"
-		"The Dirty Cutlass"
+		"Captain's Hoard A"
+		"Fifth Ace A"
+		"Dirty Cutlass"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace"
 	variant 2
-		"The Captain's Hoard C"
-		"The Dirty Cutlass B"
-		"The Hidden Blade"
+		"Captain's Hoard C"
+		"Dirty Cutlass B"
+		"Hidden Blade"
 	variant 2
-		"The Pilfered Keg"
-		"The Fifth Ace C"
-		"The Dirty Cutlass"
+		"Pilfered Keg"
+		"Fifth Ace C"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg A"
-		"The Hidden Blade C"
-		"The Fifth Ace"
+		"Pilfered Keg A"
+		"Hidden Blade C"
+		"Fifth Ace"
 	variant 2
-		"The Pilfered Keg B"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Pilfered Keg B"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse"
-		"The Fifth Ace"
-		"The Dirty Cutlass A"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Fifth Ace"
+		"Dirty Cutlass A"
+		"Lifted Purse B"
 	variant 2
-		"The Lifted Purse A"
-		"The Hidden Blade"
-		"The Fifth Ace A"
-		"The Lifted Purse C"
+		"Lifted Purse A"
+		"Hidden Blade"
+		"Fifth Ace A"
+		"Lifted Purse C"
 	variant 2
-		"The Lifted Purse B"
-		"The Dirty Cutlass A"
-		"The Hidden Blade A"
-		"The Lifted Purse"
+		"Lifted Purse B"
+		"Dirty Cutlass A"
+		"Hidden Blade A"
+		"Lifted Purse"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace A"
-		"The Dirty Cutlass B"
+		"Lifted Purse C"
+		"Fifth Ace A"
+		"Dirty Cutlass B"
 	variant 2
 		"Berserker"
 	variant 2
@@ -1971,29 +1971,29 @@ fleet "Small Core Merchants"
 	variant 2
 		"Wren C"
 	variant 2
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 2
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 2
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 2
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 2
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 2
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 2
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 2
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 2
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 2
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -2083,21 +2083,21 @@ fleet "Small Core Merchants"
 	variant 1
 		"Modified Argosy (Missile)"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 
 fleet "Small Northern Merchants"
 	government "Merchant"
@@ -2173,13 +2173,13 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Star Queen C"
 	variant 6
-		"The Rum Barrell"
+		"Rum Barrell"
 	variant 4
-		"The Rum Barrell A"
+		"Rum Barrell A"
 	variant 4
-		"The Rum Barrell B"
+		"Rum Barrell B"
 	variant 4
-		"The Rum Barrell C"
+		"Rum Barrell C"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -2386,18 +2386,18 @@ fleet "Small Northern Merchants"
 		"Star Queen C"
 		"Raven A"
 	variant 2
-		"The Rum Barrell"
-		"The Dirty Cutlass"
+		"Rum Barrell"
+		"Dirty Cutlass"
 	variant 2
-		"The Rum Barrell A"
-		"The Fifth Ace"
+		"Rum Barrell A"
+		"Fifth Ace"
 	variant 2
-		"The Rum Barrell B"
-		"The Hidden Blade"
+		"Rum Barrell B"
+		"Hidden Blade"
 	variant 2
-		"The Rum Barrell C"
-		"The Hidden Blade"
-		"The Fifth Ace"
+		"Rum Barrell C"
+		"Hidden Blade"
+		"Fifth Ace"
 	variant 4
 		"3000X2 Freight"
 	variant 4
@@ -2461,37 +2461,37 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Star Barge A"
 	variant 4
-		"The Buried Chest"
+		"Buried Chest"
 	variant 4
-		"The Buried Chest A"
+		"Buried Chest A"
 	variant 4
-		"The Buried Chest B"
+		"Buried Chest B"
 	variant 4
-		"The Buried Chest C"
+		"Buried Chest C"
 	variant 4
-		"The Captain's Hoard"
+		"Captain's Hoard"
 	variant 4
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 	variant 4
-		"The Captain's Hoard B"
+		"Captain's Hoard B"
 	variant 4
-		"The Captain's Hoard C"
+		"Captain's Hoard C"
 	variant 4
-		"The Lifted Purse"
+		"Lifted Purse"
 	variant 4
-		"The Lifted Purse A"
+		"Lifted Purse A"
 	variant 4
-		"The Lifted Purse B"
+		"Lifted Purse B"
 	variant 4
-		"The Lifted Purse C"
+		"Lifted Purse C"
 	variant 4
-		"The Pilfered Keg"
+		"Pilfered Keg"
 	variant 4
-		"The Pilfered Keg A"
+		"Pilfered Keg A"
 	variant 4
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 	variant 4
-		"The Pilfered Keg C"
+		"Pilfered Keg C"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -2600,65 +2600,65 @@ fleet "Small Northern Merchants"
 		"Star Barge A"
 		"Star Barge A"
 	variant 3
-		"The Buried Chest"
-		"The Pilfered Keg"
+		"Buried Chest"
+		"Pilfered Keg"
 	variant 3
-		"The Buried Chest A"
-		"The Captain's Hoard C"
+		"Buried Chest A"
+		"Captain's Hoard C"
 	variant 3
-		"The Buried Chest B"
+		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"The Buried Chest C"
-		"The Lifted Purse A"
+		"Buried Chest C"
+		"Lifted Purse A"
 	variant 3
-		"The Captain's Hoard"
-		"The Lifted Purse B"
+		"Captain's Hoard"
+		"Lifted Purse B"
 	variant 3
-		"The Captain's Hoard A"
+		"Captain's Hoard A"
 		"3000X2 Freight"
 	variant 3
-		"The Captain's Hoard B"
-		"The Pilfered Keg B"
+		"Captain's Hoard B"
+		"Pilfered Keg B"
 	variant 3
-		"The Captain's Hoard C"
-		"The Pilfered Keg C"
+		"Captain's Hoard C"
+		"Pilfered Keg C"
 	variant 3
-		"The Lifted Purse"
+		"Lifted Purse"
 		"Freighter"
 	variant 3
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
+		"Lifted Purse A"
+		"Pilfered Keg A"
 	variant 3
-		"The Lifted Purse C"
-		"The Pilfered Keg C"
+		"Lifted Purse C"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg"
-		"The Pilfered Keg B"
-		"The Pilfered Keg A"
+		"Pilfered Keg"
+		"Pilfered Keg B"
+		"Pilfered Keg A"
 	variant 3
-		"The Pilfered Keg A"
-		"The Pilfered Keg C"
+		"Pilfered Keg A"
+		"Pilfered Keg C"
 	variant 3
-		"The Pilfered Keg B"
+		"Pilfered Keg B"
 		"Star Barge (Armed)"
 		"Star Barge A"
 	variant 3
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 3
-		"The Lifted Purse A"
-		"The Lifted Purse C"
-		"The Lifted Purse"
+		"Lifted Purse A"
+		"Lifted Purse C"
+		"Lifted Purse"
 	variant 3
-		"The Lifted Purse B"
-		"The Lifted Purse"
-		"The Lifted Purse A"
+		"Lifted Purse B"
+		"Lifted Purse"
+		"Lifted Purse A"
 	variant 3
-		"The Lifted Purse C"
-		"The Lifted Purse A"
-		"The Lifted Purse"
-		"The Lifted Purse B"
+		"Lifted Purse C"
+		"Lifted Purse A"
+		"Lifted Purse"
+		"Lifted Purse B"
 	variant 2
 		"3000X2 Freight"
 		"Elepaio"
@@ -2760,59 +2760,59 @@ fleet "Small Northern Merchants"
 		"Hauler C"
 		"Dark Berserker" 2
 	variant 2
-		"The Buried Chest"
-		"The Dirty Cutlass"
+		"Buried Chest"
+		"Dirty Cutlass"
 	variant 2
-		"The Buried Chest A"
-		"The Fifth Ace"
+		"Buried Chest A"
+		"Fifth Ace"
 	variant 2
-		"The Buried Chest B"
-		"The Hidden Blade"
+		"Buried Chest B"
+		"Hidden Blade"
 	variant 2
-		"The Buried Chest C"
-		"The Dirty Cutlass A"
+		"Buried Chest C"
+		"Dirty Cutlass A"
 	variant 2
-		"The Captain's Hoard"
-		"The Fifth Ace A"
+		"Captain's Hoard"
+		"Fifth Ace A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Hidden Blade A"
+		"Captain's Hoard A"
+		"Hidden Blade A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Dirty Cutlass B"
+		"Captain's Hoard B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Captain's Hoard C"
-		"The Fifth Ace B"
+		"Captain's Hoard C"
+		"Fifth Ace B"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade B"
+		"Lifted Purse"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass C"
+		"Lifted Purse A"
+		"Dirty Cutlass C"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace C"
+		"Lifted Purse C"
+		"Fifth Ace C"
 	variant 2
-		"The Pilfered Keg"
-		"The Hidden Blade C"
+		"Pilfered Keg"
+		"Hidden Blade C"
 	variant 2
-		"The Pilfered Keg A"
-		"The Dirty Cutlass"
+		"Pilfered Keg A"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg B"
-		"The Fifth Ace"
+		"Pilfered Keg B"
+		"Fifth Ace"
 	variant 2
-		"The Lifted Purse"
-		"The Hidden Blade"
+		"Lifted Purse"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse A"
-		"The Dirty Cutlass A"
+		"Lifted Purse A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Lifted Purse B"
-		"The Fifth Ace A"
+		"Lifted Purse B"
+		"Fifth Ace A"
 	variant 2
-		"The Lifted Purse C"
-		"The Hidden Blade A"
+		"Lifted Purse C"
+		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
@@ -2886,68 +2886,68 @@ fleet "Small Northern Merchants"
 		"Sparrow MKII A"
 		"Star Barge A"
 	variant 2
-		"The Buried Chest"
-		"The Hidden Blade A"
-		"The Fifth Ace B"
+		"Buried Chest"
+		"Hidden Blade A"
+		"Fifth Ace B"
 	variant 2
-		"The Buried Chest A"
-		"The Dirty Cutlass"
-		"The Hidden Blade B"
+		"Buried Chest A"
+		"Dirty Cutlass"
+		"Hidden Blade B"
 	variant 2
-		"The Buried Chest B"
-		"The Fifth Ace"
-		"The Dirty Cutlass C"
+		"Buried Chest B"
+		"Fifth Ace"
+		"Dirty Cutlass C"
 	variant 2
-		"The Buried Chest C"
-		"The Hidden Blade"
-		"The Fifth Ace C"
+		"Buried Chest C"
+		"Hidden Blade"
+		"Fifth Ace C"
 	variant 2
-		"The Captain's Hoard"
-		"The Dirty Cutlass A"
-		"The Hidden Blade C"
+		"Captain's Hoard"
+		"Dirty Cutlass A"
+		"Hidden Blade C"
 	variant 2
-		"The Captain's Hoard A"
-		"The Fifth Ace A"
-		"The Dirty Cutlass"
+		"Captain's Hoard A"
+		"Fifth Ace A"
+		"Dirty Cutlass"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace"
 	variant 2
-		"The Captain's Hoard C"
-		"The Dirty Cutlass B"
-		"The Hidden Blade"
+		"Captain's Hoard C"
+		"Dirty Cutlass B"
+		"Hidden Blade"
 	variant 2
-		"The Pilfered Keg"
-		"The Fifth Ace C"
-		"The Dirty Cutlass"
+		"Pilfered Keg"
+		"Fifth Ace C"
+		"Dirty Cutlass"
 	variant 2
-		"The Pilfered Keg A"
-		"The Hidden Blade C"
-		"The Fifth Ace"
+		"Pilfered Keg A"
+		"Hidden Blade C"
+		"Fifth Ace"
 	variant 2
-		"The Pilfered Keg B"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Pilfered Keg B"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Lifted Purse"
-		"The Fifth Ace"
-		"The Dirty Cutlass A"
-		"The Lifted Purse B"
+		"Lifted Purse"
+		"Fifth Ace"
+		"Dirty Cutlass A"
+		"Lifted Purse B"
 	variant 2
-		"The Lifted Purse A"
-		"The Hidden Blade"
-		"The Fifth Ace A"
-		"The Lifted Purse C"
+		"Lifted Purse A"
+		"Hidden Blade"
+		"Fifth Ace A"
+		"Lifted Purse C"
 	variant 2
-		"The Lifted Purse B"
-		"The Dirty Cutlass A"
-		"The Hidden Blade A"
-		"The Lifted Purse"
+		"Lifted Purse B"
+		"Dirty Cutlass A"
+		"Hidden Blade A"
+		"Lifted Purse"
 	variant 2
-		"The Lifted Purse C"
-		"The Fifth Ace A"
-		"The Dirty Cutlass B"
+		"Lifted Purse C"
+		"Fifth Ace A"
+		"Dirty Cutlass B"
 	variant 2
 		"Berserker"
 	variant 2
@@ -3021,29 +3021,29 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Wren C"
 	variant 2
-		"The Dirty Cutlass"
+		"Dirty Cutlass"
 	variant 2
-		"The Dirty Cutlass A"
+		"Dirty Cutlass A"
 	variant 2
-		"The Dirty Cutlass B"
+		"Dirty Cutlass B"
 	variant 2
-		"The Dirty Cutlass C"
+		"Dirty Cutlass C"
 	variant 2
-		"The Fifth Ace"
+		"Fifth Ace"
 	variant 2
-		"The Fifth Ace A"
+		"Fifth Ace A"
 	variant 2
-		"The Fifth Ace B"
+		"Fifth Ace B"
 	variant 2
-		"The Fifth Ace C"
+		"Fifth Ace C"
 	variant 2
-		"The Hidden Blade"
+		"Hidden Blade"
 	variant 2
-		"The Hidden Blade A"
+		"Hidden Blade A"
 	variant 2
-		"The Hidden Blade B"
+		"Hidden Blade B"
 	variant 2
-		"The Hidden Blade C"
+		"Hidden Blade C"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -3133,21 +3133,21 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Modified Argosy (Missile)"
 	variant 1
-		"The Deceitful Hangman"
+		"Deceitful Hangman"
 	variant 1
-		"The Deceitful Hangman A"
+		"Deceitful Hangman A"
 	variant 1
-		"The Deceitful Hangman B"
+		"Deceitful Hangman B"
 	variant 1
-		"The Deceitful Hangman C"
+		"Deceitful Hangman C"
 	variant 1
-		"The Fearless Assassin"
+		"Fearless Assassin"
 	variant 1
-		"The Fearless Assassin A"
+		"Fearless Assassin A"
 	variant 1
-		"The Fearless Assassin B"
+		"Fearless Assassin B"
 	variant 1
-		"The Fearless Assassin C"
+		"Fearless Assassin C"
 
 fleet "Large Southern Merchants"
 	government "Merchant"
@@ -3164,14 +3164,14 @@ fleet "Large Southern Merchants"
 		"3500X2 Freight C"
 		"3000X2 Freight A"
 	variant 2
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 		"3000X2 Freight B"
 	variant 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight A"
+		"4500X2A Freight C"
+		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
@@ -3181,23 +3181,23 @@ fleet "Large Southern Merchants"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
-		"7000X2 Super Freighter"
-		"7000X2 Super Freighter A"
+		"7000X2S Freight"
+		"7000X2S Freight A"
 	variant 2
-		"7000X2 Super Freighter A"
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight C"
+		"7000X2S Freight A"
+		"4500X2A Freight C"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freight B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freight C"
 		"Clipper"
 	variant 2
-		"8500X2 Super Freighter"
-		"4500X2 Armed Freight"
+		"8500X2S Freight"
+		"4500X2A Freight"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freight A"
 		"3000X2 Freight A"
 	variant 2
 		"Argosy"
@@ -3315,52 +3315,52 @@ fleet "Large Southern Merchants"
 		"Star Barge (Armed)" 3
 		"Star Barge A" 3
 	variant 2
-		"The Buried Chest" 2
-		"The Buried Chest A"
+		"Buried Chest" 2
+		"Buried Chest A"
 	variant 2
-		"The Buried Chest B"
-		"The Lifted Purse"
-		"The Pilfered Keg"
-		"The Captain's Hoard"
+		"Buried Chest B"
+		"Lifted Purse"
+		"Pilfered Keg"
+		"Captain's Hoard"
 	variant 2
-		"The Buried Chest C"
-		"The Captain's Hoard C"
+		"Buried Chest C"
+		"Captain's Hoard C"
 	variant 2
-		"The Captain's Hoard"
-		"The Captain's Hoard A"
+		"Captain's Hoard"
+		"Captain's Hoard A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Pilfered Keg" 2
+		"Captain's Hoard B"
+		"Pilfered Keg" 2
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse A" 2
-		"The Lifted Purse B" 2
-		"The Lifted Purse C" 2
+		"Lifted Purse" 2
+		"Lifted Purse A" 2
+		"Lifted Purse B" 2
+		"Lifted Purse C" 2
 	variant 2
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
-		"The Buried Chest B"
+		"Lifted Purse A"
+		"Pilfered Keg A"
+		"Buried Chest B"
 	variant 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg B"
-		"The Pilfered Keg"
+		"Lifted Purse B" 2
+		"Pilfered Keg B"
+		"Pilfered Keg"
 	variant 3
-		"10000X2 Super Freighter"
+		"10000X2S Freight"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter A"
+		"10000X2S Freight A"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter B"
+		"10000X2S Freight B"
 		"Dagger" 4
 	variant 3
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 	variant 3
-		"4500X2 Armed Freight A"
+		"4500X2A Freight A"
 	variant 3
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 3
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -3370,28 +3370,28 @@ fleet "Large Southern Merchants"
 	variant 3
 		"4500X2 Freight C"
 	variant 3
-		"7000X2 Super Freighter"
+		"7000X2S Freight"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter A"
+		"7000X2S Freight A"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter B"
+		"7000X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter C"
+		"7000X2S Freight C"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter"
+		"8500X2S Freight"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter A"
+		"8500X2S Freight A"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter B"
+		"8500X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter C"
+		"8500X2S Freight C"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -3486,31 +3486,31 @@ fleet "Large Southern Merchants"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
-		"The Rum Barrell" 2
-		"The Rum Barrell B"
-		"The Rum Barrell A"
+		"Rum Barrell" 2
+		"Rum Barrell B"
+		"Rum Barrell A"
 	variant 3
-		"The Rum Barrell A" 2
-		"The Rum Barrell C"
-		"The Lightning in the Storm"
+		"Rum Barrell A" 2
+		"Rum Barrell C"
+		"Stormbolt"
 	variant 2
-		"10000X2 Super Freighter"
+		"10000X2S Freighter"
 		"Dagger" 4
 		"X2 Gunship"
 	variant 2
-		"10000X2 Super Freighter A"
+		"10000X2S Freighter A"
 		"Dagger" 4
 		"Silver Escort"
 		"Silver Escort A"
 	variant 2
-		"10000X2 Super Freighter B"
-		"8500X2 Super Freighter C"
-		"7000X2 Super Freighter"
-		"X2 Gunship (Engines)"
+		"10000X2S Freighter B"
+		"8500X2S Freighter C"
+		"7000X2S Freighter"
+		"X2E Gunship"
 		"Dagger" 8
 	variant 2
 		"3000X2 Freight"
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Firebird"
 	variant 2
 		"3000X2 Freight A"
@@ -3532,52 +3532,52 @@ fleet "Large Southern Merchants"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
-		"4500X2 Armed Freight"
-		"4500X2 gunship A"
+		"4500X2A Freight"
+		"4500X2 Gunship A"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight A"
-		"4500X2 Armed Freight C"
+		"4500X2A Freight A"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter"
+		"7000X2S Freighter"
 		"Silver Defender"
 		"Dagger" 2
 	variant 2
-		"7000X2 Super Freighter A"
+		"7000X2S Freighter A"
 		"Dagger" 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 2
 		"4500X2 Freight C"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freighter B"
 		"4500X2 Freight A"
 		"Dagger" 2
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freighter C"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
-		"8500X2 Super Freighter"
+		"8500X2S Freighter"
 		"4500X2 Freight B"
 		"Dagger" 2
 		"Wamara"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freighter A"
 		"Dagger" 2
 		"Silver Escort"
 	variant 2
-		"8500X2 Super Freighter B"
+		"8500X2S Freighter B"
 		"Dagger" 2
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2 Super Freighter C"
+		"8500X2S Freighter C"
 		"Dagger" 2
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -3671,39 +3671,39 @@ fleet "Large Southern Merchants"
 		"Star Barge A" 2
 		"Swooping Raven" 2
 	variant 2
-		"The Buried Chest A"
-		"The Pilfered Keg A"
-		"The Lifted Purse C"
-		"The Screams of the Insane"
+		"Buried Chest A"
+		"Pilfered Keg A"
+		"Lifted Purse C"
+		"Hellscream"
 	variant 2
-		"The Buried Chest B"
-		"The Captain's Hoard C"
-		"The Deceptive Lover"
+		"Buried Chest B"
+		"Captain's Hoard C"
+		"Deceptive Lover"
 	variant 2
-		"The Captain's Hoard"
-		"The Buried Chest"
-		"The Deceitful Hangman"
-		"The Lifted Purse A"
+		"Captain's Hoard"
+		"Buried Chest"
+		"Deceitful Hangman"
+		"Lifted Purse A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Pilfered Keg C"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Captain's Hoard A"
+		"Pilfered Keg C"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace C"
-		"The Hidden Blade B"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace C"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg"
-		"The Fearless Assassin"
+		"Lifted Purse" 2
+		"Lifted Purse B" 2
+		"Pilfered Keg"
+		"Fearless Assassin"
 	variant 2
-		"The Buried Chest C"
-		"The Pilfered Keg B"
-		"The Damned Executioner"
-		"The Damned Executioner A"
+		"Buried Chest C"
+		"Pilfered Keg B"
+		"Damned Executioner"
+		"Damned Executioner A"
 	variant 2
 		"Quebracho"
 		"Gidgee"
@@ -3760,7 +3760,7 @@ fleet "Large Southern Merchants"
 		"Wamara C"
 	variant 1
 		"Mule"
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
 		"Mule (Heavy)"
 		"Mule A"
@@ -3792,13 +3792,13 @@ fleet "Large Southern Merchants"
 		"Aerie C"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Bastion"
 	variant 1
@@ -3941,11 +3941,11 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Protector B"
 	variant 1
-		"Protector Fortress"
+		"Fortress"
 	variant 1
-		"Protector Fortress A"
+		"Fortress A"
 	variant 1
-		"Protector Fortress B"
+		"Fortress B"
 	variant 1
 		"Vanguard"
 	variant 1
@@ -3953,13 +3953,13 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Vanguard A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 1
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 	variant 1
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 	variant 1
-		"Vanguard Trailbreaker C"
+		"Trailbreaker C"
 	variant 1
 		"Wamara"
 	variant 1
@@ -3977,29 +3977,29 @@ fleet "Large Southern Merchants"
 	variant 1
 		"X2 Gunship C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 1
-		"The Black Star"
+		"Black Star"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 1
 		"Silver Defender"
 	variant 1
@@ -4009,37 +4009,37 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Silver Defender C"
 	variant 1
-		"The Damned Executioner"
+		"Damned Executioner"
 	variant 1
-		"The Damned Executioner A"
+		"Damned Executioner A"
 	variant 1
-		"The Damned Executioner B"
+		"Damned Executioner B"
 	variant 1
-		"The Damned Executioner C"
+		"Damned Executioner C"
 	variant 1
-		"The Lightning in the Storm"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm A"
+		"Stormbolt A"
 	variant 1
-		"The Lightning in the Storm B"
+		"Stormbolt B"
 	variant 1
-		"The Lightning in the Storm C"
+		"Stormbolt C"
 	variant 1
-		"The Deceptive Lover"
+		"Deceptive Lover"
 	variant 1
-		"The Deceptive Lover A"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover B"
+		"Deceptive Lover B"
 	variant 1
-		"The Deceptive Lover C"
+		"Deceptive Lover C"
 	variant 1
-		"The Screams of the Insane"
+		"Hellscream"
 	variant 1
-		"The Screams of the Insane A"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane B"
+		"Hellscream B"
 	variant 1
-		"The Screams of the Insane C"
+		"Hellscream C"
 
 fleet "Large Core Merchants"
 	government "Merchant"
@@ -4056,14 +4056,14 @@ fleet "Large Core Merchants"
 		"3500X2 Freight C"
 		"3000X2 Freight A"
 	variant 2
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 		"3000X2 Freight B"
 	variant 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight A"
+		"4500X2A Freight C"
+		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
@@ -4073,23 +4073,23 @@ fleet "Large Core Merchants"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
-		"7000X2 Super Freighter"
-		"7000X2 Super Freighter A"
+		"7000X2S Freighter"
+		"7000X2S Freighter A"
 	variant 2
-		"7000X2 Super Freighter A"
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight C"
+		"7000X2S Freighter A"
+		"4500X2A Freight C"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freighter B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freighter C"
 		"Clipper"
 	variant 2
-		"8500X2 Super Freighter"
-		"4500X2 Armed Freight"
+		"8500X2S Freighter"
+		"4500X2A Freight"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freighter A"
 		"3000X2 Freight A"
 	variant 2
 		"Argosy"
@@ -4204,52 +4204,52 @@ fleet "Large Core Merchants"
 		"Star Barge (Armed)" 3
 		"Star Barge A" 3
 	variant 2
-		"The Buried Chest" 2
-		"The Buried Chest A"
+		"Buried Chest" 2
+		"Buried Chest A"
 	variant 2
-		"The Buried Chest B"
-		"The Lifted Purse"
-		"The Pilfered Keg"
-		"The Captain's Hoard"
+		"Buried Chest B"
+		"Lifted Purse"
+		"Pilfered Keg"
+		"Captain's Hoard"
 	variant 2
-		"The Buried Chest C"
-		"The Captain's Hoard C"
+		"Buried Chest C"
+		"Captain's Hoard C"
 	variant 2
-		"The Captain's Hoard"
-		"The Captain's Hoard A"
+		"Captain's Hoard"
+		"Captain's Hoard A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Pilfered Keg" 2
+		"Captain's Hoard B"
+		"Pilfered Keg" 2
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse A" 2
-		"The Lifted Purse B" 2
-		"The Lifted Purse C" 2
+		"Lifted Purse" 2
+		"Lifted Purse A" 2
+		"Lifted Purse B" 2
+		"Lifted Purse C" 2
 	variant 2
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
-		"The Buried Chest B"
+		"Lifted Purse A"
+		"Pilfered Keg A"
+		"Buried Chest B"
 	variant 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg B"
-		"The Pilfered Keg"
+		"Lifted Purse B" 2
+		"Pilfered Keg B"
+		"Pilfered Keg"
 	variant 3
-		"10000X2 Super Freighter"
+		"10000X2S Freighter"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter A"
+		"10000X2S Freighter A"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter B"
+		"10000X2S Freighter B"
 		"Dagger" 4
 	variant 3
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 	variant 3
-		"4500X2 Armed Freight A"
+		"4500X2A Freight A"
 	variant 3
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 3
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -4259,28 +4259,28 @@ fleet "Large Core Merchants"
 	variant 3
 		"4500X2 Freight C"
 	variant 3
-		"7000X2 Super Freighter"
+		"7000X2S Freighter"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter A"
+		"7000X2S Freighter A"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter B"
+		"7000X2S Freighter B"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter C"
+		"7000X2S Freighter C"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter"
+		"8500X2S Freighter"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter A"
+		"8500X2S Freighter A"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter B"
+		"8500X2S Freighter B"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter C"
+		"8500X2S Freighter C"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -4375,31 +4375,31 @@ fleet "Large Core Merchants"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
-		"The Rum Barrell" 2
-		"The Rum Barrell B"
-		"The Rum Barrell A"
+		"Rum Barrell" 2
+		"Rum Barrell B"
+		"Rum Barrell A"
 	variant 3
-		"The Rum Barrell A" 2
-		"The Rum Barrell C"
-		"The Lightning in the Storm"
+		"Rum Barrell A" 2
+		"Rum Barrell C"
+		"Stormbolt"
 	variant 2
-		"10000X2 Super Freighter"
+		"10000X2S Freighter"
 		"Dagger" 4
 		"X2 Gunship"
 	variant 2
-		"10000X2 Super Freighter A"
+		"10000X2S Freighter A"
 		"Dagger" 4
 		"Silver Escort"
 		"Silver Escort A"
 	variant 2
-		"10000X2 Super Freighter B"
-		"8500X2 Super Freighter C"
-		"7000X2 Super Freighter"
-		"X2 Gunship (Engines)"
+		"10000X2S Freighter B"
+		"8500X2S Freighter C"
+		"7000X2S Freighter"
+		"X2E Gunship"
 		"Dagger" 8
 	variant 2
 		"3000X2 Freight"
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Firebird"
 	variant 2
 		"3000X2 Freight A"
@@ -4421,52 +4421,52 @@ fleet "Large Core Merchants"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
-		"4500X2 Armed Freight"
-		"4500X2 gunship A"
+		"4500X2A Freight"
+		"4500X2 Gunship A"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight A"
-		"4500X2 Armed Freight C"
+		"4500X2A Freight A"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter"
+		"7000X2S Freighter"
 		"Silver Defender"
 		"Dagger" 2
 	variant 2
-		"7000X2 Super Freighter A"
+		"7000X2S Freighter A"
 		"Dagger" 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 2
 		"4500X2 Freight C"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freighter B"
 		"4500X2 Freight A"
 		"Dagger" 2
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freighter C"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
-		"8500X2 Super Freighter"
+		"8500X2S Freighter"
 		"4500X2 Freight B"
 		"Dagger" 2
 		"Wamara"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freighter A"
 		"Dagger" 2
 		"Silver Escort"
 	variant 2
-		"8500X2 Super Freighter B"
+		"8500X2S Freighter B"
 		"Dagger" 2
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2 Super Freighter C"
+		"8500X2S Freighter C"
 		"Dagger" 2
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -4560,39 +4560,39 @@ fleet "Large Core Merchants"
 		"Star Barge A" 2
 		"Swooping Raven" 2
 	variant 2
-		"The Buried Chest A"
-		"The Pilfered Keg A"
-		"The Lifted Purse C"
-		"The Screams of the Insane"
+		"Buried Chest A"
+		"Pilfered Keg A"
+		"Lifted Purse C"
+		"Hellscream"
 	variant 2
-		"The Buried Chest B"
-		"The Captain's Hoard C"
-		"The Deceptive Lover"
+		"Buried Chest B"
+		"Captain's Hoard C"
+		"Deceptive Lover"
 	variant 2
-		"The Captain's Hoard"
-		"The Buried Chest"
-		"The Deceitful Hangman"
-		"The Lifted Purse A"
+		"Captain's Hoard"
+		"Buried Chest"
+		"Deceitful Hangman"
+		"Lifted Purse A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Pilfered Keg C"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Captain's Hoard A"
+		"Pilfered Keg C"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace C"
-		"The Hidden Blade B"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace C"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg"
-		"The Fearless Assassin"
+		"Lifted Purse" 2
+		"Lifted Purse B" 2
+		"Pilfered Keg"
+		"Fearless Assassin"
 	variant 2
-		"The Buried Chest C"
-		"The Pilfered Keg B"
-		"The Damned Executioner"
-		"The Damned Executioner A"
+		"Buried Chest C"
+		"Pilfered Keg B"
+		"Damned Executioner"
+		"Damned Executioner A"
 	variant 2
 		"Quebracho"
 		"Gidgee"
@@ -4649,7 +4649,7 @@ fleet "Large Core Merchants"
 		"Wamara C"
 	variant 1
 		"Mule"
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
 		"Mule (Heavy)"
 		"Mule A"
@@ -4681,13 +4681,13 @@ fleet "Large Core Merchants"
 		"Aerie C"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Bastion"
 	variant 1
@@ -4830,11 +4830,11 @@ fleet "Large Core Merchants"
 	variant 1
 		"Protector B"
 	variant 1
-		"Protector Fortress"
+		"Fortress"
 	variant 1
-		"Protector Fortress A"
+		"Fortress A"
 	variant 1
-		"Protector Fortress B"
+		"Fortress B"
 	variant 1
 		"Vanguard"
 	variant 1
@@ -4842,13 +4842,13 @@ fleet "Large Core Merchants"
 	variant 1
 		"Vanguard A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 1
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 	variant 1
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 	variant 1
-		"Vanguard Trailbreaker C"
+		"Trailbreaker C"
 	variant 1
 		"Wamara"
 	variant 1
@@ -4866,29 +4866,29 @@ fleet "Large Core Merchants"
 	variant 1
 		"X2 Gunship C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 1
-		"The Black Star"
+		"Black Star"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 1
 		"Silver Defender"
 	variant 1
@@ -4898,37 +4898,37 @@ fleet "Large Core Merchants"
 	variant 1
 		"Silver Defender C"
 	variant 1
-		"The Damned Executioner"
+		"Damned Executioner"
 	variant 1
-		"The Damned Executioner A"
+		"Damned Executioner A"
 	variant 1
-		"The Damned Executioner B"
+		"Damned Executioner B"
 	variant 1
-		"The Damned Executioner C"
+		"Damned Executioner C"
 	variant 1
-		"The Lightning in the Storm"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm A"
+		"Stormbolt A"
 	variant 1
-		"The Lightning in the Storm B"
+		"Stormbolt B"
 	variant 1
-		"The Lightning in the Storm C"
+		"Stormbolt C"
 	variant 1
-		"The Deceptive Lover"
+		"Deceptive Lover"
 	variant 1
-		"The Deceptive Lover A"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover B"
+		"Deceptive Lover B"
 	variant 1
-		"The Deceptive Lover C"
+		"Deceptive Lover C"
 	variant 1
-		"The Screams of the Insane"
+		"Hellscream"
 	variant 1
-		"The Screams of the Insane A"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane B"
+		"Hellscream B"
 	variant 1
-		"The Screams of the Insane C"
+		"Hellscream C"
 
 fleet "Large Northern Merchants"
 	government "Merchant"
@@ -4945,14 +4945,14 @@ fleet "Large Northern Merchants"
 		"3500X2 Freight C"
 		"3000X2 Freight A"
 	variant 2
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 		"3000X2 Freight B"
 	variant 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight A"
+		"4500X2A Freight C"
+		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
@@ -4962,23 +4962,23 @@ fleet "Large Northern Merchants"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
-		"7000X2 Super Freighter"
-		"7000X2 Super Freighter A"
+		"7000X2S Freighter"
+		"7000X2S Freighter A"
 	variant 2
-		"7000X2 Super Freighter A"
-		"4500X2 Armed Freight C"
-		"4500X2 Armed Freight C"
+		"7000X2S Freighter A"
+		"4500X2A Freight C"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freighter B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freighter C"
 		"Clipper"
 	variant 2
-		"8500X2 Super Freighter"
-		"4500X2 Armed Freight"
+		"8500X2S Freighter"
+		"4500X2A Freight"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freighter A"
 		"3000X2 Freight A"
 	variant 2
 		"Argosy"
@@ -5093,52 +5093,52 @@ fleet "Large Northern Merchants"
 		"Star Barge (Armed)" 3
 		"Star Barge A" 3
 	variant 2
-		"The Buried Chest" 2
-		"The Buried Chest A"
+		"Buried Chest" 2
+		"Buried Chest A"
 	variant 2
-		"The Buried Chest B"
-		"The Lifted Purse"
-		"The Pilfered Keg"
-		"The Captain's Hoard"
+		"Buried Chest B"
+		"Lifted Purse"
+		"Pilfered Keg"
+		"Captain's Hoard"
 	variant 2
-		"The Buried Chest C"
-		"The Captain's Hoard C"
+		"Buried Chest C"
+		"Captain's Hoard C"
 	variant 2
-		"The Captain's Hoard"
-		"The Captain's Hoard A"
+		"Captain's Hoard"
+		"Captain's Hoard A"
 	variant 2
-		"The Captain's Hoard B"
-		"The Pilfered Keg" 2
+		"Captain's Hoard B"
+		"Pilfered Keg" 2
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse A" 2
-		"The Lifted Purse B" 2
-		"The Lifted Purse C" 2
+		"Lifted Purse" 2
+		"Lifted Purse A" 2
+		"Lifted Purse B" 2
+		"Lifted Purse C" 2
 	variant 2
-		"The Lifted Purse A"
-		"The Pilfered Keg A"
-		"The Buried Chest B"
+		"Lifted Purse A"
+		"Pilfered Keg A"
+		"Buried Chest B"
 	variant 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg B"
-		"The Pilfered Keg"
+		"Lifted Purse B" 2
+		"Pilfered Keg B"
+		"Pilfered Keg"
 	variant 3
-		"10000X2 Super Freighter"
+		"10000X2S Freighter"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter A"
+		"10000X2S Freighter A"
 		"Dagger" 4
 	variant 3
-		"10000X2 Super Freighter B"
+		"10000X2S Freighter B"
 		"Dagger" 4
 	variant 3
-		"4500X2 Armed Freight"
+		"4500X2A Freight"
 	variant 3
-		"4500X2 Armed Freight A"
+		"4500X2A Freight A"
 	variant 3
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 3
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -5148,28 +5148,28 @@ fleet "Large Northern Merchants"
 	variant 3
 		"4500X2 Freight C"
 	variant 3
-		"7000X2 Super Freighter"
+		"7000X2S Freight"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter A"
+		"7000X2S Freight A"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter B"
+		"7000X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"7000X2 Super Freighter C"
+		"7000X2S Freight C"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter"
+		"8500X2S Freight"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter A"
+		"8500X2S Freight A"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter B"
+		"8500X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"8500X2 Super Freighter C"
+		"8500X2S Freight C"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -5264,31 +5264,31 @@ fleet "Large Northern Merchants"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
-		"The Rum Barrell" 2
-		"The Rum Barrell B"
-		"The Rum Barrell A"
+		"Rum Barrell" 2
+		"Rum Barrell B"
+		"Rum Barrell A"
 	variant 3
-		"The Rum Barrell A" 2
-		"The Rum Barrell C"
-		"The Lightning in the Storm"
+		"Rum Barrell A" 2
+		"Rum Barrell C"
+		"Stormbolt"
 	variant 2
-		"10000X2 Super Freighter"
+		"10000X2S Freight"
 		"Dagger" 4
 		"X2 Gunship"
 	variant 2
-		"10000X2 Super Freighter A"
+		"10000X2S Freight A"
 		"Dagger" 4
 		"Silver Escort"
 		"Silver Escort A"
 	variant 2
-		"10000X2 Super Freighter B"
-		"8500X2 Super Freighter C"
-		"7000X2 Super Freighter"
-		"X2 Gunship (Engines)"
+		"10000X2S Freight B"
+		"8500X2S Freight C"
+		"7000X2S Freight"
+		"X2E Gunship"
 		"Dagger" 8
 	variant 2
 		"3000X2 Freight"
-		"4500X2 gunship"
+		"4500X2 Gunship"
 		"Firebird"
 	variant 2
 		"3000X2 Freight A"
@@ -5310,52 +5310,52 @@ fleet "Large Northern Merchants"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
-		"4500X2 Armed Freight"
-		"4500X2 gunship A"
+		"4500X2A Freight"
+		"4500X2 Gunship A"
 		"4500X2 Freight"
 	variant 2
-		"4500X2 Armed Freight A"
-		"4500X2 Armed Freight C"
+		"4500X2A Freight A"
+		"4500X2A Freight C"
 	variant 2
-		"7000X2 Super Freighter"
+		"7000X2S Freight"
 		"Silver Defender"
 		"Dagger" 2
 	variant 2
-		"7000X2 Super Freighter A"
+		"7000X2S Freight A"
 		"Dagger" 2
-		"4500X2 Armed Freight B"
+		"4500X2A Freight B"
 	variant 2
 		"4500X2 Freight C"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
-		"7000X2 Super Freighter B"
+		"7000X2S Freight B"
 		"4500X2 Freight A"
 		"Dagger" 2
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2 Super Freighter C"
+		"7000X2S Freight C"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
-		"8500X2 Super Freighter"
+		"8500X2S Freight"
 		"4500X2 Freight B"
 		"Dagger" 2
 		"Wamara"
 	variant 2
-		"8500X2 Super Freighter A"
+		"8500X2S Freight A"
 		"Dagger" 2
 		"Silver Escort"
 	variant 2
-		"8500X2 Super Freighter B"
+		"8500X2S Freight B"
 		"Dagger" 2
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2 Super Freighter C"
+		"8500X2S Freight C"
 		"Dagger" 2
-		"4500X2 Armed Freight C"
+		"4500X2A Freight C"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -5449,39 +5449,39 @@ fleet "Large Northern Merchants"
 		"Star Barge A" 2
 		"Swooping Raven" 2
 	variant 2
-		"The Buried Chest A"
-		"The Pilfered Keg A"
-		"The Lifted Purse C"
-		"The Screams of the Insane"
+		"Buried Chest A"
+		"Pilfered Keg A"
+		"Lifted Purse C"
+		"Hellscream"
 	variant 2
-		"The Buried Chest B"
-		"The Captain's Hoard C"
-		"The Deceptive Lover"
+		"Buried Chest B"
+		"Captain's Hoard C"
+		"Deceptive Lover"
 	variant 2
-		"The Captain's Hoard"
-		"The Buried Chest"
-		"The Deceitful Hangman"
-		"The Lifted Purse A"
+		"Captain's Hoard"
+		"Buried Chest"
+		"Deceitful Hangman"
+		"Lifted Purse A"
 	variant 2
-		"The Captain's Hoard A"
-		"The Pilfered Keg C"
-		"The Dirty Cutlass"
-		"The Hidden Blade"
+		"Captain's Hoard A"
+		"Pilfered Keg C"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 2
-		"The Captain's Hoard B"
-		"The Hidden Blade A"
-		"The Fifth Ace C"
-		"The Hidden Blade B"
+		"Captain's Hoard B"
+		"Hidden Blade A"
+		"Fifth Ace C"
+		"Hidden Blade B"
 	variant 2
-		"The Lifted Purse" 2
-		"The Lifted Purse B" 2
-		"The Pilfered Keg"
-		"The Fearless Assassin"
+		"Lifted Purse" 2
+		"Lifted Purse B" 2
+		"Pilfered Keg"
+		"Fearless Assassin"
 	variant 2
-		"The Buried Chest C"
-		"The Pilfered Keg B"
-		"The Damned Executioner"
-		"The Damned Executioner A"
+		"Buried Chest C"
+		"Pilfered Keg B"
+		"Damned Executioner"
+		"Damned Executioner A"
 	variant 2
 		"Quebracho"
 		"Gidgee"
@@ -5538,7 +5538,7 @@ fleet "Large Northern Merchants"
 		"Wamara C"
 	variant 1
 		"Mule"
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
 		"Mule (Heavy)"
 		"Mule A"
@@ -5570,13 +5570,13 @@ fleet "Large Northern Merchants"
 		"Aerie C"
 		"Dagger" 2
 	variant 1
-		"4500X2 gunship"
+		"4500X2 Gunship"
 	variant 1
-		"4500X2 gunship A"
+		"4500X2 Gunship A"
 	variant 1
-		"4500X2 gunship B"
+		"4500X2 Gunship B"
 	variant 1
-		"4500X2 gunship C"
+		"4500X2 Gunship C"
 	variant 1
 		"Bastion"
 	variant 1
@@ -5719,11 +5719,11 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Protector B"
 	variant 1
-		"Protector Fortress"
+		"Fortress"
 	variant 1
-		"Protector Fortress A"
+		"Fortress A"
 	variant 1
-		"Protector Fortress B"
+		"Fortress B"
 	variant 1
 		"Vanguard"
 	variant 1
@@ -5731,13 +5731,13 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Vanguard A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 1
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 	variant 1
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 	variant 1
-		"Vanguard Trailbreaker C"
+		"Trailbreaker C"
 	variant 1
 		"Wamara"
 	variant 1
@@ -5755,29 +5755,29 @@ fleet "Large Northern Merchants"
 	variant 1
 		"X2 Gunship C"
 	variant 1
-		"X2 Gunship (Engines)"
+		"X2E Gunship"
 	variant 1
-		"X2 Gunship (Engines) A"
+		"X2E Gunship A"
 	variant 1
-		"X2 Gunship (Engines) B"
+		"X2E Gunship B"
 	variant 1
-		"X2 Gunship (Engines) C"
+		"X2E Gunship C"
 	variant 1
-		"The Black Star"
+		"Black Star"
 	variant 1
-		"The Black Star A"
+		"Black Star A"
 	variant 1
-		"The Black Star B"
+		"Black Star B"
 	variant 1
-		"The Black Star C"
+		"Black Star C"
 	variant 1
-		"The Silver Star A"
+		"Silver Star A"
 	variant 1
-		"The Silver Star B"
+		"Silver Star B"
 	variant 1
-		"The Silver Star C"
+		"Silver Star C"
 	variant 1
-		"The Silver Star"
+		"Silver Star"
 	variant 1
 		"Silver Defender"
 	variant 1
@@ -5787,37 +5787,34 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Silver Defender C"
 	variant 1
-		"The Damned Executioner"
+		"Damned Executioner"
 	variant 1
-		"The Damned Executioner A"
+		"Damned Executioner A"
 	variant 1
-		"The Damned Executioner B"
+		"Damned Executioner B"
 	variant 1
-		"The Damned Executioner C"
+		"Damned Executioner C"
 	variant 1
-		"The Lightning in the Storm"
+		"Stormbolt"
 	variant 1
-		"The Lightning in the Storm A"
+		"Stormbolt A"
 	variant 1
-		"The Lightning in the Storm B"
+		"Stormbolt B"
 	variant 1
-		"The Lightning in the Storm C"
+		"Stormbolt C"
 	variant 1
-		"The Deceptive Lover"
+		"Deceptive Lover"
 	variant 1
-		"The Deceptive Lover A"
+		"Deceptive Lover A"
 	variant 1
-		"The Deceptive Lover B"
+		"Deceptive Lover B"
 	variant 1
-		"The Deceptive Lover C"
+		"Deceptive Lover C"
 	variant 1
-		"The Screams of the Insane"
+		"Hellscream"
 	variant 1
-		"The Screams of the Insane A"
+		"Hellscream A"
 	variant 1
-		"The Screams of the Insane B"
+		"Hellscream B"
 	variant 1
-		"The Screams of the Insane C"
-
-
-
+		"Hellscream C"
