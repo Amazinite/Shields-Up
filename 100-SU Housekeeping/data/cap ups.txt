@@ -11,7 +11,7 @@
 outfit "Soaker Missile Cap-Up"
 	category "Ammunition"
 	cost 325000
-	thumbnail "outfit/rocket cap"
+	thumbnail "outfit/unknown"
 	"mass" 2
 	"outfit space" -12
 	"soaker capacity" 10
@@ -20,7 +20,7 @@ outfit "Soaker Missile Cap-Up"
 outfit "Intelligent Rocket Cap-Up"
 	category "Ammunition"
 	cost 45000
-	thumbnail "outfit/intell rocket cap"
+	thumbnail "outfit/unknown"
 	"mass" 2.5
 	"outfit space" -5
 	"intelrock capacity" 10
@@ -29,7 +29,7 @@ outfit "Intelligent Rocket Cap-Up"
 outfit "EMP Bomb Cap-Up"
 	category "Ammunition"
 	cost 40000
-	thumbnail "outfit/emp cap"
+	thumbnail "outfit/unknown"
 	"mass" 3
 	"outfit space" -8
 	"empbomb capacity" 10
