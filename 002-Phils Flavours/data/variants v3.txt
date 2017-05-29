@@ -2341,9 +2341,7 @@ ship "Fortress" "Fortress A"
 		"Liquid Nitrogen Cooler"
 		"Fusion Reactor"
 		"Large Radar Jammer"
-		"Cargo Scanner"
 		"Laser Rifle" 20
-		"Outfit Scanner"
 		"Fragmentation Grenades" 40
 		"LP288a Battery Pack"
 		"Tactical Military Outfit" 20
@@ -2362,9 +2360,7 @@ ship "Fortress" "Fortress B"
 		"LP144a Battery Pack"
 		"Water Coolant System"
 		"Large Radar Jammer"
-		"Cargo Scanner"
 		"Laser Rifle" 40
-		"Outfit Scanner"
 		"Security Station" 3
 		"Fragmentation Grenades" 20
 		"LP036a Battery Pack"

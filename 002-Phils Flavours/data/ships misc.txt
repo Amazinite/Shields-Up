@@ -538,8 +538,6 @@ ship "Fortress"
 		"D94-YV Shield Generator"
 		"Water Coolant System"
 		"Large Radar Jammer" 2
-		"Cargo Scanner"
-		"Outfit Scanner"
 
 		"Impala Plasma Thruster"
 		"Chipmunk Plasma Thruster"
