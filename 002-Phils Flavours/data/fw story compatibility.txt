@@ -17,14 +17,14 @@ event "southern carriers compatibility4"
 			"3500X2 Freight C"
 			"3000X2 Freight A"
 		variant 2
-			"4500X2 Armed Freight"
+			"4500X2A Freight"
 			"3000X2 Freight B"
 		variant 2
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 			"4500X2 Freight"
 		variant 2
-			"4500X2 Armed Freight C"
-			"4500X2 Armed Freight A"
+			"4500X2A Freight C"
+			"4500X2A Freight A"
 		variant 2
 			"4500X2 Freight B"
 			"3500X2 Freight"
@@ -34,23 +34,23 @@ event "southern carriers compatibility4"
 			"Freighter"
 			"Star Barge A" 2
 		variant 2
-			"7000X2 Super Freighter"
-			"7000X2 Super Freighter A"
+			"7000X2S Freight"
+			"7000X2S Freight A"
 		variant 2
-			"7000X2 Super Freighter A"
-			"4500X2 Armed Freight C"
-			"4500X2 Armed Freight C"
+			"7000X2S Freight A"
+			"4500X2A Freight C"
+			"4500X2A Freight C"
 		variant 2
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"3000X2 Freight A"
 		variant 2
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Clipper"
 		variant 2
-			"8500X2 Super Freighter"
-			"4500X2 Armed Freight"
+			"8500X2S Freight"
+			"4500X2A Freight"
 		variant 2
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"3000X2 Freight A"
 		variant 2
 			"Argosy"
@@ -102,52 +102,52 @@ event "southern carriers compatibility4"
 			"Star Barge (Armed)" 3
 			"Star Barge A" 3
 		variant 2
-			"The Buried Chest" 2
-			"The Buried Chest A"
+			"Buried Chest" 2
+			"Buried Chest A"
 		variant 2
-			"The Buried Chest B"
-			"The Lifted Purse"
-			"The Pilfered Keg"
-			"The Captain's Hoard"
+			"Buried Chest B"
+			"Lifted Purse"
+			"Pilfered Keg"
+			"Captain's Hoard"
 		variant 2
-			"The Buried Chest C"
-			"The Captain's Hoard C"
+			"Buried Chest C"
+			"Captain's Hoard C"
 		variant 2
-			"The Captain's Hoard"
-			"The Captain's Hoard A"
+			"Captain's Hoard"
+			"Captain's Hoard A"
 		variant 2
-			"The Captain's Hoard B"
-			"The Pilfered Keg" 2
+			"Captain's Hoard B"
+			"Pilfered Keg" 2
 		variant 2
-			"The Lifted Purse" 2
-			"The Lifted Purse A" 2
-			"The Lifted Purse B" 2
-			"The Lifted Purse C" 2
+			"Lifted Purse" 2
+			"Lifted Purse A" 2
+			"Lifted Purse B" 2
+			"Lifted Purse C" 2
 		variant 2
-			"The Lifted Purse A"
-			"The Pilfered Keg A"
-			"The Buried Chest B"
+			"Lifted Purse A"
+			"Pilfered Keg A"
+			"Buried Chest B"
 		variant 2
-			"The Lifted Purse B" 2
-			"The Pilfered Keg B"
-			"The Pilfered Keg"
+			"Lifted Purse B" 2
+			"Pilfered Keg B"
+			"Pilfered Keg"
 		variant 3
-			"10000X2 Super Freighter"
+			"10000X2S Freight"
 			"Dagger" 4
 		variant 3
-			"10000X2 Super Freighter A"
+			"10000X2S Freight A"
 			"Dagger" 4
 		variant 3
-			"10000X2 Super Freighter B"
+			"10000X2S Freight B"
 			"Dagger" 4
 		variant 3
-			"4500X2 Armed Freight"
+			"4500X2A Freight"
 		variant 3
-			"4500X2 Armed Freight A"
+			"4500X2A Freight A"
 		variant 3
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 		variant 3
-			"4500X2 Armed Freight C"
+			"4500X2A Freight C"
 		variant 3
 			"4500X2 Freight"
 		variant 3
@@ -157,28 +157,28 @@ event "southern carriers compatibility4"
 		variant 3
 			"4500X2 Freight C"
 		variant 3
-			"7000X2 Super Freighter"
+			"7000X2S Freight"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter A"
+			"7000X2S Freight A"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter"
+			"8500X2S Freight"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter B"
+			"8500X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter C"
+			"8500X2S Freight C"
 			"Dagger" 2
 		variant 3
 			"Behemoth"
@@ -273,31 +273,31 @@ event "southern carriers compatibility4"
 			"Silver Defender"
 			"Silver Escort" 2
 		variant 3
-			"The Rum Barrell" 2
-			"The Rum Barrell B"
-			"The Rum Barrell A"
+			"Rum Barrell" 2
+			"Rum Barrell B"
+			"Rum Barrell A"
 		variant 3
-			"The Rum Barrell A" 2
-			"The Rum Barrell C"
-			"The Lightning in the Storm"
+			"Rum Barrell A" 2
+			"Rum Barrell C"
+			"Stormbolt"
 		variant 2
-			"10000X2 Super Freighter"
+			"10000X2S Freight"
 			"Dagger" 4
 			"X2 Gunship"
 		variant 2
-			"10000X2 Super Freighter A"
+			"10000X2S Freight A"
 			"Dagger" 4
 			"Silver Escort"
 			"Silver Escort A"
 		variant 2
-			"10000X2 Super Freighter B"
-			"8500X2 Super Freighter C"
-			"7000X2 Super Freighter"
-			"X2 Gunship (Engines)"
+			"10000X2S Freight B"
+			"8500X2S Freight C"
+			"7000X2S Freight"
+			"X2E Gunship"
 			"Dagger" 8
 		variant 2
 			"3000X2 Freight"
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Firebird"
 		variant 2
 			"3000X2 Freight A"
@@ -318,52 +318,52 @@ event "southern carriers compatibility4"
 			"Leviathan"
 			"Freighter (Fancy)"
 		variant 2
-			"4500X2 Armed Freight"
-			"4500X2 gunship A"
+			"4500X2A Freight"
+			"4500X2 Gunship A"
 			"4500X2 Freight"
 		variant 2
-			"4500X2 Armed Freight A"
-			"4500X2 Armed Freight C"
+			"4500X2A Freight A"
+			"4500X2A Freight C"
 		variant 2
-			"7000X2 Super Freighter"
+			"7000X2S Freight"
 			"Silver Defender"
 			"Dagger" 2
 		variant 2
-			"7000X2 Super Freighter A"
+			"7000X2S Freight A"
 			"Dagger" 2
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 		variant 2
 			"4500X2 Freight C"
 			"4500X2 Freight B"
 			"Leviathan"
 		variant 2
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"4500X2 Freight A"
 			"Dagger" 2
 			"Elepaio"
 			"Elepaio"
 		variant 2
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Silver Protector"
 			"Dagger" 2
 		variant 2
-			"8500X2 Super Freighter"
+			"8500X2S Freight"
 			"4500X2 Freight B"
 			"Dagger" 2
 			"Wamara"
 		variant 2
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"Dagger" 2
 			"Silver Escort"
 		variant 2
-			"8500X2 Super Freighter B"
+			"8500X2S Freight B"
 			"Dagger" 2
 			"Splinter"
 			"Quicksilver"
 		variant 2
-			"8500X2 Super Freighter C"
+			"8500X2S Freight C"
 			"Dagger" 2
-			"4500X2 Armed Freight C"
+			"4500X2A Freight C"
 			"Firebird"
 		variant 2
 			"Argosy"
@@ -457,39 +457,39 @@ event "southern carriers compatibility4"
 			"Star Barge A" 2
 			"Swooping Raven" 2
 		variant 2
-			"The Buried Chest A"
-			"The Pilfered Keg A"
-			"The Lifted Purse C"
-			"The Screams of the Insane"
+			"Buried Chest A"
+			"Pilfered Keg A"
+			"Lifted Purse C"
+			"Hellscream"
 		variant 2
-			"The Buried Chest B"
-			"The Captain's Hoard C"
-			"The Deceptive Lover"
+			"Buried Chest B"
+			"Captain's Hoard C"
+			"Deceptive Lover"
 		variant 2
-			"The Captain's Hoard"
-			"The Buried Chest"
-			"The Deceitful Hangman"
-			"The Lifted Purse A"
+			"Captain's Hoard"
+			"Buried Chest"
+			"Deceitful Hangman"
+			"Lifted Purse A"
 		variant 2
-			"The Captain's Hoard A"
-			"The Pilfered Keg C"
-			"The Dirty Cutlass"
-			"The Hidden Blade"
+			"Captain's Hoard A"
+			"Pilfered Keg C"
+			"Dirty Cutlass"
+			"Hidden Blade"
 		variant 2
-			"The Captain's Hoard B"
-			"The Hidden Blade A"
-			"The Fifth Ace C"
-			"The Hidden Blade B"
+			"Captain's Hoard B"
+			"Hidden Blade A"
+			"Fifth Ace C"
+			"Hidden Blade B"
 		variant 2
-			"The Lifted Purse" 2
-			"The Lifted Purse B" 2
-			"The Pilfered Keg"
-			"The Fearless Assassin"
+			"Lifted Purse" 2
+			"Lifted Purse B" 2
+			"Pilfered Keg"
+			"Fearless Assassin"
 		variant 2
-			"The Buried Chest C"
-			"The Pilfered Keg B"
-			"The Damned Executioner"
-			"The Damned Executioner A"
+			"Buried Chest C"
+			"Pilfered Keg B"
+			"Damned Executioner"
+			"Damned Executioner A"
 		variant 2
 			"Quebracho"
 			"Gidgee"
@@ -546,7 +546,7 @@ event "southern carriers compatibility4"
 			"Wamara C"
 		variant 1
 			"Mule"
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
 			"Mule (Heavy)"
 			"Mule A"
@@ -578,13 +578,13 @@ event "southern carriers compatibility4"
 			"Aerie C"
 			"Dagger" 2
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 1
 			"Bastion"
 		variant 1
@@ -723,11 +723,11 @@ event "southern carriers compatibility4"
 		variant 1
 			"Protector B"
 		variant 1
-			"Protector Fortress"
+			"Fortress"
 		variant 1
-			"Protector Fortress A"
+			"Fortress A"
 		variant 1
-			"Protector Fortress B"
+			"Fortress B"
 		variant 1
 			"Vanguard"
 		variant 1
@@ -735,13 +735,13 @@ event "southern carriers compatibility4"
 		variant 1
 			"Vanguard A"
 		variant 1
-			"Vanguard Trailbreaker"
+			"Trailbreaker"
 		variant 1
-			"Vanguard Trailbreaker A"
+			"Trailbreaker A"
 		variant 1
-			"Vanguard Trailbreaker B"
+			"Trailbreaker B"
 		variant 1
-			"Vanguard Trailbreaker C"
+			"Trailbreaker C"
 		variant 1
 			"Wamara"
 		variant 1
@@ -759,29 +759,29 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2 Gunship C"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 1
-			"The Black Star"
+			"Black Star"
 		variant 1
-			"The Black Star A"
+			"Black Star A"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 		variant 1
-			"The Black Star C"
+			"Black Star C"
 		variant 1
-			"The Silver Star A"
+			"Silver Star A"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 		variant 1
-			"The Silver Star"
+			"Silver Star"
 		variant 1
 			"Silver Defender"
 		variant 1
@@ -791,37 +791,37 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Defender C"
 		variant 1
-			"The Damned Executioner"
+			"Damned Executioner"
 		variant 1
-			"The Damned Executioner A"
+			"Damned Executioner A"
 		variant 1
-			"The Damned Executioner B"
+			"Damned Executioner B"
 		variant 1
-			"The Damned Executioner C"
+			"Damned Executioner C"
 		variant 1
-			"The Lightning in the Storm"
+			"Stormbolt"
 		variant 1
-			"The Lightning in the Storm A"
+			"Stormbolt A"
 		variant 1
-			"The Lightning in the Storm B"
+			"Stormbolt B"
 		variant 1
-			"The Lightning in the Storm C"
+			"Stormbolt C"
 		variant 1
-			"The Deceptive Lover"
+			"Deceptive Lover"
 		variant 1
-			"The Deceptive Lover A"
+			"Deceptive Lover A"
 		variant 1
-			"The Deceptive Lover B"
+			"Deceptive Lover B"
 		variant 1
-			"The Deceptive Lover C"
+			"Deceptive Lover C"
 		variant 1
-			"The Screams of the Insane"
+			"Hellscream"
 		variant 1
-			"The Screams of the Insane A"
+			"Hellscream A"
 		variant 1
-			"The Screams of the Insane B"
+			"Hellscream B"
 		variant 1
-			"The Screams of the Insane C"
+			"Hellscream C"
 		variant 2
 			"Hauler III"
 			"Hauler II"
@@ -954,29 +954,29 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2 Gunship C"
 		variant 3
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 2
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 3
-			"The Black Star"
+			"Black Star"
 		variant 1
-			"The Black Star A"
+			"Black Star A"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 		variant 1
-			"The Black Star C"
+			"Black Star C"
 		variant 3
-			"The Silver Star A"
+			"Silver Star A"
 		variant 2
-			"The Silver Star B"
+			"Silver Star B"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 		variant 1
-			"The Silver Star"
+			"Silver Star"
 		variant 3
 			"Silver Defender"
 		variant 2
@@ -986,13 +986,13 @@ event "southern carriers compatibility4"
 		variant 2
 			"Silver Defender C"
 		variant 3
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 2
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 2
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 2
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 3
 			"Bastion"
 		variant 2
@@ -1042,49 +1042,49 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Protector C"
 		variant 3
-			"The Damned Executioner"
+			"Damned Executioner"
 		variant 2
-			"The Damned Executioner A"
+			"Damned Executioner A"
 		variant 1
-			"The Damned Executioner B"
+			"Damned Executioner B"
 		variant 1
-			"The Damned Executioner C"
+			"Damned Executioner C"
 		variant 3
-			"The Lightning in the Storm"
+			"Stormbolt"
 		variant 2
-			"The Lightning in the Storm A"
+			"Stormbolt A"
 		variant 1
-			"The Lightning in the Storm B"
+			"Stormbolt B"
 		variant 1
-			"The Lightning in the Storm C"
+			"Stormbolt C"
 		variant 3
-			"The Deceptive Lover"
+			"Deceptive Lover"
 		variant 2
-			"The Deceptive Lover A"
+			"Deceptive Lover A"
 		variant 1
-			"The Deceptive Lover B"
+			"Deceptive Lover B"
 		variant 1
-			"The Deceptive Lover C"
+			"Deceptive Lover C"
 		variant 3
-			"The Screams of the Insane"
+			"Hellscream"
 		variant 2
-			"The Screams of the Insane A"
+			"Hellscream A"
 		variant 2
-			"The Screams of the Insane B"
+			"Hellscream B"
 		variant 2
-			"The Screams of the Insane C"
+			"Hellscream C"
 		variant 1
-			"The Deceitful Hangman"
-			"The Fearless Assassin"
+			"Deceitful Hangman"
+			"Fearless Assassin"
 		variant 1
-			"The Deceitful Hangman A"
-			"The Fearless Assassin A"
+			"Deceitful Hangman A"
+			"Fearless Assassin A"
 		variant 1
-			"The Deceitful Hangman B"
-			"The Fearless Assassin B"
+			"Deceitful Hangman B"
+			"Fearless Assassin B"
 		variant 1
-			"The Deceitful Hangman C"
-			"The Fearless Assassin C"
+			"Deceitful Hangman C"
+			"Fearless Assassin C"
 		variant 3
 			"Junior Osprey"
 			"Junior Osprey B"
@@ -1112,181 +1112,181 @@ event "southern carriers compatibility4"
 			"Modified Argosy (Missile)"
 			"Argosy (Turret)"
 		variant 1
-			"The Damned Executioner"
-			"The Deceitful Hangman"
-			"The Dirty Cutlass"
+			"Damned Executioner"
+			"Deceitful Hangman"
+			"Dirty Cutlass"
 		variant 1
-			"The Damned Executioner A"
-			"The Deceitful Hangman A"
-			"The Dirty Cutlass A"
+			"Damned Executioner A"
+			"Deceitful Hangman A"
+			"Dirty Cutlass A"
 		variant 1
-			"The Damned Executioner B"
-			"The Fearless Assassin"
-			"The Dirty Cutlass B"
+			"Damned Executioner B"
+			"Fearless Assassin"
+			"Dirty Cutlass B"
 		variant 1
-			"The Damned Executioner C"
-			"The Fearless Assassin A"
-			"The Dirty Cutlass C"
+			"Damned Executioner C"
+			"Fearless Assassin A"
+			"Dirty Cutlass C"
 		variant 1
-			"The Lightning in the Storm"
-			"The Deceitful Hangman B"
-			"The Fifth Ace"
+			"Stormbolt"
+			"Deceitful Hangman B"
+			"Fifth Ace"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Deceitful Hangman C"
-			"The Fifth Ace A"
+			"Stormbolt A"
+			"Deceitful Hangman C"
+			"Fifth Ace A"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Fearless Assassin B"
-			"The Fifth Ace B"
+			"Stormbolt B"
+			"Fearless Assassin B"
+			"Fifth Ace B"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Fearless Assassin C"
-			"The Fifth Ace C"
+			"Stormbolt C"
+			"Fearless Assassin C"
+			"Fifth Ace C"
 		variant 1
-			"The Deceptive Lover"
-			"The Deceitful Hangman"
-			"The Hidden Blade"
+			"Deceptive Lover"
+			"Deceitful Hangman"
+			"Hidden Blade"
 		variant 1
-			"The Deceptive Lover A"
-			"The Deceitful Hangman A"
-			"The Hidden Blade A"
+			"Deceptive Lover A"
+			"Deceitful Hangman A"
+			"Hidden Blade A"
 		variant 1
-			"The Deceptive Lover B"
-			"The Fearless Assassin"
-			"The Hidden Blade B"
+			"Deceptive Lover B"
+			"Fearless Assassin"
+			"Hidden Blade B"
 		variant 1
-			"The Deceptive Lover C"
-			"The Fearless Assassin A"
-			"The Hidden Blade C"
+			"Deceptive Lover C"
+			"Fearless Assassin A"
+			"Hidden Blade C"
 		variant 1
-			"The Screams of the Insane"
-			"The Deceitful Hangman B"
-			"The Fifth Ace B"
+			"Hellscream"
+			"Deceitful Hangman B"
+			"Fifth Ace B"
 		variant 1
-			"The Screams of the Insane A"
-			"The Deceitful Hangman C"
-			"The Fifth Ace C"
+			"Hellscream A"
+			"Deceitful Hangman C"
+			"Fifth Ace C"
 		variant 1
-			"The Screams of the Insane B"
-			"The Fearless Assassin B"
-			"The Hidden Blade"
+			"Hellscream B"
+			"Fearless Assassin B"
+			"Hidden Blade"
 		variant 1
-			"The Screams of the Insane C"
-			"The Fearless Assassin C"
-			"The Hidden Blade A"
+			"Hellscream C"
+			"Fearless Assassin C"
+			"Hidden Blade A"
 		variant 1
-			"The Damned Executioner"
-			"The Deceitful Hangman"
-			"The Deceitful Hangman A"
+			"Damned Executioner"
+			"Deceitful Hangman"
+			"Deceitful Hangman A"
 		variant 1
-			"The Damned Executioner A"
-			"The Deceitful Hangman A"
-			"The Fearless Assassin"
+			"Damned Executioner A"
+			"Deceitful Hangman A"
+			"Fearless Assassin"
 		variant 1
-			"The Damned Executioner B"
-			"The Fearless Assassin"
-			"The Fearless Assassin A"
+			"Damned Executioner B"
+			"Fearless Assassin"
+			"Fearless Assassin A"
 		variant 1
-			"The Damned Executioner C"
-			"The Fearless Assassin A"
-			"The Deceitful Hangman B"
+			"Damned Executioner C"
+			"Fearless Assassin A"
+			"Deceitful Hangman B"
 		variant 1
-			"The Lightning in the Storm"
-			"The Deceitful Hangman B"
-			"The Deceitful Hangman C"
+			"Stormbolt"
+			"Deceitful Hangman B"
+			"Deceitful Hangman C"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Deceitful Hangman C"
-			"The Fearless Assassin B"
+			"Stormbolt A"
+			"Deceitful Hangman C"
+			"Fearless Assassin B"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Fearless Assassin B"
-			"The Fearless Assassin C"
+			"Stormbolt B"
+			"Fearless Assassin B"
+			"Fearless Assassin C"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Fearless Assassin C"
-			"The Deceitful Hangman"
+			"Stormbolt C"
+			"Fearless Assassin C"
+			"Deceitful Hangman"
 		variant 1
-			"The Deceptive Lover"
-			"The Deceitful Hangman"
-			"The Deceitful Hangman A"
+			"Deceptive Lover"
+			"Deceitful Hangman"
+			"Deceitful Hangman A"
 		variant 1
-			"The Deceptive Lover A"
-			"The Deceitful Hangman A"
-			"The Fearless Assassin"
+			"Deceptive Lover A"
+			"Deceitful Hangman A"
+			"Fearless Assassin"
 		variant 1
-			"The Deceptive Lover B"
-			"The Fearless Assassin"
-			"The Fearless Assassin A"
+			"Deceptive Lover B"
+			"Fearless Assassin"
+			"Fearless Assassin A"
 		variant 1
-			"The Deceptive Lover C"
-			"The Fearless Assassin A"
-			"The Deceitful Hangman B"
+			"Deceptive Lover C"
+			"Fearless Assassin A"
+			"Deceitful Hangman B"
 		variant 1
-			"The Screams of the Insane"
-			"The Deceitful Hangman B"
-			"The Deceitful Hangman C"
+			"Hellscream"
+			"Deceitful Hangman B"
+			"Deceitful Hangman C"
 		variant 1
-			"The Screams of the Insane A"
-			"The Deceitful Hangman C"
-			"The Fearless Assassin B"
+			"Hellscream A"
+			"Deceitful Hangman C"
+			"Fearless Assassin B"
 		variant 1
-			"The Screams of the Insane B"
-			"The Fearless Assassin B"
-			"The Fearless Assassin C"
+			"Hellscream B"
+			"Fearless Assassin B"
+			"Fearless Assassin C"
 		variant 1
-			"The Screams of the Insane C"
-			"The Fearless Assassin C"
-			"The Deceitful Hangman"
+			"Hellscream C"
+			"Fearless Assassin C"
+			"Deceitful Hangman"
 		variant 1
-			"The Damned Executioner"
-			"The Damned Executioner C"
+			"Damned Executioner"
+			"Damned Executioner C"
 		variant 1
-			"The Damned Executioner A"
-			"The Lightning in the Storm C"
+			"Damned Executioner A"
+			"Stormbolt C"
 		variant 1
-			"The Damned Executioner B"
-			"The Deceptive Lover C"
+			"Damned Executioner B"
+			"Deceptive Lover C"
 		variant 1
-			"The Damned Executioner C"
-			"The Screams of the Insane C"
+			"Damned Executioner C"
+			"Hellscream C"
 		variant 1
-			"The Lightning in the Storm"
-			"The Damned Executioner"
+			"Stormbolt"
+			"Damned Executioner"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Lightning in the Storm"
+			"Stormbolt A"
+			"Stormbolt"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Deceptive Lover"
+			"Stormbolt B"
+			"Deceptive Lover"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Screams of the Insane"
+			"Stormbolt C"
+			"Hellscream"
 		variant 1
-			"The Deceptive Lover"
-			"The Damned Executioner A"
+			"Deceptive Lover"
+			"Damned Executioner A"
 		variant 1
-			"The Deceptive Lover A"
-			"The Lightning in the Storm A"
+			"Deceptive Lover A"
+			"Stormbolt A"
 		variant 1
-			"The Deceptive Lover B"
-			"The Deceptive Lover A"
+			"Deceptive Lover B"
+			"Deceptive Lover A"
 		variant 1
-			"The Deceptive Lover C"
-			"The Screams of the Insane A"
+			"Deceptive Lover C"
+			"Hellscream A"
 		variant 1
-			"The Screams of the Insane"
-			"The Damned Executioner B"
+			"Hellscream"
+			"Damned Executioner B"
 		variant 1
-			"The Screams of the Insane A"
-			"The Lightning in the Storm B"
+			"Hellscream A"
+			"Stormbolt B"
 		variant 1
-			"The Screams of the Insane B"
-			"The Deceptive Lover B"
+			"Hellscream B"
+			"Deceptive Lover B"
 		variant 1
-			"The Screams of the Insane C"
-			"The Screams of the Insane B"
+			"Hellscream C"
+			"Hellscream B"
 		variant 1
 			"Silver Defender"
 			"Silver Protector"
@@ -1316,7 +1316,7 @@ event "southern carriers compatibility4"
 			"Silver Escort B"
 			"Silver Escort C"
 		variant 1
-			"The Black Star C"
+			"Black Star C"
 			"Silver Escort C"
 			"Silver Escort"
 		variant 1
@@ -1328,24 +1328,24 @@ event "southern carriers compatibility4"
 			"Silver Protector B"
 			"Silver Protector A"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 			"Silver Protector B"
 			"Silver Escort C"
 		variant 2
-			"The Black Star"
-			"The Black Star A"
+			"Black Star"
+			"Black Star A"
 		variant 2
-			"The Silver Star A"
-			"The Black Star"
+			"Silver Star A"
+			"Black Star"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 			"Silver Escort A"
 			"Silver Escort B"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 			"Silver Escort C"
 		variant 1
-			"The Silver Star"
+			"Silver Star"
 			"Silver Protector C"
 		variant 1
 			"Gidgee"
@@ -1432,11 +1432,11 @@ event "southern carriers compatibility4"
 			"Balau A"
 			"Balau"
 		variant 1
-			"4500X2 gunship"
-			"4500X2 gunship B"
+			"4500X2 Gunship"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship A"
-			"4500X2 gunship C"
+			"4500X2 Gunship A"
+			"4500X2 Gunship C"
 		variant 1
 			"Gidgee"
 			"Quebracho B"
@@ -1537,37 +1537,37 @@ event "southern carriers compatibility4"
 			"Argosy (Turret)"
 			"Hawk"
 		variant 1
-			"The Deceitful Hangman"
-			"The Dirty Cutlass"
-			"The Hidden Blade"
+			"Deceitful Hangman"
+			"Dirty Cutlass"
+			"Hidden Blade"
 		variant 1
-			"The Deceitful Hangman A"
-			"The Dirty Cutlass A"
-			"The Hidden Blade A"
+			"Deceitful Hangman A"
+			"Dirty Cutlass A"
+			"Hidden Blade A"
 		variant 1
-			"The Deceitful Hangman B"
-			"The Dirty Cutlass B"
-			"The Hidden Blade B"
+			"Deceitful Hangman B"
+			"Dirty Cutlass B"
+			"Hidden Blade B"
 		variant 1
-			"The Deceitful Hangman C"
-			"The Dirty Cutlass C"
-			"The Hidden Blade C"
+			"Deceitful Hangman C"
+			"Dirty Cutlass C"
+			"Hidden Blade C"
 		variant 1
-			"The Fearless Assassin"
-			"The Fifth Ace"
-			"The Fifth Ace B"
+			"Fearless Assassin"
+			"Fifth Ace"
+			"Fifth Ace B"
 		variant 1
-			"The Fearless Assassin A"
-			"The Fifth Ace A"
-			"The Fifth Ace C"
+			"Fearless Assassin A"
+			"Fifth Ace A"
+			"Fifth Ace C"
 		variant 1
-			"The Fearless Assassin B"
-			"The Fifth Ace B"
-			"The Fifth Ace"
+			"Fearless Assassin B"
+			"Fifth Ace B"
+			"Fifth Ace"
 		variant 1
-			"The Fearless Assassin C"
-			"The Fifth Ace C"
-			"The Fifth Ace A"
+			"Fearless Assassin C"
+			"Fifth Ace C"
+			"Fifth Ace A"
 		variant 1
 			"Balau"
 			"Wren"
@@ -1685,21 +1685,21 @@ event "southern carriers compatibility4"
 			"Hawk"
 			"Black Hawk"
 		variant 1
-			"The Dirty Cutlass"
-			"The Hidden Blade"
-			"The Fifth Ace"
+			"Dirty Cutlass"
+			"Hidden Blade"
+			"Fifth Ace"
 		variant 1
-			"The Dirty Cutlass A"
-			"The Hidden Blade A"
-			"The Fifth Ace A"
+			"Dirty Cutlass A"
+			"Hidden Blade A"
+			"Fifth Ace A"
 		variant 1
-			"The Dirty Cutlass B"
-			"The Hidden Blade B"
-			"The Fifth Ace B"
+			"Dirty Cutlass B"
+			"Hidden Blade B"
+			"Fifth Ace B"
 		variant 1
-			"The Dirty Cutlass C"
-			"The Hidden Blade C" 2
-			"The Fifth Ace C"
+			"Dirty Cutlass C"
+			"Hidden Blade C" 2
+			"Fifth Ace C"
 		variant 1
 			"Wren"
 			"Elepaio"
@@ -1818,16 +1818,16 @@ event "southern carriers compatibility4"
 			"Wren"
 			"Wren B"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 			"Hawk (Speedy)"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 			"Junior Osprey"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 			"Sparrow" 2
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 			"Wren B"
 			"Elepaio"
 		variant 3
@@ -1965,105 +1965,105 @@ event "southern carriers compatibility4"
 		variant 1
 			"Wren C"
 		variant 1
-			"The Dirty Cutlass"
+			"Dirty Cutlass"
 		variant 1
-			"The Dirty Cutlass A"
+			"Dirty Cutlass A"
 		variant 1
-			"The Dirty Cutlass B"
+			"Dirty Cutlass B"
 		variant 1
-			"The Dirty Cutlass C"
+			"Dirty Cutlass C"
 		variant 1
-			"The Fifth Ace"
+			"Fifth Ace"
 		variant 1
-			"The Fifth Ace A"
+			"Fifth Ace A"
 		variant 1
-			"The Fifth Ace B"
+			"Fifth Ace B"
 		variant 1
-			"The Fifth Ace C"
+			"Fifth Ace C"
 		variant 1
-			"The Hidden Blade"
+			"Hidden Blade"
 		variant 1
-			"The Hidden Blade A"
+			"Hidden Blade A"
 		variant 1
-			"The Hidden Blade B"
+			"Hidden Blade B"
 		variant 1
-			"The Hidden Blade C"
+			"Hidden Blade C"
 		variant 1
-			"The Deceitful Hangman"
+			"Deceitful Hangman"
 		variant 1
-			"The Deceitful Hangman A"
+			"Deceitful Hangman A"
 		variant 1
-			"The Deceitful Hangman B"
+			"Deceitful Hangman B"
 		variant 1
-			"The Deceitful Hangman C"
+			"Deceitful Hangman C"
 		variant 1
-			"The Fearless Assassin"
+			"Fearless Assassin"
 		variant 1
-			"The Fearless Assassin A"
+			"Fearless Assassin A"
 		variant 1
-			"The Fearless Assassin B"
+			"Fearless Assassin B"
 		variant 1
-			"The Fearless Assassin C"
+			"Fearless Assassin C"
 		variant 1
-			"The Deceitful Hangman"
-			"The Dirty Cutlass"
+			"Deceitful Hangman"
+			"Dirty Cutlass"
 		variant 1
-			"The Deceitful Hangman A"
-			"The Fifth Ace"
+			"Deceitful Hangman A"
+			"Fifth Ace"
 		variant 1
-			"The Deceitful Hangman B"
-			"The Hidden Blade"
+			"Deceitful Hangman B"
+			"Hidden Blade"
 		variant 1
-			"The Deceitful Hangman C"
-			"The Dirty Cutlass A"
+			"Deceitful Hangman C"
+			"Dirty Cutlass A"
 		variant 1
-			"The Fearless Assassin"
-			"The Fifth Ace A"
+			"Fearless Assassin"
+			"Fifth Ace A"
 		variant 1
-			"The Fearless Assassin A"
-			"The Hidden Blade A"
+			"Fearless Assassin A"
+			"Hidden Blade A"
 		variant 1
-			"The Fearless Assassin B"
-			"The Dirty Cutlass B"
+			"Fearless Assassin B"
+			"Dirty Cutlass B"
 		variant 1
-			"The Fearless Assassin C"
-			"The Fifth Ace B"
+			"Fearless Assassin C"
+			"Fifth Ace B"
 		variant 1
-			"The Dirty Cutlass"
-			"The Hidden Blade B"
+			"Dirty Cutlass"
+			"Hidden Blade B"
 		variant 1
-			"The Dirty Cutlass A"
-			"The Hidden Blade C"
+			"Dirty Cutlass A"
+			"Hidden Blade C"
 		variant 1
-			"The Dirty Cutlass B"
-			"The Dirty Cutlass"
+			"Dirty Cutlass B"
+			"Dirty Cutlass"
 		variant 1
-			"The Dirty Cutlass C"
-			"The Dirty Cutlass A"
+			"Dirty Cutlass C"
+			"Dirty Cutlass A"
 		variant 1
-			"The Fifth Ace"
-			"The Dirty Cutlass B"
+			"Fifth Ace"
+			"Dirty Cutlass B"
 		variant 1
-			"The Fifth Ace A"
-			"The Dirty Cutlass C"
+			"Fifth Ace A"
+			"Dirty Cutlass C"
 		variant 1
-			"The Fifth Ace B"
-			"The Fifth Ace"
+			"Fifth Ace B"
+			"Fifth Ace"
 		variant 1
-			"The Fifth Ace C"
-			"The Fifth Ace A"
+			"Fifth Ace C"
+			"Fifth Ace A"
 		variant 1
-			"The Hidden Blade"
-			"The Fifth Ace B"
+			"Hidden Blade"
+			"Fifth Ace B"
 		variant 1
-			"The Hidden Blade A"
-			"The Fifth Ace C"
+			"Hidden Blade A"
+			"Fifth Ace C"
 		variant 1
-			"The Hidden Blade B"
-			"The Hidden Blade"
+			"Hidden Blade B"
+			"Hidden Blade"
 		variant 1
-			"The Hidden Blade C"
-			"The Hidden Blade A"
+			"Hidden Blade C"
+			"Hidden Blade A"
 		variant 1
 			"Balau"
 			"Berserker"
@@ -2221,181 +2221,181 @@ event "southern carriers compatibility4"
 			"Wren A"
 	fleet "Large Northern Pirates"
 		variant 1
-			"The Damned Executioner"
-			"The Deceitful Hangman"
-			"The Dirty Cutlass"
+			"Damned Executioner"
+			"Deceitful Hangman"
+			"Dirty Cutlass"
 		variant 1
-			"The Damned Executioner A"
-			"The Deceitful Hangman A"
-			"The Dirty Cutlass A"
+			"Damned Executioner A"
+			"Deceitful Hangman A"
+			"Dirty Cutlass A"
 		variant 1
-			"The Damned Executioner B"
-			"The Fearless Assassin"
-			"The Dirty Cutlass B"
+			"Damned Executioner B"
+			"Fearless Assassin"
+			"Dirty Cutlass B"
 		variant 1
-			"The Damned Executioner C"
-			"The Fearless Assassin A"
-			"The Dirty Cutlass C"
+			"Damned Executioner C"
+			"Fearless Assassin A"
+			"Dirty Cutlass C"
 		variant 1
-			"The Lightning in the Storm"
-			"The Deceitful Hangman B"
-			"The Fifth Ace"
+			"Stormbolt"
+			"Deceitful Hangman B"
+			"Fifth Ace"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Deceitful Hangman C"
-			"The Fifth Ace A"
+			"Stormbolt A"
+			"Deceitful Hangman C"
+			"Fifth Ace A"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Fearless Assassin B"
-			"The Fifth Ace B"
+			"Stormbolt B"
+			"Fearless Assassin B"
+			"Fifth Ace B"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Fearless Assassin C"
-			"The Fifth Ace C"
+			"Stormbolt C"
+			"Fearless Assassin C"
+			"Fifth Ace C"
 		variant 1
-			"The Deceptive Lover"
-			"The Deceitful Hangman"
-			"The Hidden Blade"
+			"Deceptive Lover"
+			"Deceitful Hangman"
+			"Hidden Blade"
 		variant 1
-			"The Deceptive Lover A"
-			"The Deceitful Hangman A"
-			"The Hidden Blade A"
+			"Deceptive Lover A"
+			"Deceitful Hangman A"
+			"Hidden Blade A"
 		variant 1
-			"The Deceptive Lover B"
-			"The Fearless Assassin"
-			"The Hidden Blade B"
+			"Deceptive Lover B"
+			"Fearless Assassin"
+			"Hidden Blade B"
 		variant 1
-			"The Deceptive Lover C"
-			"The Fearless Assassin A"
-			"The Hidden Blade C"
+			"Deceptive Lover C"
+			"Fearless Assassin A"
+			"Hidden Blade C"
 		variant 1
-			"The Screams of the Insane"
-			"The Deceitful Hangman B"
-			"The Fifth Ace B"
+			"Hellscream"
+			"Deceitful Hangman B"
+			"Fifth Ace B"
 		variant 1
-			"The Screams of the Insane A"
-			"The Deceitful Hangman C"
-			"The Fifth Ace C"
+			"Hellscream A"
+			"Deceitful Hangman C"
+			"Fifth Ace C"
 		variant 1
-			"The Screams of the Insane B"
-			"The Fearless Assassin B"
-			"The Hidden Blade"
+			"Hellscream B"
+			"Fearless Assassin B"
+			"Hidden Blade"
 		variant 1
-			"The Screams of the Insane C"
-			"The Fearless Assassin C"
-			"The Hidden Blade A"
+			"Hellscream C"
+			"Fearless Assassin C"
+			"Hidden Blade A"
 		variant 1
-			"The Damned Executioner"
-			"The Deceitful Hangman"
-			"The Deceitful Hangman A"
+			"Damned Executioner"
+			"Deceitful Hangman"
+			"Deceitful Hangman A"
 		variant 1
-			"The Damned Executioner A"
-			"The Deceitful Hangman A"
-			"The Fearless Assassin"
+			"Damned Executioner A"
+			"Deceitful Hangman A"
+			"Fearless Assassin"
 		variant 1
-			"The Damned Executioner B"
-			"The Fearless Assassin"
-			"The Fearless Assassin A"
+			"Damned Executioner B"
+			"Fearless Assassin"
+			"Fearless Assassin A"
 		variant 1
-			"The Damned Executioner C"
-			"The Fearless Assassin A"
-			"The Deceitful Hangman B"
+			"Damned Executioner C"
+			"Fearless Assassin A"
+			"Deceitful Hangman B"
 		variant 1
-			"The Lightning in the Storm"
-			"The Deceitful Hangman B"
-			"The Deceitful Hangman C"
+			"Stormbolt"
+			"Deceitful Hangman B"
+			"Deceitful Hangman C"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Deceitful Hangman C"
-			"The Fearless Assassin B"
+			"Stormbolt A"
+			"Deceitful Hangman C"
+			"Fearless Assassin B"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Fearless Assassin B"
-			"The Fearless Assassin C"
+			"Stormbolt B"
+			"Fearless Assassin B"
+			"Fearless Assassin C"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Fearless Assassin C"
-			"The Deceitful Hangman"
+			"Stormbolt C"
+			"Fearless Assassin C"
+			"Deceitful Hangman"
 		variant 1
-			"The Deceptive Lover"
-			"The Deceitful Hangman"
-			"The Deceitful Hangman A"
+			"Deceptive Lover"
+			"Deceitful Hangman"
+			"Deceitful Hangman A"
 		variant 1
-			"The Deceptive Lover A"
-			"The Deceitful Hangman A"
-			"The Fearless Assassin"
+			"Deceptive Lover A"
+			"Deceitful Hangman A"
+			"Fearless Assassin"
 		variant 1
-			"The Deceptive Lover B"
-			"The Fearless Assassin"
-			"The Fearless Assassin A"
+			"Deceptive Lover B"
+			"Fearless Assassin"
+			"Fearless Assassin A"
 		variant 1
-			"The Deceptive Lover C"
-			"The Fearless Assassin A"
-			"The Deceitful Hangman B"
+			"Deceptive Lover C"
+			"Fearless Assassin A"
+			"Deceitful Hangman B"
 		variant 1
-			"The Screams of the Insane"
-			"The Deceitful Hangman B"
-			"The Deceitful Hangman C"
+			"Hellscream"
+			"Deceitful Hangman B"
+			"Deceitful Hangman C"
 		variant 1
-			"The Screams of the Insane A"
-			"The Deceitful Hangman C"
-			"The Fearless Assassin B"
+			"Hellscream A"
+			"Deceitful Hangman C"
+			"Fearless Assassin B"
 		variant 1
-			"The Screams of the Insane B"
-			"The Fearless Assassin B"
-			"The Fearless Assassin C"
+			"Hellscream B"
+			"Fearless Assassin B"
+			"Fearless Assassin C"
 		variant 1
-			"The Screams of the Insane C"
-			"The Fearless Assassin C"
-			"The Deceitful Hangman"
+			"Hellscream C"
+			"Fearless Assassin C"
+			"Deceitful Hangman"
 		variant 1
-			"The Damned Executioner"
-			"The Damned Executioner C"
+			"Damned Executioner"
+			"Damned Executioner C"
 		variant 1
-			"The Damned Executioner A"
-			"The Lightning in the Storm C"
+			"Damned Executioner A"
+			"Stormbolt C"
 		variant 1
-			"The Damned Executioner B"
-			"The Deceptive Lover C"
+			"Damned Executioner B"
+			"Deceptive Lover C"
 		variant 1
-			"The Damned Executioner C"
-			"The Screams of the Insane C"
+			"Damned Executioner C"
+			"Hellscream C"
 		variant 1
-			"The Lightning in the Storm"
-			"The Damned Executioner"
+			"Stormbolt"
+			"Damned Executioner"
 		variant 1
-			"The Lightning in the Storm A"
-			"The Lightning in the Storm"
+			"Stormbolt A"
+			"Stormbolt"
 		variant 1
-			"The Lightning in the Storm B"
-			"The Deceptive Lover"
+			"Stormbolt B"
+			"Deceptive Lover"
 		variant 1
-			"The Lightning in the Storm C"
-			"The Screams of the Insane"
+			"Stormbolt C"
+			"Hellscream"
 		variant 1
-			"The Deceptive Lover"
-			"The Damned Executioner A"
+			"Deceptive Lover"
+			"Damned Executioner A"
 		variant 1
-			"The Deceptive Lover A"
-			"The Lightning in the Storm A"
+			"Deceptive Lover A"
+			"Stormbolt A"
 		variant 1
-			"The Deceptive Lover B"
-			"The Deceptive Lover A"
+			"Deceptive Lover B"
+			"Deceptive Lover A"
 		variant 1
-			"The Deceptive Lover C"
-			"The Screams of the Insane A"
+			"Deceptive Lover C"
+			"Hellscream A"
 		variant 1
-			"The Screams of the Insane"
-			"The Damned Executioner B"
+			"Hellscream"
+			"Damned Executioner B"
 		variant 1
-			"The Screams of the Insane A"
-			"The Lightning in the Storm B"
+			"Hellscream A"
+			"Stormbolt B"
 		variant 1
-			"The Screams of the Insane B"
-			"The Deceptive Lover B"
+			"Hellscream B"
+			"Deceptive Lover B"
 		variant 1
-			"The Screams of the Insane C"
-			"The Screams of the Insane B"
+			"Hellscream C"
+			"Hellscream B"
 		variant 1
 			"Silver Defender"
 			"Silver Protector"
@@ -2425,7 +2425,7 @@ event "southern carriers compatibility4"
 			"Silver Escort B"
 			"Silver Escort C"
 		variant 1
-			"The Black Star A"
+			"Black Star A"
 			"Silver Escort A"
 			"Silver Escort"
 		variant 1
@@ -2437,24 +2437,24 @@ event "southern carriers compatibility4"
 			"Silver Protector"
 			"Silver Protector C"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 			"Silver Protector B"
 			"Silver Escort"
 		variant 1
-			"The Black Star C"
-			"The Black Star A"
+			"Black Star C"
+			"Black Star A"
 		variant 1
-			"The Silver Star A"
-			"The Black Star A"
+			"Silver Star A"
+			"Black Star A"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 			"Silver Escort C"
 			"Silver Escort B"
 		variant 1
-			"The Silver Star A"
+			"Silver Star A"
 			"Silver Escort A"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 			"Silver Protector B"
 		variant 1
 			"Bactrian"
@@ -2506,29 +2506,29 @@ event "southern carriers compatibility4"
 		variant 2
 			"X2 Gunship C"
 		variant 2
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 2
-			"The Black Star"
+			"Black Star"
 		variant 2
-			"The Black Star A"
+			"Black Star A"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 		variant 1
-			"The Black Star C"
+			"Black Star C"
 		variant 2
-			"The Silver Star A"
+			"Silver Star A"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 		variant 2
-			"The Silver Star C"
+			"Silver Star C"
 		variant 1
-			"The Silver Star"
+			"Silver Star"
 		variant 1
 			"Silver Defender"
 		variant 1
@@ -2550,13 +2550,13 @@ event "southern carriers compatibility4"
 			"Aerie C"
 			"Dagger" 2
 		variant 2
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 2
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 2
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 2
 			"Cebil"
 		variant 1
@@ -2628,17 +2628,17 @@ event "southern carriers compatibility4"
 			"Raven"
 			"Dagger" 2
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Swooping Raven"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 			"Dark Berserker B"
 			"Dark Berserker C"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 			"Balau A"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 			"Camelthorn A"
 		variant 1
 			"Cebil"
@@ -2732,25 +2732,25 @@ event "southern carriers compatibility4"
 			"Dagger" 4
 		variant 1
 			"Aerie B"
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Dagger" 2
 		variant 1
 			"Aerie C"
 			"Cebil"
 			"Dagger" 2
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Corvette"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 			"Firebird"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 			"Mule B"
 			"Dagger"
 		variant 1
-			"4500X2 gunship C"
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
+			"4500X2 Gunship C"
 		variant 1
 			"Cebil"
 			"Cebil C"
@@ -2776,7 +2776,7 @@ event "southern carriers compatibility4"
 			"Gidgee C"
 		variant 1
 			"Corvette A"
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
 			"Corvette B"
 			"Cebil B"
@@ -2789,7 +2789,7 @@ event "southern carriers compatibility4"
 			"Dagger"
 		variant 1
 			"Firebird (Plasma)"
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 1
 			"Firebird A"
 			"Corvette (Speedy)"
@@ -2907,34 +2907,34 @@ event "southern carriers compatibility4"
 			"X2 Gunship C"
 			"Swooping Raven C"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 			"Balau"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 			"Camelthorn"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 			"Headhunter"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 			"Raven"
 		variant 1
-			"The Black Star"
+			"Black Star"
 			"Swooping Raven" 2
 		variant 1
-			"The Black Star A"
+			"Black Star A"
 			"Dark Berserker B" 2
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 			"Balau A" 2
 		variant 1
-			"The Silver Star A"
+			"Silver Star A"
 			"Camelthorn A"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 			"Headhunter (Particle)"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 			"Raven (Afterburner)"
 		variant 3
 			"Roost"
@@ -2987,13 +2987,13 @@ event "southern carriers compatibility3"
 		variant 1
 			"Cebil C"
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 1
 			"Gidgee"
 		variant 1
@@ -3027,13 +3027,13 @@ event "southern carriers compatibility3"
 		variant 1
 			"X2 Gunship C"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 1
 			"Falcon"
 		variant 1
@@ -3083,17 +3083,17 @@ event "southern carriers compatibility3"
 			"Sparrow MKII B"
 			"Wren A"
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Hawk"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 			"Sparrow"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 			"Fury"
 			"Fury (Gatling)"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 			"Black Hawk"
 			"Black Hawk C"
 		variant 1
@@ -3132,10 +3132,10 @@ event "southern carriers compatibility3"
 			"Black Hawk B"
 			"Black Hawk C"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 			"Sparrow A"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 			"Hawk"
 		variant 1
 			"Falcon"
@@ -3266,45 +3266,45 @@ event "southern carriers compatibility3"
 		variant 1
 			"Wren C"
 		variant 1
-			"The Dirty Cutlass"
+			"Dirty Cutlass"
 		variant 1
-			"The Dirty Cutlass A"
+			"Dirty Cutlass A"
 		variant 1
-			"The Dirty Cutlass B"
+			"Dirty Cutlass B"
 		variant 1
-			"The Dirty Cutlass C"
+			"Dirty Cutlass C"
 		variant 1
-			"The Fifth Ace"
+			"Fifth Ace"
 		variant 1
-			"The Fifth Ace A"
+			"Fifth Ace A"
 		variant 1
-			"The Fifth Ace B"
+			"Fifth Ace B"
 		variant 1
-			"The Fifth Ace C"
+			"Fifth Ace C"
 		variant 1
-			"The Hidden Blade"
+			"Hidden Blade"
 		variant 1
-			"The Hidden Blade A"
+			"Hidden Blade A"
 		variant 1
-			"The Hidden Blade B"
+			"Hidden Blade B"
 		variant 1
-			"The Hidden Blade C"
+			"Hidden Blade C"
 		variant 1
-			"The Deceitful Hangman"
+			"Deceitful Hangman"
 		variant 1
-			"The Deceitful Hangman A"
+			"Deceitful Hangman A"
 		variant 1
-			"The Deceitful Hangman B"
+			"Deceitful Hangman B"
 		variant 1
-			"The Deceitful Hangman C"
+			"Deceitful Hangman C"
 		variant 1
-			"The Fearless Assassin"
+			"Fearless Assassin"
 		variant 1
-			"The Fearless Assassin A"
+			"Fearless Assassin A"
 		variant 1
-			"The Fearless Assassin B"
+			"Fearless Assassin B"
 		variant 1
-			"The Fearless Assassin C"
+			"Fearless Assassin C"
 		variant 1
 			"Balau"
 		variant 1
@@ -3436,41 +3436,41 @@ event "southern carriers compatibility3"
 			"Wren C"
 			"Wren B"
 		variant 1
-			"The Dirty Cutlass"
-			"The Hidden Blade C"
+			"Dirty Cutlass"
+			"Hidden Blade C"
 		variant 1
-			"The Dirty Cutlass A"
-			"The Dirty Cutlass"
+			"Dirty Cutlass A"
+			"Dirty Cutlass"
 		variant 1
-			"The Dirty Cutlass B"
-			"The Dirty Cutlass A"
+			"Dirty Cutlass B"
+			"Dirty Cutlass A"
 		variant 1
-			"The Dirty Cutlass C"
-			"The Dirty Cutlass B"
+			"Dirty Cutlass C"
+			"Dirty Cutlass B"
 		variant 1
-			"The Fifth Ace"
-			"The Dirty Cutlass C"
+			"Fifth Ace"
+			"Dirty Cutlass C"
 		variant 1
-			"The Fifth Ace A"
-			"The Fifth Ace"
+			"Fifth Ace A"
+			"Fifth Ace"
 		variant 1
-			"The Fifth Ace B"
-			"The Fifth Ace A"
+			"Fifth Ace B"
+			"Fifth Ace A"
 		variant 1
-			"The Fifth Ace C"
-			"The Fifth Ace B"
+			"Fifth Ace C"
+			"Fifth Ace B"
 		variant 1
-			"The Hidden Blade"
-			"The Fifth Ace C"
+			"Hidden Blade"
+			"Fifth Ace C"
 		variant 1
-			"The Hidden Blade A"
-			"The Hidden Blade"
+			"Hidden Blade A"
+			"Hidden Blade"
 		variant 1
-			"The Hidden Blade B"
-			"The Hidden Blade A"
+			"Hidden Blade B"
+			"Hidden Blade A"
 		variant 1
-			"The Hidden Blade C"
-			"The Hidden Blade B"
+			"Hidden Blade C"
+			"Hidden Blade B"
 		variant 1
 			"Hawk"
 			"Hawk (Rocket)"
@@ -3568,53 +3568,53 @@ event "southern carriers compatibility3"
 			"Elepaio"
 			"Elepaio A"
 		variant 1
-			"The Dirty Cutlass"
-			"The Dirty Cutlass A"
-			"The Dirty Cutlass B"
+			"Dirty Cutlass"
+			"Dirty Cutlass A"
+			"Dirty Cutlass B"
 		variant 1
-			"The Dirty Cutlass A"
-			"The Dirty Cutlass B"
-			"The Dirty Cutlass C"
+			"Dirty Cutlass A"
+			"Dirty Cutlass B"
+			"Dirty Cutlass C"
 		variant 1
-			"The Dirty Cutlass B"
-			"The Dirty Cutlass C"
-			"The Fifth Ace"
+			"Dirty Cutlass B"
+			"Dirty Cutlass C"
+			"Fifth Ace"
 		variant 1
-			"The Dirty Cutlass C"
-			"The Fifth Ace"
-			"The Fifth Ace A"
+			"Dirty Cutlass C"
+			"Fifth Ace"
+			"Fifth Ace A"
 		variant 1
-			"The Fifth Ace"
-			"The Fifth Ace A"
-			"The Fifth Ace B"
+			"Fifth Ace"
+			"Fifth Ace A"
+			"Fifth Ace B"
 		variant 1
-			"The Fifth Ace A"
-			"The Fifth Ace B"
-			"The Fifth Ace C"
+			"Fifth Ace A"
+			"Fifth Ace B"
+			"Fifth Ace C"
 		variant 1
-			"The Fifth Ace B"
-			"The Fifth Ace C"
-			"The Hidden Blade"
+			"Fifth Ace B"
+			"Fifth Ace C"
+			"Hidden Blade"
 		variant 1
-			"The Fifth Ace C"
-			"The Hidden Blade"
-			"The Hidden Blade A"
+			"Fifth Ace C"
+			"Hidden Blade"
+			"Hidden Blade A"
 		variant 1
-			"The Hidden Blade"
-			"The Hidden Blade A"
-			"The Hidden Blade B"
+			"Hidden Blade"
+			"Hidden Blade A"
+			"Hidden Blade B"
 		variant 1
-			"The Hidden Blade A"
-			"The Hidden Blade B"
-			"The Hidden Blade C"
+			"Hidden Blade A"
+			"Hidden Blade B"
+			"Hidden Blade C"
 		variant 1
-			"The Hidden Blade B"
-			"The Hidden Blade C"
-			"The Dirty Cutlass"
+			"Hidden Blade B"
+			"Hidden Blade C"
+			"Dirty Cutlass"
 		variant 1
-			"The Hidden Blade C"
-			"The Dirty Cutlass"
-			"The Dirty Cutlass A"
+			"Hidden Blade C"
+			"Dirty Cutlass"
+			"Dirty Cutlass A"
 		variant 2
 			"Nest"
 			"Barb" 2
@@ -3641,14 +3641,14 @@ event "southern carriers compatibility2"
 			"3500X2 Freight C"
 			"3000X2 Freight A"
 		variant 2
-			"4500X2 Armed Freight"
+			"4500X2A Freight"
 			"3000X2 Freight B"
 		variant 2
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 			"4500X2 Freight"
 		variant 2
-			"4500X2 Armed Freight C"
-			"4500X2 Armed Freight A"
+			"4500X2A Freight C"
+			"4500X2A Freight A"
 		variant 2
 			"4500X2 Freight B"
 			"3500X2 Freight"
@@ -3658,23 +3658,23 @@ event "southern carriers compatibility2"
 			"Freighter"
 			"Star Barge A" 2
 		variant 2
-			"7000X2 Super Freighter"
-			"7000X2 Super Freighter A"
+			"7000X2S Freight"
+			"7000X2S Freight A"
 		variant 2
-			"7000X2 Super Freighter A"
-			"4500X2 Armed Freight C"
-			"4500X2 Armed Freight C"
+			"7000X2S Freight A"
+			"4500X2A Freight C"
+			"4500X2A Freight C"
 		variant 2
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"3000X2 Freight A"
 		variant 2
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Clipper"
 		variant 2
-			"8500X2 Super Freighter"
-			"4500X2 Armed Freight"
+			"8500X2S Freight"
+			"4500X2A Freight"
 		variant 2
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"3000X2 Freight A"
 		variant 2
 			"Argosy"
@@ -3725,52 +3725,52 @@ event "southern carriers compatibility2"
 			"Star Barge (Armed)" 3
 			"Star Barge A" 3
 		variant 2
-			"The Buried Chest" 2
-			"The Buried Chest A"
+			"Buried Chest" 2
+			"Buried Chest A"
 		variant 2
-			"The Buried Chest B"
-			"The Lifted Purse"
-			"The Pilfered Keg"
-			"The Captain's Hoard"
+			"Buried Chest B"
+			"Lifted Purse"
+			"Pilfered Keg"
+			"Captain's Hoard"
 		variant 2
-			"The Buried Chest C"
-			"The Captain's Hoard C"
+			"Buried Chest C"
+			"Captain's Hoard C"
 		variant 2
-			"The Captain's Hoard"
-			"The Captain's Hoard A"
+			"Captain's Hoard"
+			"Captain's Hoard A"
 		variant 2
-			"The Captain's Hoard B"
-			"The Pilfered Keg" 2
+			"Captain's Hoard B"
+			"Pilfered Keg" 2
 		variant 2
-			"The Lifted Purse" 2
-			"The Lifted Purse A" 2
-			"The Lifted Purse B" 2
-			"The Lifted Purse C" 2
+			"Lifted Purse" 2
+			"Lifted Purse A" 2
+			"Lifted Purse B" 2
+			"Lifted Purse C" 2
 		variant 2
-			"The Lifted Purse A"
-			"The Pilfered Keg A"
-			"The Buried Chest B"
+			"Lifted Purse A"
+			"Pilfered Keg A"
+			"Buried Chest B"
 		variant 2
-			"The Lifted Purse B" 2
-			"The Pilfered Keg B"
-			"The Pilfered Keg"
+			"Lifted Purse B" 2
+			"Pilfered Keg B"
+			"Pilfered Keg"
 		variant 3
-			"10000X2 Super Freighter"
+			"10000X2S Freight"
 			"Dagger" 4
 		variant 3
-			"10000X2 Super Freighter A"
+			"10000X2S Freight A"
 			"Dagger" 4
 		variant 3
-			"10000X2 Super Freighter B"
+			"10000X2S Freight B"
 			"Dagger" 4
 		variant 3
-			"4500X2 Armed Freight"
+			"4500X2A Freight"
 		variant 3
-			"4500X2 Armed Freight A"
+			"4500X2A Freight A"
 		variant 3
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 		variant 3
-			"4500X2 Armed Freight C"
+			"4500X2A Freight C"
 		variant 3
 			"4500X2 Freight"
 		variant 3
@@ -3780,28 +3780,28 @@ event "southern carriers compatibility2"
 		variant 3
 			"4500X2 Freight C"
 		variant 3
-			"7000X2 Super Freighter"
+			"7000X2S Freight"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter A"
+			"7000X2S Freight A"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter"
+			"8500X2S Freight"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter B"
+			"8500X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"8500X2 Super Freighter C"
+			"8500X2S Freight C"
 			"Dagger" 2
 		variant 3
 			"Behemoth"
@@ -3896,31 +3896,31 @@ event "southern carriers compatibility2"
 			"Silver Defender"
 			"Silver Escort" 2
 		variant 3
-			"The Rum Barrell" 2
-			"The Rum Barrell B"
-			"The Rum Barrell A"
+			"Rum Barrell" 2
+			"Rum Barrell B"
+			"Rum Barrell A"
 		variant 3
-			"The Rum Barrell A" 2
-			"The Rum Barrell C"
-			"The Lightning in the Storm"
+			"Rum Barrell A" 2
+			"Rum Barrell C"
+			"Stormbolt"
 		variant 2
-			"10000X2 Super Freighter"
+			"10000X2S Freight"
 			"Dagger" 4
 			"X2 Gunship"
 		variant 2
-			"10000X2 Super Freighter A"
+			"10000X2S Freight A"
 			"Dagger" 4
 			"Silver Escort"
 			"Silver Escort A"
 		variant 2
-			"10000X2 Super Freighter B"
-			"8500X2 Super Freighter C"
-			"7000X2 Super Freighter"
-			"X2 Gunship (Engines)"
+			"10000X2S Freight B"
+			"8500X2S Freight C"
+			"7000X2S Freight"
+			"X2E Gunship"
 			"Dagger" 8
 		variant 2
 			"3000X2 Freight"
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Firebird"
 		variant 2
 			"3000X2 Freight A"
@@ -3941,52 +3941,52 @@ event "southern carriers compatibility2"
 			"Leviathan"
 			"Freighter (Fancy)"
 		variant 2
-			"4500X2 Armed Freight"
-			"4500X2 gunship A"
+			"4500X2A Freight"
+			"4500X2 Gunship A"
 			"4500X2 Freight"
 		variant 2
-			"4500X2 Armed Freight A"
-			"4500X2 Armed Freight C"
+			"4500X2A Freight A"
+			"4500X2A Freight C"
 		variant 2
-			"7000X2 Super Freighter"
+			"7000X2S Freight"
 			"Silver Defender"
 			"Dagger" 2
 		variant 2
-			"7000X2 Super Freighter A"
+			"7000X2S Freight A"
 			"Dagger" 2
-			"4500X2 Armed Freight B"
+			"4500X2A Freight B"
 		variant 2
 			"4500X2 Freight C"
 			"4500X2 Freight B"
 			"Leviathan"
 		variant 2
-			"7000X2 Super Freighter B"
+			"7000X2S Freight B"
 			"4500X2 Freight A"
 			"Dagger" 2
 			"Elepaio"
 			"Elepaio"
 		variant 2
-			"7000X2 Super Freighter C"
+			"7000X2S Freight C"
 			"Silver Protector"
 			"Dagger" 2
 		variant 2
-			"8500X2 Super Freighter"
+			"8500X2S Freight"
 			"4500X2 Freight B"
 			"Dagger" 2
 			"Wamara"
 		variant 2
-			"8500X2 Super Freighter A"
+			"8500X2S Freight A"
 			"Dagger" 2
 			"Silver Escort"
 		variant 2
-			"8500X2 Super Freighter B"
+			"8500X2S Freight B"
 			"Dagger" 2
 			"Splinter"
 			"Quicksilver"
 		variant 2
-			"8500X2 Super Freighter C"
+			"8500X2S Freight C"
 			"Dagger" 2
-			"4500X2 Armed Freight C"
+			"4500X2A Freight C"
 			"Firebird"
 		variant 2
 			"Argosy"
@@ -4080,39 +4080,39 @@ event "southern carriers compatibility2"
 			"Star Barge A" 2
 			"Swooping Raven" 2
 		variant 2
-			"The Buried Chest A"
-			"The Pilfered Keg A"
-			"The Lifted Purse C"
-			"The Screams of the Insane"
+			"Buried Chest A"
+			"Pilfered Keg A"
+			"Lifted Purse C"
+			"Hellscream"
 		variant 2
-			"The Buried Chest B"
-			"The Captain's Hoard C"
-			"The Deceptive Lover"
+			"Buried Chest B"
+			"Captain's Hoard C"
+			"Deceptive Lover"
 		variant 2
-			"The Captain's Hoard"
-			"The Buried Chest"
-			"The Deceitful Hangman"
-			"The Lifted Purse A"
+			"Captain's Hoard"
+			"Buried Chest"
+			"Deceitful Hangman"
+			"Lifted Purse A"
 		variant 2
-			"The Captain's Hoard A"
-			"The Pilfered Keg C"
-			"The Dirty Cutlass"
-			"The Hidden Blade"
+			"Captain's Hoard A"
+			"Pilfered Keg C"
+			"Dirty Cutlass"
+			"Hidden Blade"
 		variant 2
-			"The Captain's Hoard B"
-			"The Hidden Blade A"
-			"The Fifth Ace C"
-			"The Hidden Blade B"
+			"Captain's Hoard B"
+			"Hidden Blade A"
+			"Fifth Ace C"
+			"Hidden Blade B"
 		variant 2
-			"The Lifted Purse" 2
-			"The Lifted Purse B" 2
-			"The Pilfered Keg"
-			"The Fearless Assassin"
+			"Lifted Purse" 2
+			"Lifted Purse B" 2
+			"Pilfered Keg"
+			"Fearless Assassin"
 		variant 2
-			"The Buried Chest C"
-			"The Pilfered Keg B"
-			"The Damned Executioner"
-			"The Damned Executioner A"
+			"Buried Chest C"
+			"Pilfered Keg B"
+			"Damned Executioner"
+			"Damned Executioner A"
 		variant 2
 			"Quebracho"
 			"Gidgee"
@@ -4169,7 +4169,7 @@ event "southern carriers compatibility2"
 			"Wamara C"
 		variant 1
 			"Mule"
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
 			"Mule (Heavy)"
 			"Mule A"
@@ -4201,13 +4201,13 @@ event "southern carriers compatibility2"
 			"Aerie C"
 			"Dagger" 2
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 1
 			"Bastion"
 		variant 1
@@ -4346,11 +4346,11 @@ event "southern carriers compatibility2"
 		variant 1
 			"Protector B"
 		variant 1
-			"Protector Fortress"
+			"Fortress"
 		variant 1
-			"Protector Fortress A"
+			"Fortress A"
 		variant 1
-			"Protector Fortress B"
+			"Fortress B"
 		variant 1
 			"Vanguard"
 		variant 1
@@ -4358,13 +4358,13 @@ event "southern carriers compatibility2"
 		variant 1
 			"Vanguard A"
 		variant 1
-			"Vanguard Trailbreaker"
+			"Trailbreaker"
 		variant 1
-			"Vanguard Trailbreaker A"
+			"Trailbreaker A"
 		variant 1
-			"Vanguard Trailbreaker B"
+			"Trailbreaker B"
 		variant 1
-			"Vanguard Trailbreaker C"
+			"Trailbreaker C"
 		variant 1
 			"Wamara"
 		variant 1
@@ -4382,29 +4382,29 @@ event "southern carriers compatibility2"
 		variant 1
 			"X2 Gunship C"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 1
-			"The Black Star"
+			"Black Star"
 		variant 1
-			"The Black Star A"
+			"Black Star A"
 		variant 1
-			"The Black Star B"
+			"Black Star B"
 		variant 1
-			"The Black Star C"
+			"Black Star C"
 		variant 1
-			"The Silver Star A"
+			"Silver Star A"
 		variant 1
-			"The Silver Star B"
+			"Silver Star B"
 		variant 1
-			"The Silver Star C"
+			"Silver Star C"
 		variant 1
-			"The Silver Star"
+			"Silver Star"
 		variant 1
 			"Silver Defender"
 		variant 1
@@ -4414,37 +4414,37 @@ event "southern carriers compatibility2"
 		variant 1
 			"Silver Defender C"
 		variant 1
-			"The Damned Executioner"
+			"Damned Executioner"
 		variant 1
-			"The Damned Executioner A"
+			"Damned Executioner A"
 		variant 1
-			"The Damned Executioner B"
+			"Damned Executioner B"
 		variant 1
-			"The Damned Executioner C"
+			"Damned Executioner C"
 		variant 1
-			"The Lightning in the Storm"
+			"Stormbolt"
 		variant 1
-			"The Lightning in the Storm A"
+			"Stormbolt A"
 		variant 1
-			"The Lightning in the Storm B"
+			"Stormbolt B"
 		variant 1
-			"The Lightning in the Storm C"
+			"Stormbolt C"
 		variant 1
-			"The Deceptive Lover"
+			"Deceptive Lover"
 		variant 1
-			"The Deceptive Lover A"
+			"Deceptive Lover A"
 		variant 1
-			"The Deceptive Lover B"
+			"Deceptive Lover B"
 		variant 1
-			"The Deceptive Lover C"
+			"Deceptive Lover C"
 		variant 1
-			"The Screams of the Insane"
+			"Hellscream"
 		variant 1
-			"The Screams of the Insane A"
+			"Hellscream A"
 		variant 1
-			"The Screams of the Insane B"
+			"Hellscream B"
 		variant 1
-			"The Screams of the Insane C"
+			"Hellscream C"
 		variant 4
 			"Hauler III"
 			"Nest"
@@ -4748,13 +4748,13 @@ event "dread compatibility"
 		variant 1
 			"Cebil C"
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 		variant 1
 			"Gidgee"
 		variant 1
@@ -4788,13 +4788,13 @@ event "dread compatibility"
 		variant 1
 			"X2 Gunship C"
 		variant 1
-			"X2 Gunship (Engines)"
+			"X2E Gunship"
 		variant 1
-			"X2 Gunship (Engines) A"
+			"X2E Gunship A"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 		variant 1
 			"Falcon"
 		variant 1
@@ -4844,17 +4844,17 @@ event "dread compatibility"
 			"Sparrow MKII B"
 			"Wren A"
 		variant 1
-			"4500X2 gunship"
+			"4500X2 Gunship"
 			"Hawk"
 		variant 1
-			"4500X2 gunship A"
+			"4500X2 Gunship A"
 			"Sparrow"
 		variant 1
-			"4500X2 gunship B"
+			"4500X2 Gunship B"
 			"Fury"
 			"Fury (Gatling)"
 		variant 1
-			"4500X2 gunship C"
+			"4500X2 Gunship C"
 			"Black Hawk"
 			"Black Hawk C"
 		variant 1
@@ -4893,10 +4893,10 @@ event "dread compatibility"
 			"Black Hawk B"
 			"Black Hawk C"
 		variant 1
-			"X2 Gunship (Engines) B"
+			"X2E Gunship B"
 			"Sparrow A"
 		variant 1
-			"X2 Gunship (Engines) C"
+			"X2E Gunship C"
 			"Hawk"
 		variant 1
 			"Falcon"
