@@ -1,3 +1,26 @@
+Shields Up Reborn v1.2
+	New Content
+	Content Changes
+		* (Shields Up) Removed the Deep Sky government from the game.
+		* (Shields Up) Removed the Tyil corporation from the game.
+		* (Shields Up) Removed the last of the SU systems that were connected to vanilla space.
+		* (Shields Up) Darkened the Sentar galaxy image so that the systems are easier to see.
+		* (Shields Up) Removed a bunch of Mil'taj and Plenipotent Dominion systems as to take up less space on the map.
+		* (Phil's Flavours) Shortened a lot of the names of ships so they don't run off certain panels in game.
+		* (Phil's Flavours) Cut down on the number of variants each ship has. Each ship now only has up to 3 possible variants instead of 4.
+		* (Phil's Flavours) Given that the silver ships (e.g. Silver Stream, Silver Defender, etc.) do not have markings, they are not only seen being used by merchants. The Silver Star and Black Star are also only seen being used by pirates.
+	Balance Changes
+		* (Pompano's) Skylance Rifles are no longer for sale. We ran out.
+	Bug Fixes
+		* Fixed a few missing quote errors.
+		* The usual typo fixes and wording changes in missions. One typo fix provided by @Mark4666.
+		* (Shields Up) Shortened the about.txt files as to not run off the description panel.
+		* (Shields Up) The Dragoon missions now have proper names.
+		* (Shields Up) The sizeable map outfit now gives 100 systems as its description says.
+		* (Shields Up) Removed the Direstorm person from the game, who was using a ship with no sprite.
+		* (Phil's Flavours) Removed outfit and cargo scanners from ships that pirates and merchants fly.
+	Misc
+		* (Shields Up) Reworded some things in the Servorum first contact missions.
 Shields Up Reborn v1.1
 	New Content
 		* (Shields Up and That Someone) Created first contact missions for the warring Pug, Hai (Absconded), Mil'taj (talk to some nearby Quarg), and Servorum
