@@ -16,7 +16,7 @@ fleet "pirate raid"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Dagger" 2
 	variant 1
 		"4500X2 Gunship"
@@ -25,7 +25,7 @@ fleet "pirate raid"
 	variant 1
 		"4500X2 Gunship B"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Bastion"
 	variant 1
@@ -41,7 +41,7 @@ fleet "pirate raid"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Corvette"
 	variant 1
@@ -67,7 +67,7 @@ fleet "pirate raid"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Mule"
 		"Dagger"
@@ -95,7 +95,7 @@ fleet "pirate raid"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Splinter"
 	variant 1
@@ -111,7 +111,7 @@ fleet "pirate raid"
 	variant 1
 		"Silver Protector B"
 	variant 1
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Damned Executioner"
 	variant 1
@@ -119,7 +119,7 @@ fleet "pirate raid"
 	variant 1
 		"Damned Executioner B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Stormbolt"
 	variant 1
@@ -127,7 +127,7 @@ fleet "pirate raid"
 	variant 1
 		"Stormbolt B"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Deceptive Lover"
 	variant 1
@@ -135,7 +135,7 @@ fleet "pirate raid"
 	variant 1
 		"Deceptive Lover B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
 		"Hellscream"
 	variant 1
@@ -143,7 +143,7 @@ fleet "pirate raid"
 	variant 1
 		"Hellscream B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -151,7 +151,7 @@ fleet "pirate raid"
 	variant 1
 		"Arrowhead B"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Balau"
 	variant 1
@@ -159,7 +159,7 @@ fleet "pirate raid"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -167,7 +167,7 @@ fleet "pirate raid"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 	variant 1
 		"Headhunter"
 	variant 1
@@ -183,7 +183,7 @@ fleet "pirate raid"
 	variant 1
 		"Heavy Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Junior Osprey"
 	variant 1
@@ -191,7 +191,7 @@ fleet "pirate raid"
 	variant 1
 		"Junior Osprey B"
 	variant 1
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Light Dart"
 	variant 1
@@ -199,7 +199,7 @@ fleet "pirate raid"
 	variant 1
 		"Light Dart B"
 	variant 1
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Quicksilver"
 	variant 1
@@ -223,7 +223,7 @@ fleet "pirate raid"
 	variant 1
 		"Swooping Raven B"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -231,7 +231,7 @@ fleet "pirate raid"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Modified Argosy"
 	variant 1
@@ -247,7 +247,7 @@ fleet "pirate raid"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -255,7 +255,7 @@ fleet "pirate raid"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 2
 		"Berserker" 3
 	variant 2
@@ -267,7 +267,7 @@ fleet "pirate raid"
 	variant 1
 		"Black Hawk B" 3
 	variant 1
-		"Black Hawk C" 3
+		"Black Hawk" 3
 	variant 1
 		"Dark Berserker" 3
 	variant 1
@@ -275,7 +275,7 @@ fleet "pirate raid"
 	variant 1
 		"Dark Berserker B" 3
 	variant 1
-		"Dark Berserker C" 3
+		"Dark Berserker" 3
 	variant 1
 		"Elepaio" 3
 	variant 1
@@ -283,7 +283,7 @@ fleet "pirate raid"
 	variant 1
 		"Elepaio B" 3
 	variant 1
-		"Elepaio C" 3
+		"Elepaio" 3
 	variant 1
 		"Fury" 3
 	variant 1
@@ -315,7 +315,7 @@ fleet "pirate raid"
 	variant 1
 		"Sparrow MKII B" 3
 	variant 1
-		"Sparrow MKII C" 3
+		"Sparrow MKII" 3
 	variant 2
 		"Wasp" 3
 	variant 2
@@ -327,7 +327,7 @@ fleet "pirate raid"
 	variant 1
 		"Wren B" 3
 	variant 1
-		"Wren C" 3"
+		"Wren" 3"
 
 
 fleet "Small Southern Pirates"
@@ -344,7 +344,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Black Hawk B"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 	variant 1
 		"Elepaio"
 	variant 1
@@ -352,7 +352,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Elepaio B"
 	variant 1
-		"Elepaio C"
+		"Elepaio"
 	variant 1
 		"Fury"
 	variant 1
@@ -384,7 +384,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Sparrow MKII B"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 1
 		"Wren"
 	variant 1
@@ -392,7 +392,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Wren B"
 	variant 1
-		"Wren C"
+		"Wren"
 	variant 1
 		"Dirty Cutlass"
 	variant 1
@@ -400,7 +400,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Dirty Cutlass B"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace"
 	variant 1
@@ -408,7 +408,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Fifth Ace B"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade"
 	variant 1
@@ -416,7 +416,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Hidden Blade B"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Deceitful Hangman"
 	variant 1
@@ -424,7 +424,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -432,7 +432,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
 		"Balau"
 	variant 1
@@ -440,7 +440,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -448,7 +448,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 	variant 2
 		"Junior Osprey"
 	variant 1
@@ -456,7 +456,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Junior Osprey B"
 	variant 1
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -464,7 +464,7 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 2
 		"Clipper"
 	variant 1
@@ -481,7 +481,7 @@ fleet "Small Southern Pirates"
 		"Modified Argosy (Missile)"
 	variant 1
 		"Black Hawk"
-		"Wren C"
+		"Wren"
 	variant 2
 		"Black Hawk A"
 		"Black Hawk"
@@ -489,11 +489,11 @@ fleet "Small Southern Pirates"
 		"Black Hawk B"
 		"Black Hawk A"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 		"Black Hawk B"
 	variant 1
 		"Elepaio"
-		"Black Hawk C"
+		"Black Hawk"
 	variant 2
 		"Elepaio A"
 		"Elepaio"
@@ -501,11 +501,11 @@ fleet "Small Southern Pirates"
 		"Elepaio B"
 		"Elepaio A"
 	variant 1
-		"Elepaio C"
+		"Elepaio"
 		"Elepaio B"
 	variant 1
 		"Fury"
-		"Elepaio C"
+		"Elepaio"
 	variant 1
 		"Fury (Gatling)"
 		"Fury"
@@ -549,11 +549,11 @@ fleet "Small Southern Pirates"
 		"Sparrow MKII B"
 		"Sparrow MKII A"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Sparrow MKII B"
 	variant 1
 		"Wren"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Wren A"
 		"Wren"
@@ -561,11 +561,11 @@ fleet "Small Southern Pirates"
 		"Wren B"
 		"Wren A"
 	variant 1
-		"Wren C"
+		"Wren"
 		"Wren B"
 	variant 1
 		"Dirty Cutlass"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Dirty Cutlass A"
 		"Dirty Cutlass"
@@ -573,11 +573,11 @@ fleet "Small Southern Pirates"
 		"Dirty Cutlass B"
 		"Dirty Cutlass A"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 		"Dirty Cutlass B"
 	variant 1
 		"Fifth Ace"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace A"
 		"Fifth Ace"
@@ -585,11 +585,11 @@ fleet "Small Southern Pirates"
 		"Fifth Ace B"
 		"Fifth Ace A"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Fifth Ace B"
 	variant 1
 		"Hidden Blade"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade A"
 		"Hidden Blade"
@@ -597,7 +597,7 @@ fleet "Small Southern Pirates"
 		"Hidden Blade B"
 		"Hidden Blade A"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Hidden Blade B"
 	variant 1
 		"Hawk"
@@ -622,13 +622,13 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Black Hawk A"
 		"Black Hawk B"
-		"Black Hawk C"
+		"Black Hawk"
 	variant 1
 		"Black Hawk B"
-		"Black Hawk C"
+		"Black Hawk"
 		"Hawk"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 		"Hawk"
 		"Hawk (Rocket)"
 	variant 1
@@ -702,45 +702,45 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Dirty Cutlass A"
 		"Dirty Cutlass B"
-		"Dirty Cutlass C"
-	variant 1
-		"Dirty Cutlass B"
-		"Dirty Cutlass C"
-		"Fifth Ace"
-	variant 1
-		"Dirty Cutlass C"
-		"Fifth Ace"
-		"Fifth Ace A"
-	variant 1
-		"Fifth Ace"
-		"Fifth Ace A"
-		"Fifth Ace B"
-	variant 1
-		"Fifth Ace A"
-		"Fifth Ace B"
-		"Fifth Ace C"
-	variant 1
-		"Fifth Ace B"
-		"Fifth Ace C"
-		"Hidden Blade"
-	variant 1
-		"Fifth Ace C"
-		"Hidden Blade"
-		"Hidden Blade A"
-	variant 1
-		"Hidden Blade"
-		"Hidden Blade A"
-		"Hidden Blade B"
-	variant 1
-		"Hidden Blade A"
-		"Hidden Blade B"
-		"Hidden Blade C"
-	variant 1
-		"Hidden Blade B"
-		"Hidden Blade C"
 		"Dirty Cutlass"
 	variant 1
-		"Hidden Blade C"
+		"Dirty Cutlass B"
+		"Dirty Cutlass"
+		"Fifth Ace"
+	variant 1
+		"Dirty Cutlass"
+		"Fifth Ace"
+		"Fifth Ace A"
+	variant 1
+		"Fifth Ace"
+		"Fifth Ace A"
+		"Fifth Ace B"
+	variant 1
+		"Fifth Ace A"
+		"Fifth Ace B"
+		"Fifth Ace"
+	variant 1
+		"Fifth Ace B"
+		"Fifth Ace"
+		"Hidden Blade"
+	variant 1
+		"Fifth Ace"
+		"Hidden Blade"
+		"Hidden Blade A"
+	variant 1
+		"Hidden Blade"
+		"Hidden Blade A"
+		"Hidden Blade B"
+	variant 1
+		"Hidden Blade A"
+		"Hidden Blade B"
+		"Hidden Blade"
+	variant 1
+		"Hidden Blade B"
+		"Hidden Blade"
+		"Dirty Cutlass"
+	variant 1
+		"Hidden Blade"
 		"Dirty Cutlass"
 		"Dirty Cutlass A"
 
@@ -765,7 +765,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 2
 		"Lignum"
 	variant 1
@@ -773,7 +773,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Lignum B"
 	variant 2
-		"Lignum C"
+		"Lignum"
 	variant 2
 		"Wamara"
 	variant 2
@@ -781,7 +781,7 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 2
 		"X2 Gunship"
 	variant 2
@@ -789,7 +789,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
 		"X2E Gunship"
 	variant 2
@@ -797,7 +797,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 3
 		"Black Star"
 	variant 1
@@ -805,13 +805,13 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 3
 		"Silver Star A"
 	variant 2
 		"Silver Star B"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 2
@@ -821,7 +821,7 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Silver Defender B"
 	variant 2
-		"Silver Defender C"
+		"Silver Defender"
 	variant 3
 		"4500X2 Gunship"
 	variant 2
@@ -829,7 +829,7 @@ fleet "Large Southern Pirates"
 	variant 2
 		"4500X2 Gunship B"
 	variant 2
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 3
 		"Bastion"
 	variant 2
@@ -845,7 +845,7 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Cebil B"
 	variant 2
-		"Cebil C"
+		"Cebil"
 	variant 3
 		"Gidgee"
 	variant 1
@@ -853,7 +853,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 3
 		"Osprey"
 	variant 2
@@ -869,7 +869,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 2
 		"Silver Protector"
 	variant 1
@@ -877,7 +877,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Silver Protector B"
 	variant 1
-		"Silver Protector C"
+		"Silver Protector"
 	variant 3
 		"Damned Executioner"
 	variant 2
@@ -885,7 +885,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Damned Executioner B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 3
 		"Stormbolt"
 	variant 2
@@ -893,7 +893,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Stormbolt B"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 	variant 3
 		"Deceptive Lover"
 	variant 2
@@ -901,7 +901,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Deceptive Lover B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 3
 		"Hellscream"
 	variant 2
@@ -909,7 +909,7 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Hellscream B"
 	variant 2
-		"Hellscream C"
+		"Hellscream"
 	variant 1
 		"Deceitful Hangman"
 		"Fearless Assassin"
@@ -920,14 +920,14 @@ fleet "Large Southern Pirates"
 		"Deceitful Hangman B"
 		"Fearless Assassin B"
 	variant 1
-		"Deceitful Hangman C"
-		"Fearless Assassin C"
+		"Deceitful Hangman"
+		"Fearless Assassin"
 	variant 3
 		"Junior Osprey"
 		"Junior Osprey B"
 	variant 2
 		"Junior Osprey A"
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Silver Escort"
 		"Silver Escort B"
@@ -961,25 +961,25 @@ fleet "Large Southern Pirates"
 		"Fearless Assassin"
 		"Dirty Cutlass B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
 		"Fifth Ace"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fifth Ace A"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
 		"Fifth Ace B"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
-		"Fifth Ace C"
+		"Stormbolt"
+		"Fearless Assassin"
+		"Fifth Ace"
 	variant 1
 		"Deceptive Lover"
 		"Deceitful Hangman"
@@ -993,24 +993,24 @@ fleet "Large Southern Pirates"
 		"Fearless Assassin"
 		"Hidden Blade B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
 		"Fifth Ace B"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
-		"Fifth Ace C"
+		"Deceitful Hangman"
+		"Fifth Ace"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
 		"Hidden Blade"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Hidden Blade A"
 	variant 1
 		"Damned Executioner"
@@ -1025,24 +1025,24 @@ fleet "Large Southern Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
+		"Stormbolt"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Deceptive Lover"
@@ -1057,37 +1057,37 @@ fleet "Large Southern Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Damned Executioner"
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Damned Executioner A"
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Damned Executioner B"
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
-		"Damned Executioner C"
-		"Hellscream C"
+		"Damned Executioner"
+		"Hellscream"
 	variant 1
 		"Stormbolt"
 		"Damned Executioner"
@@ -1098,7 +1098,7 @@ fleet "Large Southern Pirates"
 		"Stormbolt B"
 		"Deceptive Lover"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 		"Hellscream"
 	variant 1
 		"Deceptive Lover"
@@ -1110,7 +1110,7 @@ fleet "Large Southern Pirates"
 		"Deceptive Lover B"
 		"Deceptive Lover A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Hellscream A"
 	variant 1
 		"Hellscream"
@@ -1122,7 +1122,7 @@ fleet "Large Southern Pirates"
 		"Hellscream B"
 		"Deceptive Lover B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 		"Hellscream B"
 	variant 1
 		"Silver Defender"
@@ -1135,11 +1135,11 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Silver Defender B"
 		"Silver Escort B" 
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
-		"Silver Defender C"
-		"Silver Protector C"
-		"Silver Escort C"
+		"Silver Defender"
+		"Silver Protector"
+		"Silver Escort"
 	variant 1
 		"Silver Protector"
 		"Silver Escort"
@@ -1151,14 +1151,14 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Silver Protector B"
 		"Silver Escort B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
-		"Black Star C"
-		"Silver Escort C"
+		"Black Star"
+		"Silver Escort"
 		"Silver Escort"
 	variant 1
 		"Silver Protector A"
-		"Silver Protector C"
+		"Silver Protector"
 		"Silver Escort"
 		"Silver Escort A"
 	variant 1
@@ -1167,7 +1167,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Black Star B"
 		"Silver Protector B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 2
 		"Black Star"
 		"Black Star A"
@@ -1179,11 +1179,11 @@ fleet "Large Southern Pirates"
 		"Silver Escort A"
 		"Silver Escort B"
 	variant 1
-		"Silver Star C"
-		"Silver Escort C"
+		"Silver Star"
+		"Silver Escort"
 	variant 1
 		"Silver Star"
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Gidgee"
 		"Camelthorn"
@@ -1194,31 +1194,31 @@ fleet "Large Southern Pirates"
 		"Gidgee B"
 		"Balau"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Balau A"
 	variant 1
 		"Cebil"
 		"Balau B"
 	variant 1
 		"Cebil A"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Cebil B"
 		"Camelthorn"
 	variant 1
-		"Cebil C"
+		"Cebil"
 		"Camelthorn A"
 	variant 1
 		"Quebracho"
 		"Camelthorn B"
 	variant 1
 		"Quebracho A"
-		"Camelthorn C"
+		"Camelthorn"
 	variant 1
 		"Quebracho B"
 		"Balau"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Balau A"
 	variant 1
 		"Gidgee"
@@ -1233,7 +1233,7 @@ fleet "Large Southern Pirates"
 		"Balau"
 		"Camelthorn A"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Balau A"
 		"Balau"
 	variant 1
@@ -1242,14 +1242,14 @@ fleet "Large Southern Pirates"
 		"Balau A"
 	variant 1
 		"Cebil A"
-		"Balau C"
+		"Balau"
 		"Balau B"
 	variant 1
 		"Cebil B"
 		"Camelthorn"
-		"Balau C"
+		"Balau"
 	variant 1
-		"Cebil C"
+		"Cebil"
 		"Camelthorn A"
 		"Camelthorn"
 	variant 1
@@ -1258,14 +1258,14 @@ fleet "Large Southern Pirates"
 		"Camelthorn A"
 	variant 1
 		"Quebracho A"
-		"Camelthorn C"
+		"Camelthorn"
 		"Camelthorn B"
 	variant 1
 		"Quebracho B"
 		"Balau"
-		"Camelthorn C"
+		"Camelthorn"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Balau A"
 		"Balau"
 	variant 1
@@ -1273,42 +1273,42 @@ fleet "Large Southern Pirates"
 		"4500X2 Gunship B"
 	variant 1
 		"4500X2 Gunship A"
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Gidgee"
 		"Quebracho B"
 	variant 1
 		"Gidgee A"
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Gidgee B"
 		"Gidgee"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Gidgee A"
 	variant 1
 		"Cebil"
 		"Gidgee B"
 	variant 1
 		"Cebil A"
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Cebil B"
 		"Cebil"
 	variant 1
-		"Cebil C"
+		"Cebil"
 		"Cebil A"
 	variant 1
 		"Quebracho"
 		"Cebil B"
 	variant 1
 		"Quebracho A"
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Quebracho B"
 		"Quebracho"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Quebracho A"
 	variant 2
 		"Junior Osprey"
@@ -1320,8 +1320,8 @@ fleet "Large Southern Pirates"
 		"Junior Osprey B"
 		"Elepaio B" 2
 	variant 1
-		"Junior Osprey C"
-		"Elepaio C" 2
+		"Junior Osprey"
+		"Elepaio" 2
 	variant 1
 		"Silver Escort"
 		"Black Hawk"
@@ -1332,8 +1332,8 @@ fleet "Large Southern Pirates"
 		"Silver Escort B"
 		"Black Hawk B"
 	variant 1
-		"Silver Escort C"
-		"Black Hawk C" 2
+		"Silver Escort"
+		"Black Hawk" 2
 	variant 2
 		"Clipper" 2
 		"Sparrow MKII"
@@ -1345,7 +1345,7 @@ fleet "Large Southern Pirates"
 		"Sparrow MKII B" 2
 	variant 1
 		"Clipper (Speedy)"
-		"Sparrow MKII C" 2
+		"Sparrow MKII" 2
 	variant 1
 		"Modified Argosy" 2
 		"Sparrow"
@@ -1386,9 +1386,9 @@ fleet "Large Southern Pirates"
 		"Dirty Cutlass B"
 		"Hidden Blade B"
 	variant 1
-		"Deceitful Hangman C"
-		"Dirty Cutlass C"
-		"Hidden Blade C"
+		"Deceitful Hangman"
+		"Dirty Cutlass"
+		"Hidden Blade"
 	variant 1
 		"Fearless Assassin"
 		"Fifth Ace"
@@ -1396,14 +1396,14 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Fearless Assassin A"
 		"Fifth Ace A"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Fearless Assassin B"
 		"Fifth Ace B"
 		"Fifth Ace"
 	variant 1
-		"Fearless Assassin C"
-		"Fifth Ace C"
+		"Fearless Assassin"
+		"Fifth Ace"
 		"Fifth Ace A"
 	variant 1
 		"Balau"
@@ -1418,9 +1418,9 @@ fleet "Large Southern Pirates"
 		"Wren B"
 		"Elepaio B"
 	variant 1
-		"Balau C"
-		"Wren C"
-		"Elepaio C"
+		"Balau"
+		"Wren"
+		"Elepaio"
 	variant 1
 		"Camelthorn"
 		"Fury"
@@ -1434,9 +1434,9 @@ fleet "Large Southern Pirates"
 		"Fury (Laser)"
 		"Wren B"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 		"Fury (Missile)"
-		"Wren C"
+		"Wren"
 	variant 2
 		"Junior Osprey" 2
 		"Elepaio"
@@ -1450,9 +1450,9 @@ fleet "Large Southern Pirates"
 		"Elepaio B"
 		"Sparrow MKII B"
 	variant 1
-		"Junior Osprey C"
-		"Elepaio C"
-		"Sparrow MKII C"
+		"Junior Osprey"
+		"Elepaio"
+		"Sparrow MKII"
 	variant 1
 		"Silver Escort"
 		"Black Hawk"
@@ -1466,8 +1466,8 @@ fleet "Large Southern Pirates"
 		"Black Hawk B"
 		"Hawk (Speedy)"
 	variant 1
-		"Silver Escort C"
-		"Black Hawk C"
+		"Silver Escort"
+		"Black Hawk"
 		"Hawk A"
 	variant 2
 		"Clipper"
@@ -1483,7 +1483,7 @@ fleet "Large Southern Pirates"
 		"Sparrow (Patrol)"
 	variant 1
 		"Clipper (Speedy)"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Sparrow A"
 	variant 1
 		"Modified Argosy"
@@ -1516,7 +1516,7 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Argosy (Missile)"
 		"Hawk A"
-		"Black Hawk C"
+		"Black Hawk"
 	variant 1
 		"Argosy (Turret)"
 		"Hawk"
@@ -1534,9 +1534,9 @@ fleet "Large Southern Pirates"
 		"Hidden Blade B"
 		"Fifth Ace B"
 	variant 1
-		"Dirty Cutlass C"
-		"Hidden Blade C" 2
-		"Fifth Ace C"
+		"Dirty Cutlass"
+		"Hidden Blade" 2
+		"Fifth Ace"
 	variant 1
 		"Wren"
 		"Elepaio"
@@ -1544,14 +1544,14 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Wren A"
 		"Elepaio A" 2
-		"Wren C"
+		"Wren"
 	variant 1
 		"Wren B"
 		"Elepaio B"
 		"Elepaio"
 	variant 1
-		"Wren C" 2
-		"Elepaio C"
+		"Wren" 2
+		"Elepaio"
 		"Elepaio A"
 	variant 1
 		"Black Hawk"
@@ -1566,7 +1566,7 @@ fleet "Large Southern Pirates"
 		"Hawk (Speedy)"
 		"Black Hawk"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 		"Hawk A"
 		"Black Hawk A"
 	variant 1
@@ -1582,19 +1582,19 @@ fleet "Large Southern Pirates"
 		"Sparrow (Patrol)" 2
 		"Fury (Laser)"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Sparrow A" 2
 		"Fury (Missile)"
 	variant 2
 		"Bastion"
-		"Elepaio C"
-		"Sparrow MKII C"
+		"Elepaio"
+		"Sparrow MKII"
 	variant 1
 		"Bastion (Heavy)"
 		"Hawk" 2
 	variant 1
 		"Bastion (Laser)"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Sparrow A" 
 	variant 1
 		"Bastion A"
@@ -1638,7 +1638,7 @@ fleet "Large Southern Pirates"
 		"Wamara B"
 		"Black Hawk"
 	variant 1
-		"Wamara C"
+		"Wamara"
 		"Wren" 2
 	variant 1
 		"X2 Gunship"
@@ -1651,7 +1651,7 @@ fleet "Large Southern Pirates"
 		"X2 Gunship B"
 		"Fury"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 		"Wren"
 		"Wren B"
 	variant 1
@@ -1664,7 +1664,7 @@ fleet "Large Southern Pirates"
 		"X2E Gunship B"
 		"Sparrow" 2
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 		"Wren B"
 		"Elepaio"
 		
@@ -1690,7 +1690,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Arrowhead B"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Balau"
 	variant 1
@@ -1698,7 +1698,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -1706,7 +1706,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 	variant 2
 		"Headhunter"
 	variant 2
@@ -1722,7 +1722,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Heavy Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 2
 		"Light Dart"
 	variant 1
@@ -1730,7 +1730,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Light Dart B"
 	variant 1
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -1738,7 +1738,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Deceitful Hangman"
 	variant 1
@@ -1746,7 +1746,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -1754,7 +1754,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
 		"Hawk"
 	variant 1
@@ -1778,7 +1778,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Sparrow MKII B"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Wasp"
 	variant 1
@@ -1790,7 +1790,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Dirty Cutlass B"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace"
 	variant 1
@@ -1798,7 +1798,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Fifth Ace B"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade"
 	variant 1
@@ -1806,7 +1806,7 @@ fleet "Small Core Pirates"
 	variant 1
 		"Hidden Blade B"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Deceitful Hangman"
 		"Fifth Ace"
@@ -1817,8 +1817,8 @@ fleet "Small Core Pirates"
 		"Deceitful Hangman B"
 		"Fifth Ace B"
 	variant 1
-		"Deceitful Hangman C"
-		"Fifth Ace C"
+		"Deceitful Hangman"
+		"Fifth Ace"
 	variant 1
 		"Fearless Assassin"
 		"Hidden Blade"
@@ -1829,8 +1829,8 @@ fleet "Small Core Pirates"
 		"Fearless Assassin B"
 		"Hidden Blade B"
 	variant 1
-		"Fearless Assassin C"
-		"Hidden Blade C"
+		"Fearless Assassin"
+		"Hidden Blade"
 	variant 1
 		"Sparrow"
 		"Sparrow MKII"
@@ -1842,7 +1842,7 @@ fleet "Small Core Pirates"
 		"Sparrow MKII B"
 	variant 1
 		"Sparrow A"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Hawk"
 		"Wasp"
@@ -1877,43 +1877,43 @@ fleet "Small Core Pirates"
 		"Sparrow MKII B"
 		"Wasp"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Wasp (Proton)"
 	variant 1
 		"Dirty Cutlass"
 		"Hidden Blade B"
 	variant 1
 		"Dirty Cutlass A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Dirty Cutlass B"
 		"Dirty Cutlass"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 		"Dirty Cutlass A"
 	variant 1
 		"Fifth Ace"
 		"Dirty Cutlass B"
 	variant 1
 		"Fifth Ace A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace B"
 		"Fifth Ace"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Fifth Ace A"
 	variant 1
 		"Hidden Blade"
 		"Fifth Ace B"
 	variant 1
 		"Hidden Blade A"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade B"
 		"Hidden Blade"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Hidden Blade A"
 	variant 2
 		"Quicksilver"
@@ -1937,7 +1937,7 @@ fleet "Small Core Pirates"
 		"Arrowhead B"
 		"Sparrow (Patrol)"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 		"Sparrow A"
 	variant 1
 		"Balau"
@@ -1949,8 +1949,8 @@ fleet "Small Core Pirates"
 		"Balau B"
 		"Sparrow MKII B"
 	variant 1
-		"Balau C"
-		"Sparrow MKII C"
+		"Balau"
+		"Sparrow MKII"
 	variant 1
 		"Camelthorn"
 		"Wasp"
@@ -1961,7 +1961,7 @@ fleet "Small Core Pirates"
 		"Camelthorn B"
 		"Hawk"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 		"Hawk (Rocket)"
 	variant 1
 		"Headhunter"
@@ -1985,19 +1985,19 @@ fleet "Small Core Pirates"
 		"Heavy Dart B"
 		"Sparrow MKII"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 		"Sparrow MKII A"
 	variant 2
 		"Light Dart"
 		"Sparrow MKII B"
 	variant 1
 		"Light Dart A"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 1
 		"Light Dart B"
 		"Wasp"
 	variant 2
-		"Light Dart C"
+		"Light Dart"
 		"Wasp (Proton)"
 	variant 1
 		"Silver Escort"
@@ -2009,7 +2009,7 @@ fleet "Small Core Pirates"
 		"Silver Escort B"
 		"Wasp"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 		"Wasp (Proton)"
 		
 fleet "Large Core Pirates"
@@ -2025,7 +2025,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 1
 		"Lignum"
 	variant 1
@@ -2033,7 +2033,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Lignum B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 	variant 3
 		"Manta"
 	variant 3
@@ -2067,7 +2067,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Vanguard Trailbreaker B"
 	variant 1
-		"Vanguard Trailbreaker C"
+		"Vanguard Trailbreaker"
 	variant 1
 		"Wamara"
 	variant 1
@@ -2075,7 +2075,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 2
 		"X2 Gunship"
 	variant 2
@@ -2083,7 +2083,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
 		"X2E Gunship"
 	variant 1
@@ -2091,7 +2091,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 2
 		"Black Star"
 	variant 1
@@ -2099,13 +2099,13 @@ fleet "Large Core Pirates"
 	variant 2
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 2
 		"Silver Star A"
 	variant 1
 		"Silver Star B"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 2
@@ -2115,7 +2115,7 @@ fleet "Large Core Pirates"
 	variant 2
 		"Silver Defender B"
 	variant 1
-		"Silver Defender C"
+		"Silver Defender"
 	variant 1
 		"Damned Executioner"
 		"Deceitful Hangman"
@@ -2129,25 +2129,25 @@ fleet "Large Core Pirates"
 		"Fearless Assassin"
 		"Dirty Cutlass B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
 		"Fifth Ace"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fifth Ace A"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
 		"Fifth Ace B"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
-		"Fifth Ace C"
+		"Stormbolt"
+		"Fearless Assassin"
+		"Fifth Ace"
 	variant 1
 		"Deceptive Lover"
 		"Deceitful Hangman"
@@ -2161,24 +2161,24 @@ fleet "Large Core Pirates"
 		"Fearless Assassin"
 		"Hidden Blade B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
 		"Fifth Ace B"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
-		"Fifth Ace C"
+		"Deceitful Hangman"
+		"Fifth Ace"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
 		"Hidden Blade"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Hidden Blade A"
 	variant 1
 		"Damned Executioner"
@@ -2193,24 +2193,24 @@ fleet "Large Core Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
+		"Stormbolt"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Deceptive Lover"
@@ -2225,37 +2225,37 @@ fleet "Large Core Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Damned Executioner"
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Damned Executioner A"
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Damned Executioner B"
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
-		"Damned Executioner C"
-		"Hellscream C"
+		"Damned Executioner"
+		"Hellscream"
 	variant 1
 		"Stormbolt"
 		"Damned Executioner"
@@ -2266,7 +2266,7 @@ fleet "Large Core Pirates"
 		"Stormbolt B"
 		"Deceptive Lover"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 		"Hellscream"
 	variant 1
 		"Deceptive Lover"
@@ -2278,7 +2278,7 @@ fleet "Large Core Pirates"
 		"Deceptive Lover B"
 		"Deceptive Lover A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Hellscream A"
 	variant 1
 		"Hellscream"
@@ -2290,7 +2290,7 @@ fleet "Large Core Pirates"
 		"Hellscream B"
 		"Deceptive Lover B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 		"Hellscream B"
 	variant 1
 		"Silver Defender"
@@ -2303,11 +2303,11 @@ fleet "Large Core Pirates"
 	variant 1
 		"Silver Defender B"
 		"Silver Escort B" 
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
-		"Silver Defender C"
-		"Silver Protector C"
-		"Silver Escort C"
+		"Silver Defender"
+		"Silver Protector"
+		"Silver Escort"
 	variant 1
 		"Silver Protector"
 		"Silver Escort"
@@ -2319,7 +2319,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Silver Protector B"
 		"Silver Escort B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Black Star A"
 		"Silver Escort A"
@@ -2328,23 +2328,23 @@ fleet "Large Core Pirates"
 		"Silver Protector"
 		"Silver Protector B"
 		"Silver Escort B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Silver Protector"
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Black Star B"
 		"Silver Protector B"
 		"Silver Escort"
 	variant 1
-		"Black Star C"
+		"Black Star"
 		"Black Star A"
 	variant 1
 		"Silver Star A"
 		"Black Star A"
 	variant 1
-		"Silver Star C"
-		"Silver Escort C"
+		"Silver Star"
+		"Silver Escort"
 		"Silver Escort B"
 	variant 1
 		"Silver Star A"
@@ -2356,14 +2356,14 @@ fleet "Large Core Pirates"
 		"Gidgee"
 		"Camelthorn"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Balau A"
 	variant 1
 		"Cebil"
 		"Balau B"
 	variant 1
 		"Cebil A"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Cebil B"
 		"Camelthorn"
@@ -2378,17 +2378,17 @@ fleet "Large Core Pirates"
 		"Camelthorn"
 		"Balau A"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Balau A"
 		"Balau"
 	variant 1
 		"Cebil A"
-		"Balau C"
+		"Balau"
 		"Balau B"
 	variant 1
 		"Cebil B"
 		"Camelthorn"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Quebracho"
 		"Camelthorn B"
@@ -2396,9 +2396,9 @@ fleet "Large Core Pirates"
 	variant 1
 		"Quebracho B"
 		"Balau"
-		"Camelthorn C"
+		"Camelthorn"
 	variant 2
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 		"Splinter"
 	variant 2
 		"4500X2 Gunship B"
@@ -2432,7 +2432,7 @@ fleet "Large Core Pirates"
 		"4500X2 Gunship B"
 	variant 1
 		"4500X2 Gunship A"
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Gidgee"
 		"Quebracho B"
@@ -2457,7 +2457,7 @@ fleet "Large Core Pirates"
 		"Headhunter A"
 	variant 2
 		"Splinter (Laser)"
-		"Light Dart C"
+		"Light Dart"
 		"Headhunter B"
 	variant 2
 		"Splinter (Mark II)"
@@ -2474,7 +2474,7 @@ fleet "Large Core Pirates"
 	variant 1
 		"Firebird (Missile)"
 		"Quicksilver A"
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Firebird (Plasma)"
 		"Arrowhead"
@@ -2489,14 +2489,14 @@ fleet "Large Core Pirates"
 		"Heavy Dart"
 	variant 1
 		"4500X2 Gunship A"
-		"Arrowhead C"
+		"Arrowhead"
 		"Light Dart"
 	variant 1
 		"4500X2 Gunship B"
 		"Headhunter"
 		"Arrowhead"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 		"Headhunter (Particle)"
 		"Quicksilver"
 	variant 2
@@ -2505,14 +2505,14 @@ fleet "Large Core Pirates"
 		"Quicksilver"
 	variant 1
 		"Light Dart A"
-		"Light Dart C"
+		"Light Dart"
 		"Quicksilver (Mark II)"
 	variant 1
 		"Light Dart B"
 		"Quicksilver"
 		"Quicksilver (Proton)"
 	variant 2
-		"Light Dart C"
+		"Light Dart"
 		"Quicksilver (Mark II)"
 		"Quicksilver A"
 	variant 1
@@ -2530,21 +2530,21 @@ fleet "Large Core Pirates"
 	variant 1
 		"Quicksilver A"
 		"Arrowhead A"
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Arrowhead"
 		"Arrowhead B"
 		"Headhunter"
 	variant 1
 		"Arrowhead A"
-		"Arrowhead C"
+		"Arrowhead"
 		"Headhunter (Particle)"
 	variant 1
 		"Arrowhead B"
 		"Headhunter"
 		"Headhunter A"
 	variant 2
-		"Arrowhead C"
+		"Arrowhead"
 		"Headhunter (Particle)"
 		"Headhunter B"
 	variant 1
@@ -2562,23 +2562,23 @@ fleet "Large Core Pirates"
 	variant 2
 		"Headhunter B"
 		"Heavy Dart A"
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Heavy Dart"
 		"Heavy Dart B"
 		"Light Dart"
 	variant 1
 		"Heavy Dart A"
-		"Heavy Dart C"
+		"Heavy Dart"
 		"Light Dart A"
 	variant 1
 		"Heavy Dart B"
 		"Light Dart"
 		"Light Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 		"Light Dart A"
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Lignum A"
 		"Wasp" 2
@@ -2592,7 +2592,7 @@ fleet "Large Core Pirates"
 		"Wamara B"
 		"Light Dart A"
 	variant 1
-		"Wamara C"
+		"Wamara"
 		"Quicksilver" 
 	variant 2
 		"Manta"
@@ -2636,7 +2636,7 @@ fleet "Large Core Pirates"
 		"Vanguard Trailbreaker B"
 		"Heavy Dart A"
 	variant 1
-		"Vanguard Trailbreaker C"
+		"Vanguard Trailbreaker"
 		"Wasp (Proton)" 2
 	variant 1
 		"X2 Gunship"
@@ -2649,7 +2649,7 @@ fleet "Large Core Pirates"
 		"X2 Gunship B"
 		"Light Dart"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 		"Arrowhead"
 	variant 1
 		"X2E Gunship"
@@ -2661,7 +2661,7 @@ fleet "Large Core Pirates"
 		"X2E Gunship B"
 		"Light Dart"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 		"Quicksilver (Proton)"
 		
 fleet "Small Northern Pirates"
@@ -2678,7 +2678,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -2686,7 +2686,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 	variant 2
 		"Headhunter"
 	variant 2
@@ -2710,7 +2710,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Swooping Raven B"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -2718,7 +2718,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 3
 		"Berserker"
 	variant 2
@@ -2730,7 +2730,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Black Hawk B"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 	variant 2
 		"Dark Berserker"
 	variant 1
@@ -2738,7 +2738,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Dark Berserker B"
 	variant 1
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 1
 		"Elepaio"
 	variant 1
@@ -2746,7 +2746,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Elepaio B"
 	variant 1
-		"Elepaio C"
+		"Elepaio"
 	variant 1
 		"Fury"
 	variant 1
@@ -2778,7 +2778,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Sparrow MKII B"
 	variant 1
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 1
 		"Wasp"
 	variant 1
@@ -2790,7 +2790,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Wren B"
 	variant 1
-		"Wren C"
+		"Wren"
 	variant 1
 		"Dirty Cutlass"
 	variant 1
@@ -2798,7 +2798,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Dirty Cutlass B"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace"
 	variant 1
@@ -2806,7 +2806,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Fifth Ace B"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade"
 	variant 1
@@ -2814,7 +2814,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Hidden Blade B"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Deceitful Hangman"
 	variant 1
@@ -2822,7 +2822,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -2830,7 +2830,7 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
 		"Deceitful Hangman"
 		"Dirty Cutlass"
@@ -2841,7 +2841,7 @@ fleet "Small Northern Pirates"
 		"Deceitful Hangman B"
 		"Hidden Blade"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Dirty Cutlass A"
 	variant 1
 		"Fearless Assassin"
@@ -2853,43 +2853,43 @@ fleet "Small Northern Pirates"
 		"Fearless Assassin B"
 		"Dirty Cutlass B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 		"Fifth Ace B"
 	variant 1
 		"Dirty Cutlass"
 		"Hidden Blade B"
 	variant 1
 		"Dirty Cutlass A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Dirty Cutlass B"
 		"Dirty Cutlass"
 	variant 1
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 		"Dirty Cutlass A"
 	variant 1
 		"Fifth Ace"
 		"Dirty Cutlass B"
 	variant 1
 		"Fifth Ace A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Fifth Ace B"
 		"Fifth Ace"
 	variant 1
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Fifth Ace A"
 	variant 1
 		"Hidden Blade"
 		"Fifth Ace B"
 	variant 1
 		"Hidden Blade A"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 1
 		"Hidden Blade B"
 		"Hidden Blade"
 	variant 1
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Hidden Blade A"
 	variant 1
 		"Balau"
@@ -2901,7 +2901,7 @@ fleet "Small Northern Pirates"
 		"Balau B"
 		"Dark Berserker"
 	variant 1
-		"Balau C"
+		"Balau"
 		"Elepaio"
 	variant 1
 		"Camelthorn"
@@ -2913,7 +2913,7 @@ fleet "Small Northern Pirates"
 		"Camelthorn B"
 		"Sparrow"
 	variant 1
-		"Camelthorn C"
+		"Camelthorn"
 		"Sparrow MKII"
 	variant 1
 		"Headhunter"
@@ -2947,9 +2947,9 @@ fleet "Small Northern Pirates"
 		"Elepaio A"
 	variant 1
 		"Swooping Raven B"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 		"Sparrow MKII A"
 	variant 1
 		"Silver Escort"
@@ -2961,14 +2961,14 @@ fleet "Small Northern Pirates"
 		"Silver Escort B"
 		"Dark Berserker B"
 	variant 1
-		"Silver Escort C"
-		"Black Hawk C"
+		"Silver Escort"
+		"Black Hawk"
 	variant 3
 		"Berserker"
 		"Dark Berserker B"
 	variant 1
 		"Black Hawk"
-		"Black Hawk C"
+		"Black Hawk"
 	variant 1
 		"Dark Berserker"
 		"Berserker"
@@ -3018,14 +3018,14 @@ fleet "Small Northern Pirates"
 		"Elepaio A"
 		"Hawk (Rocket)"
 	variant 1
-		"Dark Berserker C"
+		"Dark Berserker"
 		"Fury (Gatling)"
 	variant 1
 		"Sparrow MKII A"
 		"Elepaio A"
 	variant 1
 		"Wren A"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 1
 		"Sparrow (Patrol)"
 		"Sparrow MKII A"
@@ -3033,7 +3033,7 @@ fleet "Small Northern Pirates"
 		"Dark Berserker B"
 		"Wren A"
 	variant 1
-		"Black Hawk C"
+		"Black Hawk"
 		"Sparrow (Patrol)"
 
 
@@ -3056,25 +3056,25 @@ fleet "Large Northern Pirates"
 		"Fearless Assassin"
 		"Dirty Cutlass B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
 		"Fifth Ace"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fifth Ace A"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
 		"Fifth Ace B"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
-		"Fifth Ace C"
+		"Stormbolt"
+		"Fearless Assassin"
+		"Fifth Ace"
 	variant 1
 		"Deceptive Lover"
 		"Deceitful Hangman"
@@ -3088,24 +3088,24 @@ fleet "Large Northern Pirates"
 		"Fearless Assassin"
 		"Hidden Blade B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
 		"Fifth Ace B"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
-		"Fifth Ace C"
+		"Deceitful Hangman"
+		"Fifth Ace"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
 		"Hidden Blade"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Hidden Blade A"
 	variant 1
 		"Damned Executioner"
@@ -3120,24 +3120,24 @@ fleet "Large Northern Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Stormbolt"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Stormbolt A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Stormbolt B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Stormbolt C"
-		"Fearless Assassin C"
+		"Stormbolt"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Deceptive Lover"
@@ -3152,37 +3152,37 @@ fleet "Large Northern Pirates"
 		"Fearless Assassin"
 		"Fearless Assassin A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Fearless Assassin A"
 		"Deceitful Hangman B"
 	variant 1
 		"Hellscream"
 		"Deceitful Hangman B"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Hellscream A"
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 		"Fearless Assassin B"
 	variant 1
 		"Hellscream B"
 		"Fearless Assassin B"
-		"Fearless Assassin C"
+		"Fearless Assassin"
 	variant 1
-		"Hellscream C"
-		"Fearless Assassin C"
+		"Hellscream"
+		"Fearless Assassin"
 		"Deceitful Hangman"
 	variant 1
 		"Damned Executioner"
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Damned Executioner A"
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Damned Executioner B"
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
-		"Damned Executioner C"
-		"Hellscream C"
+		"Damned Executioner"
+		"Hellscream"
 	variant 1
 		"Stormbolt"
 		"Damned Executioner"
@@ -3193,7 +3193,7 @@ fleet "Large Northern Pirates"
 		"Stormbolt B"
 		"Deceptive Lover"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 		"Hellscream"
 	variant 1
 		"Deceptive Lover"
@@ -3205,7 +3205,7 @@ fleet "Large Northern Pirates"
 		"Deceptive Lover B"
 		"Deceptive Lover A"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 		"Hellscream A"
 	variant 1
 		"Hellscream"
@@ -3217,7 +3217,7 @@ fleet "Large Northern Pirates"
 		"Hellscream B"
 		"Deceptive Lover B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 		"Hellscream B"
 	variant 1
 		"Silver Defender"
@@ -3230,11 +3230,11 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Silver Defender B"
 		"Silver Escort B" 
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
-		"Silver Defender C"
-		"Silver Protector C"
-		"Silver Escort C"
+		"Silver Defender"
+		"Silver Protector"
+		"Silver Escort"
 	variant 1
 		"Silver Protector"
 		"Silver Escort"
@@ -3246,7 +3246,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Silver Protector B"
 		"Silver Escort B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Black Star A"
 		"Silver Escort A"
@@ -3255,23 +3255,23 @@ fleet "Large Northern Pirates"
 		"Silver Protector"
 		"Silver Protector B"
 		"Silver Escort B"
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Silver Protector"
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Black Star B"
 		"Silver Protector B"
 		"Silver Escort"
 	variant 1
-		"Black Star C"
+		"Black Star"
 		"Black Star A"
 	variant 1
 		"Silver Star A"
 		"Black Star A"
 	variant 1
-		"Silver Star C"
-		"Silver Escort C"
+		"Silver Star"
+		"Silver Escort"
 		"Silver Escort B"
 	variant 1
 		"Silver Star A"
@@ -3295,7 +3295,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 2
 		"Leviathan"
 	variant 1
@@ -3311,7 +3311,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Lignum B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 	variant 2
 		"Wamara"
 	variant 2
@@ -3319,7 +3319,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 2
 		"X2 Gunship"
 	variant 1
@@ -3327,7 +3327,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"X2 Gunship B"
 	variant 2
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
 		"X2E Gunship"
 	variant 1
@@ -3335,7 +3335,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 2
 		"Black Star"
 	variant 2
@@ -3343,13 +3343,13 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 2
 		"Silver Star A"
 	variant 1
 		"Silver Star B"
 	variant 2
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 1
@@ -3359,7 +3359,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Silver Defender B"
 	variant 1
-		"Silver Defender C"
+		"Silver Defender"
 	variant 2
 		"Aerie"
 		"Dagger" 2
@@ -3370,7 +3370,7 @@ fleet "Large Northern Pirates"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Dagger" 2
 	variant 2
 		"4500X2 Gunship"
@@ -3379,7 +3379,7 @@ fleet "Large Northern Pirates"
 	variant 2
 		"4500X2 Gunship B"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 2
 		"Cebil"
 	variant 1
@@ -3387,7 +3387,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
+		"Cebil"
 	variant 3
 		"Corvette"
 	variant 2
@@ -3413,7 +3413,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 2
 		"Mule"
 		"Dagger"
@@ -3433,7 +3433,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Aerie"
 		"Balau"
@@ -3447,7 +3447,7 @@ fleet "Large Northern Pirates"
 		"Headhunter"
 		"Dagger" 2
 	variant 2
-		"Aerie C"
+		"Aerie"
 		"Raven"
 		"Dagger" 2
 	variant 1
@@ -3456,12 +3456,12 @@ fleet "Large Northern Pirates"
 	variant 1
 		"4500X2 Gunship A"
 		"Dark Berserker B"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 1
 		"4500X2 Gunship B"
 		"Balau A"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 		"Camelthorn A"
 	variant 1
 		"Cebil"
@@ -3473,7 +3473,7 @@ fleet "Large Northern Pirates"
 		"Cebil B"
 		"Swooping Raven A"
 	variant 1
-		"Cebil C"
+		"Cebil"
 		"Dark Berserker"
 		"Dark Berserker A"
 	variant 2
@@ -3497,10 +3497,10 @@ fleet "Large Northern Pirates"
 		"Berserker (Afterburner)"
 	variant 2
 		"Firebird (Missile)"
-		"Balau C"
+		"Balau"
 	variant 2
 		"Firebird (Plasma)"
-		"Camelthorn C"
+		"Camelthorn"
 	variant 2
 		"Firebird A"
 		"Headhunter B"
@@ -3509,12 +3509,12 @@ fleet "Large Northern Pirates"
 		"Raven A"
 	variant 1
 		"Gidgee A"
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Gidgee B"
 		"Balau"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Camelthorn"
 	variant 1
 		"Mule"
@@ -3531,7 +3531,7 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Mule B"
 		"Dark Berserker B"
-		"Dark Berserker C"
+		"Dark Berserker"
 		"Dagger"
 	variant 1
 		"Quebracho"
@@ -3543,7 +3543,7 @@ fleet "Large Northern Pirates"
 		"Quebracho B"
 		"Headhunter (Particle)"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Raven (Afterburner)"
 	variant 1
 		"Aerie"
@@ -3558,7 +3558,7 @@ fleet "Large Northern Pirates"
 		"4500X2 Gunship"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Cebil"
 		"Dagger" 2
 	variant 1
@@ -3572,11 +3572,11 @@ fleet "Large Northern Pirates"
 		"Mule B"
 		"Dagger"
 	variant 1
-		"4500X2 Gunship C"
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
+		"4500X2 Gunship"
 	variant 1
 		"Cebil"
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Cebil A"
 		"Gidgee A"
@@ -3584,7 +3584,7 @@ fleet "Large Northern Pirates"
 		"Cebil B"
 		"Quebracho"
 	variant 1
-		"Cebil C"
+		"Cebil"
 		"Mule"
 		"Dagger"
 	variant 1
@@ -3596,7 +3596,7 @@ fleet "Large Northern Pirates"
 		"Dagger" 2
 	variant 1
 		"Corvette (Speedy)"
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Corvette A"
 		"4500X2 Gunship B"
@@ -3621,12 +3621,12 @@ fleet "Large Northern Pirates"
 		"Gidgee B"
 	variant 1
 		"Gidgee A"
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Gidgee B"
 		"Cebil A"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 		"Firebird A"
 	variant 1
 		"Mule"
@@ -3642,7 +3642,7 @@ fleet "Large Northern Pirates"
 		"Dagger"
 	variant 1
 		"Mule B"
-		"Aerie C"
+		"Aerie"
 		"Dagger" 3
 	variant 1
 		"Quebracho"
@@ -3655,7 +3655,7 @@ fleet "Large Northern Pirates"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Gidgee"
 	variant 1
 		"Bactrian"
@@ -3679,7 +3679,7 @@ fleet "Large Northern Pirates"
 		"Katalox B"
 		"Dark Berserker B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 		"Balau A"
 	variant 1
 		"Leviathan"
@@ -3703,7 +3703,7 @@ fleet "Large Northern Pirates"
 		"Lignum B"
 		"Camelthorn B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 		"Headhunter A"
 	variant 1
 		"Wamara"
@@ -3715,11 +3715,11 @@ fleet "Large Northern Pirates"
 		"Wamara B"
 		"Berserker"
 	variant 1
-		"Wamara C"
-		"Balau C"
+		"Wamara"
+		"Balau"
 	variant 1
 		"X2 Gunship"
-		"Camelthorn C"
+		"Camelthorn"
 	variant 1
 		"X2 Gunship A"
 		"Headhunter B"
@@ -3727,8 +3727,8 @@ fleet "Large Northern Pirates"
 		"X2 Gunship B"
 		"Raven A"
 	variant 1
-		"X2 Gunship C"
-		"Swooping Raven C"
+		"X2 Gunship"
+		"Swooping Raven"
 	variant 1
 		"X2E Gunship"
 		"Balau"
@@ -3739,7 +3739,7 @@ fleet "Large Northern Pirates"
 		"X2E Gunship B"
 		"Headhunter"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 		"Raven"
 	variant 1
 		"Black Star"
@@ -3757,7 +3757,7 @@ fleet "Large Northern Pirates"
 		"Silver Star B"
 		"Headhunter (Particle)"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 		"Raven (Afterburner)"
 
 

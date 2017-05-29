@@ -22,13 +22,13 @@ fleet "Small Syndicate"
 		"Heavy Dart B"
 	variant 3
 		"Heavy Dart A"
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 3
 		"Light Dart"
 		"Light Dart B"
 	variant 3
 		"Light Dart A"
-		"Light Dart C"
+		"Light Dart"
 	variant 4
 		"Quicksilver"
 		"Quicksilver (Proton)"
@@ -91,7 +91,7 @@ fleet "Large Syndicate"
 	variant 3
 		"Trailbreaker B"
 	variant 3
-		"Trailbreaker C"
+		"Trailbreaker"
 	variant 3
 		"Splinter"
 		"Heavy Dart" 2
@@ -130,10 +130,10 @@ fleet "Large Syndicate"
 		"Wasp" 3
 	variant 3
 		"Fortress"
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 3
 		"Fortress A"
-		"Light Dart C"
+		"Light Dart"
 	variant 3
 		"Fortress B"
 		"Quicksilver A" 2
@@ -156,7 +156,7 @@ fleet "Large Syndicate"
 		"Trailbreaker B"
 		"Light Dart A"
 	variant 3
-		"Trailbreaker C"
+		"Trailbreaker"
 		"Quicksilver (Mark II)"
 	variant 3
 		"Splinter (Laser)"

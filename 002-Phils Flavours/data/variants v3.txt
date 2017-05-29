@@ -18,18 +18,6 @@ ship "Black Hawk" "Black Hawk B"
 		"LP072a Battery Pack"
 		"Heavy Laser" 2
 		"Assault Rifle ZX-411" 3
-ship "Black Hawk" "Black Hawk C"
-	outfits
-		"Hyperdrive"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"LP036a Battery Pack"
-		"Cooling Ducts"
-		"Small Radar Jammer" 2
-		"Assault Rifle ZX-411" 3
-		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
 ship "Dark Berserker" "Dark Berserker A"
 	outfits
 		"Hyperdrive"
@@ -51,17 +39,6 @@ ship "Dark Berserker" "Dark Berserker B"
 		"Meteor Missile" 70
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
-ship "Dark Berserker" "Dark Berserker C"
-	outfits
-		"Hyperdrive"
-		"D41-HY Shield Generator"
-		"Small Radar Jammer"
-		"Beam Laser" 2
-		"Javelin Pod" 2
-		"Javelin" 400
-		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
-		"Assault Rifle ZX-411" 3
 ship "Sparrow MKII" "Sparrow MKII A"
 	outfits
 		"Hyperdrive"
@@ -79,16 +56,6 @@ ship "Sparrow MKII" "Sparrow MKII B"
 		"Laser Rifle" 2
 		"Integrated Chipmunk Engines"
 		"nGVF-BI Integrated Fuel Cell"
-ship "Sparrow MKII" "Sparrow MKII C"
-	outfits
-		"Hyperdrive"
-		"Laser Rifle" 2
-		"D23-QP Shield Generator"
-		"Small Radar Jammer"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"nGVF-BI Integrated Fuel Cell"
-		"Integrated Chipmunk Engines"
 ship "Hidden Blade" "Hidden Blade A"
 	outfits
 		"Hyperdrive"
@@ -110,16 +77,6 @@ ship "Hidden Blade" "Hidden Blade B"
 		"D14-RN Shield Generator"
 		"nGVF-CC Fuel Cell"
 		"Assault Rifle ZX-411" 3
-ship "Hidden Blade" "Hidden Blade C"
-	outfits
-		"Hyperdrive"
-		"nGVF-CC Fuel Cell"
-		"LP036a Battery Pack"
-		"Laser Rifle" 3
-		"D23-QP Shield Generator"
-		"Small Radar Jammer"
-		"Beam Laser" 3
-		"Integrated Chipmunk Engines"
 ship "Wren" "Wren A"
 	outfits
 		"Hyperdrive"
@@ -134,14 +91,6 @@ ship "Wren" "Wren B"
 		"Laser Rifle" 3
 		"D23-QP Shield Generator"
 		"Modified Blaster Turret"
-		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
-ship "Wren" "Wren C"
-	outfits
-		"Hyperdrive"
-		"Laser Rifle" 3
-		"D14-RN Shield Generator"
-		"Quad Blaster Turret"
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
 ship "Elepaio" "Elepaio A"
@@ -160,16 +109,6 @@ ship "Elepaio" "Elepaio B"
 		"Small Radar Jammer" 2
 		"Gatling Gun Ammo" 12000
 		"Gatling Gun" 4
-		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
-ship "Elepaio" "Elepaio C"
-	outfits
-		"Hyperdrive"
-		"Laser Rifle" 4
-		"D41-HY Shield Generator"
-		"Beam Laser" 2
-		"Meteor Missile Launcher" 2
-		"Meteor Missile" 70
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
 ship "Hawk" "Hawk A"
@@ -221,15 +160,6 @@ ship "Dirty Cutlass" "Dirty Cutlass B"
 		"Sidewinder Missile Launcher" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
-ship "Dirty Cutlass" "Dirty Cutlass C"
-	outfits
-		"Hyperdrive"
-		"Small Radar Jammer"
-		"Laser Rifle" 5
-		"D14-RN Shield Generator"
-		"nGVF-CI Integrated Fuel Cell"
-		"Long Range Laser" 4
-		"Integrated Greyhound Engines"
 ship "Fifth Ace" "Fifth Ace A"
 	outfits
 		"Hyperdrive"
@@ -246,15 +176,6 @@ ship "Fifth Ace" "Fifth Ace B"
 		"D23-QP Shield Generator"
 		"nGVF-CI Integrated Fuel Cell"
 		"Short Range Heavy Laser Turret" 2
-		"Integrated Greyhound Engines"
-		"Laser Rifle" 5
-ship "Fifth Ace" "Fifth Ace C"
-	outfits
-		"Hyperdrive"
-		"D41-HY Shield Generator"
-		"LP036a Battery Pack"
-		"Modified Blaster Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
 ship "Blackbird" "Blackbird A"
@@ -334,16 +255,6 @@ ship "Arrow" "Arrow B"
 		"Integrated Greyhound Engines"
 		"Short Range Heavy Laser" 2
 		"Assault Rifle ZX-411" 10
-ship "Arrow" "Arrow C"
-	outfits
-		"Hyperdrive"
-		"Supercapacitor" 3
-		"D14-RN Shield Generator"
-		"Energy Blaster" 2
-		"Dwarf Core"
-		"Particle Cannon Turret"
-		"Integrated Greyhound Engines"
-		"Laser Rifle" 10
 ship "Shuttle" "Shuttle A"
 	outfits
 		"Hyperdrive"
@@ -359,16 +270,6 @@ ship "Shuttle" "Shuttle B"
 		"Meteor Missile" 35
 		"Meteor Missile Launcher"
 		"nGVF-BI Integrated Fuel Cell"
-		"Integrated Chipmunk Engines"
-		"Laser Rifle" 10
-ship "Shuttle" "Shuttle C"
-	outfits
-		"Hyperdrive"
-		"Supercapacitor"
-		"D41-HY Shield Generator"
-		"Gatling Gun Ammo" 3000
-		"Gatling Gun"
-		"nGVF-BB Fuel Cell"
 		"Integrated Chipmunk Engines"
 		"Laser Rifle" 10
 ship "Silver Stream"  "Silver Stream A"
@@ -390,18 +291,6 @@ ship "Silver Stream"  "Silver Stream B"
 		"Heavy Laser" 2
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
-		"nGVF-CI Integrated Fuel Cell"
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 10
-ship "Silver Stream"  "Silver Stream C"
-	outfits
-		"Hyperdrive"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-		"D41-HY Shield Generator"
-		"Small Radar Jammer" 2
-		"Heavy Anti-Missile Turret"
 		"Integrated Greyhound Engines"
 		"nGVF-CI Integrated Fuel Cell"
 		"Body Armor" 10
@@ -433,21 +322,6 @@ ship "Star Queen" "Star Queen B"
 		"Laser Rifle" 50
 		"Body Armor" 50
 		"Assault Rifle ZX-411" 10
-ship "Star Queen" "Star Queen C"
-	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Heavy Laser" 3
-		"D67-TM Shield Generator"
-		"LP072a Battery Pack"
-		"NT-200 Nucleovoltaic"
-		"Small Radar Jammer"
-		"Heavy Anti-Missile Turret"
-		"Particle Cannon Turret"
-		"Laser Rifle" 10
-		"Body Armor" 100
-		"Assault Rifle ZX-411" 10
 ship "Rum Barrell" "Rum Barrell A"
 	outfits
 		"Hyperdrive"
@@ -471,20 +345,6 @@ ship "Rum Barrell" "Rum Barrell B"
 		"S3 Thermionic"
 		"LP036a Battery Pack"
 		"Long Range Laser" 4
-		"Laser Rifle" 10
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 10
-ship "Rum Barrell" "Rum Barrell C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Meteor Missile Launcher" 4
-		"Meteor Missile" 140
-		"Water Coolant System"
-		"D41-HY Shield Generator"
-		"LP072a Battery Pack"
-		"S3 Thermionic"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
@@ -513,17 +373,6 @@ ship "3000X2 Freight" "3000X2 Freight B"
 		"Heavy Laser"
 		"Integrated Greyhound Engines"
 		"Body Armor" 10
-ship "3000X2 Freight" "3000X2 Freight C"
-	outfits
-		"Hyperdrive"
-		"A250 Atomic Thruster"
-		"A255 Atomic Steering"
-		"Cooling Ducts"
-		"D41-HY Shield Generator"
-		"NT-200 Nucleovoltaic"
-		"LP072a Battery Pack"
-		"Particle Cannon Turret" 2
-		"Assault Rifle ZX-411" 10
 ship "3500X2 Freight" "3500X2 Freight A"
 	outfits
 		"Greyhound Plasma Thruster"
@@ -552,21 +401,6 @@ ship "3500X2 Freight" "3500X2 Freight B"
 		"Particle Cannon Turret" 2
 		"Laser Rifle" 10
 		"Body Armor" 10
-ship "3500X2 Freight" "3500X2 Freight C"
-	outfits
-		"Hyperdrive"
-		"A370 Atomic Thruster"
-		"A375 Atomic Steering"
-		"Cooling Ducts"
-		"D41-HY Shield Generator"
-		"Fission Reactor"
-		"LP036a Battery Pack"
-		"Sidewinder Missile Launcher"
-		"Sidewinder Missile" 50
-		"Anti-Missile Turret"
-		"Long Range Laser Turret" 2
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 10
 ship "Freighter" "Freighter A"
 	outfits
 		"Hyperdrive"
@@ -614,18 +448,6 @@ ship "Hauler" "Hauler B"
 		"Sidewinder Missile" 100
 		"Short Range Heavy Laser Turret" 3
 		"Assault Rifle ZX-411" 10
-ship "Hauler" "Hauler C"
-	outfits
-		"Hyperdrive"
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
-		"Small Radar Jammer"
-		"D23-QP Shield Generator"
-		"S3 Thermionic"
-		"LP072a Battery Pack"
-		"Anti-Missile Turret"
-		"Particle Cannon Turret" 3
-		"Laser Rifle" 10
 ship "Star Barge" "Star Barge A"
 	outfits
 		"Hyperdrive"
@@ -654,16 +476,6 @@ ship "Lifted Purse" "Lifted Purse B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Integrated Greyhound Engines"
 		"Laser Rifle" 5
-ship "Lifted Purse" "Lifted Purse C"
-	outfits
-		"Hyperdrive"
-		"Small Radar Jammer" 2
-		"D41-HY Shield Generator"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"nGVF-CI Integrated Fuel Cell"
-		"Integrated Greyhound Engines"
-		"Laser Rifle" 5
 ship "Pilfered Keg" "Pilfered Keg A"
 	outfits
 		"Hyperdrive"
@@ -685,17 +497,6 @@ ship "Pilfered Keg" "Pilfered Keg B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Particle Cannon Turret" 2
 		"Assault Rifle ZX-411" 8
-ship "Pilfered Keg" "Pilfered Keg C"
-	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"X1200 Ion Steering"
-		"X2200 Ion Steering"
-		"D67-TM Shield Generator"
-		"Heavy Anti-Missile Turret"
-		"nGVF-CI Integrated Fuel Cell"
-		"Long Range Laser Turret"
-		"Laser Rifle" 8
 ship "Buried Chest" "Buried Chest A"
 	outfits
 		"Hyperdrive"
@@ -719,22 +520,6 @@ ship "Buried Chest" "Buried Chest B"
 		"Plasma Cannon" 4
 		"Fission Reactor"
 		"LP072a Battery Pack"
-		"Laser Rifle" 10
-		"Assault Rifle ZX-411" 10
-ship "Buried Chest" "Buried Chest C"
-	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"D94-YV Shield Generator"
-		"Meteor Missile" 70
-		"Sidewinder Missile" 100
-		"Meteor Missile Launcher" 2
-		"Sidewinder Missile Launcher" 2
-		"LP036a Battery Pack"
-		"Large Radar Jammer"
-		"S3 Thermionic"
-		"Small Radar Jammer"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 10
 ship "Captain's Hoard" "Captain's Hoard A"
@@ -762,23 +547,6 @@ ship "Captain's Hoard" "Captain's Hoard B"
 		"LP072a Battery Pack"
 		"S3 Thermionic"
 		"Laser Rifle" 10
-		"Assault Rifle ZX-411" 10
-ship "Captain's Hoard" "Captain's Hoard C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Chipmunk Plasma Steering"
-		"Greyhound Plasma Steering"
-		"Heavy Laser Turret"
-		"D94-YV Shield Generator"
-		"Meteor Missile" 70
-		"Sidewinder Missile" 100
-		"Meteor Missile Launcher" 2
-		"Sidewinder Missile Launcher" 2
-		"Anti-Missile Turret"
-		"LP036a Battery Pack"
-		"NT-200 Nucleovoltaic"
-		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
 ship "10000X2S Freight" "10000X2S Freight A"
 	outfits
@@ -838,23 +606,6 @@ ship "8500X2S Freight" "8500X2S Freight B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
-ship "8500X2S Freight" "8500X2S Freight C"
-	outfits
-		"Hyperdrive"
-		"A520 Atomic Thruster"
-		"A525 Atomic Steering"
-		"LP144a Battery Pack"
-		"Fusion Reactor"
-		"Liquid Nitrogen Cooler"
-		"D94-YV Shield Generator"
-		"D41-HY Shield Generator"
-		"Quad Blaster Turret" 6
-		"Heavy Anti-Missile Turret" 2
-		"LP036a Battery Pack"
-		"Small Radar Jammer" 2
-		"Laser Rifle" 10
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 10
 ship "7000X2S Freight" "7000X2S Freight A"
 	outfits
 		"Hyperdrive"
@@ -878,20 +629,6 @@ ship "7000X2S Freight" "7000X2S Freight B"
 		"Fission Reactor"
 		"Large Radar Jammer"
 		"Long Range Laser Turret" 6
-		"Laser Rifle" 10
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 10
-ship "7000X2S Freight" "7000X2S Freight C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Orca Plasma Steering"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator" 2
-		"Quad Blaster Turret" 4
-		"Fission Reactor"
-		"Heavy Anti-Missile Turret" 2
-		"Large Radar Jammer"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 10
@@ -920,22 +657,6 @@ ship "4500X2 Freight" "4500X2 Freight B"
 		"Breeder Reactor"
 		"LP036a Battery Pack"
 		"Particle Cannon Turret" 3
-		"Laser Rifle" 10
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 5
-ship "4500X2 Freight" "4500X2 Freight C"
-	outfits
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Scram Drive"
-		"Heavy Laser Turret" 2
-		"Supercapacitor" 2
-		"D41-HY Shield Generator"
-		"Sidewinder Missile" 50
-		"Sidewinder Missile Launcher"
-		"Heavy Anti-Missile Turret"
-		"LP036a Battery Pack"
-		"NT-200 Nucleovoltaic"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 5
@@ -1081,17 +802,6 @@ ship "Arrowhead" "Arrowhead B"
 		"Integrated Greyhound Engines"
 		"Particle Cannon Turret" 2
 		"Body Armor" 10
-ship "Arrowhead" "Arrowhead C"
-	outfits
-		"Hyperdrive"
-		"D67-TM Shield Generator"
-		"Mass Expansion"
-		"LP036a Battery Pack"
-		"LP072a Battery Pack"
-		"Quad Blaster Turret" 3
-		"nGVF-CI Integrated Fuel Cell"
-		"Integrated Greyhound Engines"
-		"Laser Rifle" 10
 ship "Balau" "Balau A"
 	outfits
 		"Hyperdrive"
@@ -1122,19 +832,6 @@ ship "Balau" "Balau B"
 		"Heavy Laser" 2
 		"Laser Rifle" 10
 		"Body Armor" 10
-ship "Balau" "Balau C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"Greyhound Plasma Thruster"
-		"D94-YV Shield Generator"
-		"S3 Thermionic"
-		"Small Radar Jammer"
-		"LP072a Battery Pack"
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 2
 ship "Camelthorn" "Camelthorn A"
 	outfits
 		"Hyperdrive"
@@ -1163,20 +860,6 @@ ship "Camelthorn" "Camelthorn B"
 		"Cooling Ducts"
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 5
-ship "Camelthorn" "Camelthorn C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"X1200 Ion Steering"
-		"Greyhound Plasma Thruster"
-		"D23-QP Shield Generator"
-		"Heavy Laser Turret" 2
-		"RT-I Radiothermal"
-		"LP072a Battery Pack"
-		"Javelin" 400
-		"Javelin Pod" 2
-		"Tactical Military Outfit" 5
-		"Assault Rifle ZX-411" 9
 ship "Headhunter" "Headhunter A"
 	outfits
 		"Hyperdrive"
@@ -1225,20 +908,6 @@ ship "Heavy Dart" "Heavy Dart B"
 		"Long Range Laser" 2
 		"Long Range Laser Turret" 2
 		"Laser Rifle" 10
-		"Assault Rifle ZX-411" 5
-ship "Heavy Dart" "Heavy Dart C"
-	outfits
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"Impala Plasma Thruster"
-		"D41-HY Shield Generator"
-		"Heavy Laser Turret" 2
-		"LP036a Battery Pack"
-		"S3 Thermionic"
-		"Small Radar Jammer"
-		"Javelin" 400
-		"Javelin Pod" 2
-		"Body Armor" 10
 		"Assault Rifle ZX-411" 5
 ship "Modified Argosy" "Modified Argosy A"
 	outfits
@@ -1309,20 +978,6 @@ ship "Raven" "Raven B"
 		"Short Range Heavy Laser" 4
 		"Laser Rifle" 10
 		"Assault Rifle ZX-411" 5
-ship "Raven" "Raven C"
-	outfits
-		"Impala Plasma Thruster"
-		"Chipmunk Plasma Steering"
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"D94-YV Shield Generator"
-		"Gatling Gun" 4
-		"Gatling Gun Ammo" 12000
-		"S3 Thermionic"
-		"Small Radar Jammer"
-		"LP036a Battery Pack"
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 5
 ship "Swooping Raven" "Swooping Raven A"
 	outfits
 		"Hyperdrive"
@@ -1350,21 +1005,6 @@ ship "Swooping Raven" "Swooping Raven B"
 		"Long Range Laser" 2
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 5
-ship "Swooping Raven" "Swooping Raven C"
-	outfits
-		"Impala Plasma Thruster"
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"Cooling Ducts"
-		"D41-HY Shield Generator"
-		"Heavy Laser Turret"
-		"Meteor Missile" 70
-		"Meteor Missile Launcher" 2
-		"RT-I Radiothermal"
-		"LP036a Battery Pack"
-		"Heavy Anti-Missile Turret"
-		"Laser Rifle" 10
-		"Assault Rifle ZX-411" 5
 ship "Deceitful Hangman" "Deceitful Hangman A"
 	outfits
 		"Hyperdrive"
@@ -1389,22 +1029,6 @@ ship "Deceitful Hangman" "Deceitful Hangman B"
 		"nGVF-CI Integrated Fuel Cell"
 		"Laser Rifle" 6
 		"Assault Rifle ZX-411" 5
-ship "Deceitful Hangman" "Deceitful Hangman C"
-	outfits
-		"Impala Plasma Thruster"
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"Mass Expansion"
-		"D41-HY Shield Generator"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Meteor Missile" 70
-		"Anti-Missile Turret"
-		"Meteor Missile Launcher" 2
-		"S3 Thermionic"
-		"LP072a Battery Pack"
-		"Small Radar Jammer"
-		"Body Armor" 10
 ship "Fearless Assassin" "Fearless Assassin A"
 	outfits
 		"Hyperdrive"
@@ -1432,22 +1056,6 @@ ship "Fearless Assassin" "Fearless Assassin B"
 		"Small Radar Jammer" 2
 		"Tactical Military Outfit" 5
 		"Assault Rifle ZX-411" 10
-ship "Fearless Assassin" "Fearless Assassin C"
-	outfits
-		"X1700 Ion Thruster"
-		"Greyhound Plasma Thruster"
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"LP144a Battery Pack"
-		"Heavy Laser Turret"
-		"D94-YV Shield Generator"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Meteor Missile" 70
-		"Meteor Missile Launcher" 2
-		"S3 Thermionic"
-		"Laser Rifle" 10
-		"Assault Rifle ZX-411" 5
 ship "Junior Osprey" "Junior Osprey A"
 	outfits
 		"Greyhound Plasma Thruster"
@@ -1475,20 +1083,6 @@ ship "Junior Osprey" "Junior Osprey B"
 		"Long Range Laser" 2
 		"Tactical Military Outfit" 5
 		"Body Armor" 5
-ship "Junior Osprey" "Junior Osprey C"
-	outfits
-		"Greyhound Plasma Thruster"
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"Mass Expansion"
-		"Water Coolant System"
-		"D23-QP Shield Generator"
-		"Heavy Laser Turret" 2
-		"Gatling Gun" 2
-		"Gatling Gun Ammo" 6000
-		"S3 Thermionic"
-		"LP036a Battery Pack"
-		"Laser Rifle" 15
 ship "4500X2A Freight" "4500X2A Freight A"
 	outfits
 		"Hyperdrive"
@@ -1519,23 +1113,6 @@ ship "4500X2A Freight" "4500X2A Freight B"
 		"D67-TM Shield Generator"
 		"Laser Rifle" 20
 		"Body Armor" 20
-ship "4500X2A Freight" "4500X2A Freight C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Impala Plasma Steering"
-		"LP072a Battery Pack"
-		"Sidewinder Missile" 100
-		"Meteor Missile Launcher" 2
-		"Fission Reactor"
-		"Meteor Missile" 70
-		"Sidewinder Missile Launcher" 2
-		"D67-TM Shield Generator"
-		"Cooling Ducts"
-		"Particle Cannon Turret" 3
-		"Laser Rifle" 20
-		"Body Armor" 20
 ship "Aerie" "Aerie A"
 	outfits
 		"Hyperdrive"
@@ -1561,24 +1138,6 @@ ship "Aerie" "Aerie B"
 		"NT-200 Nucleovoltaic"
 		"Long Range Laser" 2
 		"Long Range Laser Turret" 3
-		"Laser Rifle" 15
-		"Tactical Military Outfit" 5
-		"Body Armor" 10
-ship "Aerie" "Aerie C"
-	outfits
-		"Hyperdrive"
-		"A370 Atomic Thruster"
-		"A125 Atomic Steering"
-		"A255 Atomic Steering"
-		"LP072a Battery Pack"
-		"Javelin" 400
-		"Fission Reactor"
-		"Javelin Pod" 2
-		"Heavy Anti-Missile Turret"
-		"Water Coolant System"
-		"D67-TM Shield Generator"
-		"Cooling Ducts"
-		"Long Range Laser Turret" 2
 		"Laser Rifle" 15
 		"Tactical Military Outfit" 5
 		"Body Armor" 10
@@ -1646,25 +1205,6 @@ ship "Cebil" "Cebil B"
 		"Tactical Military Outfit" 5
 		"Body Armor" 5
 		"Assault Rifle ZX-411" 5
-ship "Cebil" "Cebil C"
-	outfits
-		"Hyperdrive"
-		"X1200 Ion Steering"
-		"Impala Plasma Steering"
-		"A370 Atomic Thruster"
-		"Heavy Laser Turret" 2
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Water Coolant System"
-		"Fission Reactor"
-		"Meteor Missile" 70
-		"Meteor Missile Launcher" 2
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-		"Small Radar Jammer"
-		"Laser Rifle" 30
-		"Tactical Military Outfit" 5
-		"Body Armor" 5
 ship "Corvette" "Corvette A"
 	outfits
 		"Hyperdrive"
@@ -1753,25 +1293,6 @@ ship "Gidgee" "Gidgee B"
 		"Laser Rifle" 20
 		"Security Station"
 		"Tactical Military Outfit" 3
-		"Body Armor" 20
-ship "Gidgee" "Gidgee C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"Impala Plasma Thruster"
-		"Cooling Ducts"
-		"LP144a Battery Pack"
-		"Sidewinder Missile Launcher" 4
-		"Sidewinder Missile" 200
-		"Fission Reactor"
-		"Small Radar Jammer"
-		"Laser Rifle" 10
-		"D67-TM Shield Generator"
-		"Heavy Anti-Missile Turret"
-		"Fragmentation Grenades" 5
-		"Assault Rifle ZX-411" 5
-		"Tactical Military Outfit" 5
-		"Long Range Laser Turret" 3
 		"Body Armor" 20
 ship "Mule" "Mule A"
 	outfits
@@ -1878,23 +1399,6 @@ ship "Quebracho" "Quebracho B"
 		"Laser Rifle" 10
 		"Body Armor" 10
 		"Assault Rifle ZX-411" 20
-ship "Quebracho" "Quebracho C"
-	outfits
-		"Impala Plasma Thruster"
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"Mass Expansion" 2
-		"LP144a Battery Pack"
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"Cooling Ducts"
-		"D67-TM Shield Generator"
-		"Fission Reactor"
-		"Heavy Anti-Missile Turret"
-		"Particle Cannon Turret" 3
-		"Body Armor" 10
-		"Tactical Military Outfit" 5
-		"Assault Rifle ZX-411" 10
 ship "Splinter" "Splinter A"
 	outfits
 		"X1200 Ion Steering"
@@ -1952,22 +1456,6 @@ ship "Damned Executioner" "Damned Executioner B"
 		"Heavy Anti-Missile Turret"
 		"S3 Thermionic"
 		"Laser Rifle" 20
-ship "Damned Executioner" "Damned Executioner C"
-	outfits
-		"Greyhound Plasma Thruster"
-		"Hyperdrive"
-		"Impala Plasma Steering"
-		"LP144a Battery Pack"
-		"Cooling Ducts"
-		"D67-TM Shield Generator"
-		"Anti-Missile Turret"
-		"Proton Gun" 4
-		"Small Radar Jammer" 2
-		"S3 Thermionic"
-		"Security Station"
-		"Laser Rifle" 10
-		"Body Armor" 5
-		"Assault Rifle ZX-411" 5
 ship "Deceptive Lover" "Deceptive Lover A"
 	outfits
 		"Hyperdrive"
@@ -1995,25 +1483,6 @@ ship "Deceptive Lover" "Deceptive Lover B"
 		"Fission Reactor"
 		"Proton Gun" 6
 		"Assault Rifle ZX-411" 15
-ship "Deceptive Lover" "Deceptive Lover C"
-	outfits
-		"Hyperdrive"
-		"A255 Atomic Steering"
-		"A370 Atomic Thruster"
-		"X1200 Ion Steering"
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"D94-YV Shield Generator"
-		"Sidewinder Missile Launcher" 2
-		"Sidewinder Missile" 100
-		"LP072a Battery Pack"
-		"Fission Reactor"
-		"Meteor Missile Launcher" 2
-		"Meteor Missile" 70
-		"D41-HY Shield Generator"
-		"Small Radar Jammer"
-		"Water Coolant System"
-		"Laser Rifle" 25
 ship "Stormbolt" "Stormbolt A"
 	outfits
 		"Hyperdrive"
@@ -2042,19 +1511,6 @@ ship "Stormbolt" "Stormbolt B"
 		"LP072a Battery Pack"
 		"Long Range Laser" 2
 		"Long Range Laser Turret" 2
-ship "Stormbolt" "Stormbolt C"
-	outfits
-		"Hyperdrive"
-		"X1200 Ion Steering"
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Particle Cannon" 2
-		"D41-HY Shield Generator"
-		"NT-200 Nucleovoltaic"
-		"LP072a Battery Pack"
-		"Particle Cannon Turret" 2
-		"Laser Rifle" 10
-		"Body Armor" 5
 ship "Hellscream" "Hellscream A"
 	outfits
 		"Hyperdrive"
@@ -2090,25 +1546,6 @@ ship "Hellscream" "Hellscream B"
 		"Fission Reactor"
 		"Heavy Laser" 4
 		"Tactical Military Outfit" 10
-ship "Hellscream" "Hellscream C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Laser Rifle" 5
-		"Cooling Ducts"
-		"Small Radar Jammer" 2
-		"NT-200 Nucleovoltaic"
-		"Heavy Anti-Missile Turret"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Body Armor" 10
-		"Particle Cannon Turret"
-		"Assault Rifle ZX-411" 15
 ship "Bactrian" "Bactrian A"
 	outfits
 		"Hyperdrive"
@@ -2191,23 +1628,6 @@ ship "Katalox" "Katalox B"
 		"Body Armor" 40
 		"Long Range Laser" 2
 		"Assault Rifle ZX-411" 40
-ship "Katalox" "Katalox C"
-	outfits
-		"Hyperdrive"
-		"A125 Atomic Steering"
-		"A525 Atomic Steering"
-		"Orca Plasma Thruster"
-		"Heavy Laser Turret" 3
-		"Fusion Reactor"
-		"D94-YV Shield Generator" 2
-		"Mass Expansion" 4
-		"Heavy Laser" 2
-		"LP288a Battery Pack"
-		"Water Coolant System"
-		"Laser Rifle" 200
-		"Heavy Anti-Missile Turret"
-		"Ion Laser Turret" 2
-		"Hull Repair Nano-Bots"
 ship "Leviathan" "Leviathan A"
 	outfits
 		"Hyperdrive"
@@ -2283,18 +1703,6 @@ ship "Lignum" "Lignum B"
 		"Tactical Military Outfit" 20
 		"Body Armor" 20
 		"Assault Rifle ZX-411" 20
-ship "Lignum" "Lignum C"
-	outfits
-		"Hyperdrive"
-		"Orca Plasma Steering"
-		"Orca Plasma Thruster"
-		"D94-YV Shield Generator"
-		"Heavy Laser Turret" 3
-		"Fusion Reactor"
-		"LP144a Battery Pack"
-		"Liquid Helium Cooler"
-		"Heavy Anti-Missile Turret"
-		"Proton Gun" 6
 ship "Protector" "Protector A"
 	outfits
 		"Hyperdrive"
@@ -2413,23 +1821,6 @@ ship "X2E Gunship" "X2E Gunship B"
 		"Laser Turret" 2
 		"Plasma Cannon" 6
 		"Assault Rifle ZX-411" 20
-ship "X2E Gunship" "X2E Gunship C"
-	outfits
-		"Hyperdrive"
-		"A520 Atomic Thruster"
-		"A865 Atomic Steering"
-		"Heavy Laser Turret" 2
-		"Fusion Reactor"
-		"Liquid Nitrogen Cooler"
-		"Laser Rifle" 20
-		"Heavy Anti-Missile Turret"
-		"LP072a Battery Pack"
-		"D23-QP Shield Generator"
-		"Small Radar Jammer"
-		"Heavy Laser" 6
-		"Tactical Military Outfit" 5
-		"Body Armor" 10
-		"Assault Rifle ZX-411" 15
 ship "Silver Star" "Silver Star A"
 	outfits
 		"Hyperdrive"
@@ -2462,25 +1853,6 @@ ship "Silver Star" "Silver Star B"
 		"Assault Rifle ZX-411" 10
 		"Tactical Military Outfit" 10
 		"Particle Cannon Turret" 6
-ship "Silver Star" "Silver Star C"
-	outfits
-		"Hyperdrive"
-		"Chipmunk Plasma Thruster"
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
-		"Torpedo Launcher"  2
-		"Torpedo"  60
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Small Radar Jammer"
-		"Fragmentation Grenades" 20
-		"Heavy Anti-Missile Turret" 2
-		"NT-200 Nucleovoltaic"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Assault Rifle ZX-411" 20
-		"Particle Cannon Turret" 4
-		"Body Armor" 20
 ship "Star Princess" "Star Princess A"
 	outfits
 		"Hyperdrive"
@@ -2506,18 +1878,6 @@ ship "Star Princess" "Star Princess B"
 		"Body Armor" 60
 		"Assault Rifle ZX-411" 20
 		"Long Range Laser Turret" 2
-ship "Star Princess" "Star Princess C"
-	outfits
-		"Hyperdrive"
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"NT-200 Nucleovoltaic"
-		"Laser Rifle" 20
-		"LP072a Battery Pack"
-		"D67-TM Shield Generator"
-		"Particle Cannon Turret" 3
-		"Body Armor" 65
-		"Assault Rifle ZX-411" 20
 ship "Vanguard Trailbreaker" "Vanguard Trailbreaker A"
 	outfits
 		"Hyperdrive"
@@ -2549,20 +1909,7 @@ ship "Vanguard Trailbreaker" "Vanguard Trailbreaker B"
 		"Large Radar Jammer"
 		"Long Range Laser" 8
 		"Long Range Laser Turret" 2
-ship "Vanguard Trailbreaker" "Vanguard Trailbreaker C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Orca Plasma Steering"
-		"Heavy Laser Turret" 2
-		"Fusion Reactor"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator" 2
-		"Liquid Nitrogen Cooler"
-		"Javelin" 400
-		"Heavy Laser" 6
-		"Javelin Pod" 2
-ship "4500X2 gunship" "4500X2 gunship A"
+ship "4500X2 Gunship" "4500X2 Gunship A"
 	outfits
 		"Hyperdrive"
 		"A370 Atomic Thruster"
@@ -2577,7 +1924,7 @@ ship "4500X2 gunship" "4500X2 gunship A"
 		"Tactical Military Outfit" 10
 		"Particle Cannon Turret" 2
 		"Body Armor" 10
-ship "4500X2 gunship" "4500X2 gunship B"
+ship "4500X2 Gunship" "4500X2 Gunship B"
 	outfits
 		"Hyperdrive"
 		"Impala Plasma Thruster"
@@ -2591,21 +1938,6 @@ ship "4500X2 gunship" "4500X2 gunship B"
 		"Anti-Missile Turret"
 		"Plasma Cannon" 4
 		"Assault Rifle ZX-411" 20
-ship "4500X2 gunship" "4500X2 gunship C"
-	outfits
-		"Hyperdrive"
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"LP036a Battery Pack"
-		"LP072a Battery Pack"
-		"Fission Reactor"
-		"D67-TM Shield Generator"
-		"Laser Rifle" 10
-		"Fragmentation Grenades" 10
-		"Long Range Laser" 8
-		"Tactical Military Outfit" 10
-		"Body Armor" 10
-		"Long Range Laser Turret" 2
 ship "Black Star" "Black Star A"
 	outfits
 		"LP144a Battery Pack"
@@ -2638,20 +1970,6 @@ ship "Black Star" "Black Star B"
 		"Particle Cannon Turret" 3
 		"Assault Rifle ZX-411" 10
 		"Tactical Military Outfit" 5
-ship "Black Star" "Black Star C"
-	outfits
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Heavy Laser Turret" 2
-		"Hyperdrive"
-		"Greyhound Plasma Thruster"
-		"Impala Plasma Steering"
-		"Plasma Cannon" 4
-		"Anti-Missile Turret" 2
-		"Small Radar Jammer"
-		"NT-200 Nucleovoltaic"
-		"Tactical Military Outfit" 10
-		"Body Armor" 5
 ship "Silver Escort" "Silver Escort A"
 	outfits
 		"Hyperdrive"
@@ -2677,19 +1995,6 @@ ship "Silver Escort" "Silver Escort B"
 		"Tactical Military Outfit" 5
 		"Long Range Laser" 2
 		"Long Range Laser Turret" 2
-ship "Silver Escort" "Silver Escort C"
-	outfits
-		"Hyperdrive"
-		"A250 Atomic Thruster"
-		"A255 Atomic Steering"
-		"Heavy Laser Turret" 2
-		"D94-YV Shield Generator"
-		"Breeder Reactor"
-		"LP072a Battery Pack"
-		"Water Coolant System"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
-		"Tactical Military Outfit" 5
 ship "Silver Protector" "Silver Protector A"
 	outfits
 		"Hyperdrive"
@@ -2714,18 +2019,6 @@ ship "Silver Protector" "Silver Protector B"
 		"LP072a Battery Pack"
 		"Heavy Laser" 2
 		"Tactical Military Outfit" 20
-ship "Silver Protector" "Silver Protector C"
-	outfits
-		"Hyperdrive"
-		"Heavy Laser" 2
-		"A370 Atomic Thruster"
-		"A375 Atomic Steering"
-		"Fusion Reactor"
-		"LP072a Battery Pack"
-		"D94-YV Shield Generator" 2
-		"Liquid Nitrogen Cooler"
-		"Tactical Military Outfit" 20
-		"Particle Cannon Turret" 4
 ship "Silver Defender" "Silver Defender A"
 	outfits
 		"Hyperdrive"
@@ -2749,23 +2042,6 @@ ship "Silver Defender" "Silver Defender B"
 		"Liquid Nitrogen Cooler"
 		"D23-QP Shield Generator"
 		"Plasma Cannon" 4
-		"Tactical Military Outfit" 40
-		"Particle Cannon Turret" 6
-ship "Silver Defender" "Silver Defender C"
-	outfits
-		"Hyperdrive"
-		"A370 Atomic Thruster"
-		"A525 Atomic Steering"
-		"Torpedo Launcher"  2
-		"Torpedo"  60
-		"Fusion Reactor"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Liquid Nitrogen Cooler"
-		"D41-HY Shield Generator"
-		"Large Radar Jammer"
-		"Sidewinder Missile" 100
-		"Sidewinder Missile Launcher" 2
 		"Tactical Military Outfit" 40
 		"Particle Cannon Turret" 6
 ship "X2 Gunship" "X2 Gunship A"
@@ -2802,30 +2078,6 @@ ship "X2 Gunship" "X2 Gunship B"
 		"Long Range Laser" 8
 		"Assault Rifle ZX-411" 20
 		"Long Range Laser Turret" 3
-ship "X2 Gunship" "X2 Gunship C"
-	outfits
-		"Chipmunk Plasma Thruster"
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-		"Torpedo Launcher"  2
-		"Torpedo"  60
-		"Heavy Laser Turret" 2
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Fission Reactor"
-		"Laser Rifle" 20
-		"Security Station" 2
-		"Heavy Anti-Missile Turret"
-		"Small Radar Jammer" 2
-		"Meteor Missile" 70
-		"Meteor Missile Launcher" 2
-		"Sidewinder Missile" 100
-		"Javelin" 400
-		"Sidewinder Missile Launcher" 2
-		"Javelin Pod" 2
-		"Assault Rifle ZX-411" 20
-		"Body Armor" 20
 ship "Wamara" "Wamara A"
 	outfits
 		"A370 Atomic Thruster"
@@ -2863,26 +2115,6 @@ ship "Wamara" "Wamara B"
 		"Tactical Military Outfit" 10
 		"Body Armor" 20
 		"Long Range Laser Turret" 5
-ship "Wamara" "Wamara C"
-	outfits
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-		"Mass Expansion" 2
-		"Heavy Laser Turret" 5
-		"Fusion Reactor"
-		"Laser Rifle" 20
-		"Fragmentation Grenades" 20
-		"Security Station" 2
-		"LP072a Battery Pack"
-		"Water Coolant System"
-		"D67-TM Shield Generator"
-		"Sidewinder Missile" 100
-		"Anti-Missile Turret"
-		"Sidewinder Missile Launcher" 2
-		"Assault Rifle ZX-411" 20
-		"Body Armor" 20
 ship "Light Dart" "Light Dart A"
 	outfits
 		"Hyperdrive"
@@ -2908,18 +2140,6 @@ ship "Light Dart" "Light Dart B"
 		"Heavy Laser" 2
 		"Body Armor" 5
 		"Assault Rifle ZX-411" 5
-ship "Light Dart" "Light Dart C"
-	outfits
-		"Hyperdrive"
-		"Greyhound Plasma Steering"
-		"Impala Plasma Thruster"
-		"D23-QP Shield Generator"
-		"Heavy Laser Turret"
-		"LP036a Battery Pack"
-		"S3 Thermionic"
-		"Small Radar Jammer"
-		"Heavy Laser" 2
-		"Laser Rifle" 10
 ship "Gargoyle A"
 	outfits
 		Hyperdrive
@@ -2946,17 +2166,6 @@ ship "Gargoyle B"
 		"D41-HY Shield Generator"
 		"Cooling Ducts"
 		"LP072a Battery Pack"
-ship "Gargoyle C"
-	outfits
-		Hyperdrive
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"NT-200 Nucleovoltaic"
-		"D14-RN Shield Generator"
-		"Long Range Laser Turret" 4
-		"Long Range Laser" 2
 ship "Hauler IV A"
 	outfits
 		Hyperdrive
@@ -2981,19 +2190,6 @@ ship "Hauler IV B"
 		"Small Radar Jammer"
 		"LP072a Battery Pack"
 		"Long Range Laser Turret" 4
-ship "Hauler IV C"
-	outfits
-		Hyperdrive
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Sidewinder Missile Launcher" 2
-		"S3 Thermionic"
-		"Sidewinder Missile" 100
-		"D41-HY Shield Generator"
-		"Small Radar Jammer" 2
-		"Heavy Anti-Missile Turret"
-		"LP072a Battery Pack"
-		"Particle Cannon Turret" 3
 ship "Hauler VI A"
 	outfits
 		Hyperdrive
@@ -3020,16 +2216,3 @@ ship "Hauler VI B"
 		"LP072a Battery Pack"
 		"LP036a Battery Pack"
 		"Particle Cannon Turret" 4
-ship "Hauler VI C"
-	outfits
-		Hyperdrive
-		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
-		"Heavy Laser Turret" 3
-		"Sidewinder Missile Launcher" 2
-		"S3 Thermionic"
-		"Sidewinder Missile" 100
-		"D41-HY Shield Generator"
-		"Small Radar Jammer"
-		"Heavy Anti-Missile Turret"
-		"LP072a Battery Pack"

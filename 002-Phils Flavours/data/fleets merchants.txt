@@ -13,7 +13,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Arrow B"
 	variant 4
-		"Arrow C"
+		"Arrow"
 	variant 6
 		"Blackbird"
 	variant 4
@@ -47,7 +47,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Shuttle B"
 	variant 4
-		"Shuttle C"
+		"Shuttle"
 	variant 6
 		"Silver Stream"
 	variant 4
@@ -55,7 +55,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Silver Stream B"
 	variant 4
-		"Silver Stream C"
+		"Silver Stream"
 	variant 6
 		"Star Princess"
 	variant 4
@@ -63,7 +63,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Star Princess B"
 	variant 4
-		"Star Princess C"
+		"Star Princess"
 	variant 6
 		"Star Queen"
 	variant 4
@@ -71,7 +71,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Star Queen B"
 	variant 4
-		"Star Queen C"
+		"Star Queen"
 	variant 6
 		"Rum Barrell"
 	variant 4
@@ -79,7 +79,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Rum Barrell B"
 	variant 4
-		"Rum Barrell C"
+		"Rum Barrell"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -90,7 +90,7 @@ fleet "Small Southern Merchants"
 		"Arrow B"
 		"Wasp"
 	variant 3
-		"Arrow C"
+		"Arrow"
 		"Wasp (Proton)"
 	variant 3
 		"Blackbird"
@@ -112,7 +112,7 @@ fleet "Small Southern Merchants"
 		"Dark Berserker B"
 	variant 3
 		"Flivver"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 3
 		"Flivver (Racing)"
 		"Fury"
@@ -141,7 +141,7 @@ fleet "Small Southern Merchants"
 		"Shuttle B"
 		"Sparrow (Patrol)"
 	variant 3
-		"Shuttle C"
+		"Shuttle"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
@@ -153,8 +153,8 @@ fleet "Small Southern Merchants"
 		"Silver Stream B"
 		"Sparrow MKII B"
 	variant 3
-		"Silver Stream C"
-		"Sparrow MKII C"
+		"Silver Stream"
+		"Sparrow MKII"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -165,8 +165,8 @@ fleet "Small Southern Merchants"
 		"Star Princess B"
 		"Wren B"
 	variant 3
-		"Star Princess C"
-		"Wren C"
+		"Star Princess"
+		"Wren"
 	variant 3
 		"Star Queen"
 		"Elepaio"
@@ -177,8 +177,8 @@ fleet "Small Southern Merchants"
 		"Star Queen B"
 		"Elepaio B"
 	variant 3
-		"Star Queen C"
-		"Elepaio C"
+		"Star Queen"
+		"Elepaio"
 	variant 2
 		"Arrow"
 		"Light Dart"
@@ -189,8 +189,8 @@ fleet "Small Southern Merchants"
 		"Arrow B"
 		"Light Dart B"
 	variant 2
-		"Arrow C"
-		"Light Dart C"
+		"Arrow"
+		"Light Dart"
 	variant 2
 		"Blackbird"
 		"Balau"
@@ -224,7 +224,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
@@ -247,8 +247,8 @@ fleet "Small Southern Merchants"
 		"Shuttle B"
 		"Sparrow MKII B"
 	variant 2
-		"Shuttle C"
-		"Sparrow MKII C"
+		"Shuttle"
+		"Sparrow MKII"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -259,8 +259,8 @@ fleet "Small Southern Merchants"
 		"Silver Stream B"
 		"Silver Escort B"
 	variant 2
-		"Silver Stream C"
-		"Silver Escort C"
+		"Silver Stream"
+		"Silver Escort"
 	variant 2
 		"Star Princess"
 		"Headhunter"
@@ -271,7 +271,7 @@ fleet "Small Southern Merchants"
 		"Star Princess B"
 		"Headhunter A"
 	variant 2
-		"Star Princess C"
+		"Star Princess"
 		"Headhunter B"
 	variant 2
 		"Star Queen"
@@ -283,7 +283,7 @@ fleet "Small Southern Merchants"
 		"Star Queen B"
 		"Raven (Heavy)"
 	variant 2
-		"Star Queen C"
+		"Star Queen"
 		"Raven A"
 	variant 2
 		"Rum Barrell"
@@ -295,7 +295,7 @@ fleet "Small Southern Merchants"
 		"Rum Barrell B"
 		"Hidden Blade"
 	variant 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Hidden Blade"
 		"Fifth Ace"
 	variant 4
@@ -305,7 +305,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"3000X2 Freight B"
 	variant 4
-		"3000X2 Freight C"
+		"3000X2 Freight"
 	variant 4
 		"3500X2 Freight"
 	variant 4
@@ -313,7 +313,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"3500X2 Freight B"
 	variant 4
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 4
 		"Hauler"
 	variant 4
@@ -321,7 +321,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Hauler B"
 	variant 4
-		"Hauler C"
+		"Hauler"
 	variant 4
 		"Argosy"
 	variant 4
@@ -345,7 +345,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Camelthorn B"
 	variant 4
-		"Camelthorn C"
+		"Camelthorn"
 	variant 4
 		"Freighter"
 	variant 4
@@ -367,7 +367,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Buried Chest B"
 	variant 4
-		"Buried Chest C"
+		"Buried Chest"
 	variant 4
 		"Captain's Hoard"
 	variant 4
@@ -375,7 +375,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Captain's Hoard B"
 	variant 4
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 4
 		"Lifted Purse"
 	variant 4
@@ -383,7 +383,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Lifted Purse B"
 	variant 4
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 4
 		"Pilfered Keg"
 	variant 4
@@ -391,7 +391,7 @@ fleet "Small Southern Merchants"
 	variant 4
 		"Pilfered Keg B"
 	variant 4
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -402,20 +402,20 @@ fleet "Small Southern Merchants"
 		"3000X2 Freight B"
 		"3500X2 Freight"
 	variant 3
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 3
 		"3500X2 Freight"
 		"3500X2 Freight B"
 	variant 3
 		"3500X2 Freight A"
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 3
 		"3500X2 Freight B"
 		"Star Barge (Armed)"
 		"Star Barge"
 	variant 3
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Freighter B"
 	variant 3
 		"Argosy"
@@ -452,7 +452,7 @@ fleet "Small Southern Merchants"
 		"Camelthorn B"
 		"Freighter"
 	variant 3
-		"Camelthorn C"
+		"Camelthorn"
 		"Star Barge A"
 		"Star Barge (Armed)"
 	variant 3
@@ -478,11 +478,11 @@ fleet "Small Southern Merchants"
 	variant 3
 		"Star Barge"
 		"Hauler A"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge (Armed)"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge A"
@@ -504,12 +504,12 @@ fleet "Small Southern Merchants"
 		"Pilfered Keg"
 	variant 3
 		"Buried Chest A"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 3
 		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"Buried Chest C"
+		"Buried Chest"
 		"Lifted Purse A"
 	variant 3
 		"Captain's Hoard"
@@ -521,8 +521,8 @@ fleet "Small Southern Merchants"
 		"Captain's Hoard B"
 		"Pilfered Keg B"
 	variant 3
-		"Captain's Hoard C"
-		"Pilfered Keg C"
+		"Captain's Hoard"
+		"Pilfered Keg"
 	variant 3
 		"Lifted Purse"
 		"Freighter"
@@ -530,15 +530,15 @@ fleet "Small Southern Merchants"
 		"Lifted Purse A"
 		"Pilfered Keg A"
 	variant 3
-		"Lifted Purse C"
-		"Pilfered Keg C"
+		"Lifted Purse"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg"
 		"Pilfered Keg B"
 		"Pilfered Keg A"
 	variant 3
 		"Pilfered Keg A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg B"
 		"Star Barge (Armed)"
@@ -548,14 +548,14 @@ fleet "Small Southern Merchants"
 		"Lifted Purse B"
 	variant 3
 		"Lifted Purse A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse"
 	variant 3
 		"Lifted Purse B"
 		"Lifted Purse"
 		"Lifted Purse A"
 	variant 3
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse A"
 		"Lifted Purse"
 		"Lifted Purse B"
@@ -569,7 +569,7 @@ fleet "Small Southern Merchants"
 		"3000X2 Freight B"
 		"Hawk"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
@@ -581,7 +581,7 @@ fleet "Small Southern Merchants"
 		"3500X2 Freight B"
 		"Wren"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Berserker"
 	variant 2
 		"Argosy"
@@ -620,7 +620,7 @@ fleet "Small Southern Merchants"
 		"Camelthorn B"
 		"Balau"
 	variant 2
-		"Camelthorn C"
+		"Camelthorn"
 		"Sparrow MKII"
 		"Sparrow MKII A"
 	variant 2
@@ -637,7 +637,7 @@ fleet "Small Southern Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -657,7 +657,7 @@ fleet "Small Southern Merchants"
 		"Hauler B"
 		"Wren"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Dark Berserker" 2
 	variant 2
 		"Buried Chest"
@@ -669,7 +669,7 @@ fleet "Small Southern Merchants"
 		"Buried Chest B"
 		"Hidden Blade"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Dirty Cutlass A"
 	variant 2
 		"Captain's Hoard"
@@ -681,20 +681,20 @@ fleet "Small Southern Merchants"
 		"Captain's Hoard B"
 		"Dirty Cutlass B"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Fifth Ace B"
 	variant 2
 		"Lifted Purse"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Lifted Purse C"
-		"Fifth Ace C"
+		"Lifted Purse"
+		"Fifth Ace"
 	variant 2
 		"Pilfered Keg"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Pilfered Keg A"
 		"Dirty Cutlass"
@@ -711,12 +711,12 @@ fleet "Small Southern Merchants"
 		"Lifted Purse B"
 		"Fifth Ace A"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -727,7 +727,7 @@ fleet "Small Southern Merchants"
 		"Dark Berserker"
 		"Wren B"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Berserker"
 		"Elepaio A"
 	variant 2
@@ -744,12 +744,12 @@ fleet "Small Southern Merchants"
 		"Fury"
 		"Sparrow (Patrol)"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Hawk"
 		"Sparrow MKII A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -796,15 +796,15 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Buried Chest B"
 		"Fifth Ace"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Hidden Blade"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Captain's Hoard"
 		"Dirty Cutlass A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Captain's Hoard A"
 		"Fifth Ace A"
@@ -814,16 +814,16 @@ fleet "Small Southern Merchants"
 		"Hidden Blade A"
 		"Fifth Ace"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Dirty Cutlass B"
 		"Hidden Blade"
 	variant 2
 		"Pilfered Keg"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Dirty Cutlass"
 	variant 2
 		"Pilfered Keg A"
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Fifth Ace"
 	variant 2
 		"Pilfered Keg B"
@@ -838,14 +838,14 @@ fleet "Small Southern Merchants"
 		"Lifted Purse A"
 		"Hidden Blade"
 		"Fifth Ace A"
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 2
 		"Lifted Purse B"
 		"Dirty Cutlass A"
 		"Hidden Blade A"
 		"Lifted Purse"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Fifth Ace A"
 		"Dirty Cutlass B"
 	variant 2
@@ -859,7 +859,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Black Hawk B"
 	variant 2
-		"Black Hawk C"
+		"Black Hawk"
 	variant 2
 		"Dark Berserker"
 	variant 2
@@ -867,7 +867,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Dark Berserker B"
 	variant 2
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 2
 		"Elepaio"
 	variant 2
@@ -875,7 +875,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Elepaio B"
 	variant 2
-		"Elepaio C"
+		"Elepaio"
 	variant 2
 		"Fury"
 	variant 2
@@ -907,7 +907,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Sparrow MKII B"
 	variant 2
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Wasp"
 	variant 2
@@ -919,7 +919,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Wren B"
 	variant 2
-		"Wren C"
+		"Wren"
 	variant 2
 		"Dirty Cutlass"
 	variant 2
@@ -927,7 +927,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Dirty Cutlass B"
 	variant 2
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
 		"Fifth Ace"
 	variant 2
@@ -935,7 +935,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Fifth Ace B"
 	variant 2
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Hidden Blade"
 	variant 2
@@ -943,7 +943,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Hidden Blade B"
 	variant 2
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -951,7 +951,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Arrowhead B"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Balau"
 	variant 1
@@ -959,7 +959,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Headhunter"
 	variant 1
@@ -975,7 +975,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Heavy Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Junior Osprey"
 	variant 1
@@ -983,7 +983,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Junior Osprey B"
 	variant 1
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Light Dart"
 	variant 1
@@ -991,7 +991,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Light Dart B"
 	variant 1
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Quicksilver"
 	variant 1
@@ -1015,7 +1015,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Swooping Raven B"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -1023,7 +1023,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Modified Argosy"
 	variant 1
@@ -1039,7 +1039,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -1047,7 +1047,7 @@ fleet "Small Southern Merchants"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 
 fleet "Small Core Merchants"
 	government "Merchant"
@@ -1063,7 +1063,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Arrow B"
 	variant 4
-		"Arrow C"
+		"Arrow"
 	variant 6
 		"Blackbird"
 	variant 4
@@ -1097,7 +1097,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Shuttle B"
 	variant 4
-		"Shuttle C"
+		"Shuttle"
 	variant 6
 		"Silver Stream"
 	variant 4
@@ -1105,7 +1105,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Silver Stream B"
 	variant 4
-		"Silver Stream C"
+		"Silver Stream"
 	variant 6
 		"Star Princess"
 	variant 4
@@ -1113,7 +1113,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Star Princess B"
 	variant 4
-		"Star Princess C"
+		"Star Princess"
 	variant 6
 		"Star Queen"
 	variant 4
@@ -1121,7 +1121,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Star Queen B"
 	variant 4
-		"Star Queen C"
+		"Star Queen"
 	variant 6
 		"Rum Barrell"
 	variant 4
@@ -1129,7 +1129,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Rum Barrell B"
 	variant 4
-		"Rum Barrell C"
+		"Rum Barrell"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -1140,7 +1140,7 @@ fleet "Small Core Merchants"
 		"Arrow B"
 		"Wasp"
 	variant 3
-		"Arrow C"
+		"Arrow"
 		"Wasp (Proton)"
 	variant 3
 		"Blackbird"
@@ -1162,7 +1162,7 @@ fleet "Small Core Merchants"
 		"Dark Berserker B"
 	variant 3
 		"Flivver"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 3
 		"Flivver (Racing)"
 		"Fury"
@@ -1191,7 +1191,7 @@ fleet "Small Core Merchants"
 		"Shuttle B"
 		"Sparrow (Patrol)"
 	variant 3
-		"Shuttle C"
+		"Shuttle"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
@@ -1203,8 +1203,8 @@ fleet "Small Core Merchants"
 		"Silver Stream B"
 		"Sparrow MKII B"
 	variant 3
-		"Silver Stream C"
-		"Sparrow MKII C"
+		"Silver Stream"
+		"Sparrow MKII"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -1215,8 +1215,8 @@ fleet "Small Core Merchants"
 		"Star Princess B"
 		"Wren B"
 	variant 3
-		"Star Princess C"
-		"Wren C"
+		"Star Princess"
+		"Wren"
 	variant 3
 		"Star Queen"
 		"Elepaio"
@@ -1227,8 +1227,8 @@ fleet "Small Core Merchants"
 		"Star Queen B"
 		"Elepaio B"
 	variant 3
-		"Star Queen C"
-		"Elepaio C"
+		"Star Queen"
+		"Elepaio"
 	variant 2
 		"Arrow"
 		"Light Dart"
@@ -1239,8 +1239,8 @@ fleet "Small Core Merchants"
 		"Arrow B"
 		"Light Dart B"
 	variant 2
-		"Arrow C"
-		"Light Dart C"
+		"Arrow"
+		"Light Dart"
 	variant 2
 		"Blackbird"
 		"Balau"
@@ -1274,7 +1274,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
@@ -1297,8 +1297,8 @@ fleet "Small Core Merchants"
 		"Shuttle B"
 		"Sparrow MKII B"
 	variant 2
-		"Shuttle C"
-		"Sparrow MKII C"
+		"Shuttle"
+		"Sparrow MKII"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -1309,8 +1309,8 @@ fleet "Small Core Merchants"
 		"Silver Stream B"
 		"Silver Escort B"
 	variant 2
-		"Silver Stream C"
-		"Silver Escort C"
+		"Silver Stream"
+		"Silver Escort"
 	variant 2
 		"Star Princess"
 		"Headhunter"
@@ -1321,7 +1321,7 @@ fleet "Small Core Merchants"
 		"Star Princess B"
 		"Headhunter A"
 	variant 2
-		"Star Princess C"
+		"Star Princess"
 		"Headhunter B"
 	variant 2
 		"Star Queen"
@@ -1333,7 +1333,7 @@ fleet "Small Core Merchants"
 		"Star Queen B"
 		"Raven (Heavy)"
 	variant 2
-		"Star Queen C"
+		"Star Queen"
 		"Raven A"
 	variant 2
 		"Rum Barrell"
@@ -1345,7 +1345,7 @@ fleet "Small Core Merchants"
 		"Rum Barrell B"
 		"Hidden Blade"
 	variant 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Hidden Blade"
 		"Fifth Ace"
 	variant 4
@@ -1355,7 +1355,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"3000X2 Freight B"
 	variant 4
-		"3000X2 Freight C"
+		"3000X2 Freight"
 	variant 4
 		"3500X2 Freight"
 	variant 4
@@ -1363,7 +1363,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"3500X2 Freight B"
 	variant 4
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 4
 		"Hauler"
 	variant 4
@@ -1371,7 +1371,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Hauler B"
 	variant 4
-		"Hauler C"
+		"Hauler"
 	variant 4
 		"Argosy"
 	variant 4
@@ -1395,7 +1395,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Camelthorn B"
 	variant 4
-		"Camelthorn C"
+		"Camelthorn"
 	variant 4
 		"Freighter"
 	variant 4
@@ -1417,7 +1417,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Buried Chest B"
 	variant 4
-		"Buried Chest C"
+		"Buried Chest"
 	variant 4
 		"Captain's Hoard"
 	variant 4
@@ -1425,7 +1425,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Captain's Hoard B"
 	variant 4
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 4
 		"Lifted Purse"
 	variant 4
@@ -1433,7 +1433,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Lifted Purse B"
 	variant 4
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 4
 		"Pilfered Keg"
 	variant 4
@@ -1441,7 +1441,7 @@ fleet "Small Core Merchants"
 	variant 4
 		"Pilfered Keg B"
 	variant 4
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -1452,20 +1452,20 @@ fleet "Small Core Merchants"
 		"3000X2 Freight B"
 		"3500X2 Freight"
 	variant 3
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 3
 		"3500X2 Freight"
 		"3500X2 Freight B"
 	variant 3
 		"3500X2 Freight A"
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 3
 		"3500X2 Freight B"
 		"Star Barge (Armed)"
 		"Star Barge"
 	variant 3
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Freighter B"
 	variant 3
 		"Argosy"
@@ -1502,7 +1502,7 @@ fleet "Small Core Merchants"
 		"Camelthorn B"
 		"Freighter"
 	variant 3
-		"Camelthorn C"
+		"Camelthorn"
 		"Star Barge A"
 		"Star Barge (Armed)"
 	variant 3
@@ -1528,11 +1528,11 @@ fleet "Small Core Merchants"
 	variant 3
 		"Star Barge"
 		"Hauler A"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge (Armed)"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge A"
@@ -1554,12 +1554,12 @@ fleet "Small Core Merchants"
 		"Pilfered Keg"
 	variant 3
 		"Buried Chest A"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 3
 		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"Buried Chest C"
+		"Buried Chest"
 		"Lifted Purse A"
 	variant 3
 		"Captain's Hoard"
@@ -1571,8 +1571,8 @@ fleet "Small Core Merchants"
 		"Captain's Hoard B"
 		"Pilfered Keg B"
 	variant 3
-		"Captain's Hoard C"
-		"Pilfered Keg C"
+		"Captain's Hoard"
+		"Pilfered Keg"
 	variant 3
 		"Lifted Purse"
 		"Freighter"
@@ -1580,15 +1580,15 @@ fleet "Small Core Merchants"
 		"Lifted Purse A"
 		"Pilfered Keg A"
 	variant 3
-		"Lifted Purse C"
-		"Pilfered Keg C"
+		"Lifted Purse"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg"
 		"Pilfered Keg B"
 		"Pilfered Keg A"
 	variant 3
 		"Pilfered Keg A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg B"
 		"Star Barge (Armed)"
@@ -1598,14 +1598,14 @@ fleet "Small Core Merchants"
 		"Lifted Purse B"
 	variant 3
 		"Lifted Purse A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse"
 	variant 3
 		"Lifted Purse B"
 		"Lifted Purse"
 		"Lifted Purse A"
 	variant 3
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse A"
 		"Lifted Purse"
 		"Lifted Purse B"
@@ -1619,7 +1619,7 @@ fleet "Small Core Merchants"
 		"3000X2 Freight B"
 		"Hawk"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
@@ -1631,7 +1631,7 @@ fleet "Small Core Merchants"
 		"3500X2 Freight B"
 		"Wren"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Berserker"
 	variant 2
 		"Argosy"
@@ -1670,7 +1670,7 @@ fleet "Small Core Merchants"
 		"Camelthorn B"
 		"Balau"
 	variant 2
-		"Camelthorn C"
+		"Camelthorn"
 		"Sparrow MKII"
 		"Sparrow MKII A"
 	variant 2
@@ -1687,7 +1687,7 @@ fleet "Small Core Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -1707,7 +1707,7 @@ fleet "Small Core Merchants"
 		"Hauler B"
 		"Wren"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Dark Berserker" 2
 	variant 2
 		"Buried Chest"
@@ -1719,7 +1719,7 @@ fleet "Small Core Merchants"
 		"Buried Chest B"
 		"Hidden Blade"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Dirty Cutlass A"
 	variant 2
 		"Captain's Hoard"
@@ -1731,20 +1731,20 @@ fleet "Small Core Merchants"
 		"Captain's Hoard B"
 		"Dirty Cutlass B"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Fifth Ace B"
 	variant 2
 		"Lifted Purse"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Lifted Purse C"
-		"Fifth Ace C"
+		"Lifted Purse"
+		"Fifth Ace"
 	variant 2
 		"Pilfered Keg"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Pilfered Keg A"
 		"Dirty Cutlass"
@@ -1761,12 +1761,12 @@ fleet "Small Core Merchants"
 		"Lifted Purse B"
 		"Fifth Ace A"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -1777,7 +1777,7 @@ fleet "Small Core Merchants"
 		"Dark Berserker"
 		"Wren B"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Berserker"
 		"Elepaio A"
 	variant 2
@@ -1794,12 +1794,12 @@ fleet "Small Core Merchants"
 		"Fury"
 		"Sparrow (Patrol)"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Hawk"
 		"Sparrow MKII A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -1846,15 +1846,15 @@ fleet "Small Core Merchants"
 	variant 2
 		"Buried Chest B"
 		"Fifth Ace"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Hidden Blade"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Captain's Hoard"
 		"Dirty Cutlass A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Captain's Hoard A"
 		"Fifth Ace A"
@@ -1864,16 +1864,16 @@ fleet "Small Core Merchants"
 		"Hidden Blade A"
 		"Fifth Ace"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Dirty Cutlass B"
 		"Hidden Blade"
 	variant 2
 		"Pilfered Keg"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Dirty Cutlass"
 	variant 2
 		"Pilfered Keg A"
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Fifth Ace"
 	variant 2
 		"Pilfered Keg B"
@@ -1888,14 +1888,14 @@ fleet "Small Core Merchants"
 		"Lifted Purse A"
 		"Hidden Blade"
 		"Fifth Ace A"
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 2
 		"Lifted Purse B"
 		"Dirty Cutlass A"
 		"Hidden Blade A"
 		"Lifted Purse"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Fifth Ace A"
 		"Dirty Cutlass B"
 	variant 2
@@ -1909,7 +1909,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Black Hawk B"
 	variant 2
-		"Black Hawk C"
+		"Black Hawk"
 	variant 2
 		"Dark Berserker"
 	variant 2
@@ -1917,7 +1917,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Dark Berserker B"
 	variant 2
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 2
 		"Elepaio"
 	variant 2
@@ -1925,7 +1925,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Elepaio B"
 	variant 2
-		"Elepaio C"
+		"Elepaio"
 	variant 2
 		"Fury"
 	variant 2
@@ -1957,7 +1957,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Sparrow MKII B"
 	variant 2
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Wasp"
 	variant 2
@@ -1969,7 +1969,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Wren B"
 	variant 2
-		"Wren C"
+		"Wren"
 	variant 2
 		"Dirty Cutlass"
 	variant 2
@@ -1977,7 +1977,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Dirty Cutlass B"
 	variant 2
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
 		"Fifth Ace"
 	variant 2
@@ -1985,7 +1985,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Fifth Ace B"
 	variant 2
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Hidden Blade"
 	variant 2
@@ -1993,7 +1993,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"Hidden Blade B"
 	variant 2
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -2001,7 +2001,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Arrowhead B"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Balau"
 	variant 1
@@ -2009,7 +2009,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Headhunter"
 	variant 1
@@ -2025,7 +2025,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Heavy Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Junior Osprey"
 	variant 1
@@ -2033,7 +2033,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Junior Osprey B"
 	variant 1
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Light Dart"
 	variant 1
@@ -2041,7 +2041,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Light Dart B"
 	variant 1
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Quicksilver"
 	variant 1
@@ -2065,7 +2065,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Swooping Raven B"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -2073,7 +2073,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Modified Argosy"
 	variant 1
@@ -2089,7 +2089,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -2097,7 +2097,7 @@ fleet "Small Core Merchants"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 
 fleet "Small Northern Merchants"
 	government "Merchant"
@@ -2113,7 +2113,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Arrow B"
 	variant 4
-		"Arrow C"
+		"Arrow"
 	variant 6
 		"Blackbird"
 	variant 4
@@ -2147,7 +2147,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Shuttle B"
 	variant 4
-		"Shuttle C"
+		"Shuttle"
 	variant 6
 		"Silver Stream"
 	variant 4
@@ -2155,7 +2155,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Silver Stream B"
 	variant 4
-		"Silver Stream C"
+		"Silver Stream"
 	variant 6
 		"Star Princess"
 	variant 4
@@ -2163,7 +2163,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Star Princess B"
 	variant 4
-		"Star Princess C"
+		"Star Princess"
 	variant 6
 		"Star Queen"
 	variant 4
@@ -2171,7 +2171,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Star Queen B"
 	variant 4
-		"Star Queen C"
+		"Star Queen"
 	variant 6
 		"Rum Barrell"
 	variant 4
@@ -2179,7 +2179,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Rum Barrell B"
 	variant 4
-		"Rum Barrell C"
+		"Rum Barrell"
 	variant 3
 		"Arrow"
 		"Berserker"
@@ -2190,7 +2190,7 @@ fleet "Small Northern Merchants"
 		"Arrow B"
 		"Wasp"
 	variant 3
-		"Arrow C"
+		"Arrow"
 		"Wasp (Proton)"
 	variant 3
 		"Blackbird"
@@ -2212,7 +2212,7 @@ fleet "Small Northern Merchants"
 		"Dark Berserker B"
 	variant 3
 		"Flivver"
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 3
 		"Flivver (Racing)"
 		"Fury"
@@ -2241,7 +2241,7 @@ fleet "Small Northern Merchants"
 		"Shuttle B"
 		"Sparrow (Patrol)"
 	variant 3
-		"Shuttle C"
+		"Shuttle"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
@@ -2253,8 +2253,8 @@ fleet "Small Northern Merchants"
 		"Silver Stream B"
 		"Sparrow MKII B"
 	variant 3
-		"Silver Stream C"
-		"Sparrow MKII C"
+		"Silver Stream"
+		"Sparrow MKII"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -2265,8 +2265,8 @@ fleet "Small Northern Merchants"
 		"Star Princess B"
 		"Wren B"
 	variant 3
-		"Star Princess C"
-		"Wren C"
+		"Star Princess"
+		"Wren"
 	variant 3
 		"Star Queen"
 		"Elepaio"
@@ -2277,8 +2277,8 @@ fleet "Small Northern Merchants"
 		"Star Queen B"
 		"Elepaio B"
 	variant 3
-		"Star Queen C"
-		"Elepaio C"
+		"Star Queen"
+		"Elepaio"
 	variant 2
 		"Arrow"
 		"Light Dart"
@@ -2289,8 +2289,8 @@ fleet "Small Northern Merchants"
 		"Arrow B"
 		"Light Dart B"
 	variant 2
-		"Arrow C"
-		"Light Dart C"
+		"Arrow"
+		"Light Dart"
 	variant 2
 		"Blackbird"
 		"Balau"
@@ -2324,7 +2324,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
@@ -2347,8 +2347,8 @@ fleet "Small Northern Merchants"
 		"Shuttle B"
 		"Sparrow MKII B"
 	variant 2
-		"Shuttle C"
-		"Sparrow MKII C"
+		"Shuttle"
+		"Sparrow MKII"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -2359,8 +2359,8 @@ fleet "Small Northern Merchants"
 		"Silver Stream B"
 		"Silver Escort B"
 	variant 2
-		"Silver Stream C"
-		"Silver Escort C"
+		"Silver Stream"
+		"Silver Escort"
 	variant 2
 		"Star Princess"
 		"Headhunter"
@@ -2371,7 +2371,7 @@ fleet "Small Northern Merchants"
 		"Star Princess B"
 		"Headhunter A"
 	variant 2
-		"Star Princess C"
+		"Star Princess"
 		"Headhunter B"
 	variant 2
 		"Star Queen"
@@ -2383,7 +2383,7 @@ fleet "Small Northern Merchants"
 		"Star Queen B"
 		"Raven (Heavy)"
 	variant 2
-		"Star Queen C"
+		"Star Queen"
 		"Raven A"
 	variant 2
 		"Rum Barrell"
@@ -2395,7 +2395,7 @@ fleet "Small Northern Merchants"
 		"Rum Barrell B"
 		"Hidden Blade"
 	variant 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Hidden Blade"
 		"Fifth Ace"
 	variant 4
@@ -2405,7 +2405,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"3000X2 Freight B"
 	variant 4
-		"3000X2 Freight C"
+		"3000X2 Freight"
 	variant 4
 		"3500X2 Freight"
 	variant 4
@@ -2413,7 +2413,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"3500X2 Freight B"
 	variant 4
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 4
 		"Hauler"
 	variant 4
@@ -2421,7 +2421,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Hauler B"
 	variant 4
-		"Hauler C"
+		"Hauler"
 	variant 4
 		"Argosy"
 	variant 4
@@ -2445,7 +2445,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Camelthorn B"
 	variant 4
-		"Camelthorn C"
+		"Camelthorn"
 	variant 4
 		"Freighter"
 	variant 4
@@ -2467,7 +2467,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Buried Chest B"
 	variant 4
-		"Buried Chest C"
+		"Buried Chest"
 	variant 4
 		"Captain's Hoard"
 	variant 4
@@ -2475,7 +2475,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Captain's Hoard B"
 	variant 4
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 4
 		"Lifted Purse"
 	variant 4
@@ -2483,7 +2483,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Lifted Purse B"
 	variant 4
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 4
 		"Pilfered Keg"
 	variant 4
@@ -2491,7 +2491,7 @@ fleet "Small Northern Merchants"
 	variant 4
 		"Pilfered Keg B"
 	variant 4
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"3000X2 Freight"
 		"Freighter"
@@ -2502,20 +2502,20 @@ fleet "Small Northern Merchants"
 		"3000X2 Freight B"
 		"3500X2 Freight"
 	variant 3
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 3
 		"3500X2 Freight"
 		"3500X2 Freight B"
 	variant 3
 		"3500X2 Freight A"
-		"3500X2 Freight C"
+		"3500X2 Freight"
 	variant 3
 		"3500X2 Freight B"
 		"Star Barge (Armed)"
 		"Star Barge"
 	variant 3
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Freighter B"
 	variant 3
 		"Argosy"
@@ -2552,7 +2552,7 @@ fleet "Small Northern Merchants"
 		"Camelthorn B"
 		"Freighter"
 	variant 3
-		"Camelthorn C"
+		"Camelthorn"
 		"Star Barge A"
 		"Star Barge (Armed)"
 	variant 3
@@ -2578,11 +2578,11 @@ fleet "Small Northern Merchants"
 	variant 3
 		"Star Barge"
 		"Hauler A"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge (Armed)"
-		"Hauler C"
+		"Hauler"
 	variant 3
 		"Star Barge"
 		"Star Barge A"
@@ -2604,12 +2604,12 @@ fleet "Small Northern Merchants"
 		"Pilfered Keg"
 	variant 3
 		"Buried Chest A"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 	variant 3
 		"Buried Chest B"
 		"Freighter A"
 	variant 3
-		"Buried Chest C"
+		"Buried Chest"
 		"Lifted Purse A"
 	variant 3
 		"Captain's Hoard"
@@ -2621,8 +2621,8 @@ fleet "Small Northern Merchants"
 		"Captain's Hoard B"
 		"Pilfered Keg B"
 	variant 3
-		"Captain's Hoard C"
-		"Pilfered Keg C"
+		"Captain's Hoard"
+		"Pilfered Keg"
 	variant 3
 		"Lifted Purse"
 		"Freighter"
@@ -2630,15 +2630,15 @@ fleet "Small Northern Merchants"
 		"Lifted Purse A"
 		"Pilfered Keg A"
 	variant 3
-		"Lifted Purse C"
-		"Pilfered Keg C"
+		"Lifted Purse"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg"
 		"Pilfered Keg B"
 		"Pilfered Keg A"
 	variant 3
 		"Pilfered Keg A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 	variant 3
 		"Pilfered Keg B"
 		"Star Barge (Armed)"
@@ -2648,14 +2648,14 @@ fleet "Small Northern Merchants"
 		"Lifted Purse B"
 	variant 3
 		"Lifted Purse A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse"
 	variant 3
 		"Lifted Purse B"
 		"Lifted Purse"
 		"Lifted Purse A"
 	variant 3
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Lifted Purse A"
 		"Lifted Purse"
 		"Lifted Purse B"
@@ -2669,7 +2669,7 @@ fleet "Small Northern Merchants"
 		"3000X2 Freight B"
 		"Hawk"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
@@ -2681,7 +2681,7 @@ fleet "Small Northern Merchants"
 		"3500X2 Freight B"
 		"Wren"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Berserker"
 	variant 2
 		"Argosy"
@@ -2720,7 +2720,7 @@ fleet "Small Northern Merchants"
 		"Camelthorn B"
 		"Balau"
 	variant 2
-		"Camelthorn C"
+		"Camelthorn"
 		"Sparrow MKII"
 		"Sparrow MKII A"
 	variant 2
@@ -2737,7 +2737,7 @@ fleet "Small Northern Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -2757,7 +2757,7 @@ fleet "Small Northern Merchants"
 		"Hauler B"
 		"Wren"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Dark Berserker" 2
 	variant 2
 		"Buried Chest"
@@ -2769,7 +2769,7 @@ fleet "Small Northern Merchants"
 		"Buried Chest B"
 		"Hidden Blade"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Dirty Cutlass A"
 	variant 2
 		"Captain's Hoard"
@@ -2781,20 +2781,20 @@ fleet "Small Northern Merchants"
 		"Captain's Hoard B"
 		"Dirty Cutlass B"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Fifth Ace B"
 	variant 2
 		"Lifted Purse"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse A"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Lifted Purse C"
-		"Fifth Ace C"
+		"Lifted Purse"
+		"Fifth Ace"
 	variant 2
 		"Pilfered Keg"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Pilfered Keg A"
 		"Dirty Cutlass"
@@ -2811,12 +2811,12 @@ fleet "Small Northern Merchants"
 		"Lifted Purse B"
 		"Fifth Ace A"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hidden Blade A"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -2827,7 +2827,7 @@ fleet "Small Northern Merchants"
 		"Dark Berserker"
 		"Wren B"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"Berserker"
 		"Elepaio A"
 	variant 2
@@ -2844,12 +2844,12 @@ fleet "Small Northern Merchants"
 		"Fury"
 		"Sparrow (Patrol)"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Hawk"
 		"Sparrow MKII A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII C"
+		"Sparrow MKII"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -2896,15 +2896,15 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Buried Chest B"
 		"Fifth Ace"
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Hidden Blade"
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Captain's Hoard"
 		"Dirty Cutlass A"
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 2
 		"Captain's Hoard A"
 		"Fifth Ace A"
@@ -2914,16 +2914,16 @@ fleet "Small Northern Merchants"
 		"Hidden Blade A"
 		"Fifth Ace"
 	variant 2
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Dirty Cutlass B"
 		"Hidden Blade"
 	variant 2
 		"Pilfered Keg"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Dirty Cutlass"
 	variant 2
 		"Pilfered Keg A"
-		"Hidden Blade C"
+		"Hidden Blade"
 		"Fifth Ace"
 	variant 2
 		"Pilfered Keg B"
@@ -2938,14 +2938,14 @@ fleet "Small Northern Merchants"
 		"Lifted Purse A"
 		"Hidden Blade"
 		"Fifth Ace A"
-		"Lifted Purse C"
+		"Lifted Purse"
 	variant 2
 		"Lifted Purse B"
 		"Dirty Cutlass A"
 		"Hidden Blade A"
 		"Lifted Purse"
 	variant 2
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Fifth Ace A"
 		"Dirty Cutlass B"
 	variant 2
@@ -2959,7 +2959,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Black Hawk B"
 	variant 2
-		"Black Hawk C"
+		"Black Hawk"
 	variant 2
 		"Dark Berserker"
 	variant 2
@@ -2967,7 +2967,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Dark Berserker B"
 	variant 2
-		"Dark Berserker C"
+		"Dark Berserker"
 	variant 2
 		"Elepaio"
 	variant 2
@@ -2975,7 +2975,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Elepaio B"
 	variant 2
-		"Elepaio C"
+		"Elepaio"
 	variant 2
 		"Fury"
 	variant 2
@@ -3007,7 +3007,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Sparrow MKII B"
 	variant 2
-		"Sparrow MKII C"
+		"Sparrow MKII"
 	variant 2
 		"Wasp"
 	variant 2
@@ -3019,7 +3019,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Wren B"
 	variant 2
-		"Wren C"
+		"Wren"
 	variant 2
 		"Dirty Cutlass"
 	variant 2
@@ -3027,7 +3027,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Dirty Cutlass B"
 	variant 2
-		"Dirty Cutlass C"
+		"Dirty Cutlass"
 	variant 2
 		"Fifth Ace"
 	variant 2
@@ -3035,7 +3035,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Fifth Ace B"
 	variant 2
-		"Fifth Ace C"
+		"Fifth Ace"
 	variant 2
 		"Hidden Blade"
 	variant 2
@@ -3043,7 +3043,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Hidden Blade B"
 	variant 2
-		"Hidden Blade C"
+		"Hidden Blade"
 	variant 1
 		"Arrowhead"
 	variant 1
@@ -3051,7 +3051,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Arrowhead B"
 	variant 1
-		"Arrowhead C"
+		"Arrowhead"
 	variant 1
 		"Balau"
 	variant 1
@@ -3059,7 +3059,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Balau B"
 	variant 1
-		"Balau C"
+		"Balau"
 	variant 1
 		"Headhunter"
 	variant 1
@@ -3075,7 +3075,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Heavy Dart B"
 	variant 1
-		"Heavy Dart C"
+		"Heavy Dart"
 	variant 1
 		"Junior Osprey"
 	variant 1
@@ -3083,7 +3083,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Junior Osprey B"
 	variant 1
-		"Junior Osprey C"
+		"Junior Osprey"
 	variant 1
 		"Light Dart"
 	variant 1
@@ -3091,7 +3091,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Light Dart B"
 	variant 1
-		"Light Dart C"
+		"Light Dart"
 	variant 1
 		"Quicksilver"
 	variant 1
@@ -3115,7 +3115,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Swooping Raven B"
 	variant 1
-		"Swooping Raven C"
+		"Swooping Raven"
 	variant 1
 		"Silver Escort"
 	variant 1
@@ -3123,7 +3123,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Silver Escort B"
 	variant 1
-		"Silver Escort C"
+		"Silver Escort"
 	variant 1
 		"Modified Argosy"
 	variant 1
@@ -3139,7 +3139,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Deceitful Hangman B"
 	variant 1
-		"Deceitful Hangman C"
+		"Deceitful Hangman"
 	variant 1
 		"Fearless Assassin"
 	variant 1
@@ -3147,7 +3147,7 @@ fleet "Small Northern Merchants"
 	variant 1
 		"Fearless Assassin B"
 	variant 1
-		"Fearless Assassin C"
+		"Fearless Assassin"
 
 fleet "Large Southern Merchants"
 	government "Merchant"
@@ -3161,7 +3161,7 @@ fleet "Large Southern Merchants"
 		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"3000X2 Freight A"
 	variant 2
 		"4500X2A Freight"
@@ -3170,14 +3170,14 @@ fleet "Large Southern Merchants"
 		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
 		"Star Barge"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
@@ -3185,13 +3185,13 @@ fleet "Large Southern Merchants"
 		"7000X2S Freight A"
 	variant 2
 		"7000X2S Freight A"
-		"4500X2A Freight C"
-		"4500X2A Freight C"
+		"4500X2A Freight"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freight B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2S Freight C"
+		"7000X2S Freight"
 		"Clipper"
 	variant 2
 		"8500X2S Freight"
@@ -3229,7 +3229,7 @@ fleet "Large Southern Merchants"
 		"Hauler"
 		"Hauler A"
 		"Hauler B"
-		"Hauler C"
+		"Hauler"
 	variant 2
 		"Hauler II"
 		"Hauler"
@@ -3254,7 +3254,7 @@ fleet "Large Southern Merchants"
 	variant 3
 		"Hauler IV B"
 	variant 3
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 	variant 3
@@ -3262,7 +3262,7 @@ fleet "Large Southern Merchants"
 	variant 3
 		"Hauler VI B"
 	variant 3
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 	variant 3
@@ -3270,35 +3270,35 @@ fleet "Large Southern Merchants"
 	variant 3
 		"Gargoyle B"
 	variant 3
-		"Gargoyle C"
+		"Gargoyle"
 	variant 3
 		"Hauler IV"
 		"Hauler IV A"
 	variant 3
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 		"Hauler VI A"
 	variant 3
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 		"Gargoyle A"
 	variant 3
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Hauler IV"
 		"Hauler IV A"
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 2
 		"Hauler VI"
 		"Hauler VI A"
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 1
 		"Hauler VI"
 		"Hauler IV"
@@ -3309,7 +3309,7 @@ fleet "Large Southern Merchants"
 		"Gargoyle"
 		"Gargoyle A"
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Star Barge" 2
 		"Star Barge (Armed)" 3
@@ -3323,8 +3323,8 @@ fleet "Large Southern Merchants"
 		"Pilfered Keg"
 		"Captain's Hoard"
 	variant 2
-		"Buried Chest C"
-		"Captain's Hoard C"
+		"Buried Chest"
+		"Captain's Hoard"
 	variant 2
 		"Captain's Hoard"
 		"Captain's Hoard A"
@@ -3335,7 +3335,7 @@ fleet "Large Southern Merchants"
 		"Lifted Purse" 2
 		"Lifted Purse A" 2
 		"Lifted Purse B" 2
-		"Lifted Purse C" 2
+		"Lifted Purse" 2
 	variant 2
 		"Lifted Purse A"
 		"Pilfered Keg A"
@@ -3360,7 +3360,7 @@ fleet "Large Southern Merchants"
 	variant 3
 		"4500X2A Freight B"
 	variant 3
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -3368,7 +3368,7 @@ fleet "Large Southern Merchants"
 	variant 3
 		"4500X2 Freight B"
 	variant 3
-		"4500X2 Freight C"
+		"4500X2 Freight"
 	variant 3
 		"7000X2S Freight"
 		"Dagger" 2
@@ -3379,7 +3379,7 @@ fleet "Large Southern Merchants"
 		"7000X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"7000X2S Freight C"
+		"7000X2S Freight"
 		"Dagger" 2
 	variant 3
 		"8500X2S Freight"
@@ -3391,7 +3391,7 @@ fleet "Large Southern Merchants"
 		"8500X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"8500X2S Freight C"
+		"8500X2S Freight"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -3428,7 +3428,7 @@ fleet "Large Southern Merchants"
 		"Berserker (Afterburner)"
 	variant 3
 		"Arrow A"
-		"Arrow C" 2
+		"Arrow" 2
 		"Quicksilver"
 		"Quicksilver A"
 	variant 3
@@ -3453,7 +3453,7 @@ fleet "Large Southern Merchants"
 		"Headhunter" 2
 	variant 3
 		"Shuttle A" 4
-		"Shuttle C" 4
+		"Shuttle" 4
 		"Sparrow" 2
 		"Sparrow MKII" 2
 	variant 3
@@ -3463,7 +3463,7 @@ fleet "Large Southern Merchants"
 		"Firebird"
 	variant 3
 		"Silver Stream A"
-		"Silver Stream C"
+		"Silver Stream"
 		"Balau"
 		"Balau A"
 	variant 3
@@ -3473,7 +3473,7 @@ fleet "Large Southern Merchants"
 		"Swooping Raven A"
 	variant 3
 		"Star Princess A"
-		"Star Princess C"
+		"Star Princess"
 		"Sparrow" 3
 		"Hawk"
 	variant 3
@@ -3482,7 +3482,7 @@ fleet "Large Southern Merchants"
 		"Leviathan"
 	variant 3
 		"Star Queen A"
-		"Star Queen C"
+		"Star Queen"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
@@ -3491,7 +3491,7 @@ fleet "Large Southern Merchants"
 		"Rum Barrell A"
 	variant 3
 		"Rum Barrell A" 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Stormbolt"
 	variant 2
 		"10000X2S Freighter"
@@ -3504,7 +3504,7 @@ fleet "Large Southern Merchants"
 		"Silver Escort A"
 	variant 2
 		"10000X2S Freighter B"
-		"8500X2S Freighter C"
+		"8500X2S Freighter"
 		"7000X2S Freighter"
 		"X2E Gunship"
 		"Dagger" 8
@@ -3523,12 +3523,12 @@ fleet "Large Southern Merchants"
 		"Quicksilver"
 		"Quicksilver (Mark II)"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight B"
 		"4500X2 Freight"
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
@@ -3537,7 +3537,7 @@ fleet "Large Southern Merchants"
 		"4500X2 Freight"
 	variant 2
 		"4500X2A Freight A"
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freighter"
 		"Silver Defender"
@@ -3547,7 +3547,7 @@ fleet "Large Southern Merchants"
 		"Dagger" 2
 		"4500X2A Freight B"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
@@ -3557,7 +3557,7 @@ fleet "Large Southern Merchants"
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2S Freighter C"
+		"7000X2S Freighter"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
@@ -3575,9 +3575,9 @@ fleet "Large Southern Merchants"
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2S Freighter C"
+		"8500X2S Freighter"
 		"Dagger" 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -3648,7 +3648,7 @@ fleet "Large Southern Merchants"
 		"Freighter A"
 		"Protector (Laser)"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Hauler"
 		"Wamara"
 	variant 2
@@ -3673,11 +3673,11 @@ fleet "Large Southern Merchants"
 	variant 2
 		"Buried Chest A"
 		"Pilfered Keg A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hellscream"
 	variant 2
 		"Buried Chest B"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Deceptive Lover"
 	variant 2
 		"Captain's Hoard"
@@ -3686,13 +3686,13 @@ fleet "Large Southern Merchants"
 		"Lifted Purse A"
 	variant 2
 		"Captain's Hoard A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 		"Dirty Cutlass"
 		"Hidden Blade"
 	variant 2
 		"Captain's Hoard B"
 		"Hidden Blade A"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse" 2
@@ -3700,7 +3700,7 @@ fleet "Large Southern Merchants"
 		"Pilfered Keg"
 		"Fearless Assassin"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Pilfered Keg B"
 		"Damned Executioner"
 		"Damned Executioner A"
@@ -3719,9 +3719,9 @@ fleet "Large Southern Merchants"
 		"Quebracho B"
 		"Wamara"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Balau"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Gidgee A"
 		"Cebil A"
@@ -3729,12 +3729,12 @@ fleet "Large Southern Merchants"
 		"Gidgee B"
 		"Camelthorn"
 	variant 1
-		"Gidgee C"
-		"Balau C"
+		"Gidgee"
+		"Balau"
 		"Balau"
 	variant 1
 		"Cebil B"
-		"Cebil C"
+		"Cebil"
 		"Camelthorn"
 		"Balau"
 	variant 1
@@ -3757,7 +3757,7 @@ fleet "Large Southern Merchants"
 		"Balau"
 	variant 1
 		"Wamara B"
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"Mule"
 		"X2E Gunship"
@@ -3776,7 +3776,7 @@ fleet "Large Southern Merchants"
 		"X2 Gunship B"
 	variant 1
 		"Camelthorn A"
-		"Camelthorn C"
+		"Camelthorn"
 		"Balau"
 		"Balau A"
 	variant 1
@@ -3789,7 +3789,7 @@ fleet "Large Southern Merchants"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Dagger" 2
 	variant 1
 		"4500X2 Gunship"
@@ -3798,7 +3798,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"4500X2 Gunship B"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Bastion"
 	variant 1
@@ -3814,7 +3814,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Corvette"
 	variant 1
@@ -3840,7 +3840,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Mule"
 		"Dagger" 
@@ -3868,7 +3868,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Splinter"
 	variant 1
@@ -3884,7 +3884,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Silver Protector B"
 	variant 1
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Bactrian"
 		"Dagger" 3
@@ -3909,7 +3909,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 1
 		"Leviathan"
 	variant 1
@@ -3925,7 +3925,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Lignum B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 	variant 1
 		"Manta"
 	variant 1
@@ -3959,7 +3959,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Trailbreaker B"
 	variant 1
-		"Trailbreaker C"
+		"Trailbreaker"
 	variant 1
 		"Wamara"
 	variant 1
@@ -3967,7 +3967,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"X2 Gunship"
 	variant 1
@@ -3975,7 +3975,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 1
 		"X2E Gunship"
 	variant 1
@@ -3983,7 +3983,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 1
 		"Black Star"
 	variant 1
@@ -3991,13 +3991,13 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 1
 		"Silver Star A"
 	variant 1
 		"Silver Star B"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 1
@@ -4007,7 +4007,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Silver Defender B"
 	variant 1
-		"Silver Defender C"
+		"Silver Defender"
 	variant 1
 		"Damned Executioner"
 	variant 1
@@ -4015,7 +4015,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Damned Executioner B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Stormbolt"
 	variant 1
@@ -4023,7 +4023,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Stormbolt B"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Deceptive Lover"
 	variant 1
@@ -4031,7 +4031,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Deceptive Lover B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
 		"Hellscream"
 	variant 1
@@ -4039,7 +4039,7 @@ fleet "Large Southern Merchants"
 	variant 1
 		"Hellscream B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 
 fleet "Large Core Merchants"
 	government "Merchant"
@@ -4053,7 +4053,7 @@ fleet "Large Core Merchants"
 		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"3000X2 Freight A"
 	variant 2
 		"4500X2A Freight"
@@ -4062,14 +4062,14 @@ fleet "Large Core Merchants"
 		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
 		"Star Barge"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
@@ -4077,13 +4077,13 @@ fleet "Large Core Merchants"
 		"7000X2S Freighter A"
 	variant 2
 		"7000X2S Freighter A"
-		"4500X2A Freight C"
-		"4500X2A Freight C"
+		"4500X2A Freight"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freighter B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2S Freighter C"
+		"7000X2S Freighter"
 		"Clipper"
 	variant 2
 		"8500X2S Freighter"
@@ -4121,7 +4121,7 @@ fleet "Large Core Merchants"
 		"Hauler"
 		"Hauler A"
 		"Hauler B"
-		"Hauler C"
+		"Hauler"
 	variant 2
 		"Hauler II"
 		"Hauler"
@@ -4143,7 +4143,7 @@ fleet "Large Core Merchants"
 	variant 3
 		"Hauler IV B"
 	variant 3
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 	variant 3
@@ -4151,7 +4151,7 @@ fleet "Large Core Merchants"
 	variant 3
 		"Hauler VI B"
 	variant 3
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 	variant 3
@@ -4159,35 +4159,35 @@ fleet "Large Core Merchants"
 	variant 3
 		"Gargoyle B"
 	variant 3
-		"Gargoyle C"
+		"Gargoyle"
 	variant 3
 		"Hauler IV"
 		"Hauler IV A"
 	variant 3
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 		"Hauler VI A"
 	variant 3
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 		"Gargoyle A"
 	variant 3
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Hauler IV"
 		"Hauler IV A"
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 2
 		"Hauler VI"
 		"Hauler VI A"
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 1
 		"Hauler VI"
 		"Hauler IV"
@@ -4198,7 +4198,7 @@ fleet "Large Core Merchants"
 		"Gargoyle"
 		"Gargoyle A"
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Star Barge" 2
 		"Star Barge (Armed)" 3
@@ -4212,8 +4212,8 @@ fleet "Large Core Merchants"
 		"Pilfered Keg"
 		"Captain's Hoard"
 	variant 2
-		"Buried Chest C"
-		"Captain's Hoard C"
+		"Buried Chest"
+		"Captain's Hoard"
 	variant 2
 		"Captain's Hoard"
 		"Captain's Hoard A"
@@ -4224,7 +4224,7 @@ fleet "Large Core Merchants"
 		"Lifted Purse" 2
 		"Lifted Purse A" 2
 		"Lifted Purse B" 2
-		"Lifted Purse C" 2
+		"Lifted Purse" 2
 	variant 2
 		"Lifted Purse A"
 		"Pilfered Keg A"
@@ -4249,7 +4249,7 @@ fleet "Large Core Merchants"
 	variant 3
 		"4500X2A Freight B"
 	variant 3
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -4257,7 +4257,7 @@ fleet "Large Core Merchants"
 	variant 3
 		"4500X2 Freight B"
 	variant 3
-		"4500X2 Freight C"
+		"4500X2 Freight"
 	variant 3
 		"7000X2S Freighter"
 		"Dagger" 2
@@ -4268,7 +4268,7 @@ fleet "Large Core Merchants"
 		"7000X2S Freighter B"
 		"Dagger" 2
 	variant 3
-		"7000X2S Freighter C"
+		"7000X2S Freighter"
 		"Dagger" 2
 	variant 3
 		"8500X2S Freighter"
@@ -4280,7 +4280,7 @@ fleet "Large Core Merchants"
 		"8500X2S Freighter B"
 		"Dagger" 2
 	variant 3
-		"8500X2S Freighter C"
+		"8500X2S Freighter"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -4317,7 +4317,7 @@ fleet "Large Core Merchants"
 		"Berserker (Afterburner)"
 	variant 3
 		"Arrow A"
-		"Arrow C" 2
+		"Arrow" 2
 		"Quicksilver"
 		"Quicksilver A"
 	variant 3
@@ -4342,7 +4342,7 @@ fleet "Large Core Merchants"
 		"Headhunter" 2
 	variant 3
 		"Shuttle A" 4
-		"Shuttle C" 4
+		"Shuttle" 4
 		"Sparrow" 2
 		"Sparrow MKII" 2
 	variant 3
@@ -4352,7 +4352,7 @@ fleet "Large Core Merchants"
 		"Firebird"
 	variant 3
 		"Silver Stream A"
-		"Silver Stream C"
+		"Silver Stream"
 		"Balau"
 		"Balau A"
 	variant 3
@@ -4362,7 +4362,7 @@ fleet "Large Core Merchants"
 		"Swooping Raven A"
 	variant 3
 		"Star Princess A"
-		"Star Princess C"
+		"Star Princess"
 		"Sparrow" 3
 		"Hawk"
 	variant 3
@@ -4371,7 +4371,7 @@ fleet "Large Core Merchants"
 		"Leviathan"
 	variant 3
 		"Star Queen A"
-		"Star Queen C"
+		"Star Queen"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
@@ -4380,7 +4380,7 @@ fleet "Large Core Merchants"
 		"Rum Barrell A"
 	variant 3
 		"Rum Barrell A" 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Stormbolt"
 	variant 2
 		"10000X2S Freighter"
@@ -4393,7 +4393,7 @@ fleet "Large Core Merchants"
 		"Silver Escort A"
 	variant 2
 		"10000X2S Freighter B"
-		"8500X2S Freighter C"
+		"8500X2S Freighter"
 		"7000X2S Freighter"
 		"X2E Gunship"
 		"Dagger" 8
@@ -4412,12 +4412,12 @@ fleet "Large Core Merchants"
 		"Quicksilver"
 		"Quicksilver (Mark II)"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight B"
 		"4500X2 Freight"
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
@@ -4426,7 +4426,7 @@ fleet "Large Core Merchants"
 		"4500X2 Freight"
 	variant 2
 		"4500X2A Freight A"
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freighter"
 		"Silver Defender"
@@ -4436,7 +4436,7 @@ fleet "Large Core Merchants"
 		"Dagger" 2
 		"4500X2A Freight B"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
@@ -4446,7 +4446,7 @@ fleet "Large Core Merchants"
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2S Freighter C"
+		"7000X2S Freighter"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
@@ -4464,9 +4464,9 @@ fleet "Large Core Merchants"
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2S Freighter C"
+		"8500X2S Freighter"
 		"Dagger" 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -4537,7 +4537,7 @@ fleet "Large Core Merchants"
 		"Freighter A"
 		"Protector (Laser)"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Hauler"
 		"Wamara"
 	variant 2
@@ -4562,11 +4562,11 @@ fleet "Large Core Merchants"
 	variant 2
 		"Buried Chest A"
 		"Pilfered Keg A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hellscream"
 	variant 2
 		"Buried Chest B"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Deceptive Lover"
 	variant 2
 		"Captain's Hoard"
@@ -4575,13 +4575,13 @@ fleet "Large Core Merchants"
 		"Lifted Purse A"
 	variant 2
 		"Captain's Hoard A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 		"Dirty Cutlass"
 		"Hidden Blade"
 	variant 2
 		"Captain's Hoard B"
 		"Hidden Blade A"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse" 2
@@ -4589,7 +4589,7 @@ fleet "Large Core Merchants"
 		"Pilfered Keg"
 		"Fearless Assassin"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Pilfered Keg B"
 		"Damned Executioner"
 		"Damned Executioner A"
@@ -4608,9 +4608,9 @@ fleet "Large Core Merchants"
 		"Quebracho B"
 		"Wamara"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Balau"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Gidgee A"
 		"Cebil A"
@@ -4618,12 +4618,12 @@ fleet "Large Core Merchants"
 		"Gidgee B"
 		"Camelthorn"
 	variant 1
-		"Gidgee C"
-		"Balau C"
+		"Gidgee"
+		"Balau"
 		"Balau"
 	variant 1
 		"Cebil B"
-		"Cebil C"
+		"Cebil"
 		"Camelthorn"
 		"Balau"
 	variant 1
@@ -4646,7 +4646,7 @@ fleet "Large Core Merchants"
 		"Balau"
 	variant 1
 		"Wamara B"
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"Mule"
 		"X2E Gunship"
@@ -4665,7 +4665,7 @@ fleet "Large Core Merchants"
 		"X2 Gunship B"
 	variant 1
 		"Camelthorn A"
-		"Camelthorn C"
+		"Camelthorn"
 		"Balau"
 		"Balau A"
 	variant 1
@@ -4678,7 +4678,7 @@ fleet "Large Core Merchants"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Dagger" 2
 	variant 1
 		"4500X2 Gunship"
@@ -4687,7 +4687,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"4500X2 Gunship B"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Bastion"
 	variant 1
@@ -4703,7 +4703,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Corvette"
 	variant 1
@@ -4729,7 +4729,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Mule"
 		"Dagger" 
@@ -4757,7 +4757,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Splinter"
 	variant 1
@@ -4773,7 +4773,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Silver Protector B"
 	variant 1
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Bactrian"
 		"Dagger" 3
@@ -4798,7 +4798,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 1
 		"Leviathan"
 	variant 1
@@ -4814,7 +4814,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Lignum B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 	variant 1
 		"Manta"
 	variant 1
@@ -4848,7 +4848,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Trailbreaker B"
 	variant 1
-		"Trailbreaker C"
+		"Trailbreaker"
 	variant 1
 		"Wamara"
 	variant 1
@@ -4856,7 +4856,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"X2 Gunship"
 	variant 1
@@ -4864,7 +4864,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 1
 		"X2E Gunship"
 	variant 1
@@ -4872,7 +4872,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 1
 		"Black Star"
 	variant 1
@@ -4880,13 +4880,13 @@ fleet "Large Core Merchants"
 	variant 1
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 1
 		"Silver Star A"
 	variant 1
 		"Silver Star B"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 1
@@ -4896,7 +4896,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Silver Defender B"
 	variant 1
-		"Silver Defender C"
+		"Silver Defender"
 	variant 1
 		"Damned Executioner"
 	variant 1
@@ -4904,7 +4904,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Damned Executioner B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Stormbolt"
 	variant 1
@@ -4912,7 +4912,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Stormbolt B"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Deceptive Lover"
 	variant 1
@@ -4920,7 +4920,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Deceptive Lover B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
 		"Hellscream"
 	variant 1
@@ -4928,7 +4928,7 @@ fleet "Large Core Merchants"
 	variant 1
 		"Hellscream B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"
 
 fleet "Large Northern Merchants"
 	government "Merchant"
@@ -4942,7 +4942,7 @@ fleet "Large Northern Merchants"
 		"3000X2 Freight"
 		"3500X2 Freight A"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"3000X2 Freight A"
 	variant 2
 		"4500X2A Freight"
@@ -4951,14 +4951,14 @@ fleet "Large Northern Merchants"
 		"4500X2A Freight B"
 		"4500X2 Freight"
 	variant 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"4500X2A Freight A"
 	variant 2
 		"4500X2 Freight B"
 		"3500X2 Freight"
 		"Star Barge"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"Freighter"
 		"Star Barge A" 2
 	variant 2
@@ -4966,13 +4966,13 @@ fleet "Large Northern Merchants"
 		"7000X2S Freighter A"
 	variant 2
 		"7000X2S Freighter A"
-		"4500X2A Freight C"
-		"4500X2A Freight C"
+		"4500X2A Freight"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freighter B"
 		"3000X2 Freight A"
 	variant 2
-		"7000X2S Freighter C"
+		"7000X2S Freighter"
 		"Clipper"
 	variant 2
 		"8500X2S Freighter"
@@ -5010,7 +5010,7 @@ fleet "Large Northern Merchants"
 		"Hauler"
 		"Hauler A"
 		"Hauler B"
-		"Hauler C"
+		"Hauler"
 	variant 2
 		"Hauler II"
 		"Hauler"
@@ -5032,7 +5032,7 @@ fleet "Large Northern Merchants"
 	variant 3
 		"Hauler IV B"
 	variant 3
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 	variant 3
@@ -5040,7 +5040,7 @@ fleet "Large Northern Merchants"
 	variant 3
 		"Hauler VI B"
 	variant 3
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 	variant 3
@@ -5048,35 +5048,35 @@ fleet "Large Northern Merchants"
 	variant 3
 		"Gargoyle B"
 	variant 3
-		"Gargoyle C"
+		"Gargoyle"
 	variant 3
 		"Hauler IV"
 		"Hauler IV A"
 	variant 3
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 3
 		"Hauler VI"
 		"Hauler VI A"
 	variant 3
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 3
 		"Gargoyle"
 		"Gargoyle A"
 	variant 3
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Hauler IV"
 		"Hauler IV A"
 		"Hauler IV B"
-		"Hauler IV C"
+		"Hauler IV"
 	variant 2
 		"Hauler VI"
 		"Hauler VI A"
 		"Hauler VI B"
-		"Hauler VI C"
+		"Hauler VI"
 	variant 1
 		"Hauler VI"
 		"Hauler IV"
@@ -5087,7 +5087,7 @@ fleet "Large Northern Merchants"
 		"Gargoyle"
 		"Gargoyle A"
 		"Gargoyle B"
-		"Gargoyle C"
+		"Gargoyle"
 	variant 2
 		"Star Barge" 2
 		"Star Barge (Armed)" 3
@@ -5101,8 +5101,8 @@ fleet "Large Northern Merchants"
 		"Pilfered Keg"
 		"Captain's Hoard"
 	variant 2
-		"Buried Chest C"
-		"Captain's Hoard C"
+		"Buried Chest"
+		"Captain's Hoard"
 	variant 2
 		"Captain's Hoard"
 		"Captain's Hoard A"
@@ -5113,7 +5113,7 @@ fleet "Large Northern Merchants"
 		"Lifted Purse" 2
 		"Lifted Purse A" 2
 		"Lifted Purse B" 2
-		"Lifted Purse C" 2
+		"Lifted Purse" 2
 	variant 2
 		"Lifted Purse A"
 		"Pilfered Keg A"
@@ -5138,7 +5138,7 @@ fleet "Large Northern Merchants"
 	variant 3
 		"4500X2A Freight B"
 	variant 3
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 3
 		"4500X2 Freight"
 	variant 3
@@ -5146,7 +5146,7 @@ fleet "Large Northern Merchants"
 	variant 3
 		"4500X2 Freight B"
 	variant 3
-		"4500X2 Freight C"
+		"4500X2 Freight"
 	variant 3
 		"7000X2S Freight"
 		"Dagger" 2
@@ -5157,7 +5157,7 @@ fleet "Large Northern Merchants"
 		"7000X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"7000X2S Freight C"
+		"7000X2S Freight"
 		"Dagger" 2
 	variant 3
 		"8500X2S Freight"
@@ -5169,7 +5169,7 @@ fleet "Large Northern Merchants"
 		"8500X2S Freight B"
 		"Dagger" 2
 	variant 3
-		"8500X2S Freight C"
+		"8500X2S Freight"
 		"Dagger" 2
 	variant 3
 		"Behemoth"
@@ -5206,7 +5206,7 @@ fleet "Large Northern Merchants"
 		"Berserker (Afterburner)"
 	variant 3
 		"Arrow A"
-		"Arrow C" 2
+		"Arrow" 2
 		"Quicksilver"
 		"Quicksilver A"
 	variant 3
@@ -5231,7 +5231,7 @@ fleet "Large Northern Merchants"
 		"Headhunter" 2
 	variant 3
 		"Shuttle A" 4
-		"Shuttle C" 4
+		"Shuttle" 4
 		"Sparrow" 2
 		"Sparrow MKII" 2
 	variant 3
@@ -5241,7 +5241,7 @@ fleet "Large Northern Merchants"
 		"Firebird"
 	variant 3
 		"Silver Stream A"
-		"Silver Stream C"
+		"Silver Stream"
 		"Balau"
 		"Balau A"
 	variant 3
@@ -5251,7 +5251,7 @@ fleet "Large Northern Merchants"
 		"Swooping Raven A"
 	variant 3
 		"Star Princess A"
-		"Star Princess C"
+		"Star Princess"
 		"Sparrow" 3
 		"Hawk"
 	variant 3
@@ -5260,7 +5260,7 @@ fleet "Large Northern Merchants"
 		"Leviathan"
 	variant 3
 		"Star Queen A"
-		"Star Queen C"
+		"Star Queen"
 		"Silver Defender"
 		"Silver Escort" 2
 	variant 3
@@ -5269,7 +5269,7 @@ fleet "Large Northern Merchants"
 		"Rum Barrell A"
 	variant 3
 		"Rum Barrell A" 2
-		"Rum Barrell C"
+		"Rum Barrell"
 		"Stormbolt"
 	variant 2
 		"10000X2S Freight"
@@ -5282,7 +5282,7 @@ fleet "Large Northern Merchants"
 		"Silver Escort A"
 	variant 2
 		"10000X2S Freight B"
-		"8500X2S Freight C"
+		"8500X2S Freight"
 		"7000X2S Freight"
 		"X2E Gunship"
 		"Dagger" 8
@@ -5301,12 +5301,12 @@ fleet "Large Northern Merchants"
 		"Quicksilver"
 		"Quicksilver (Mark II)"
 	variant 2
-		"3000X2 Freight C"
+		"3000X2 Freight"
 		"3500X2 Freight B"
 		"4500X2 Freight"
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 2
-		"3500X2 Freight C"
+		"3500X2 Freight"
 		"Leviathan"
 		"Freighter (Fancy)"
 	variant 2
@@ -5315,7 +5315,7 @@ fleet "Large Northern Merchants"
 		"4500X2 Freight"
 	variant 2
 		"4500X2A Freight A"
-		"4500X2A Freight C"
+		"4500X2A Freight"
 	variant 2
 		"7000X2S Freight"
 		"Silver Defender"
@@ -5325,7 +5325,7 @@ fleet "Large Northern Merchants"
 		"Dagger" 2
 		"4500X2A Freight B"
 	variant 2
-		"4500X2 Freight C"
+		"4500X2 Freight"
 		"4500X2 Freight B"
 		"Leviathan"
 	variant 2
@@ -5335,7 +5335,7 @@ fleet "Large Northern Merchants"
 		"Elepaio"
 		"Elepaio"
 	variant 2
-		"7000X2S Freight C"
+		"7000X2S Freight"
 		"Silver Protector"
 		"Dagger" 2
 	variant 2
@@ -5353,9 +5353,9 @@ fleet "Large Northern Merchants"
 		"Splinter"
 		"Quicksilver"
 	variant 2
-		"8500X2S Freight C"
+		"8500X2S Freight"
 		"Dagger" 2
-		"4500X2A Freight C"
+		"4500X2A Freight"
 		"Firebird"
 	variant 2
 		"Argosy"
@@ -5426,7 +5426,7 @@ fleet "Large Northern Merchants"
 		"Freighter A"
 		"Protector (Laser)"
 	variant 2
-		"Hauler C"
+		"Hauler"
 		"Hauler"
 		"Wamara"
 	variant 2
@@ -5451,11 +5451,11 @@ fleet "Large Northern Merchants"
 	variant 2
 		"Buried Chest A"
 		"Pilfered Keg A"
-		"Lifted Purse C"
+		"Lifted Purse"
 		"Hellscream"
 	variant 2
 		"Buried Chest B"
-		"Captain's Hoard C"
+		"Captain's Hoard"
 		"Deceptive Lover"
 	variant 2
 		"Captain's Hoard"
@@ -5464,13 +5464,13 @@ fleet "Large Northern Merchants"
 		"Lifted Purse A"
 	variant 2
 		"Captain's Hoard A"
-		"Pilfered Keg C"
+		"Pilfered Keg"
 		"Dirty Cutlass"
 		"Hidden Blade"
 	variant 2
 		"Captain's Hoard B"
 		"Hidden Blade A"
-		"Fifth Ace C"
+		"Fifth Ace"
 		"Hidden Blade B"
 	variant 2
 		"Lifted Purse" 2
@@ -5478,7 +5478,7 @@ fleet "Large Northern Merchants"
 		"Pilfered Keg"
 		"Fearless Assassin"
 	variant 2
-		"Buried Chest C"
+		"Buried Chest"
 		"Pilfered Keg B"
 		"Damned Executioner"
 		"Damned Executioner A"
@@ -5497,9 +5497,9 @@ fleet "Large Northern Merchants"
 		"Quebracho B"
 		"Wamara"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 		"Balau"
-		"Balau C"
+		"Balau"
 	variant 1
 		"Gidgee A"
 		"Cebil A"
@@ -5507,12 +5507,12 @@ fleet "Large Northern Merchants"
 		"Gidgee B"
 		"Camelthorn"
 	variant 1
-		"Gidgee C"
-		"Balau C"
+		"Gidgee"
+		"Balau"
 		"Balau"
 	variant 1
 		"Cebil B"
-		"Cebil C"
+		"Cebil"
 		"Camelthorn"
 		"Balau"
 	variant 1
@@ -5535,7 +5535,7 @@ fleet "Large Northern Merchants"
 		"Balau"
 	variant 1
 		"Wamara B"
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"Mule"
 		"X2E Gunship"
@@ -5554,7 +5554,7 @@ fleet "Large Northern Merchants"
 		"X2 Gunship B"
 	variant 1
 		"Camelthorn A"
-		"Camelthorn C"
+		"Camelthorn"
 		"Balau"
 		"Balau A"
 	variant 1
@@ -5567,7 +5567,7 @@ fleet "Large Northern Merchants"
 		"Aerie B"
 		"Dagger" 2
 	variant 1
-		"Aerie C"
+		"Aerie"
 		"Dagger" 2
 	variant 1
 		"4500X2 Gunship"
@@ -5576,7 +5576,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"4500X2 Gunship B"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship"
 	variant 1
 		"Bastion"
 	variant 1
@@ -5592,7 +5592,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
+		"Cebil"
 	variant 1
 		"Corvette"
 	variant 1
@@ -5618,7 +5618,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
+		"Gidgee"
 	variant 1
 		"Mule"
 		"Dagger" 
@@ -5646,7 +5646,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Quebracho B"
 	variant 1
-		"Quebracho C"
+		"Quebracho"
 	variant 1
 		"Splinter"
 	variant 1
@@ -5662,7 +5662,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Silver Protector B"
 	variant 1
-		"Silver Protector C"
+		"Silver Protector"
 	variant 1
 		"Bactrian"
 		"Dagger" 3
@@ -5687,7 +5687,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Katalox B"
 	variant 1
-		"Katalox C"
+		"Katalox"
 	variant 1
 		"Leviathan"
 	variant 1
@@ -5703,7 +5703,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Lignum B"
 	variant 1
-		"Lignum C"
+		"Lignum"
 	variant 1
 		"Manta"
 	variant 1
@@ -5737,7 +5737,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Trailbreaker B"
 	variant 1
-		"Trailbreaker C"
+		"Trailbreaker"
 	variant 1
 		"Wamara"
 	variant 1
@@ -5745,7 +5745,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
+		"Wamara"
 	variant 1
 		"X2 Gunship"
 	variant 1
@@ -5753,7 +5753,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
+		"X2 Gunship"
 	variant 1
 		"X2E Gunship"
 	variant 1
@@ -5761,7 +5761,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"X2E Gunship B"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship"
 	variant 1
 		"Black Star"
 	variant 1
@@ -5769,13 +5769,13 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Black Star B"
 	variant 1
-		"Black Star C"
+		"Black Star"
 	variant 1
 		"Silver Star A"
 	variant 1
 		"Silver Star B"
 	variant 1
-		"Silver Star C"
+		"Silver Star"
 	variant 1
 		"Silver Star"
 	variant 1
@@ -5785,7 +5785,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Silver Defender B"
 	variant 1
-		"Silver Defender C"
+		"Silver Defender"
 	variant 1
 		"Damned Executioner"
 	variant 1
@@ -5793,7 +5793,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Damned Executioner B"
 	variant 1
-		"Damned Executioner C"
+		"Damned Executioner"
 	variant 1
 		"Stormbolt"
 	variant 1
@@ -5801,7 +5801,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Stormbolt B"
 	variant 1
-		"Stormbolt C"
+		"Stormbolt"
 	variant 1
 		"Deceptive Lover"
 	variant 1
@@ -5809,7 +5809,7 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Deceptive Lover B"
 	variant 1
-		"Deceptive Lover C"
+		"Deceptive Lover"
 	variant 1
 		"Hellscream"
 	variant 1
@@ -5817,4 +5817,4 @@ fleet "Large Northern Merchants"
 	variant 1
 		"Hellscream B"
 	variant 1
-		"Hellscream C"
+		"Hellscream"

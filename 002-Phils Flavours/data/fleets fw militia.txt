@@ -14,23 +14,17 @@ fleet "Small Free Worlds"
 	variant 1
 		"Wren B"
 	variant 1
-		"Wren C"
-	variant 1
 		"Black Hawk"
 	variant 1
 		"Black Hawk A"
 	variant 1
 		"Black Hawk B"
 	variant 1
-		"Black Hawk C"
-	variant 1
 		"Elepaio"
 	variant 1
 		"Elepaio A"
 	variant 1
 		"Elepaio B"
-	variant 1
-		"Elepaio C"
 	variant 1
 		"Fury"
 	variant 1
@@ -62,15 +56,11 @@ fleet "Small Free Worlds"
 	variant 1
 		"Sparrow MKII B"
 	variant 1
-		"Sparrow MKII C"
-	variant 1
 		"Balau"
 	variant 1
 		"Balau A"
 	variant 1
 		"Balau B"
-	variant 1
-		"Balau C"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -78,15 +68,11 @@ fleet "Small Free Worlds"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
-	variant 1
 		"Junior Osprey"
 	variant 1
 		"Junior Osprey A"
 	variant 1
 		"Junior Osprey B"
-	variant 1
-		"Junior Osprey C"
 	variant 1
 		"Wren"
 		"Sparrow MKII B"
@@ -97,20 +83,20 @@ fleet "Small Free Worlds"
 		"Wren B"
 		"Fury (Gatling)"
 	variant 1
-		"Wren C"
+		"Wren B"
 		"Sparrow (Patrol)"
 	variant 1
 		"Elepaio B"
 		"Fury (Laser)"
 	variant 1
-		"Elepaio C"
+		"Elepaio B"
 		"Sparrow MKII A"
 	variant 1
 		"Fury"
 		"Elepaio A"
 	variant 1
 		"Fury (Missile)"
-		"Sparrow MKII C"
+		"Sparrow MKII B"
 	variant 1
 		"Hawk"
 		"Black Hawk B"
@@ -122,7 +108,7 @@ fleet "Small Free Worlds"
 		"Hawk A"
 	variant 1
 		"Hawk A"
-		"Black Hawk C"
+		"Black Hawk B"
 	variant 1
 		"Sparrow"
 		"Sparrow A"
@@ -174,15 +160,11 @@ fleet "Large Free Worlds"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
-	variant 1
 		"4500X2 Gunship"
 	variant 1
 		"4500X2 Gunship A"
 	variant 1
 		"4500X2 Gunship B"
-	variant 1
-		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 	variant 1
@@ -190,15 +172,11 @@ fleet "Large Free Worlds"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
-	variant 1
 		"Quebracho"
 	variant 1
 		"Quebracho A"
 	variant 1
 		"Quebracho B"
-	variant 1
-		"Quebracho C"
 	variant 1
 		"Wamara"
 	variant 1
@@ -206,23 +184,17 @@ fleet "Large Free Worlds"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
-	variant 1
 		"X2 Gunship"
 	variant 1
 		"X2 Gunship A"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
-	variant 1
 		"X2E Gunship"
 	variant 1
 		"X2E Gunship A"
 	variant 1
 		"X2E Gunship B"
-	variant 1
-		"X2E Gunship C"
 	variant 1
 		"Falcon"
 	variant 1
@@ -249,7 +221,6 @@ fleet "Large Free Worlds"
 		"Junior Osprey"
 	variant 1
 		"Osprey (Laser)"
-		"Elepaio C"
 	variant 1
 		"Osprey (Missile)"
 		"Balau"
@@ -282,9 +253,9 @@ fleet "Large Free Worlds"
 		"Fury"
 		"Fury (Gatling)"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship B"
 		"Black Hawk"
-		"Black Hawk C"
+		"Black Hawk B"
 	variant 1
 		"Gidgee"
 		"Camelthorn A"
@@ -296,7 +267,7 @@ fleet "Large Free Worlds"
 		"Fury"
 		"Sparrow"
 	variant 1
-		"Gidgee C"
+		"Gidgee B"
 		"Hawk"
 	variant 1
 		"Quebracho"
@@ -309,7 +280,7 @@ fleet "Large Free Worlds"
 		"Black Hawk B"
 		"Black Hawk A"
 	variant 1
-		"Quebracho C"
+		"Quebracho B"
 		"Hawk A"
 		"Sparrow"
 	variant 1
@@ -324,11 +295,11 @@ fleet "Large Free Worlds"
 		"X2E Gunship B"
 		"Sparrow A"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship B"
 		"Hawk"
 	variant 1
 		"Falcon"
-		"Sparrow MKII C"
+		"Sparrow MKII B"
 		"Sparrow MKII A"
 	variant 1
 		"Falcon (Heavy)"
@@ -341,17 +312,13 @@ fleet "Large Free Worlds"
 		"Junior Osprey"
 		"Junior Osprey A"
 		"Junior Osprey B"
-		"Junior Osprey C"
 	variant 1
-		"Camelthorn C"
 		"Camelthorn B"
 		"Camelthorn"
 		"Camelthorn A"
 	variant 1
 		"Balau A"
 		"Balau B"
-		"Balau C"
-		"Balau D"
 	variant 1
 		"Wren"
 		"Sparrow MKII"
@@ -366,14 +333,13 @@ fleet "Large Free Worlds"
 		"Sparrow MKII B" 2
 	variant 1
 		"Junior Osprey"
-		"Elepaio C" 2
+		"Elepaio B" 2
 		"Sparrow A" 2
 	variant 1
 		"Wren"
 		"Wren B"
 		"Elepaio"
 		"Wren A"
-		"Wren C"
 	variant 1
 		"Sparrow MKII"
 		"Sparrow"
@@ -381,7 +347,6 @@ fleet "Large Free Worlds"
 		"Sparrow (Gatling)"
 		"Sparrow MKII B"
 		"Sparrow (Patrol)"
-		"Sparrow MKII C"
 		"Sparrow A"
 
 fleet "Small Militia"
@@ -398,23 +363,17 @@ fleet "Small Militia"
 	variant 1
 		"Wren B"
 	variant 1
-		"Wren C"
-	variant 1
 		"Black Hawk"
 	variant 1
 		"Black Hawk A"
 	variant 1
 		"Black Hawk B"
 	variant 1
-		"Black Hawk C"
-	variant 1
 		"Elepaio"
 	variant 1
 		"Elepaio A"
 	variant 1
 		"Elepaio B"
-	variant 1
-		"Elepaio C"
 	variant 1
 		"Fury"
 	variant 1
@@ -446,15 +405,11 @@ fleet "Small Militia"
 	variant 1
 		"Sparrow MKII B"
 	variant 1
-		"Sparrow MKII C"
-	variant 1
 		"Balau"
 	variant 1
 		"Balau A"
 	variant 1
 		"Balau B"
-	variant 1
-		"Balau C"
 	variant 1
 		"Camelthorn"
 	variant 1
@@ -462,15 +417,11 @@ fleet "Small Militia"
 	variant 1
 		"Camelthorn B"
 	variant 1
-		"Camelthorn C"
-	variant 1
 		"Junior Osprey"
 	variant 1
 		"Junior Osprey A"
 	variant 1
 		"Junior Osprey B"
-	variant 1
-		"Junior Osprey C"
 	variant 1
 		"Wren"
 		"Sparrow MKII B"
@@ -481,20 +432,20 @@ fleet "Small Militia"
 		"Wren B"
 		"Fury (Gatling)"
 	variant 1
-		"Wren C"
+		"Wren B"
 		"Sparrow (Patrol)"
 	variant 1
 		"Elepaio B"
 		"Fury (Laser)"
 	variant 1
-		"Elepaio C"
+		"Elepaio B"
 		"Sparrow MKII A"
 	variant 1
 		"Fury"
 		"Elepaio A"
 	variant 1
 		"Fury (Missile)"
-		"Sparrow MKII C"
+		"Sparrow MKII B"
 	variant 1
 		"Hawk"
 		"Black Hawk B"
@@ -506,7 +457,7 @@ fleet "Small Militia"
 		"Hawk A"
 	variant 1
 		"Hawk A"
-		"Black Hawk C"
+		"Black Hawk B"
 	variant 1
 		"Sparrow"
 		"Sparrow A"
@@ -560,15 +511,11 @@ fleet "Large Militia"
 	variant 1
 		"Cebil B"
 	variant 1
-		"Cebil C"
-	variant 1
 		"4500X2 Gunship"
 	variant 1
 		"4500X2 Gunship A"
 	variant 1
 		"4500X2 Gunship B"
-	variant 1
-		"4500X2 Gunship C"
 	variant 1
 		"Gidgee"
 	variant 1
@@ -576,15 +523,11 @@ fleet "Large Militia"
 	variant 1
 		"Gidgee B"
 	variant 1
-		"Gidgee C"
-	variant 1
 		"Quebracho"
 	variant 1
 		"Quebracho A"
 	variant 1
 		"Quebracho B"
-	variant 1
-		"Quebracho C"
 	variant 1
 		"Wamara"
 	variant 1
@@ -592,23 +535,17 @@ fleet "Large Militia"
 	variant 1
 		"Wamara B"
 	variant 1
-		"Wamara C"
-	variant 1
 		"X2 Gunship"
 	variant 1
 		"X2 Gunship A"
 	variant 1
 		"X2 Gunship B"
 	variant 1
-		"X2 Gunship C"
-	variant 1
 		"X2E Gunship"
 	variant 1
 		"X2E Gunship A"
 	variant 1
 		"X2E Gunship B"
-	variant 1
-		"X2E Gunship C"
 	variant 1
 		"Falcon"
 	variant 1
@@ -635,7 +572,6 @@ fleet "Large Militia"
 		"Junior Osprey"
 	variant 1
 		"Osprey (Laser)"
-		"Elepaio C"
 	variant 1
 		"Osprey (Missile)"
 		"Balau"
@@ -668,9 +604,9 @@ fleet "Large Militia"
 		"Fury"
 		"Fury (Gatling)"
 	variant 1
-		"4500X2 Gunship C"
+		"4500X2 Gunship B"
 		"Black Hawk"
-		"Black Hawk C"
+		"Black Hawk B"
 	variant 1
 		"Gidgee"
 		"Camelthorn A"
@@ -682,7 +618,7 @@ fleet "Large Militia"
 		"Fury"
 		"Sparrow"
 	variant 1
-		"Gidgee C"
+		"Gidgee B"
 		"Hawk"
 	variant 1
 		"Quebracho"
@@ -695,7 +631,7 @@ fleet "Large Militia"
 		"Black Hawk B"
 		"Black Hawk A"
 	variant 1
-		"Quebracho C"
+		"Quebracho B"
 		"Hawk A"
 		"Sparrow"
 	variant 1
@@ -710,11 +646,11 @@ fleet "Large Militia"
 		"X2E Gunship B"
 		"Sparrow A"
 	variant 1
-		"X2E Gunship C"
+		"X2E Gunship B"
 		"Hawk"
 	variant 1
 		"Falcon"
-		"Sparrow MKII C"
+		"Sparrow MKII B"
 		"Sparrow MKII A"
 	variant 1
 		"Falcon (Heavy)"
@@ -727,17 +663,13 @@ fleet "Large Militia"
 		"Junior Osprey"
 		"Junior Osprey A"
 		"Junior Osprey B"
-		"Junior Osprey C"
 	variant 1
-		"Camelthorn C"
 		"Camelthorn B"
 		"Camelthorn"
 		"Camelthorn A"
 	variant 1
 		"Balau A"
 		"Balau B"
-		"Balau C"
-		"Balau D"
 	variant 1
 		"Wren"
 		"Sparrow MKII"
@@ -752,14 +684,13 @@ fleet "Large Militia"
 		"Sparrow MKII B" 2
 	variant 1
 		"Junior Osprey"
-		"Elepaio C" 2
+		"Elepaio B" 2
 		"Sparrow A" 2
 	variant 1
 		"Wren"
 		"Wren B"
 		"Elepaio"
 		"Wren A"
-		"Wren C"
 	variant 1
 		"Sparrow MKII"
 		"Sparrow"
@@ -767,5 +698,4 @@ fleet "Large Militia"
 		"Sparrow (Gatling)"
 		"Sparrow MKII B"
 		"Sparrow (Patrol)"
-		"Sparrow MKII C"
 		"Sparrow A"

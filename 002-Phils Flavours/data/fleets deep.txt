@@ -19,8 +19,6 @@ fleet "Small Deep"
 		"Swooping Raven A"
 	variant 2
 		"Swooping Raven B"
-	variant 2
-		"Swooping Raven C"
 	variant 3
 		"Aerie"
 		"Dagger" 2
@@ -31,7 +29,7 @@ fleet "Small Deep"
 		"Aerie B"
 		"Dagger" 2
 	variant 2
-		"Aerie C"
+		"Aerie B"
 		"Dagger" 2
 	variant 3
 		"Headhunter"
@@ -80,7 +78,7 @@ fleet "Small Deep"
 		"Swooping Raven B"
 	variant 1
 		"Swooping Raven A"
-		"Swooping Raven C"
+		"Swooping Raven B"
 	variant 1
 		"Headhunter"
 		"Raven"
@@ -89,7 +87,7 @@ fleet "Small Deep"
 		"Swooping Raven"
 	variant 1
 		"Headhunter (Particle)"
-		"Swooping Raven C"
+		"Swooping Raven B"
 	variant 2
 		"Raven"
 		"Dark Berserker"
@@ -101,7 +99,7 @@ fleet "Small Deep"
 		"Berserker (Afterburner)"
 	variant 2
 		"Swooping Raven A"
-		"Dark Berserker C"
+		"Dark Berserker B"
 	variant 1
 		"Aerie"
 		"Dagger" 2
@@ -120,7 +118,7 @@ fleet "Small Deep"
 		"Berserker (Afterburner)"
 	variant 2
 		"Headhunter A"
-		"Dark Berserker C"
+		"Dark Berserker B"
 	variant 2
 		"Headhunter B"
 		"Berserker (Afterburner)"
@@ -136,7 +134,7 @@ fleet "Small Deep"
 	variant 1
 		"Mule A"
 		"Dagger"
-		"Dark Berserker C"
+		"Dark Berserker B"
 	variant 1
 		"Mule B"
 		"Dagger"
@@ -180,13 +178,11 @@ fleet "Large Deep"
 	variant 3
 		"Swooping Raven A"
 		"Swooping Raven B"
-		"Swooping Raven C"
 	variant 3
 		"Swooping Raven B"
 		"Dark Berserker" 2
-		"Dark Berserker C"
 	variant 3
-		"Swooping Raven C"
+		"Swooping Raven B"
 		"Mule"
 		"Dagger"
 	variant 3
@@ -202,7 +198,7 @@ fleet "Large Deep"
 		"Dagger"
 		"Headhunter A" 2
 	variant 3
-		"Aerie C"
+		"Aerie B"
 		"Dagger" 2
 		"Berserker" 2
 	variant 3
@@ -277,7 +273,7 @@ fleet "Large Deep"
 		"Dark Berserker B"
 		"Berserker" 
 		"Dark Berserker A" 
-		"Dark Berserker C"
+		"Dark Berserker B"
 		"Berserker (Afterburner)"
 
 		

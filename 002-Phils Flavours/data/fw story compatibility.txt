@@ -14,7 +14,7 @@ event "southern carriers compatibility4"
 			"3000X2 Freight"
 			"3500X2 Freight A"
 		variant 2
-			"3500X2 Freight C"
+			"3500X2 Freight"
 			"3000X2 Freight A"
 		variant 2
 			"4500X2A Freight"
@@ -23,14 +23,14 @@ event "southern carriers compatibility4"
 			"4500X2A Freight B"
 			"4500X2 Freight"
 		variant 2
-			"4500X2A Freight C"
+			"4500X2A Freight"
 			"4500X2A Freight A"
 		variant 2
 			"4500X2 Freight B"
 			"3500X2 Freight"
 			"Star Barge"
 		variant 2
-			"4500X2 Freight C"
+			"4500X2 Freight"
 			"Freighter"
 			"Star Barge A" 2
 		variant 2
@@ -38,13 +38,13 @@ event "southern carriers compatibility4"
 			"7000X2S Freight A"
 		variant 2
 			"7000X2S Freight A"
-			"4500X2A Freight C"
-			"4500X2A Freight C"
+			"4500X2A Freight"
+			"4500X2A Freight"
 		variant 2
 			"7000X2S Freight B"
 			"3000X2 Freight A"
 		variant 2
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Clipper"
 		variant 2
 			"8500X2S Freight"
@@ -82,7 +82,7 @@ event "southern carriers compatibility4"
 			"Hauler"
 			"Hauler A"
 			"Hauler B"
-			"Hauler C"
+			"Hauler"
 		variant 2
 			"Hauler II"
 			"Hauler"
@@ -110,8 +110,8 @@ event "southern carriers compatibility4"
 			"Pilfered Keg"
 			"Captain's Hoard"
 		variant 2
-			"Buried Chest C"
-			"Captain's Hoard C"
+			"Buried Chest"
+			"Captain's Hoard"
 		variant 2
 			"Captain's Hoard"
 			"Captain's Hoard A"
@@ -122,7 +122,7 @@ event "southern carriers compatibility4"
 			"Lifted Purse" 2
 			"Lifted Purse A" 2
 			"Lifted Purse B" 2
-			"Lifted Purse C" 2
+			"Lifted Purse" 2
 		variant 2
 			"Lifted Purse A"
 			"Pilfered Keg A"
@@ -147,7 +147,7 @@ event "southern carriers compatibility4"
 		variant 3
 			"4500X2A Freight B"
 		variant 3
-			"4500X2A Freight C"
+			"4500X2A Freight"
 		variant 3
 			"4500X2 Freight"
 		variant 3
@@ -155,7 +155,7 @@ event "southern carriers compatibility4"
 		variant 3
 			"4500X2 Freight B"
 		variant 3
-			"4500X2 Freight C"
+			"4500X2 Freight"
 		variant 3
 			"7000X2S Freight"
 			"Dagger" 2
@@ -166,7 +166,7 @@ event "southern carriers compatibility4"
 			"7000X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Dagger" 2
 		variant 3
 			"8500X2S Freight"
@@ -178,7 +178,7 @@ event "southern carriers compatibility4"
 			"8500X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"Dagger" 2
 		variant 3
 			"Behemoth"
@@ -215,7 +215,7 @@ event "southern carriers compatibility4"
 			"Berserker (Afterburner)"
 		variant 3
 			"Arrow A"
-			"Arrow C" 2
+			"Arrow" 2
 			"Quicksilver"
 			"Quicksilver A"
 		variant 3
@@ -240,7 +240,7 @@ event "southern carriers compatibility4"
 			"Headhunter" 2
 		variant 3
 			"Shuttle A" 4
-			"Shuttle C" 4
+			"Shuttle" 4
 			"Sparrow" 2
 			"Sparrow MKII" 2
 		variant 3
@@ -250,7 +250,7 @@ event "southern carriers compatibility4"
 			"Firebird"
 		variant 3
 			"Silver Stream A"
-			"Silver Stream C"
+			"Silver Stream"
 			"Balau"
 			"Balau A"
 		variant 3
@@ -260,7 +260,7 @@ event "southern carriers compatibility4"
 			"Swooping Raven A"
 		variant 3
 			"Star Princess A"
-			"Star Princess C"
+			"Star Princess"
 			"Sparrow" 3
 			"Hawk"
 		variant 3
@@ -269,7 +269,7 @@ event "southern carriers compatibility4"
 			"Leviathan"
 		variant 3
 			"Star Queen A"
-			"Star Queen C"
+			"Star Queen"
 			"Silver Defender"
 			"Silver Escort" 2
 		variant 3
@@ -278,7 +278,7 @@ event "southern carriers compatibility4"
 			"Rum Barrell A"
 		variant 3
 			"Rum Barrell A" 2
-			"Rum Barrell C"
+			"Rum Barrell"
 			"Stormbolt"
 		variant 2
 			"10000X2S Freight"
@@ -291,7 +291,7 @@ event "southern carriers compatibility4"
 			"Silver Escort A"
 		variant 2
 			"10000X2S Freight B"
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"7000X2S Freight"
 			"X2E Gunship"
 			"Dagger" 8
@@ -309,12 +309,12 @@ event "southern carriers compatibility4"
 			"3500X2 Freight A"
 			"Quicksilver" 2
 		variant 2
-			"3000X2 Freight C"
+			"3000X2 Freight"
 			"3500X2 Freight B"
 			"4500X2 Freight"
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 2
-			"3500X2 Freight C"
+			"3500X2 Freight"
 			"Leviathan"
 			"Freighter (Fancy)"
 		variant 2
@@ -323,7 +323,7 @@ event "southern carriers compatibility4"
 			"4500X2 Freight"
 		variant 2
 			"4500X2A Freight A"
-			"4500X2A Freight C"
+			"4500X2A Freight"
 		variant 2
 			"7000X2S Freight"
 			"Silver Defender"
@@ -333,7 +333,7 @@ event "southern carriers compatibility4"
 			"Dagger" 2
 			"4500X2A Freight B"
 		variant 2
-			"4500X2 Freight C"
+			"4500X2 Freight"
 			"4500X2 Freight B"
 			"Leviathan"
 		variant 2
@@ -343,7 +343,7 @@ event "southern carriers compatibility4"
 			"Elepaio"
 			"Elepaio"
 		variant 2
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Silver Protector"
 			"Dagger" 2
 		variant 2
@@ -361,9 +361,9 @@ event "southern carriers compatibility4"
 			"Splinter"
 			"Quicksilver"
 		variant 2
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"Dagger" 2
-			"4500X2A Freight C"
+			"4500X2A Freight"
 			"Firebird"
 		variant 2
 			"Argosy"
@@ -434,7 +434,7 @@ event "southern carriers compatibility4"
 			"Freighter A"
 			"Protector (Laser)"
 		variant 2
-			"Hauler C"
+			"Hauler"
 			"Hauler"
 			"Wamara"
 		variant 2
@@ -459,11 +459,11 @@ event "southern carriers compatibility4"
 		variant 2
 			"Buried Chest A"
 			"Pilfered Keg A"
-			"Lifted Purse C"
+			"Lifted Purse"
 			"Hellscream"
 		variant 2
 			"Buried Chest B"
-			"Captain's Hoard C"
+			"Captain's Hoard"
 			"Deceptive Lover"
 		variant 2
 			"Captain's Hoard"
@@ -472,13 +472,13 @@ event "southern carriers compatibility4"
 			"Lifted Purse A"
 		variant 2
 			"Captain's Hoard A"
-			"Pilfered Keg C"
+			"Pilfered Keg"
 			"Dirty Cutlass"
 			"Hidden Blade"
 		variant 2
 			"Captain's Hoard B"
 			"Hidden Blade A"
-			"Fifth Ace C"
+			"Fifth Ace"
 			"Hidden Blade B"
 		variant 2
 			"Lifted Purse" 2
@@ -486,7 +486,7 @@ event "southern carriers compatibility4"
 			"Pilfered Keg"
 			"Fearless Assassin"
 		variant 2
-			"Buried Chest C"
+			"Buried Chest"
 			"Pilfered Keg B"
 			"Damned Executioner"
 			"Damned Executioner A"
@@ -505,9 +505,9 @@ event "southern carriers compatibility4"
 			"Quebracho B"
 			"Wamara"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Balau"
-			"Balau C"
+			"Balau"
 		variant 1
 			"Gidgee A"
 			"Cebil A"
@@ -515,12 +515,12 @@ event "southern carriers compatibility4"
 			"Gidgee B"
 			"Camelthorn"
 		variant 1
-			"Gidgee C"
-			"Balau C"
+			"Gidgee"
+			"Balau"
 			"Balau"
 		variant 1
 			"Cebil B"
-			"Cebil C"
+			"Cebil"
 			"Camelthorn"
 			"Balau"
 		variant 1
@@ -543,7 +543,7 @@ event "southern carriers compatibility4"
 			"Balau"
 		variant 1
 			"Wamara B"
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"Mule"
 			"X2E Gunship"
@@ -562,7 +562,7 @@ event "southern carriers compatibility4"
 			"X2 Gunship B"
 		variant 1
 			"Camelthorn A"
-			"Camelthorn C"
+			"Camelthorn"
 			"Balau"
 			"Balau A"
 		variant 1
@@ -575,7 +575,7 @@ event "southern carriers compatibility4"
 			"Aerie B"
 			"Dagger" 2
 		variant 1
-			"Aerie C"
+			"Aerie"
 			"Dagger" 2
 		variant 1
 			"4500X2 Gunship"
@@ -584,7 +584,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"4500X2 Gunship B"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 1
 			"Bastion"
 		variant 1
@@ -600,7 +600,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Cebil B"
 		variant 1
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"Corvette"
 		variant 1
@@ -626,7 +626,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Mule"
 			"Dagger" 
@@ -654,7 +654,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Splinter"
 		variant 1
@@ -668,7 +668,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Protector B"
 		variant 1
-			"Silver Protector C"
+			"Silver Protector"
 		variant 1
 			"Bactrian"
 			"Dagger" 3
@@ -693,7 +693,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Katalox B"
 		variant 1
-			"Katalox C"
+			"Katalox"
 		variant 1
 			"Leviathan"
 		variant 1
@@ -709,7 +709,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Lignum B"
 		variant 1
-			"Lignum C"
+			"Lignum"
 		variant 1
 			"Manta"
 		variant 1
@@ -741,7 +741,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Trailbreaker B"
 		variant 1
-			"Trailbreaker C"
+			"Trailbreaker"
 		variant 1
 			"Wamara"
 		variant 1
@@ -749,7 +749,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"X2 Gunship"
 		variant 1
@@ -757,7 +757,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2 Gunship B"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 1
 			"X2E Gunship"
 		variant 1
@@ -765,7 +765,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 1
 			"Black Star"
 		variant 1
@@ -773,13 +773,13 @@ event "southern carriers compatibility4"
 		variant 1
 			"Black Star B"
 		variant 1
-			"Black Star C"
+			"Black Star"
 		variant 1
 			"Silver Star A"
 		variant 1
 			"Silver Star B"
 		variant 1
-			"Silver Star C"
+			"Silver Star"
 		variant 1
 			"Silver Star"
 		variant 1
@@ -789,7 +789,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Defender B"
 		variant 1
-			"Silver Defender C"
+			"Silver Defender"
 		variant 1
 			"Damned Executioner"
 		variant 1
@@ -797,7 +797,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Damned Executioner B"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 		variant 1
 			"Stormbolt"
 		variant 1
@@ -805,7 +805,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Stormbolt B"
 		variant 1
-			"Stormbolt C"
+			"Stormbolt"
 		variant 1
 			"Deceptive Lover"
 		variant 1
@@ -813,7 +813,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Deceptive Lover B"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 		variant 1
 			"Hellscream"
 		variant 1
@@ -821,7 +821,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Hellscream B"
 		variant 1
-			"Hellscream C"
+			"Hellscream"
 		variant 2
 			"Hauler III"
 			"Hauler II"
@@ -851,7 +851,7 @@ event "southern carriers compatibility4"
 		variant 3
 			"Hauler IV B"
 		variant 3
-			"Hauler IV C"
+			"Hauler IV"
 		variant 3
 			"Hauler VI"
 		variant 3
@@ -859,7 +859,7 @@ event "southern carriers compatibility4"
 		variant 3
 			"Hauler VI B"
 		variant 3
-			"Hauler VI C"
+			"Hauler VI"
 		variant 3
 			"Gargoyle"
 		variant 3
@@ -867,35 +867,35 @@ event "southern carriers compatibility4"
 		variant 3
 			"Gargoyle B"
 		variant 3
-			"Gargoyle C"
+			"Gargoyle"
 		variant 3
 			"Hauler IV"
 			"Hauler IV A"
 		variant 3
 			"Hauler IV B"
-			"Hauler IV C"
+			"Hauler IV"
 		variant 3
 			"Hauler VI"
 			"Hauler VI A"
 		variant 3
 			"Hauler VI B"
-			"Hauler VI C"
+			"Hauler VI"
 		variant 3
 			"Gargoyle"
 			"Gargoyle A"
 		variant 3
 			"Gargoyle B"
-			"Gargoyle C"
+			"Gargoyle"
 		variant 2
 			"Hauler IV"
 			"Hauler IV A"
 			"Hauler IV B"
-			"Hauler IV C"
+			"Hauler IV"
 		variant 2
 			"Hauler VI"
 			"Hauler VI A"
 			"Hauler VI B"
-			"Hauler VI C"
+			"Hauler VI"
 		variant 1
 			"Hauler VI"
 			"Hauler IV"
@@ -906,7 +906,7 @@ event "southern carriers compatibility4"
 			"Gargoyle"
 			"Gargoyle A"
 			"Gargoyle B"
-			"Gargoyle C"
+			"Gargoyle"
 	fleet "Large Southern Pirates"
 		government "Pirate"
 		names "pirate"
@@ -928,7 +928,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Katalox B"
 		variant 1
-			"Katalox C"
+			"Katalox"
 		variant 2
 			"Lignum"
 		variant 1
@@ -936,7 +936,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Lignum B"
 		variant 2
-			"Lignum C"
+			"Lignum"
 		variant 3
 			"Wamara"
 		variant 2
@@ -944,7 +944,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 3
 			"X2 Gunship"
 		variant 2
@@ -952,7 +952,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2 Gunship B"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 3
 			"X2E Gunship"
 		variant 2
@@ -960,7 +960,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 3
 			"Black Star"
 		variant 1
@@ -968,13 +968,13 @@ event "southern carriers compatibility4"
 		variant 1
 			"Black Star B"
 		variant 1
-			"Black Star C"
+			"Black Star"
 		variant 3
 			"Silver Star A"
 		variant 2
 			"Silver Star B"
 		variant 1
-			"Silver Star C"
+			"Silver Star"
 		variant 1
 			"Silver Star"
 		variant 3
@@ -984,7 +984,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"Silver Defender B"
 		variant 2
-			"Silver Defender C"
+			"Silver Defender"
 		variant 3
 			"4500X2 Gunship"
 		variant 2
@@ -992,7 +992,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"4500X2 Gunship B"
 		variant 2
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 3
 			"Bastion"
 		variant 2
@@ -1008,7 +1008,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"Cebil B"
 		variant 2
-			"Cebil C"
+			"Cebil"
 		variant 3
 			"Gidgee"
 		variant 1
@@ -1016,7 +1016,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 3
 			"Osprey"
 		variant 2
@@ -1032,7 +1032,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 2
 			"Silver Protector"
 		variant 1
@@ -1040,7 +1040,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Protector B"
 		variant 1
-			"Silver Protector C"
+			"Silver Protector"
 		variant 3
 			"Damned Executioner"
 		variant 2
@@ -1048,7 +1048,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Damned Executioner B"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 		variant 3
 			"Stormbolt"
 		variant 2
@@ -1056,7 +1056,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Stormbolt B"
 		variant 1
-			"Stormbolt C"
+			"Stormbolt"
 		variant 3
 			"Deceptive Lover"
 		variant 2
@@ -1064,7 +1064,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Deceptive Lover B"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 		variant 3
 			"Hellscream"
 		variant 2
@@ -1072,7 +1072,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"Hellscream B"
 		variant 2
-			"Hellscream C"
+			"Hellscream"
 		variant 1
 			"Deceitful Hangman"
 			"Fearless Assassin"
@@ -1083,14 +1083,14 @@ event "southern carriers compatibility4"
 			"Deceitful Hangman B"
 			"Fearless Assassin B"
 		variant 1
-			"Deceitful Hangman C"
-			"Fearless Assassin C"
+			"Deceitful Hangman"
+			"Fearless Assassin"
 		variant 3
 			"Junior Osprey"
 			"Junior Osprey B"
 		variant 2
 			"Junior Osprey A"
-			"Junior Osprey C"
+			"Junior Osprey"
 		variant 1
 			"Silver Escort"
 			"Silver Escort B"
@@ -1124,25 +1124,25 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Dirty Cutlass B"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 			"Fearless Assassin A"
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Stormbolt"
 			"Deceitful Hangman B"
 			"Fifth Ace"
 		variant 1
 			"Stormbolt A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fifth Ace A"
 		variant 1
 			"Stormbolt B"
 			"Fearless Assassin B"
 			"Fifth Ace B"
 		variant 1
-			"Stormbolt C"
-			"Fearless Assassin C"
-			"Fifth Ace C"
+			"Stormbolt"
+			"Fearless Assassin"
+			"Fifth Ace"
 		variant 1
 			"Deceptive Lover"
 			"Deceitful Hangman"
@@ -1156,24 +1156,24 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Hidden Blade B"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Fearless Assassin A"
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Hellscream"
 			"Deceitful Hangman B"
 			"Fifth Ace B"
 		variant 1
 			"Hellscream A"
-			"Deceitful Hangman C"
-			"Fifth Ace C"
+			"Deceitful Hangman"
+			"Fifth Ace"
 		variant 1
 			"Hellscream B"
 			"Fearless Assassin B"
 			"Hidden Blade"
 		variant 1
-			"Hellscream C"
-			"Fearless Assassin C"
+			"Hellscream"
+			"Fearless Assassin"
 			"Hidden Blade A"
 		variant 1
 			"Damned Executioner"
@@ -1188,24 +1188,24 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Fearless Assassin A"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 			"Fearless Assassin A"
 			"Deceitful Hangman B"
 		variant 1
 			"Stormbolt"
 			"Deceitful Hangman B"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Stormbolt A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fearless Assassin B"
 		variant 1
 			"Stormbolt B"
 			"Fearless Assassin B"
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
-			"Stormbolt C"
-			"Fearless Assassin C"
+			"Stormbolt"
+			"Fearless Assassin"
 			"Deceitful Hangman"
 		variant 1
 			"Deceptive Lover"
@@ -1220,37 +1220,37 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Fearless Assassin A"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Fearless Assassin A"
 			"Deceitful Hangman B"
 		variant 1
 			"Hellscream"
 			"Deceitful Hangman B"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Hellscream A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fearless Assassin B"
 		variant 1
 			"Hellscream B"
 			"Fearless Assassin B"
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
-			"Hellscream C"
-			"Fearless Assassin C"
+			"Hellscream"
+			"Fearless Assassin"
 			"Deceitful Hangman"
 		variant 1
 			"Damned Executioner"
-			"Damned Executioner C"
+			"Damned Executioner"
 		variant 1
 			"Damned Executioner A"
-			"Stormbolt C"
+			"Stormbolt"
 		variant 1
 			"Damned Executioner B"
-			"Deceptive Lover C"
+			"Deceptive Lover"
 		variant 1
-			"Damned Executioner C"
-			"Hellscream C"
+			"Damned Executioner"
+			"Hellscream"
 		variant 1
 			"Stormbolt"
 			"Damned Executioner"
@@ -1261,7 +1261,7 @@ event "southern carriers compatibility4"
 			"Stormbolt B"
 			"Deceptive Lover"
 		variant 1
-			"Stormbolt C"
+			"Stormbolt"
 			"Hellscream"
 		variant 1
 			"Deceptive Lover"
@@ -1273,7 +1273,7 @@ event "southern carriers compatibility4"
 			"Deceptive Lover B"
 			"Deceptive Lover A"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Hellscream A"
 		variant 1
 			"Hellscream"
@@ -1285,7 +1285,7 @@ event "southern carriers compatibility4"
 			"Hellscream B"
 			"Deceptive Lover B"
 		variant 1
-			"Hellscream C"
+			"Hellscream"
 			"Hellscream B"
 		variant 1
 			"Silver Defender"
@@ -1298,11 +1298,11 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Defender B"
 			"Silver Escort B" 
-			"Silver Escort C"
+			"Silver Escort"
 		variant 1
-			"Silver Defender C"
-			"Silver Protector C"
-			"Silver Escort C"
+			"Silver Defender"
+			"Silver Protector"
+			"Silver Escort"
 		variant 1
 			"Silver Protector"
 			"Silver Escort"
@@ -1314,14 +1314,14 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Protector B"
 			"Silver Escort B"
-			"Silver Escort C"
+			"Silver Escort"
 		variant 1
-			"Black Star C"
-			"Silver Escort C"
+			"Black Star"
+			"Silver Escort"
 			"Silver Escort"
 		variant 1
 			"Silver Protector A"
-			"Silver Protector C"
+			"Silver Protector"
 			"Silver Escort"
 			"Silver Escort A"
 		variant 1
@@ -1330,7 +1330,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Black Star B"
 			"Silver Protector B"
-			"Silver Escort C"
+			"Silver Escort"
 		variant 2
 			"Black Star"
 			"Black Star A"
@@ -1342,11 +1342,11 @@ event "southern carriers compatibility4"
 			"Silver Escort A"
 			"Silver Escort B"
 		variant 1
-			"Silver Star C"
-			"Silver Escort C"
+			"Silver Star"
+			"Silver Escort"
 		variant 1
 			"Silver Star"
-			"Silver Protector C"
+			"Silver Protector"
 		variant 1
 			"Gidgee"
 			"Camelthorn"
@@ -1357,31 +1357,31 @@ event "southern carriers compatibility4"
 			"Gidgee B"
 			"Balau"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Balau A"
 		variant 1
 			"Cebil"
 			"Balau B"
 		variant 1
 			"Cebil A"
-			"Balau C"
+			"Balau"
 		variant 1
 			"Cebil B"
 			"Camelthorn"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Camelthorn A"
 		variant 1
 			"Quebracho"
 			"Camelthorn B"
 		variant 1
 			"Quebracho A"
-			"Camelthorn C"
+			"Camelthorn"
 		variant 1
 			"Quebracho B"
 			"Balau"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Balau A"
 		variant 1
 			"Gidgee"
@@ -1396,7 +1396,7 @@ event "southern carriers compatibility4"
 			"Balau"
 			"Camelthorn A"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Balau A"
 			"Balau"
 		variant 1
@@ -1405,14 +1405,14 @@ event "southern carriers compatibility4"
 			"Balau A"
 		variant 1
 			"Cebil A"
-			"Balau C"
+			"Balau"
 			"Balau B"
 		variant 1
 			"Cebil B"
 			"Camelthorn"
-			"Balau C"
+			"Balau"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Camelthorn A"
 			"Camelthorn"
 		variant 1
@@ -1421,14 +1421,14 @@ event "southern carriers compatibility4"
 			"Camelthorn A"
 		variant 1
 			"Quebracho A"
-			"Camelthorn C"
+			"Camelthorn"
 			"Camelthorn B"
 		variant 1
 			"Quebracho B"
 			"Balau"
-			"Camelthorn C"
+			"Camelthorn"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Balau A"
 			"Balau"
 		variant 1
@@ -1436,42 +1436,42 @@ event "southern carriers compatibility4"
 			"4500X2 Gunship B"
 		variant 1
 			"4500X2 Gunship A"
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 1
 			"Gidgee"
 			"Quebracho B"
 		variant 1
 			"Gidgee A"
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Gidgee B"
 			"Gidgee"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Gidgee A"
 		variant 1
 			"Cebil"
 			"Gidgee B"
 		variant 1
 			"Cebil A"
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Cebil B"
 			"Cebil"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Cebil A"
 		variant 1
 			"Quebracho"
 			"Cebil B"
 		variant 1
 			"Quebracho A"
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"Quebracho B"
 			"Quebracho"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Quebracho A"
 		variant 2
 			"Junior Osprey"
@@ -1483,8 +1483,8 @@ event "southern carriers compatibility4"
 			"Junior Osprey B"
 			"Elepaio B" 2
 		variant 1
-			"Junior Osprey C"
-			"Elepaio C" 2
+			"Junior Osprey"
+			"Elepaio" 2
 		variant 1
 			"Silver Escort"
 			"Black Hawk"
@@ -1495,8 +1495,8 @@ event "southern carriers compatibility4"
 			"Silver Escort B"
 			"Black Hawk B"
 		variant 1
-			"Silver Escort C"
-			"Black Hawk C" 2
+			"Silver Escort"
+			"Black Hawk" 2
 		variant 2
 			"Clipper" 2
 			"Sparrow MKII"
@@ -1508,7 +1508,7 @@ event "southern carriers compatibility4"
 			"Sparrow MKII B" 2
 		variant 1
 			"Clipper (Speedy)"
-			"Sparrow MKII C" 2
+			"Sparrow MKII" 2
 		variant 1
 			"Modified Argosy" 2
 			"Sparrow"
@@ -1549,9 +1549,9 @@ event "southern carriers compatibility4"
 			"Dirty Cutlass B"
 			"Hidden Blade B"
 		variant 1
-			"Deceitful Hangman C"
-			"Dirty Cutlass C"
-			"Hidden Blade C"
+			"Deceitful Hangman"
+			"Dirty Cutlass"
+			"Hidden Blade"
 		variant 1
 			"Fearless Assassin"
 			"Fifth Ace"
@@ -1559,14 +1559,14 @@ event "southern carriers compatibility4"
 		variant 1
 			"Fearless Assassin A"
 			"Fifth Ace A"
-			"Fifth Ace C"
+			"Fifth Ace"
 		variant 1
 			"Fearless Assassin B"
 			"Fifth Ace B"
 			"Fifth Ace"
 		variant 1
-			"Fearless Assassin C"
-			"Fifth Ace C"
+			"Fearless Assassin"
+			"Fifth Ace"
 			"Fifth Ace A"
 		variant 1
 			"Balau"
@@ -1581,9 +1581,9 @@ event "southern carriers compatibility4"
 			"Wren B"
 			"Elepaio B"
 		variant 1
-			"Balau C"
-			"Wren C"
-			"Elepaio C"
+			"Balau"
+			"Wren"
+			"Elepaio"
 		variant 1
 			"Camelthorn"
 			"Fury"
@@ -1597,9 +1597,9 @@ event "southern carriers compatibility4"
 			"Fury (Laser)"
 			"Wren B"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 			"Fury (Missile)"
-			"Wren C"
+			"Wren"
 		variant 2
 			"Junior Osprey" 2
 			"Elepaio"
@@ -1613,9 +1613,9 @@ event "southern carriers compatibility4"
 			"Elepaio B"
 			"Sparrow MKII B"
 		variant 1
-			"Junior Osprey C"
-			"Elepaio C"
-			"Sparrow MKII C"
+			"Junior Osprey"
+			"Elepaio"
+			"Sparrow MKII"
 		variant 1
 			"Silver Escort"
 			"Black Hawk"
@@ -1629,8 +1629,8 @@ event "southern carriers compatibility4"
 			"Black Hawk B"
 			"Hawk (Speedy)"
 		variant 1
-			"Silver Escort C"
-			"Black Hawk C"
+			"Silver Escort"
+			"Black Hawk"
 			"Hawk A"
 		variant 2
 			"Clipper"
@@ -1646,7 +1646,7 @@ event "southern carriers compatibility4"
 			"Sparrow (Patrol)"
 		variant 1
 			"Clipper (Speedy)"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow A"
 		variant 1
 			"Modified Argosy"
@@ -1679,7 +1679,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Argosy (Missile)"
 			"Hawk A"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Argosy (Turret)"
 			"Hawk"
@@ -1697,9 +1697,9 @@ event "southern carriers compatibility4"
 			"Hidden Blade B"
 			"Fifth Ace B"
 		variant 1
-			"Dirty Cutlass C"
-			"Hidden Blade C" 2
-			"Fifth Ace C"
+			"Dirty Cutlass"
+			"Hidden Blade" 2
+			"Fifth Ace"
 		variant 1
 			"Wren"
 			"Elepaio"
@@ -1707,14 +1707,14 @@ event "southern carriers compatibility4"
 		variant 1
 			"Wren A"
 			"Elepaio A" 2
-			"Wren C"
+			"Wren"
 		variant 1
 			"Wren B"
 			"Elepaio B"
 			"Elepaio"
 		variant 1
-			"Wren C" 2
-			"Elepaio C"
+			"Wren" 2
+			"Elepaio"
 			"Elepaio A"
 		variant 1
 			"Black Hawk"
@@ -1729,7 +1729,7 @@ event "southern carriers compatibility4"
 			"Hawk (Speedy)"
 			"Black Hawk"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 			"Hawk A"
 			"Black Hawk A"
 		variant 1
@@ -1745,19 +1745,19 @@ event "southern carriers compatibility4"
 			"Sparrow (Patrol)" 2
 			"Fury (Laser)"
 		variant 1
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow A" 2
 			"Fury (Missile)"
 		variant 2
 			"Bastion"
-			"Elepaio C"
-			"Sparrow MKII C"
+			"Elepaio"
+			"Sparrow MKII"
 		variant 1
 			"Bastion (Heavy)"
 			"Hawk" 2
 		variant 1
 			"Bastion (Laser)"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow A" 
 		variant 1
 			"Bastion A"
@@ -1801,7 +1801,7 @@ event "southern carriers compatibility4"
 			"Wamara B"
 			"Black Hawk"
 		variant 1
-			"Wamara C"
+			"Wamara"
 			"Wren" 2
 		variant 1
 			"X2 Gunship"
@@ -1814,7 +1814,7 @@ event "southern carriers compatibility4"
 			"X2 Gunship B"
 			"Fury"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 			"Wren"
 			"Wren B"
 		variant 1
@@ -1827,7 +1827,7 @@ event "southern carriers compatibility4"
 			"X2E Gunship B"
 			"Sparrow" 2
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 			"Wren B"
 			"Elepaio"
 		variant 3
@@ -1851,7 +1851,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Balau B"
 		variant 1
-			"Balau C"
+			"Balau"
 		variant 1
 			"Camelthorn"
 		variant 1
@@ -1859,7 +1859,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Camelthorn B"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 		variant 2
 			"Headhunter"
 		variant 2
@@ -1883,7 +1883,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Swooping Raven B"
 		variant 1
-			"Swooping Raven C"
+			"Swooping Raven"
 		variant 1
 			"Silver Escort"
 		variant 1
@@ -1891,7 +1891,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Escort B"
 		variant 1
-			"Silver Escort C"
+			"Silver Escort"
 		variant 3
 			"Berserker"
 		variant 2
@@ -1903,7 +1903,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Black Hawk B"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 		variant 2
 			"Dark Berserker"
 		variant 1
@@ -1911,7 +1911,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Dark Berserker B"
 		variant 1
-			"Dark Berserker C"
+			"Dark Berserker"
 		variant 1
 			"Elepaio"
 		variant 1
@@ -1919,7 +1919,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Elepaio B"
 		variant 1
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Fury"
 		variant 1
@@ -1951,7 +1951,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Sparrow MKII B"
 		variant 1
-			"Sparrow MKII C"
+			"Sparrow MKII"
 		variant 1
 			"Wasp"
 		variant 1
@@ -1963,7 +1963,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Wren B"
 		variant 1
-			"Wren C"
+			"Wren"
 		variant 1
 			"Dirty Cutlass"
 		variant 1
@@ -1971,7 +1971,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Dirty Cutlass B"
 		variant 1
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Fifth Ace"
 		variant 1
@@ -1979,7 +1979,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Fifth Ace B"
 		variant 1
-			"Fifth Ace C"
+			"Fifth Ace"
 		variant 1
 			"Hidden Blade"
 		variant 1
@@ -1987,7 +1987,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Hidden Blade B"
 		variant 1
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Deceitful Hangman"
 		variant 1
@@ -1995,7 +1995,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Deceitful Hangman B"
 		variant 1
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Fearless Assassin"
 		variant 1
@@ -2003,7 +2003,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Fearless Assassin B"
 		variant 1
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
 			"Deceitful Hangman"
 			"Dirty Cutlass"
@@ -2014,7 +2014,7 @@ event "southern carriers compatibility4"
 			"Deceitful Hangman B"
 			"Hidden Blade"
 		variant 1
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Dirty Cutlass A"
 		variant 1
 			"Fearless Assassin"
@@ -2026,43 +2026,43 @@ event "southern carriers compatibility4"
 			"Fearless Assassin B"
 			"Dirty Cutlass B"
 		variant 1
-			"Fearless Assassin C"
+			"Fearless Assassin"
 			"Fifth Ace B"
 		variant 1
 			"Dirty Cutlass"
 			"Hidden Blade B"
 		variant 1
 			"Dirty Cutlass A"
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Dirty Cutlass B"
 			"Dirty Cutlass"
 		variant 1
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 			"Dirty Cutlass A"
 		variant 1
 			"Fifth Ace"
 			"Dirty Cutlass B"
 		variant 1
 			"Fifth Ace A"
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Fifth Ace B"
 			"Fifth Ace"
 		variant 1
-			"Fifth Ace C"
+			"Fifth Ace"
 			"Fifth Ace A"
 		variant 1
 			"Hidden Blade"
 			"Fifth Ace B"
 		variant 1
 			"Hidden Blade A"
-			"Fifth Ace C"
+			"Fifth Ace"
 		variant 1
 			"Hidden Blade B"
 			"Hidden Blade"
 		variant 1
-			"Hidden Blade C"
+			"Hidden Blade"
 			"Hidden Blade A"
 		variant 1
 			"Balau"
@@ -2074,7 +2074,7 @@ event "southern carriers compatibility4"
 			"Balau B"
 			"Dark Berserker"
 		variant 1
-			"Balau C"
+			"Balau"
 			"Elepaio"
 		variant 1
 			"Camelthorn"
@@ -2086,7 +2086,7 @@ event "southern carriers compatibility4"
 			"Camelthorn B"
 			"Sparrow"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 			"Sparrow MKII"
 		variant 1
 			"Headhunter"
@@ -2120,9 +2120,9 @@ event "southern carriers compatibility4"
 			"Elepaio A"
 		variant 1
 			"Swooping Raven B"
-			"Dark Berserker C"
+			"Dark Berserker"
 		variant 1
-			"Swooping Raven C"
+			"Swooping Raven"
 			"Sparrow MKII A"
 		variant 1
 			"Silver Escort"
@@ -2134,14 +2134,14 @@ event "southern carriers compatibility4"
 			"Silver Escort B"
 			"Dark Berserker B"
 		variant 1
-			"Silver Escort C"
-			"Black Hawk C"
+			"Silver Escort"
+			"Black Hawk"
 		variant 3
 			"Berserker"
 			"Dark Berserker B"
 		variant 1
 			"Black Hawk"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Dark Berserker"
 			"Berserker"
@@ -2191,14 +2191,14 @@ event "southern carriers compatibility4"
 			"Elepaio A"
 			"Hawk (Rocket)"
 		variant 1
-			"Dark Berserker C"
+			"Dark Berserker"
 			"Fury (Gatling)"
 		variant 1
 			"Sparrow MKII A"
 			"Elepaio A"
 		variant 1
 			"Wren A"
-			"Dark Berserker C"
+			"Dark Berserker"
 		variant 1
 			"Sparrow (Patrol)"
 			"Sparrow MKII A"
@@ -2206,7 +2206,7 @@ event "southern carriers compatibility4"
 			"Dark Berserker B"
 			"Wren A"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 			"Sparrow (Patrol)"
 		variant 1
 			"Nest"
@@ -2233,25 +2233,25 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Dirty Cutlass B"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 			"Fearless Assassin A"
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Stormbolt"
 			"Deceitful Hangman B"
 			"Fifth Ace"
 		variant 1
 			"Stormbolt A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fifth Ace A"
 		variant 1
 			"Stormbolt B"
 			"Fearless Assassin B"
 			"Fifth Ace B"
 		variant 1
-			"Stormbolt C"
-			"Fearless Assassin C"
-			"Fifth Ace C"
+			"Stormbolt"
+			"Fearless Assassin"
+			"Fifth Ace"
 		variant 1
 			"Deceptive Lover"
 			"Deceitful Hangman"
@@ -2265,24 +2265,24 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Hidden Blade B"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Fearless Assassin A"
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Hellscream"
 			"Deceitful Hangman B"
 			"Fifth Ace B"
 		variant 1
 			"Hellscream A"
-			"Deceitful Hangman C"
-			"Fifth Ace C"
+			"Deceitful Hangman"
+			"Fifth Ace"
 		variant 1
 			"Hellscream B"
 			"Fearless Assassin B"
 			"Hidden Blade"
 		variant 1
-			"Hellscream C"
-			"Fearless Assassin C"
+			"Hellscream"
+			"Fearless Assassin"
 			"Hidden Blade A"
 		variant 1
 			"Damned Executioner"
@@ -2297,24 +2297,24 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Fearless Assassin A"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 			"Fearless Assassin A"
 			"Deceitful Hangman B"
 		variant 1
 			"Stormbolt"
 			"Deceitful Hangman B"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Stormbolt A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fearless Assassin B"
 		variant 1
 			"Stormbolt B"
 			"Fearless Assassin B"
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
-			"Stormbolt C"
-			"Fearless Assassin C"
+			"Stormbolt"
+			"Fearless Assassin"
 			"Deceitful Hangman"
 		variant 1
 			"Deceptive Lover"
@@ -2329,37 +2329,37 @@ event "southern carriers compatibility4"
 			"Fearless Assassin"
 			"Fearless Assassin A"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Fearless Assassin A"
 			"Deceitful Hangman B"
 		variant 1
 			"Hellscream"
 			"Deceitful Hangman B"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Hellscream A"
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 			"Fearless Assassin B"
 		variant 1
 			"Hellscream B"
 			"Fearless Assassin B"
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
-			"Hellscream C"
-			"Fearless Assassin C"
+			"Hellscream"
+			"Fearless Assassin"
 			"Deceitful Hangman"
 		variant 1
 			"Damned Executioner"
-			"Damned Executioner C"
+			"Damned Executioner"
 		variant 1
 			"Damned Executioner A"
-			"Stormbolt C"
+			"Stormbolt"
 		variant 1
 			"Damned Executioner B"
-			"Deceptive Lover C"
+			"Deceptive Lover"
 		variant 1
-			"Damned Executioner C"
-			"Hellscream C"
+			"Damned Executioner"
+			"Hellscream"
 		variant 1
 			"Stormbolt"
 			"Damned Executioner"
@@ -2370,7 +2370,7 @@ event "southern carriers compatibility4"
 			"Stormbolt B"
 			"Deceptive Lover"
 		variant 1
-			"Stormbolt C"
+			"Stormbolt"
 			"Hellscream"
 		variant 1
 			"Deceptive Lover"
@@ -2382,7 +2382,7 @@ event "southern carriers compatibility4"
 			"Deceptive Lover B"
 			"Deceptive Lover A"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 			"Hellscream A"
 		variant 1
 			"Hellscream"
@@ -2394,7 +2394,7 @@ event "southern carriers compatibility4"
 			"Hellscream B"
 			"Deceptive Lover B"
 		variant 1
-			"Hellscream C"
+			"Hellscream"
 			"Hellscream B"
 		variant 1
 			"Silver Defender"
@@ -2407,11 +2407,11 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Defender B"
 			"Silver Escort B" 
-			"Silver Escort C"
+			"Silver Escort"
 		variant 1
-			"Silver Defender C"
-			"Silver Protector C"
-			"Silver Escort C"
+			"Silver Defender"
+			"Silver Protector"
+			"Silver Escort"
 		variant 1
 			"Silver Protector"
 			"Silver Escort"
@@ -2423,7 +2423,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Protector B"
 			"Silver Escort B"
-			"Silver Escort C"
+			"Silver Escort"
 		variant 1
 			"Black Star A"
 			"Silver Escort A"
@@ -2432,23 +2432,23 @@ event "southern carriers compatibility4"
 			"Silver Protector"
 			"Silver Protector B"
 			"Silver Escort B"
-			"Silver Escort C"
+			"Silver Escort"
 		variant 1
 			"Silver Protector"
-			"Silver Protector C"
+			"Silver Protector"
 		variant 1
 			"Black Star B"
 			"Silver Protector B"
 			"Silver Escort"
 		variant 1
-			"Black Star C"
+			"Black Star"
 			"Black Star A"
 		variant 1
 			"Silver Star A"
 			"Black Star A"
 		variant 1
-			"Silver Star C"
-			"Silver Escort C"
+			"Silver Star"
+			"Silver Escort"
 			"Silver Escort B"
 		variant 1
 			"Silver Star A"
@@ -2472,7 +2472,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Katalox B"
 		variant 1
-			"Katalox C"
+			"Katalox"
 		variant 2
 			"Leviathan"
 		variant 1
@@ -2488,7 +2488,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Lignum B"
 		variant 1
-			"Lignum C"
+			"Lignum"
 		variant 2
 			"Wamara"
 		variant 2
@@ -2496,7 +2496,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 2
 			"X2 Gunship"
 		variant 1
@@ -2504,7 +2504,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2 Gunship B"
 		variant 2
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 2
 			"X2E Gunship"
 		variant 1
@@ -2512,7 +2512,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 2
 			"Black Star"
 		variant 2
@@ -2520,13 +2520,13 @@ event "southern carriers compatibility4"
 		variant 1
 			"Black Star B"
 		variant 1
-			"Black Star C"
+			"Black Star"
 		variant 2
 			"Silver Star A"
 		variant 1
 			"Silver Star B"
 		variant 2
-			"Silver Star C"
+			"Silver Star"
 		variant 1
 			"Silver Star"
 		variant 1
@@ -2536,7 +2536,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Silver Defender B"
 		variant 1
-			"Silver Defender C"
+			"Silver Defender"
 		variant 2
 			"Aerie"
 			"Dagger" 2
@@ -2547,7 +2547,7 @@ event "southern carriers compatibility4"
 			"Aerie B"
 			"Dagger" 2
 		variant 1
-			"Aerie C"
+			"Aerie"
 			"Dagger" 2
 		variant 2
 			"4500X2 Gunship"
@@ -2556,7 +2556,7 @@ event "southern carriers compatibility4"
 		variant 2
 			"4500X2 Gunship B"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 2
 			"Cebil"
 		variant 1
@@ -2564,7 +2564,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Cebil B"
 		variant 1
-			"Cebil C"
+			"Cebil"
 		variant 3
 			"Corvette"
 		variant 2
@@ -2590,7 +2590,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 2
 			"Mule"
 			"Dagger"
@@ -2610,7 +2610,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Aerie"
 			"Balau"
@@ -2624,7 +2624,7 @@ event "southern carriers compatibility4"
 			"Headhunter"
 			"Dagger" 2
 		variant 2
-			"Aerie C"
+			"Aerie"
 			"Raven"
 			"Dagger" 2
 		variant 1
@@ -2633,12 +2633,12 @@ event "southern carriers compatibility4"
 		variant 1
 			"4500X2 Gunship A"
 			"Dark Berserker B"
-			"Dark Berserker C"
+			"Dark Berserker"
 		variant 1
 			"4500X2 Gunship B"
 			"Balau A"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 			"Camelthorn A"
 		variant 1
 			"Cebil"
@@ -2650,7 +2650,7 @@ event "southern carriers compatibility4"
 			"Cebil B"
 			"Swooping Raven A"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Dark Berserker"
 			"Dark Berserker A"
 		variant 2
@@ -2674,10 +2674,10 @@ event "southern carriers compatibility4"
 			"Berserker (Afterburner)"
 		variant 2
 			"Firebird (Missile)"
-			"Balau C"
+			"Balau"
 		variant 2
 			"Firebird (Plasma)"
-			"Camelthorn C"
+			"Camelthorn"
 		variant 2
 			"Firebird A"
 			"Headhunter B"
@@ -2686,12 +2686,12 @@ event "southern carriers compatibility4"
 			"Raven A"
 		variant 1
 			"Gidgee A"
-			"Swooping Raven C"
+			"Swooping Raven"
 		variant 1
 			"Gidgee B"
 			"Balau"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Camelthorn"
 		variant 1
 			"Mule"
@@ -2708,7 +2708,7 @@ event "southern carriers compatibility4"
 		variant 1
 			"Mule B"
 			"Dark Berserker B"
-			"Dark Berserker C"
+			"Dark Berserker"
 			"Dagger"
 		variant 1
 			"Quebracho"
@@ -2720,7 +2720,7 @@ event "southern carriers compatibility4"
 			"Quebracho B"
 			"Headhunter (Particle)"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Raven (Afterburner)"
 		variant 1
 			"Aerie"
@@ -2735,7 +2735,7 @@ event "southern carriers compatibility4"
 			"4500X2 Gunship"
 			"Dagger" 2
 		variant 1
-			"Aerie C"
+			"Aerie"
 			"Cebil"
 			"Dagger" 2
 		variant 1
@@ -2749,11 +2749,11 @@ event "southern carriers compatibility4"
 			"Mule B"
 			"Dagger"
 		variant 1
-			"4500X2 Gunship C"
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
+			"4500X2 Gunship"
 		variant 1
 			"Cebil"
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"Cebil A"
 			"Gidgee A"
@@ -2761,7 +2761,7 @@ event "southern carriers compatibility4"
 			"Cebil B"
 			"Quebracho"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Mule"
 			"Dagger"
 		variant 1
@@ -2773,7 +2773,7 @@ event "southern carriers compatibility4"
 			"Dagger" 2
 		variant 1
 			"Corvette (Speedy)"
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Corvette A"
 			"4500X2 Gunship B"
@@ -2798,12 +2798,12 @@ event "southern carriers compatibility4"
 			"Gidgee B"
 		variant 1
 			"Gidgee A"
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Gidgee B"
 			"Cebil A"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Firebird A"
 		variant 1
 			"Mule"
@@ -2819,7 +2819,7 @@ event "southern carriers compatibility4"
 			"Dagger"
 		variant 1
 			"Mule B"
-			"Aerie C"
+			"Aerie"
 			"Dagger" 3
 		variant 1
 			"Quebracho"
@@ -2832,7 +2832,7 @@ event "southern carriers compatibility4"
 			"Aerie B"
 			"Dagger" 2
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Gidgee"
 		variant 1
 			"Bactrian"
@@ -2856,7 +2856,7 @@ event "southern carriers compatibility4"
 			"Katalox B"
 			"Dark Berserker B"
 		variant 1
-			"Katalox C"
+			"Katalox"
 			"Balau A"
 		variant 1
 			"Leviathan"
@@ -2880,7 +2880,7 @@ event "southern carriers compatibility4"
 			"Lignum B"
 			"Camelthorn B"
 		variant 1
-			"Lignum C"
+			"Lignum"
 			"Headhunter A"
 		variant 1
 			"Wamara"
@@ -2892,11 +2892,11 @@ event "southern carriers compatibility4"
 			"Wamara B"
 			"Berserker"
 		variant 1
-			"Wamara C"
-			"Balau C"
+			"Wamara"
+			"Balau"
 		variant 1
 			"X2 Gunship"
-			"Camelthorn C"
+			"Camelthorn"
 		variant 1
 			"X2 Gunship A"
 			"Headhunter B"
@@ -2904,8 +2904,8 @@ event "southern carriers compatibility4"
 			"X2 Gunship B"
 			"Raven A"
 		variant 1
-			"X2 Gunship C"
-			"Swooping Raven C"
+			"X2 Gunship"
+			"Swooping Raven"
 		variant 1
 			"X2E Gunship"
 			"Balau"
@@ -2916,7 +2916,7 @@ event "southern carriers compatibility4"
 			"X2E Gunship B"
 			"Headhunter"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 			"Raven"
 		variant 1
 			"Black Star"
@@ -2934,7 +2934,7 @@ event "southern carriers compatibility4"
 			"Silver Star B"
 			"Headhunter (Particle)"
 		variant 1
-			"Silver Star C"
+			"Silver Star"
 			"Raven (Afterburner)"
 		variant 3
 			"Roost"
@@ -2985,7 +2985,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Cebil B"
 		variant 1
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"4500X2 Gunship"
 		variant 1
@@ -2993,7 +2993,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"4500X2 Gunship B"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 1
 			"Gidgee"
 		variant 1
@@ -3001,7 +3001,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Quebracho"
 		variant 1
@@ -3009,7 +3009,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Wamara"
 		variant 1
@@ -3017,7 +3017,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"X2 Gunship"
 		variant 1
@@ -3025,7 +3025,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"X2 Gunship B"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 1
 			"X2E Gunship"
 		variant 1
@@ -3033,7 +3033,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 1
 			"Falcon"
 		variant 1
@@ -3060,7 +3060,7 @@ event "southern carriers compatibility3"
 			"Junior Osprey"
 		variant 1
 			"Osprey (Laser)"
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Osprey (Missile)"
 			"Balau"
@@ -3079,7 +3079,7 @@ event "southern carriers compatibility3"
 			"Cebil B"
 			"Elepaio A"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Sparrow MKII B"
 			"Wren A"
 		variant 1
@@ -3093,9 +3093,9 @@ event "southern carriers compatibility3"
 			"Fury"
 			"Fury (Gatling)"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 			"Black Hawk"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Gidgee"
 			"Camelthorn A"
@@ -3107,7 +3107,7 @@ event "southern carriers compatibility3"
 			"Fury"
 			"Sparrow"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Hawk"
 		variant 1
 			"Quebracho"
@@ -3120,7 +3120,7 @@ event "southern carriers compatibility3"
 			"Black Hawk B"
 			"Black Hawk A"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Hawk A"
 			"Sparrow"
 		variant 1
@@ -3128,18 +3128,18 @@ event "southern carriers compatibility3"
 			"Sparrow A"
 			"Sparrow MKII"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 			"Black Hawk B"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"X2E Gunship B"
 			"Sparrow A"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 			"Hawk"
 		variant 1
 			"Falcon"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow MKII A"
 		variant 1
 			"Falcon (Heavy)"
@@ -3152,17 +3152,17 @@ event "southern carriers compatibility3"
 			"Junior Osprey"
 			"Junior Osprey A"
 			"Junior Osprey B"
-			"Junior Osprey C"
+			"Junior Osprey"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 			"Camelthorn B"
 			"Camelthorn"
 			"Camelthorn A"
 		variant 1
 			"Balau A"
 			"Balau B"
-			"Balau C"
-			"Balau D"
+			"Balau"
+			"Balau"
 		variant 1
 			"Wren"
 			"Sparrow MKII"
@@ -3177,14 +3177,14 @@ event "southern carriers compatibility3"
 			"Sparrow MKII B" 2
 		variant 1
 			"Junior Osprey"
-			"Elepaio C" 2
+			"Elepaio" 2
 			"Sparrow A" 2
 		variant 1
 			"Wren"
 			"Wren B"
 			"Elepaio"
 			"Wren A"
-			"Wren C"
+			"Wren"
 		variant 1
 			"Sparrow MKII"
 			"Sparrow"
@@ -3192,7 +3192,7 @@ event "southern carriers compatibility3"
 			"Sparrow (Gatling)"
 			"Sparrow MKII B"
 			"Sparrow (Patrol)"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow A"
 		variant 2
 			"Roost"
@@ -3216,7 +3216,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Black Hawk B"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Elepaio"
 		variant 1
@@ -3224,7 +3224,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Elepaio B"
 		variant 1
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Fury"
 		variant 1
@@ -3256,7 +3256,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Sparrow MKII B"
 		variant 1
-			"Sparrow MKII C"
+			"Sparrow MKII"
 		variant 1
 			"Wren"
 		variant 1
@@ -3264,7 +3264,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Wren B"
 		variant 1
-			"Wren C"
+			"Wren"
 		variant 1
 			"Dirty Cutlass"
 		variant 1
@@ -3272,7 +3272,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Dirty Cutlass B"
 		variant 1
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Fifth Ace"
 		variant 1
@@ -3280,7 +3280,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Fifth Ace B"
 		variant 1
-			"Fifth Ace C"
+			"Fifth Ace"
 		variant 1
 			"Hidden Blade"
 		variant 1
@@ -3288,7 +3288,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Hidden Blade B"
 		variant 1
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Deceitful Hangman"
 		variant 1
@@ -3296,7 +3296,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Deceitful Hangman B"
 		variant 1
-			"Deceitful Hangman C"
+			"Deceitful Hangman"
 		variant 1
 			"Fearless Assassin"
 		variant 1
@@ -3304,7 +3304,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Fearless Assassin B"
 		variant 1
-			"Fearless Assassin C"
+			"Fearless Assassin"
 		variant 1
 			"Balau"
 		variant 1
@@ -3312,7 +3312,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Balau B"
 		variant 1
-			"Balau C"
+			"Balau"
 		variant 1
 			"Camelthorn"
 		variant 1
@@ -3320,7 +3320,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Camelthorn B"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 		variant 2
 			"Junior Osprey"
 		variant 1
@@ -3328,7 +3328,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Junior Osprey B"
 		variant 1
-			"Junior Osprey C"
+			"Junior Osprey"
 		variant 1
 			"Silver Escort"
 		variant 1
@@ -3336,7 +3336,7 @@ event "southern carriers compatibility3"
 		variant 1
 			"Silver Escort B"
 		variant 1
-			"Silver Escort C"
+			"Silver Escort"
 		variant 2
 			"Clipper"
 		variant 1
@@ -3353,7 +3353,7 @@ event "southern carriers compatibility3"
 			"Modified Argosy (Missile)"
 		variant 1
 			"Black Hawk"
-			"Wren C"
+			"Wren"
 		variant 2
 			"Black Hawk A"
 			"Black Hawk"
@@ -3361,11 +3361,11 @@ event "southern carriers compatibility3"
 			"Black Hawk B"
 			"Black Hawk A"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 			"Black Hawk B"
 		variant 1
 			"Elepaio"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 2
 			"Elepaio A"
 			"Elepaio"
@@ -3373,11 +3373,11 @@ event "southern carriers compatibility3"
 			"Elepaio B"
 			"Elepaio A"
 		variant 1
-			"Elepaio C"
+			"Elepaio"
 			"Elepaio B"
 		variant 1
 			"Fury"
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Fury (Gatling)"
 			"Fury"
@@ -3421,11 +3421,11 @@ event "southern carriers compatibility3"
 			"Sparrow MKII B"
 			"Sparrow MKII A"
 		variant 1
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow MKII B"
 		variant 1
 			"Wren"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 		variant 2
 			"Wren A"
 			"Wren"
@@ -3433,11 +3433,11 @@ event "southern carriers compatibility3"
 			"Wren B"
 			"Wren A"
 		variant 1
-			"Wren C"
+			"Wren"
 			"Wren B"
 		variant 1
 			"Dirty Cutlass"
-			"Hidden Blade C"
+			"Hidden Blade"
 		variant 1
 			"Dirty Cutlass A"
 			"Dirty Cutlass"
@@ -3445,11 +3445,11 @@ event "southern carriers compatibility3"
 			"Dirty Cutlass B"
 			"Dirty Cutlass A"
 		variant 1
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 			"Dirty Cutlass B"
 		variant 1
 			"Fifth Ace"
-			"Dirty Cutlass C"
+			"Dirty Cutlass"
 		variant 1
 			"Fifth Ace A"
 			"Fifth Ace"
@@ -3457,11 +3457,11 @@ event "southern carriers compatibility3"
 			"Fifth Ace B"
 			"Fifth Ace A"
 		variant 1
-			"Fifth Ace C"
+			"Fifth Ace"
 			"Fifth Ace B"
 		variant 1
 			"Hidden Blade"
-			"Fifth Ace C"
+			"Fifth Ace"
 		variant 1
 			"Hidden Blade A"
 			"Hidden Blade"
@@ -3469,7 +3469,7 @@ event "southern carriers compatibility3"
 			"Hidden Blade B"
 			"Hidden Blade A"
 		variant 1
-			"Hidden Blade C"
+			"Hidden Blade"
 			"Hidden Blade B"
 		variant 1
 			"Hawk"
@@ -3494,13 +3494,13 @@ event "southern carriers compatibility3"
 		variant 1
 			"Black Hawk A"
 			"Black Hawk B"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Black Hawk B"
-			"Black Hawk C"
+			"Black Hawk"
 			"Hawk"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 			"Hawk"
 			"Hawk (Rocket)"
 		variant 1
@@ -3574,45 +3574,45 @@ event "southern carriers compatibility3"
 		variant 1
 			"Dirty Cutlass A"
 			"Dirty Cutlass B"
-			"Dirty Cutlass C"
-		variant 1
-			"Dirty Cutlass B"
-			"Dirty Cutlass C"
-			"Fifth Ace"
-		variant 1
-			"Dirty Cutlass C"
-			"Fifth Ace"
-			"Fifth Ace A"
-		variant 1
-			"Fifth Ace"
-			"Fifth Ace A"
-			"Fifth Ace B"
-		variant 1
-			"Fifth Ace A"
-			"Fifth Ace B"
-			"Fifth Ace C"
-		variant 1
-			"Fifth Ace B"
-			"Fifth Ace C"
-			"Hidden Blade"
-		variant 1
-			"Fifth Ace C"
-			"Hidden Blade"
-			"Hidden Blade A"
-		variant 1
-			"Hidden Blade"
-			"Hidden Blade A"
-			"Hidden Blade B"
-		variant 1
-			"Hidden Blade A"
-			"Hidden Blade B"
-			"Hidden Blade C"
-		variant 1
-			"Hidden Blade B"
-			"Hidden Blade C"
 			"Dirty Cutlass"
 		variant 1
-			"Hidden Blade C"
+			"Dirty Cutlass B"
+			"Dirty Cutlass"
+			"Fifth Ace"
+		variant 1
+			"Dirty Cutlass"
+			"Fifth Ace"
+			"Fifth Ace A"
+		variant 1
+			"Fifth Ace"
+			"Fifth Ace A"
+			"Fifth Ace B"
+		variant 1
+			"Fifth Ace A"
+			"Fifth Ace B"
+			"Fifth Ace"
+		variant 1
+			"Fifth Ace B"
+			"Fifth Ace"
+			"Hidden Blade"
+		variant 1
+			"Fifth Ace"
+			"Hidden Blade"
+			"Hidden Blade A"
+		variant 1
+			"Hidden Blade"
+			"Hidden Blade A"
+			"Hidden Blade B"
+		variant 1
+			"Hidden Blade A"
+			"Hidden Blade B"
+			"Hidden Blade"
+		variant 1
+			"Hidden Blade B"
+			"Hidden Blade"
+			"Dirty Cutlass"
+		variant 1
+			"Hidden Blade"
 			"Dirty Cutlass"
 			"Dirty Cutlass A"
 		variant 2
@@ -3638,7 +3638,7 @@ event "southern carriers compatibility2"
 			"3000X2 Freight"
 			"3500X2 Freight A"
 		variant 2
-			"3500X2 Freight C"
+			"3500X2 Freight"
 			"3000X2 Freight A"
 		variant 2
 			"4500X2A Freight"
@@ -3647,14 +3647,14 @@ event "southern carriers compatibility2"
 			"4500X2A Freight B"
 			"4500X2 Freight"
 		variant 2
-			"4500X2A Freight C"
+			"4500X2A Freight"
 			"4500X2A Freight A"
 		variant 2
 			"4500X2 Freight B"
 			"3500X2 Freight"
 			"Star Barge"
 		variant 2
-			"4500X2 Freight C"
+			"4500X2 Freight"
 			"Freighter"
 			"Star Barge A" 2
 		variant 2
@@ -3662,13 +3662,13 @@ event "southern carriers compatibility2"
 			"7000X2S Freight A"
 		variant 2
 			"7000X2S Freight A"
-			"4500X2A Freight C"
-			"4500X2A Freight C"
+			"4500X2A Freight"
+			"4500X2A Freight"
 		variant 2
 			"7000X2S Freight B"
 			"3000X2 Freight A"
 		variant 2
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Clipper"
 		variant 2
 			"8500X2S Freight"
@@ -3705,7 +3705,7 @@ event "southern carriers compatibility2"
 			"Hauler"
 			"Hauler A"
 			"Hauler B"
-			"Hauler C"
+			"Hauler"
 		variant 2
 			"Hauler II"
 			"Hauler"
@@ -3733,8 +3733,8 @@ event "southern carriers compatibility2"
 			"Pilfered Keg"
 			"Captain's Hoard"
 		variant 2
-			"Buried Chest C"
-			"Captain's Hoard C"
+			"Buried Chest"
+			"Captain's Hoard"
 		variant 2
 			"Captain's Hoard"
 			"Captain's Hoard A"
@@ -3745,7 +3745,7 @@ event "southern carriers compatibility2"
 			"Lifted Purse" 2
 			"Lifted Purse A" 2
 			"Lifted Purse B" 2
-			"Lifted Purse C" 2
+			"Lifted Purse" 2
 		variant 2
 			"Lifted Purse A"
 			"Pilfered Keg A"
@@ -3770,7 +3770,7 @@ event "southern carriers compatibility2"
 		variant 3
 			"4500X2A Freight B"
 		variant 3
-			"4500X2A Freight C"
+			"4500X2A Freight"
 		variant 3
 			"4500X2 Freight"
 		variant 3
@@ -3778,7 +3778,7 @@ event "southern carriers compatibility2"
 		variant 3
 			"4500X2 Freight B"
 		variant 3
-			"4500X2 Freight C"
+			"4500X2 Freight"
 		variant 3
 			"7000X2S Freight"
 			"Dagger" 2
@@ -3789,7 +3789,7 @@ event "southern carriers compatibility2"
 			"7000X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Dagger" 2
 		variant 3
 			"8500X2S Freight"
@@ -3801,7 +3801,7 @@ event "southern carriers compatibility2"
 			"8500X2S Freight B"
 			"Dagger" 2
 		variant 3
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"Dagger" 2
 		variant 3
 			"Behemoth"
@@ -3838,7 +3838,7 @@ event "southern carriers compatibility2"
 			"Berserker (Afterburner)"
 		variant 3
 			"Arrow A"
-			"Arrow C" 2
+			"Arrow" 2
 			"Quicksilver"
 			"Quicksilver A"
 		variant 3
@@ -3863,7 +3863,7 @@ event "southern carriers compatibility2"
 			"Headhunter" 2
 		variant 3
 			"Shuttle A" 4
-			"Shuttle C" 4
+			"Shuttle" 4
 			"Sparrow" 2
 			"Sparrow MKII" 2
 		variant 3
@@ -3873,7 +3873,7 @@ event "southern carriers compatibility2"
 			"Firebird"
 		variant 3
 			"Silver Stream A"
-			"Silver Stream C"
+			"Silver Stream"
 			"Balau"
 			"Balau A"
 		variant 3
@@ -3883,7 +3883,7 @@ event "southern carriers compatibility2"
 			"Swooping Raven A"
 		variant 3
 			"Star Princess A"
-			"Star Princess C"
+			"Star Princess"
 			"Sparrow" 3
 			"Hawk"
 		variant 3
@@ -3892,7 +3892,7 @@ event "southern carriers compatibility2"
 			"Leviathan"
 		variant 3
 			"Star Queen A"
-			"Star Queen C"
+			"Star Queen"
 			"Silver Defender"
 			"Silver Escort" 2
 		variant 3
@@ -3901,7 +3901,7 @@ event "southern carriers compatibility2"
 			"Rum Barrell A"
 		variant 3
 			"Rum Barrell A" 2
-			"Rum Barrell C"
+			"Rum Barrell"
 			"Stormbolt"
 		variant 2
 			"10000X2S Freight"
@@ -3914,7 +3914,7 @@ event "southern carriers compatibility2"
 			"Silver Escort A"
 		variant 2
 			"10000X2S Freight B"
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"7000X2S Freight"
 			"X2E Gunship"
 			"Dagger" 8
@@ -3932,12 +3932,12 @@ event "southern carriers compatibility2"
 			"3500X2 Freight A"
 			"Quicksilver" 2
 		variant 2
-			"3000X2 Freight C"
+			"3000X2 Freight"
 			"3500X2 Freight B"
 			"4500X2 Freight"
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 2
-			"3500X2 Freight C"
+			"3500X2 Freight"
 			"Leviathan"
 			"Freighter (Fancy)"
 		variant 2
@@ -3946,7 +3946,7 @@ event "southern carriers compatibility2"
 			"4500X2 Freight"
 		variant 2
 			"4500X2A Freight A"
-			"4500X2A Freight C"
+			"4500X2A Freight"
 		variant 2
 			"7000X2S Freight"
 			"Silver Defender"
@@ -3956,7 +3956,7 @@ event "southern carriers compatibility2"
 			"Dagger" 2
 			"4500X2A Freight B"
 		variant 2
-			"4500X2 Freight C"
+			"4500X2 Freight"
 			"4500X2 Freight B"
 			"Leviathan"
 		variant 2
@@ -3966,7 +3966,7 @@ event "southern carriers compatibility2"
 			"Elepaio"
 			"Elepaio"
 		variant 2
-			"7000X2S Freight C"
+			"7000X2S Freight"
 			"Silver Protector"
 			"Dagger" 2
 		variant 2
@@ -3984,9 +3984,9 @@ event "southern carriers compatibility2"
 			"Splinter"
 			"Quicksilver"
 		variant 2
-			"8500X2S Freight C"
+			"8500X2S Freight"
 			"Dagger" 2
-			"4500X2A Freight C"
+			"4500X2A Freight"
 			"Firebird"
 		variant 2
 			"Argosy"
@@ -4057,7 +4057,7 @@ event "southern carriers compatibility2"
 			"Freighter A"
 			"Protector (Laser)"
 		variant 2
-			"Hauler C"
+			"Hauler"
 			"Hauler"
 			"Wamara"
 		variant 2
@@ -4082,11 +4082,11 @@ event "southern carriers compatibility2"
 		variant 2
 			"Buried Chest A"
 			"Pilfered Keg A"
-			"Lifted Purse C"
+			"Lifted Purse"
 			"Hellscream"
 		variant 2
 			"Buried Chest B"
-			"Captain's Hoard C"
+			"Captain's Hoard"
 			"Deceptive Lover"
 		variant 2
 			"Captain's Hoard"
@@ -4095,13 +4095,13 @@ event "southern carriers compatibility2"
 			"Lifted Purse A"
 		variant 2
 			"Captain's Hoard A"
-			"Pilfered Keg C"
+			"Pilfered Keg"
 			"Dirty Cutlass"
 			"Hidden Blade"
 		variant 2
 			"Captain's Hoard B"
 			"Hidden Blade A"
-			"Fifth Ace C"
+			"Fifth Ace"
 			"Hidden Blade B"
 		variant 2
 			"Lifted Purse" 2
@@ -4109,7 +4109,7 @@ event "southern carriers compatibility2"
 			"Pilfered Keg"
 			"Fearless Assassin"
 		variant 2
-			"Buried Chest C"
+			"Buried Chest"
 			"Pilfered Keg B"
 			"Damned Executioner"
 			"Damned Executioner A"
@@ -4128,9 +4128,9 @@ event "southern carriers compatibility2"
 			"Quebracho B"
 			"Wamara"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Balau"
-			"Balau C"
+			"Balau"
 		variant 1
 			"Gidgee A"
 			"Cebil A"
@@ -4138,12 +4138,12 @@ event "southern carriers compatibility2"
 			"Gidgee B"
 			"Camelthorn"
 		variant 1
-			"Gidgee C"
-			"Balau C"
+			"Gidgee"
+			"Balau"
 			"Balau"
 		variant 1
 			"Cebil B"
-			"Cebil C"
+			"Cebil"
 			"Camelthorn"
 			"Balau"
 		variant 1
@@ -4166,7 +4166,7 @@ event "southern carriers compatibility2"
 			"Balau"
 		variant 1
 			"Wamara B"
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"Mule"
 			"X2E Gunship"
@@ -4185,7 +4185,7 @@ event "southern carriers compatibility2"
 			"X2 Gunship B"
 		variant 1
 			"Camelthorn A"
-			"Camelthorn C"
+			"Camelthorn"
 			"Balau"
 			"Balau A"
 		variant 1
@@ -4198,7 +4198,7 @@ event "southern carriers compatibility2"
 			"Aerie B"
 			"Dagger" 2
 		variant 1
-			"Aerie C"
+			"Aerie"
 			"Dagger" 2
 		variant 1
 			"4500X2 Gunship"
@@ -4207,7 +4207,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"4500X2 Gunship B"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 1
 			"Bastion"
 		variant 1
@@ -4223,7 +4223,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Cebil B"
 		variant 1
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"Corvette"
 		variant 1
@@ -4249,7 +4249,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Mule"
 			"Dagger" 
@@ -4277,7 +4277,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Splinter"
 		variant 1
@@ -4291,7 +4291,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Silver Protector B"
 		variant 1
-			"Silver Protector C"
+			"Silver Protector"
 		variant 1
 			"Bactrian"
 			"Dagger" 3
@@ -4316,7 +4316,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Katalox B"
 		variant 1
-			"Katalox C"
+			"Katalox"
 		variant 1
 			"Leviathan"
 		variant 1
@@ -4332,7 +4332,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Lignum B"
 		variant 1
-			"Lignum C"
+			"Lignum"
 		variant 1
 			"Manta"
 		variant 1
@@ -4364,7 +4364,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Trailbreaker B"
 		variant 1
-			"Trailbreaker C"
+			"Trailbreaker"
 		variant 1
 			"Wamara"
 		variant 1
@@ -4372,7 +4372,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"X2 Gunship"
 		variant 1
@@ -4380,7 +4380,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"X2 Gunship B"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 1
 			"X2E Gunship"
 		variant 1
@@ -4388,7 +4388,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 1
 			"Black Star"
 		variant 1
@@ -4396,13 +4396,13 @@ event "southern carriers compatibility2"
 		variant 1
 			"Black Star B"
 		variant 1
-			"Black Star C"
+			"Black Star"
 		variant 1
 			"Silver Star A"
 		variant 1
 			"Silver Star B"
 		variant 1
-			"Silver Star C"
+			"Silver Star"
 		variant 1
 			"Silver Star"
 		variant 1
@@ -4412,7 +4412,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Silver Defender B"
 		variant 1
-			"Silver Defender C"
+			"Silver Defender"
 		variant 1
 			"Damned Executioner"
 		variant 1
@@ -4420,7 +4420,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Damned Executioner B"
 		variant 1
-			"Damned Executioner C"
+			"Damned Executioner"
 		variant 1
 			"Stormbolt"
 		variant 1
@@ -4428,7 +4428,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Stormbolt B"
 		variant 1
-			"Stormbolt C"
+			"Stormbolt"
 		variant 1
 			"Deceptive Lover"
 		variant 1
@@ -4436,7 +4436,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Deceptive Lover B"
 		variant 1
-			"Deceptive Lover C"
+			"Deceptive Lover"
 		variant 1
 			"Hellscream"
 		variant 1
@@ -4444,7 +4444,7 @@ event "southern carriers compatibility2"
 		variant 1
 			"Hellscream B"
 		variant 1
-			"Hellscream C"
+			"Hellscream"
 		variant 4
 			"Hauler III"
 			"Nest"
@@ -4467,7 +4467,7 @@ event "southern carriers compatibility2"
 		variant 3
 			"Hauler IV B"
 		variant 3
-			"Hauler IV C"
+			"Hauler IV"
 		variant 3
 			"Hauler VI"
 		variant 3
@@ -4475,7 +4475,7 @@ event "southern carriers compatibility2"
 		variant 3
 			"Hauler VI B"
 		variant 3
-			"Hauler VI C"
+			"Hauler VI"
 		variant 3
 			"Gargoyle"
 		variant 3
@@ -4483,35 +4483,35 @@ event "southern carriers compatibility2"
 		variant 3
 			"Gargoyle B"
 		variant 3
-			"Gargoyle C"
+			"Gargoyle"
 		variant 3
 			"Hauler IV"
 			"Hauler IV A"
 		variant 3
 			"Hauler IV B"
-			"Hauler IV C"
+			"Hauler IV"
 		variant 3
 			"Hauler VI"
 			"Hauler VI A"
 		variant 3
 			"Hauler VI B"
-			"Hauler VI C"
+			"Hauler VI"
 		variant 3
 			"Gargoyle"
 			"Gargoyle A"
 		variant 3
 			"Gargoyle B"
-			"Gargoyle C"
+			"Gargoyle"
 		variant 2
 			"Hauler IV"
 			"Hauler IV A"
 			"Hauler IV B"
-			"Hauler IV C"
+			"Hauler IV"
 		variant 2
 			"Hauler VI"
 			"Hauler VI A"
 			"Hauler VI B"
-			"Hauler VI C"
+			"Hauler VI"
 		variant 1
 			"Hauler VI"
 			"Hauler IV"
@@ -4522,7 +4522,7 @@ event "southern carriers compatibility2"
 			"Gargoyle"
 			"Gargoyle A"
 			"Gargoyle B"
-			"Gargoyle C"
+			"Gargoyle"
 mission "Southern Carriers Compat"
 	landing
 	invisible
@@ -4546,7 +4546,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Wren B"
 		variant 1
-			"Wren C"
+			"Wren"
 		variant 1
 			"Black Hawk"
 		variant 1
@@ -4554,7 +4554,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Black Hawk B"
 		variant 1
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Elepaio"
 		variant 1
@@ -4562,7 +4562,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Elepaio B"
 		variant 1
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Fury"
 		variant 1
@@ -4594,7 +4594,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Sparrow MKII B"
 		variant 1
-			"Sparrow MKII C"
+			"Sparrow MKII"
 		variant 1
 			"Balau"
 		variant 1
@@ -4602,7 +4602,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Balau B"
 		variant 1
-			"Balau C"
+			"Balau"
 		variant 1
 			"Camelthorn"
 		variant 1
@@ -4610,7 +4610,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Camelthorn B"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 		variant 1
 			"Junior Osprey"
 		variant 1
@@ -4618,7 +4618,7 @@ event "southern carriers compatibility"
 		variant 1
 			"Junior Osprey B"
 		variant 1
-			"Junior Osprey C"
+			"Junior Osprey"
 		variant 1
 			"Wren"
 			"Sparrow MKII B"
@@ -4629,20 +4629,20 @@ event "southern carriers compatibility"
 			"Wren B"
 			"Fury (Gatling)"
 		variant 1
-			"Wren C"
+			"Wren"
 			"Sparrow (Patrol)"
 		variant 1
 			"Elepaio B"
 			"Fury (Laser)"
 		variant 1
-			"Elepaio C"
+			"Elepaio"
 			"Sparrow MKII A"
 		variant 1
 			"Fury"
 			"Elepaio A"
 		variant 1
 			"Fury (Missile)"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 		variant 1
 			"Hawk"
 			"Black Hawk B"
@@ -4654,7 +4654,7 @@ event "southern carriers compatibility"
 			"Hawk A"
 		variant 1
 			"Hawk A"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Sparrow"
 			"Sparrow A"
@@ -4746,7 +4746,7 @@ event "dread compatibility"
 		variant 1
 			"Cebil B"
 		variant 1
-			"Cebil C"
+			"Cebil"
 		variant 1
 			"4500X2 Gunship"
 		variant 1
@@ -4754,7 +4754,7 @@ event "dread compatibility"
 		variant 1
 			"4500X2 Gunship B"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 		variant 1
 			"Gidgee"
 		variant 1
@@ -4762,7 +4762,7 @@ event "dread compatibility"
 		variant 1
 			"Gidgee B"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 		variant 1
 			"Quebracho"
 		variant 1
@@ -4770,7 +4770,7 @@ event "dread compatibility"
 		variant 1
 			"Quebracho B"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 		variant 1
 			"Wamara"
 		variant 1
@@ -4778,7 +4778,7 @@ event "dread compatibility"
 		variant 1
 			"Wamara B"
 		variant 1
-			"Wamara C"
+			"Wamara"
 		variant 1
 			"X2 Gunship"
 		variant 1
@@ -4786,7 +4786,7 @@ event "dread compatibility"
 		variant 1
 			"X2 Gunship B"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 		variant 1
 			"X2E Gunship"
 		variant 1
@@ -4794,7 +4794,7 @@ event "dread compatibility"
 		variant 1
 			"X2E Gunship B"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 		variant 1
 			"Falcon"
 		variant 1
@@ -4821,7 +4821,7 @@ event "dread compatibility"
 			"Junior Osprey"
 		variant 1
 			"Osprey (Laser)"
-			"Elepaio C"
+			"Elepaio"
 		variant 1
 			"Osprey (Missile)"
 			"Balau"
@@ -4840,7 +4840,7 @@ event "dread compatibility"
 			"Cebil B"
 			"Elepaio A"
 		variant 1
-			"Cebil C"
+			"Cebil"
 			"Sparrow MKII B"
 			"Wren A"
 		variant 1
@@ -4854,9 +4854,9 @@ event "dread compatibility"
 			"Fury"
 			"Fury (Gatling)"
 		variant 1
-			"4500X2 Gunship C"
+			"4500X2 Gunship"
 			"Black Hawk"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"Gidgee"
 			"Camelthorn A"
@@ -4868,7 +4868,7 @@ event "dread compatibility"
 			"Fury"
 			"Sparrow"
 		variant 1
-			"Gidgee C"
+			"Gidgee"
 			"Hawk"
 		variant 1
 			"Quebracho"
@@ -4881,7 +4881,7 @@ event "dread compatibility"
 			"Black Hawk B"
 			"Black Hawk A"
 		variant 1
-			"Quebracho C"
+			"Quebracho"
 			"Hawk A"
 			"Sparrow"
 		variant 1
@@ -4889,18 +4889,18 @@ event "dread compatibility"
 			"Sparrow A"
 			"Sparrow MKII"
 		variant 1
-			"X2 Gunship C"
+			"X2 Gunship"
 			"Black Hawk B"
-			"Black Hawk C"
+			"Black Hawk"
 		variant 1
 			"X2E Gunship B"
 			"Sparrow A"
 		variant 1
-			"X2E Gunship C"
+			"X2E Gunship"
 			"Hawk"
 		variant 1
 			"Falcon"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow MKII A"
 		variant 1
 			"Falcon (Heavy)"
@@ -4913,17 +4913,17 @@ event "dread compatibility"
 			"Junior Osprey"
 			"Junior Osprey A"
 			"Junior Osprey B"
-			"Junior Osprey C"
+			"Junior Osprey"
 		variant 1
-			"Camelthorn C"
+			"Camelthorn"
 			"Camelthorn B"
 			"Camelthorn"
 			"Camelthorn A"
 		variant 1
 			"Balau A"
 			"Balau B"
-			"Balau C"
-			"Balau D"
+			"Balau"
+			"Balau"
 		variant 1
 			"Wren"
 			"Sparrow MKII"
@@ -4938,14 +4938,14 @@ event "dread compatibility"
 			"Sparrow MKII B" 2
 		variant 1
 			"Junior Osprey"
-			"Elepaio C" 2
+			"Elepaio" 2
 			"Sparrow A" 2
 		variant 1
 			"Wren"
 			"Wren B"
 			"Elepaio"
 			"Wren A"
-			"Wren C"
+			"Wren"
 		variant 1
 			"Sparrow MKII"
 			"Sparrow"
@@ -4953,7 +4953,7 @@ event "dread compatibility"
 			"Sparrow (Gatling)"
 			"Sparrow MKII B"
 			"Sparrow (Patrol)"
-			"Sparrow MKII C"
+			"Sparrow MKII"
 			"Sparrow A"
 		variant 2
 			"Roost"
