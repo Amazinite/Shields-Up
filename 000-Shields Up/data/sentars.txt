@@ -206,3 +206,43 @@ outfit "S3NTAR Defensive Countermeasures"
 	"capture defense" 750
 	unplunderable 1
 	description "Can you beat the Sentarians in a hand to hand battle?"
+
+fleet "Sentar S"
+	government Sentarians
+	names "sentar"
+	personality
+		heroic
+	variant
+		Erebus 1
+		
+fleet "Sentar L"
+	government Sentarians
+	names "sentar"
+	personality
+		heroic
+	variant
+		Erebus 2
+
+fleet "Sentar H"
+	government Sentarians
+	names "sentar"
+	personality
+		heroic
+	variant
+		Erebus 3
+		
+fleet "Sentar Defence"
+	government Sentarians
+	names "sentar"
+	personality
+		heroic
+	variant
+		Erebus 5
+		
+fleet "Nelur Drone"
+	government "Unknown Ones"
+	names "unknown drones"
+	personality
+		timid entering
+	variant
+		"Unknown Drone"

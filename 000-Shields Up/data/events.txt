@@ -15,7 +15,7 @@ event "Kal Taylor death (Cargo)"
 mission "Kal Taylor death (Cargo)"
 	landing
 	source
-		government "Republic" "Deep Sky"
+		government "Republic"
 	to offer
 		has "event: Kal Taylor death (Cargo)"
 	on offer
@@ -36,7 +36,7 @@ event "Kal Taylor death (Transport)"
 mission "Kal Taylor death (Transport)"
 	landing
 	source
-		government "Republic" "Deep Sky"
+		government "Republic"
 	to offer
 		has "event: Kal Taylor death (Transport)"
 	on offer
@@ -57,7 +57,7 @@ event "Kal Taylor death (Interceptor)"
 mission "Kal Taylor death (Interceptor)"
 	landing
 	source
-		government "Republic" "Deep Sky"
+		government "Republic"
 	to offer
 		has "event: Kal Taylor death (Interceptor)"
 	on offer
@@ -78,7 +78,7 @@ event "betelgeuse bomb attempt"
 mission "betelgeuse bomb attempt"
 	landing
 	source
-		government "Republic" "Deep Sky" "Syndicate"
+		government "Republic" "Syndicate"
 	to offer
 		has "event: betelgeuse bomb attempt"
 	on offer
