@@ -73,7 +73,7 @@ system "Dupli Cate"
 		offset 359.991
 
 system "Eta Delphi"
-	pos 168 581
+	pos -62 708
 	government Quarg
 	habitable 3645
 	link Udualudu
@@ -454,11 +454,10 @@ system "Mei Due"
 			period 16.4891
 
 system Novae
-	pos 60 570
+	pos -181 635
 	government Quarg
 	habitable 486.68
 	link Subra
-	link Udualudu
 	asteroids "small rock" 9 2.613
 	asteroids "medium rock" 18 5.811
 	asteroids "large rock" 3 2.457
@@ -510,7 +509,7 @@ system Novae
 		offset 39.0348
 
 system "Plus De"
-	pos 211 634
+	pos -33 764
 	government Quarg
 	habitable 4131.68
 	link "Eta Delphi"
@@ -629,7 +628,7 @@ system "Soom Ho"
 		offset 17.2236
 
 system Subra
-	pos 32 525
+	pos -246 614
 	government Quarg
 	habitable 1400
 	link "Zeta Nurphae"
@@ -692,10 +691,9 @@ system Subra
 		period 1424.63
 
 system Udualudu
-	pos 100 600
+	pos -117 667
 	government Quarg
 	habitable 486.68
-	link Novae
 	link "Eta Delphi"
 	asteroids "small rock" 45 2.7744
 	asteroids "medium rock" 81 2.4854
@@ -752,7 +750,7 @@ system Udualudu
 			offset 166.158
 
 system Wartorn
-	pos 197 697
+	pos -88 789
 	government Quarg
 	habitable 851.84
 	link "Plus De"
@@ -815,7 +813,7 @@ system Wartorn
 		offset 5.09151
 
 system "Zeta Nurphae"
-	pos -34 543
+	pos -274 575
 	government Quarg
 	habitable 1505.92
 	link Subra
