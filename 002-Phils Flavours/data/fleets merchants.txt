@@ -3985,22 +3985,6 @@ fleet "Large Southern Merchants"
 	variant 1
 		"X2E Gunship"
 	variant 1
-		"Black Star"
-	variant 1
-		"Black Star A"
-	variant 1
-		"Black Star B"
-	variant 1
-		"Black Star"
-	variant 1
-		"Silver Star A"
-	variant 1
-		"Silver Star B"
-	variant 1
-		"Silver Star"
-	variant 1
-		"Silver Star"
-	variant 1
 		"Silver Defender"
 	variant 1
 		"Silver Defender A"
@@ -4874,22 +4858,6 @@ fleet "Large Core Merchants"
 	variant 1
 		"X2E Gunship"
 	variant 1
-		"Black Star"
-	variant 1
-		"Black Star A"
-	variant 1
-		"Black Star B"
-	variant 1
-		"Black Star"
-	variant 1
-		"Silver Star A"
-	variant 1
-		"Silver Star B"
-	variant 1
-		"Silver Star"
-	variant 1
-		"Silver Star"
-	variant 1
 		"Silver Defender"
 	variant 1
 		"Silver Defender A"
@@ -5762,22 +5730,6 @@ fleet "Large Northern Merchants"
 		"X2E Gunship B"
 	variant 1
 		"X2E Gunship"
-	variant 1
-		"Black Star"
-	variant 1
-		"Black Star A"
-	variant 1
-		"Black Star B"
-	variant 1
-		"Black Star"
-	variant 1
-		"Silver Star A"
-	variant 1
-		"Silver Star B"
-	variant 1
-		"Silver Star"
-	variant 1
-		"Silver Star"
 	variant 1
 		"Silver Defender"
 	variant 1

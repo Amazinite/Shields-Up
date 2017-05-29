@@ -105,14 +105,6 @@ fleet "pirate raid"
 	variant 1
 		"Splinter A"
 	variant 1
-		"Silver Protector"
-	variant 1
-		"Silver Protector A"
-	variant 1
-		"Silver Protector B"
-	variant 1
-		"Silver Protector"
-	variant 1
 		"Damned Executioner"
 	variant 1
 		"Damned Executioner A"
@@ -224,14 +216,6 @@ fleet "pirate raid"
 		"Swooping Raven B"
 	variant 1
 		"Swooping Raven"
-	variant 1
-		"Silver Escort"
-	variant 1
-		"Silver Escort A"
-	variant 1
-		"Silver Escort B"
-	variant 1
-		"Silver Escort"
 	variant 1
 		"Modified Argosy"
 	variant 1
@@ -457,14 +441,6 @@ fleet "Small Southern Pirates"
 		"Junior Osprey B"
 	variant 1
 		"Junior Osprey"
-	variant 1
-		"Silver Escort"
-	variant 1
-		"Silver Escort A"
-	variant 1
-		"Silver Escort B"
-	variant 1
-		"Silver Escort"
 	variant 2
 		"Clipper"
 	variant 1
@@ -814,14 +790,6 @@ fleet "Large Southern Pirates"
 		"Silver Star"
 	variant 1
 		"Silver Star"
-	variant 2
-		"Silver Defender"
-	variant 2
-		"Silver Defender A"
-	variant 2
-		"Silver Defender B"
-	variant 2
-		"Silver Defender"
 	variant 3
 		"4500X2 Gunship"
 	variant 2
@@ -870,14 +838,6 @@ fleet "Large Southern Pirates"
 		"Quebracho B"
 	variant 1
 		"Quebracho"
-	variant 2
-		"Silver Protector"
-	variant 1
-		"Silver Protector A"
-	variant 1
-		"Silver Protector B"
-	variant 1
-		"Silver Protector"
 	variant 3
 		"Damned Executioner"
 	variant 2
@@ -928,9 +888,6 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Junior Osprey A"
 		"Junior Osprey"
-	variant 1
-		"Silver Escort"
-		"Silver Escort B"
 	variant 3
 		"Clipper" 2
 	variant 2
@@ -1124,66 +1081,12 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Hellscream"
 		"Hellscream B"
-	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Defender A"
-		"Silver Protector A"
-		"Silver Escort A"
-	variant 1
-		"Silver Defender B"
-		"Silver Escort B" 
-		"Silver Escort"
-	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Escort"
-		"Silver Escort A"
-	variant 1
-		"Silver Protector A"
-		"Silver Escort A"
-		"Silver Escort B"
-	variant 1
-		"Silver Protector B"
-		"Silver Escort B"
-		"Silver Escort"
-	variant 1
-		"Black Star"
-		"Silver Escort"
-		"Silver Escort"
-	variant 1
-		"Silver Protector A"
-		"Silver Protector"
-		"Silver Escort"
-		"Silver Escort A"
-	variant 1
-		"Silver Protector B"
-		"Silver Protector A"
-	variant 1
-		"Black Star B"
-		"Silver Protector B"
-		"Silver Escort"
 	variant 2
 		"Black Star"
 		"Black Star A"
 	variant 2
 		"Silver Star A"
 		"Black Star"
-	variant 1
-		"Silver Star B"
-		"Silver Escort A"
-		"Silver Escort B"
-	variant 1
-		"Silver Star"
-		"Silver Escort"
-	variant 1
-		"Silver Star"
-		"Silver Protector"
 	variant 1
 		"Gidgee"
 		"Camelthorn"
@@ -1322,18 +1225,6 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Junior Osprey"
 		"Elepaio" 2
-	variant 1
-		"Silver Escort"
-		"Black Hawk"
-	variant 1
-		"Silver Escort A"
-		"Black Hawk A"
-	variant 1
-		"Silver Escort B"
-		"Black Hawk B"
-	variant 1
-		"Silver Escort"
-		"Black Hawk" 2
 	variant 2
 		"Clipper" 2
 		"Sparrow MKII"
@@ -1453,22 +1344,6 @@ fleet "Large Southern Pirates"
 		"Junior Osprey"
 		"Elepaio"
 		"Sparrow MKII"
-	variant 1
-		"Silver Escort"
-		"Black Hawk"
-		"Hawk"
-	variant 1
-		"Silver Escort A"
-		"Black Hawk A"
-		"Hawk (Rocket)"
-	variant 1
-		"Silver Escort B"
-		"Black Hawk B"
-		"Hawk (Speedy)"
-	variant 1
-		"Silver Escort"
-		"Black Hawk"
-		"Hawk A"
 	variant 2
 		"Clipper"
 		"Sparrow MKII"
@@ -1732,14 +1607,6 @@ fleet "Small Core Pirates"
 	variant 1
 		"Light Dart"
 	variant 1
-		"Silver Escort"
-	variant 1
-		"Silver Escort A"
-	variant 1
-		"Silver Escort B"
-	variant 1
-		"Silver Escort"
-	variant 1
 		"Deceitful Hangman"
 	variant 1
 		"Deceitful Hangman A"
@@ -1999,18 +1866,6 @@ fleet "Small Core Pirates"
 	variant 2
 		"Light Dart"
 		"Wasp (Proton)"
-	variant 1
-		"Silver Escort"
-		"Wasp"
-	variant 1
-		"Silver Escort A"
-		"Wasp (Proton)"
-	variant 1
-		"Silver Escort B"
-		"Wasp"
-	variant 1
-		"Silver Escort"
-		"Wasp (Proton)"
 		
 fleet "Large Core Pirates"
 	government "Pirate"
@@ -2049,11 +1904,11 @@ fleet "Large Core Pirates"
 	variant 2
 		"Protector B"
 	variant 2
-		"Protector Fortress"
+		"Fortress"
 	variant 1
-		"Protector Fortress A"
+		"Fortress A"
 	variant 1
-		"Protector Fortress B"
+		"Fortress B"
 	variant 3
 		"Vanguard"
 	variant 2
@@ -2061,13 +1916,13 @@ fleet "Large Core Pirates"
 	variant 2
 		"Vanguard A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 1
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 	variant 1
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 	variant 1
 		"Wamara"
 	variant 1
@@ -2108,14 +1963,6 @@ fleet "Large Core Pirates"
 		"Silver Star"
 	variant 1
 		"Silver Star"
-	variant 2
-		"Silver Defender"
-	variant 1
-		"Silver Defender A"
-	variant 2
-		"Silver Defender B"
-	variant 1
-		"Silver Defender"
 	variant 1
 		"Damned Executioner"
 		"Deceitful Hangman"
@@ -2293,65 +2140,11 @@ fleet "Large Core Pirates"
 		"Hellscream"
 		"Hellscream B"
 	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Defender A"
-		"Silver Protector A"
-		"Silver Escort A"
-	variant 1
-		"Silver Defender B"
-		"Silver Escort B" 
-		"Silver Escort"
-	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Escort"
-		"Silver Escort A"
-	variant 1
-		"Silver Protector A"
-		"Silver Escort A"
-		"Silver Escort B"
-	variant 1
-		"Silver Protector B"
-		"Silver Escort B"
-		"Silver Escort"
-	variant 1
-		"Black Star A"
-		"Silver Escort A"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Protector B"
-		"Silver Escort B"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Protector"
-	variant 1
-		"Black Star B"
-		"Silver Protector B"
-		"Silver Escort"
-	variant 1
 		"Black Star"
 		"Black Star A"
 	variant 1
 		"Silver Star A"
 		"Black Star A"
-	variant 1
-		"Silver Star"
-		"Silver Escort"
-		"Silver Escort B"
-	variant 1
-		"Silver Star A"
-		"Silver Escort A"
-	variant 1
-		"Silver Star B"
-		"Silver Protector B"
 	variant 1
 		"Gidgee"
 		"Camelthorn"
@@ -2627,16 +2420,16 @@ fleet "Large Core Pirates"
 		"Vanguard A"
 		"Arrowhead A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 		"Quicksilver A"
 	variant 1
-		"Vanguard Trailbreaker A"
+		"Trailbreaker A"
 		"Light Dart A"
 	variant 1
-		"Vanguard Trailbreaker B"
+		"Trailbreaker B"
 		"Heavy Dart A"
 	variant 1
-		"Vanguard Trailbreaker"
+		"Trailbreaker"
 		"Wasp (Proton)" 2
 	variant 1
 		"X2 Gunship"
@@ -2711,14 +2504,6 @@ fleet "Small Northern Pirates"
 		"Swooping Raven B"
 	variant 1
 		"Swooping Raven"
-	variant 1
-		"Silver Escort"
-	variant 1
-		"Silver Escort A"
-	variant 1
-		"Silver Escort B"
-	variant 1
-		"Silver Escort"
 	variant 3
 		"Berserker"
 	variant 2
@@ -2951,18 +2736,6 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Swooping Raven"
 		"Sparrow MKII A"
-	variant 1
-		"Silver Escort"
-		"Wren A"
-	variant 1
-		"Silver Escort A"
-		"Sparrow (Patrol)"
-	variant 1
-		"Silver Escort B"
-		"Dark Berserker B"
-	variant 1
-		"Silver Escort"
-		"Black Hawk"
 	variant 3
 		"Berserker"
 		"Dark Berserker B"
@@ -3220,65 +2993,11 @@ fleet "Large Northern Pirates"
 		"Hellscream"
 		"Hellscream B"
 	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Defender A"
-		"Silver Protector A"
-		"Silver Escort A"
-	variant 1
-		"Silver Defender B"
-		"Silver Escort B" 
-		"Silver Escort"
-	variant 1
-		"Silver Defender"
-		"Silver Protector"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Escort"
-		"Silver Escort A"
-	variant 1
-		"Silver Protector A"
-		"Silver Escort A"
-		"Silver Escort B"
-	variant 1
-		"Silver Protector B"
-		"Silver Escort B"
-		"Silver Escort"
-	variant 1
-		"Black Star A"
-		"Silver Escort A"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Protector B"
-		"Silver Escort B"
-		"Silver Escort"
-	variant 1
-		"Silver Protector"
-		"Silver Protector"
-	variant 1
-		"Black Star B"
-		"Silver Protector B"
-		"Silver Escort"
-	variant 1
 		"Black Star"
 		"Black Star A"
 	variant 1
 		"Silver Star A"
 		"Black Star A"
-	variant 1
-		"Silver Star"
-		"Silver Escort"
-		"Silver Escort B"
-	variant 1
-		"Silver Star A"
-		"Silver Escort A"
-	variant 1
-		"Silver Star B"
-		"Silver Protector B"
 	variant 1
 		"Bactrian"
 		"Dagger" 3
@@ -3352,14 +3071,6 @@ fleet "Large Northern Pirates"
 		"Silver Star"
 	variant 1
 		"Silver Star"
-	variant 1
-		"Silver Defender"
-	variant 1
-		"Silver Defender A"
-	variant 1
-		"Silver Defender B"
-	variant 1
-		"Silver Defender"
 	variant 2
 		"Aerie"
 		"Dagger" 2
@@ -3759,5 +3470,3 @@ fleet "Large Northern Pirates"
 	variant 1
 		"Silver Star"
 		"Raven (Afterburner)"
-
-
