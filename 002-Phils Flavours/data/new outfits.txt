@@ -78,6 +78,7 @@ outfit "Particle Cannon Turret"
 	"outfit space" -40
 	"weapon capacity" -40
 	"turret mounts" -1
+	"required crew" 1
 	weapon
 		sprite "projectile/particle beam"
 		sound "particle"
