@@ -9,55 +9,55 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 outfitter "Kraz Basics"
-	"Long Range Laser"
-	"Long Range Laser Turret"
-	"Short Range Heavy Laser"
-	"Short Range Heavy Laser Turret"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
 	
 outfitter "Pirate Outfits"
-	"Long Range Laser"
-	"Long Range Laser Turret"
-	"Short Range Heavy Laser"
-	"Short Range Heavy Laser Turret"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
 	
 outfitter "Pirate Outfits"
-	"Long Range Laser"
-	"Long Range Laser Turret"
-	"Short Range Heavy Laser"
-	"Short Range Heavy Laser Turret"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
 	"Assault Rifle ZX-411"
 	"Tactical Body Armor"
 	"Tactical Military Outfit"
 	
 outfitter "Deep Sky Basics"
-	"Long Range Laser"
-	"Long Range Laser Turret"
-	"Short Range Heavy Laser"
-	"Short Range Heavy Laser Turret"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
 	"AR250 Reverse Thruster"
 	
 outfitter "Deep Sky Advanced"
-	"Long Range Laser"
-	"Long Range Laser Turret"
-	"Short Range Heavy Laser"
-	"Short Range Heavy Laser Turret"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
 	"AR250 Reverse Thruster"
 	
 outfitter "Delta V Basics"
-	"Integrated Chipmunk Engines"
-	"Integrated Greyhound Engines"
+	"Chipmunk Plasma Engines"
+	"Greyhound Plasma Engines"
 	
 outfitter "Delta V Advanced"
-	"Integrated Chipmunk Engines"
-	"Integrated Greyhound Engines"
+	"Chipmunk Plasma Engines"
+	"Greyhound Plasma Engines"
 	
 outfitter "Basic Outfits"
-	"nGVF-BI Integrated Fuel Cell"
-	"nGVF-CI Integrated Fuel Cell"
+	"nGVF-BI Hybrid Fuel Cell"
+	"nGVF-CI Hybrid Fuel Cell"
 	
 outfitter "Common Outfits"
-	"nGVF-BI Integrated Fuel Cell"
-	"nGVF-CI Integrated Fuel Cell"
+	"nGVF-BI Hybrid Fuel Cell"
+	"nGVF-CI Hybrid Fuel Cell"
 
 outfitter "Syndicate Advanced"
 	"Assault Rifle ZX-411"
@@ -95,7 +95,7 @@ outfit "Particle Cannon Turret"
 		"hull damage" 52
 	description "The Particle Cannon Turret features a single particle cannon mounted on a rapid turning turret.  Although slightly less accurate, its hit force and damage is often capable of destroying and keeping smaller ships at bay before their weapons are effective."
 	
-outfit "nGVF-BI Integrated Fuel Cell"
+outfit "nGVF-BI Hybrid Fuel Cell"
 	category "Power"
 	cost 68000
 	thumbnail "outfit/nGVF-BI Integrated Fuel Cell"
@@ -104,7 +104,7 @@ outfit "nGVF-BI Integrated Fuel Cell"
 	"energy generation" 2.3
 	"heat generation" 3.6
 	"energy capacity" 600
-	description "The integrated fuel cell line combines energy generation with storage capacity in one efficient unit. This small model is designed specifically for interceptor class ships."
+	description "The hybrid fuel cell line combines energy generation with storage capacity in one efficient unit. This small model is designed specifically for interceptor class ships."
 	
 outfit "Assault Rifle ZX-411"
 	category "Hand to Hand"
@@ -133,7 +133,7 @@ outfit "Tactical Military Outfit"
 	"unplunderable" 1
 	description "The military outfit issued to crew members by the republic navy when combat and boarding missions are expected. Featuring a ZX-411 assault rifle, body armor and the JI-39s Helmet System which provides thermal imaging, combat information and coordination to squad members and much more. Combined the outfit provides a significant boost to both offensive and defensive capabilities."
 	
-outfit "nGVF-CI Integrated Fuel Cell"
+outfit "nGVF-CI Hybrid Fuel Cell"
 	category "Power"
 	cost 122000
 	thumbnail "outfit/nGVF-CI Integrated Fuel Cell"
@@ -142,9 +142,9 @@ outfit "nGVF-CI Integrated Fuel Cell"
 	"energy generation" 3.4
 	"heat generation" 5.1
 	"energy capacity" 1200
-	description "The integrated fuel cell line combines energy generation with storage capacity in one efficient unit. This larger model increases both energy generation and storage."
+	description "The hybrid fuel cell line combines energy generation with storage capacity in one efficient unit. This larger model increases both energy generation and storage."
 	
-outfit "Integrated Chipmunk Engines"
+outfit "Chipmunk Plasma Engines"
 	category "Engines"
 	"cost" 45000
 	thumbnail "outfit/integrated chipmunk engines"
@@ -162,7 +162,7 @@ outfit "Integrated Chipmunk Engines"
 	"flare sound" "plasma tiny"
 	description "The integrated engine combines both thrusters and steering capabilities into a single unit. Delivering similar power as seperate systems, the integrated unit reduces the outfit and engine space required but is more expensive and less heat efficient."
 
-outfit "Integrated Greyhound Engines"
+outfit "Greyhound Plasma Engines"
 	category "Engines"
 	"cost" 98000
 	thumbnail "outfit/integrated greyhound engines"
@@ -201,7 +201,7 @@ outfit "Stubby Heavy Laser"
 		"firing heat" 2.4
 		"shield damage" 1.8
 		"hull damage" 2.3
-	description "Early attempts to make a stronger beam laser resulted in many variations including these weapons that would now be called a short range heavy laser. While they only have half the range of their more modern counterparts they use less space and still pack quite a punch."
+	description "Early attempts to make a stronger beam laser resulted in many variations including these weapons that would now be called a stubby heavy laser. While they only have half the range of their more modern counterparts they use less space and still pack quite a punch."
 
 outfit "Stubby Heavy Laser Turret"
 	category "Turrets"
@@ -225,7 +225,7 @@ outfit "Stubby Heavy Laser Turret"
 		"firing heat" 4.8
 		"shield damage" 3.6
 		"hull damage" 4.6
-	description "A modern turret fitted with two short range heavy lasers provides an extremely effective deterrent to boarding craft and close up enemies."
+	description "A modern turret fitted with two stubby heavy lasers provides an extremely effective deterrent to boarding craft and close up enemies."
 
 outfit "Focused Laser"
 	category "Guns"
@@ -248,7 +248,7 @@ outfit "Focused Laser"
 		"firing heat" 2.4
 		"shield damage" 1
 		"hull damage" 1.25
-	description "While using more space and energy, the long range laser provides the almost the same effectiveness as the beam laser with twice the range"
+	description "While using more space and energy, the focused laser provides the almost the same effectiveness as the beam laser with twice the range"
 
 outfit "Focused Laser Turret"
 	category "Turrets"
@@ -272,7 +272,7 @@ outfit "Focused Laser Turret"
 		"firing heat" 4.8
 		"shield damage" 2
 		"hull damage" 2.5
-	description "Although not the most powerful these dual long range lasers mounted on a swivelling turret are one most hated weapons by pilots of interceptor class craft."
+	description "Although not the most powerful these dual focused lasers mounted on a swivelling turret are one most hated weapons by pilots of interceptor class craft."
 	
 outfit "AR250 Reverse Thruster"
 	category "Engines"

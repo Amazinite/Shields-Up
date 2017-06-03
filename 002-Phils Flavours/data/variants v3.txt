@@ -30,7 +30,7 @@ ship "3000X2 Freight" "3000X2 Freight B"
 		"NT-200 Nucleovoltaic"
 		"LP036a Battery Pack"
 		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "3500X2 Freight" "3500X2 Freight A"
@@ -239,7 +239,7 @@ ship "Arrow" "Arrow A"
 		"Sidewinder Missile" 100
 		"Dwarf Core"
 		"D23-QP Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Arrow" "Arrow B"
@@ -250,29 +250,29 @@ ship "Arrow" "Arrow B"
 		"LP036a Battery Pack"
 		"Supercapacitor"
 		"D14-RN Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Arrowhead" "Arrowhead A"
 	outfits
 		"Focused Laser Turret" 2
 		"Anti-Missile Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Arrowhead" "Arrowhead B"
 	outfits
 		"Particle Cannon Turret" 2
 		"Anti-Missile Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
 		"Mass Expansion"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Bactrian" "Bactrian A"
@@ -422,10 +422,10 @@ ship "Blackbird" "Blackbird B"
 ship "Black Hawk" "Black Hawk A"
 	outfits
 		"Particle Cannon" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D23-QP Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Black Hawk" "Black Hawk B"
@@ -472,15 +472,15 @@ ship "Black Star" "Black Star B"
 ship "Bounder" "Bounder A"
 	outfits
 		"Quad Blaster Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Bounder" "Bounder B"
 	outfits
 		"Stubby Heavy Laser Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
 		"X3700 Ion Thruster"
 		"X3200 Ion Steering"
@@ -663,11 +663,11 @@ ship "Dark Berserker" "Dark Berserker A"
 	outfits
 		"Gatling Gun Ammo" 12000
 		"Gatling Gun" 4
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Dark Berserker" "Dark Berserker B"
@@ -675,9 +675,9 @@ ship "Dark Berserker" "Dark Berserker B"
 		"Beam Laser" 2
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Deceitful Hangman" "Deceitful Hangman A"
@@ -697,10 +697,10 @@ ship "Deceitful Hangman" "Deceitful Hangman B"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Deceptive Lover" "Deceptive Lover A"
@@ -733,9 +733,9 @@ ship "Dirty Cutlass" "Dirty Cutlass A"
 		"Heavy Laser" 2
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Dirty Cutlass" "Dirty Cutlass B"
@@ -744,28 +744,28 @@ ship "Dirty Cutlass" "Dirty Cutlass B"
 		"Meteor Missile" 70
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Elepaio" "Elepaio A"
 	outfits
 		"Stubby Heavy Laser" 4
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Elepaio" "Elepaio B"
 	outfits
 		"Gatling Gun" 4
 		"Gatling Gun Ammo" 12000
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer" 2
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Fearless Assassin" "Fearless Assassin A"
@@ -796,19 +796,19 @@ ship "Fearless Assassin" "Fearless Assassin B"
 ship "Fifth Ace" "Fifth Ace A"
 	outfits
 		"Laser Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"Supercapacitor"
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Fifth Ace" "Fifth Ace B"
 	outfits
 		"Stubby Heavy Laser Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"Supercapacitor" 2
 		"D23-QP Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Firebird" "Firebird A"
@@ -866,21 +866,21 @@ ship "Fortress" "Fortress B"
 ship "Freighter" "Freighter A"
 	outfits
 		"Stubby Heavy Laser Turret" 3
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"Supercapacitor" 3
 		"D41-HY Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
 ship "Freighter" "Freighter B"
 	outfits
 		"Particle Cannon Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP072a Battery Pack"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Gargoyle A"
@@ -1079,20 +1079,20 @@ ship "Hauler VI B"
 ship "Hawk" "Hawk A"
 	outfits
 		"Focused Laser" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer" 2
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Hawk" "Hawk B"
 	outfits
 		"Stubby Heavy Laser" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Headhunter" "Headhunter A"
@@ -1146,9 +1146,9 @@ ship "Heavy Dart" "Heavy Dart B"
 ship "Heavy Shuttle" "Heavy Shuttle A"
 	outfits
 		"Energy Blaster" 2
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Hellscream" "Hellscream A"
@@ -1156,7 +1156,7 @@ ship "Hellscream" "Hellscream A"
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 2
 		"RT-I Radiothermal"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D94-YV Shield Generator"
 		"Cooling Ducts"
@@ -1293,19 +1293,19 @@ ship "Leviathan" "Leviathan B"
 ship "Lifted Purse" "Lifted Purse A"
 	outfits
 		"Focused Laser" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer" 2
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Lifted Purse" "Lifted Purse B"
 	outfits
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D67-TM Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Light Dart" "Light Dart A"
@@ -1459,7 +1459,7 @@ ship "Pilfered Keg" "Pilfered Keg A"
 ship "Pilfered Keg" "Pilfered Keg B"
 	outfits
 		"Particle Cannon Turret" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D67-TM Shield Generator"
 		"Greyhound Plasma Thruster"
 		"Impala Plasma Steering"
@@ -1531,7 +1531,7 @@ ship "Quicksilver" "Quicksilver A"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
 		"Cooling Ducts"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Quicksilver" "Quicksilver B"
@@ -1591,18 +1591,18 @@ ship "Rum Barrell" "Rum Barrell B"
 ship "Shuttle" "Shuttle A"
 	outfits
 		"Stubby Heavy Laser"
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Shuttle" "Shuttle B"
 	outfits
 		"Meteor Missile Launcher"
 		"Meteor Missile" 35
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Silver Defender" "Silver Defender A"
@@ -1721,35 +1721,35 @@ ship "Silver Stream"  "Silver Stream B"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Sparrow" "Sparrow A"
 	outfits
 		"Stubby Heavy Laser" 2
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Modified Sparrow" "Modified Sparrow A"
 	outfits
 		"Stubby Heavy Laser" 2
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Modified Sparrow" "Modified Sparrow B"
 	outfits
 		"Gatling Gun" 2
 		"Gatling Gun Ammo" 6000
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 ship "Splinter" "Splinter A"
@@ -1883,7 +1883,7 @@ ship "Swooping Raven" "Swooping Raven B"
 		"D41-HY Shield Generator"
 		"Cooling Ducts"
 		"Small Radar Jammer"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Trailbreaker" "Trailbreaker A"
@@ -1959,17 +1959,17 @@ ship "Wamara" "Wamara B"
 ship "Wren" "Wren A"
 	outfits
 		"Stubby Heavy Laser Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "Wren" "Wren B"
 	outfits
 		"Modified Blaster Turret"
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 ship "X2 Gunship" "X2 Gunship A"

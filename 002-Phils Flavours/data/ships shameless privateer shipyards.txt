@@ -49,10 +49,10 @@ ship "Fifth Ace"
 	outfits
 		"Quad Blaster Turret" 2
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -10 45
@@ -88,11 +88,11 @@ ship "Lifted Purse"
 	outfits
 		"Heavy Laser" 2
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -9.5 45.5
@@ -130,10 +130,10 @@ ship "Pilfered Keg"
 		"Heavy Laser Turret"
 		"Heavy Anti-Missile Turret"
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D67-TM Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"X1700 Ion Thruster"
 		"X1200 Ion Steering"
 		"Hyperdrive"
@@ -656,10 +656,10 @@ ship "Dirty Cutlass"
 	outfits
 		"Heavy Laser" 4
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -8.5 45.5

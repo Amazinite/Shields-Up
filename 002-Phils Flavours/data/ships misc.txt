@@ -218,11 +218,11 @@ ship Arrowhead
 		"Heavy Laser Turret" 2
 		"Anti-Missile Turret"
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine 0 57
@@ -356,12 +356,12 @@ ship "Dark Berserker"
 	outfits
 		"Beam Laser" 4
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -12.5 43.5
@@ -399,12 +399,12 @@ ship "Black Hawk"
 	outfits
 		"Plasma Cannon" 2
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
 		"Cooling Ducts"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -24 40
@@ -649,10 +649,10 @@ ship "Elepaio"
 	outfits
 		"Focused Laser" 4
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -9 41
@@ -692,11 +692,11 @@ ship "Modified Sparrow"
 	outfits
 		"Focused Laser" 2
 
-		"nGVF-BI Integrated Fuel Cell"
+		"nGVF-BI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
 
-		"Integrated Chipmunk Engines"
+		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
 	engine -5.5 36
@@ -782,11 +782,11 @@ ship "Wren"
 	outfits
 		"Laser Turret"
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D14-RN Shield Generator"
 		"Small Radar Jammer"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine -8.5 39

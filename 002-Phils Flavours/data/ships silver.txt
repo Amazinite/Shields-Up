@@ -42,10 +42,10 @@ ship "Silver Stream"
 		"Heavy Laser" 2
 		"Heavy Anti-Missile Turret"
 
-		"nGVF-CI Integrated Fuel Cell"
+		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
 	engine 0 52.5

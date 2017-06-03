@@ -217,7 +217,7 @@ ship "3000X2 Freight"
 		"Water Coolant System"
 		"Small Radar Jammer" 3
 
-		"Integrated Greyhound Engines"
+		"Greyhound Plasma Engines"
 		"Scram Drive"
 
 	engine -36 96
