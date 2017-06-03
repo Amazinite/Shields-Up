@@ -10,7 +10,7 @@
 
 ship "3000X2 Freight" "3000X2 Freight A"
 	outfits
-		"Long Range Laser Turret"
+		"Focused Laser Turret"
 		"Anti-Missile Turret"
 		"Meteor Missile Launcher"
 		"Meteor Missile" 35
@@ -35,7 +35,7 @@ ship "3000X2 Freight" "3000X2 Freight B"
 
 ship "3500X2 Freight" "3500X2 Freight A"
 	outfits
-		"Long Range Laser"
+		"Focused Laser"
 		"Heavy Laser Turret" 2
 		"Anti-Missile Turret"
 		"NT-200 Nucleovoltaic"
@@ -48,7 +48,7 @@ ship "3500X2 Freight" "3500X2 Freight A"
 
 ship "3500X2 Freight" "3500X2 Freight B"
 	outfits
-		"Long Range Laser"
+		"Focused Laser"
 		"Particle Cannon Turret" 2
 		"Anti-Missile Turret"
 		"NT-200 Nucleovoltaic"
@@ -149,7 +149,7 @@ ship "7000X2S Freight" "7000X2S Freight A"
 
 ship "7000X2S Freight" "7000X2S Freight B"
 	outfits
-		"Long Range Laser Turret" 6
+		"Focused Laser Turret" 6
 		"Fission Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
@@ -173,7 +173,7 @@ ship "8500X2S Freight" "8500X2S Freight A"
 
 ship "8500X2S Freight" "8500X2S Freight B"
 	outfits
-		"Long Range Laser Turret" 8
+		"Focused Laser Turret" 8
 		"Fission Reactor"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -198,7 +198,7 @@ ship "10000X2S Freight" "10000X2S Freight A"
 
 ship "10000X2S Freight" "10000X2S Freight B"
 	outfits
-		"Long Range Laser Turret" 6
+		"Focused Laser Turret" 6
 		"Heavy Anti-Missile Turret" 2
 		"Fission Reactor"
 		"LP144a Battery Pack"
@@ -223,8 +223,8 @@ ship "Aerie" "Aerie A"
 
 ship "Aerie" "Aerie B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 3
+		"Focused Laser" 2
+		"Focused Laser Turret" 3
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -244,8 +244,8 @@ ship "Arrow" "Arrow A"
 
 ship "Arrow" "Arrow B"
 	outfits
-		"Short Range Heavy Laser" 2
-		"Short Range Heavy Laser Turret"
+		"Stubby Heavy Laser" 2
+		"Stubby Heavy Laser Turret"
 		"Dwarf Core"
 		"LP036a Battery Pack"
 		"Supercapacitor"
@@ -255,7 +255,7 @@ ship "Arrow" "Arrow B"
 
 ship "Arrowhead" "Arrowhead A"
 	outfits
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"Anti-Missile Turret"
 		"nGVF-CI Integrated Fuel Cell"
 		"LP036a Battery Pack"
@@ -294,8 +294,8 @@ ship "Bactrian" "Bactrian A"
 
 ship "Bactrian" "Bactrian B"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 5
+		"Focused Laser" 4
+		"Focused Laser Turret" 5
 		"Heavy Anti-Missile Turret"
 		"Fusion Reactor"
 		"LP288a Battery Pack"
@@ -352,8 +352,8 @@ ship "Bastion" "Bastion A"
 
 ship "Bastion" "Bastion B"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 3
+		"Focused Laser" 4
+		"Focused Laser Turret" 3
 		"S3 Thermionic"
 		"nGVF-BB Fuel Cell"
 		"LP144a Battery Pack"
@@ -382,7 +382,7 @@ ship "Behemoth" "Behemoth A"
 
 ship Behemoth "Behemoth B"
 	outfits
-		"Long Range Laser Turret" 4
+		"Focused Laser Turret" 4
 		"Heavy Anti-Missile Turret" 2
 		"Torpedo Launcher" 2
 		"Torpedo" 60
@@ -408,7 +408,7 @@ ship "Blackbird" "Blackbird A"
 
 ship "Blackbird" "Blackbird B"
 	outfits
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"Supercapacitor" 2
@@ -479,7 +479,7 @@ ship "Bounder" "Bounder A"
 
 ship "Bounder" "Bounder B"
 	outfits
-		"Short Range Heavy Laser Turret" 2
+		"Stubby Heavy Laser Turret" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"D14-RN Shield Generator"
 		"X3700 Ion Thruster"
@@ -488,7 +488,7 @@ ship "Bounder" "Bounder B"
 
 ship "Bulk Freighter" "Bulk Freighter A" 
 	outfits
-		"Long Range Laser Turret" 3
+		"Focused Laser Turret" 3
 		"Anti-Missile Turret" 2
 		"Sidewinder Missile" 100
 		"Sidewinder Missile Launcher" 2
@@ -513,7 +513,7 @@ ship "Bulk Freighter" "Bulk Freighter B"
 
 ship "Buried Chest" "Buried Chest A"
 	outfits
-		"Long Range Laser" 4
+		"Focused Laser" 4
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D67-TM Shield Generator"
@@ -548,8 +548,8 @@ ship "Camelthorn" "Camelthorn A"
 
 ship "Camelthorn" "Camelthorn B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
+		"Focused Laser" 2
+		"Focused Laser Turret" 2
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
@@ -562,8 +562,8 @@ ship "Camelthorn" "Camelthorn B"
 
 ship "Captain's Hoard" "Captain's Hoard A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 2
+		"Focused Laser" 4
+		"Focused Laser Turret" 2
 		"S3 Thermionic"
 		"LP144a Battery Pack"
 		"D41-HY Shield Generator"
@@ -623,8 +623,8 @@ ship "Corvette" "Corvette A"
 
 ship "Corvette" "Corvette B"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 2
+		"Focused Laser" 4
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP036a Battery Pack"
 		"LP072a Battery Pack"
@@ -637,8 +637,8 @@ ship "Corvette" "Corvette B"
 
 ship "Damned Executioner" "Damned Executioner A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret"
+		"Focused Laser" 4
+		"Focused Laser Turret"
 		"D94-YV Shield Generator"
 		"LP144a Battery Pack"
 		"Water Coolant System"
@@ -682,8 +682,8 @@ ship "Dark Berserker" "Dark Berserker B"
 
 ship "Deceitful Hangman" "Deceitful Hangman A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret"
+		"Focused Laser" 4
+		"Focused Laser Turret"
 		"NT-200 Nucleovoltaic"
 		"LP036a Battery Pack"
 		"D14-RN Shield Generator"
@@ -752,7 +752,7 @@ ship "Dirty Cutlass" "Dirty Cutlass B"
 
 ship "Elepaio" "Elepaio A"
 	outfits
-		"Short Range Heavy Laser" 4
+		"Stubby Heavy Laser" 4
 		"nGVF-CI Integrated Fuel Cell"
 		"D41-HY Shield Generator"
 		"Integrated Greyhound Engines"
@@ -804,7 +804,7 @@ ship "Fifth Ace" "Fifth Ace A"
 
 ship "Fifth Ace" "Fifth Ace B"
 	outfits
-		"Short Range Heavy Laser Turret" 2
+		"Stubby Heavy Laser Turret" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"Supercapacitor" 2
 		"D23-QP Shield Generator"
@@ -813,8 +813,8 @@ ship "Fifth Ace" "Fifth Ace B"
 
 ship "Firebird" "Firebird A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 2
+		"Focused Laser" 4
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP144a Battery Pack"
 		"D67-TM Shield Generator"
@@ -850,7 +850,7 @@ ship "Fortress" "Fortress A"
 
 ship "Fortress" "Fortress B"
 	outfits
-		"Long Range Laser Turret" 10
+		"Focused Laser Turret" 10
 		"Fusion Reactor"
 		"LP036a Battery Pack"
 		"LP144a Battery Pack"
@@ -865,7 +865,7 @@ ship "Fortress" "Fortress B"
 
 ship "Freighter" "Freighter A"
 	outfits
-		"Short Range Heavy Laser Turret" 3
+		"Stubby Heavy Laser Turret" 3
 		"nGVF-CI Integrated Fuel Cell"
 		"Supercapacitor" 3
 		"D41-HY Shield Generator"
@@ -943,7 +943,7 @@ ship "Gidgee" "Gidgee B"
 ship "Hauler" "Hauler A"
 	outfits
 		"Energy Blaster" 2
-		"Long Range Laser Turret" 3
+		"Focused Laser Turret" 3
 		"Anti-Missile Turret"
 		"S3 Thermionic"
 		"LP072a Battery Pack"
@@ -955,7 +955,7 @@ ship "Hauler" "Hauler A"
 
 ship "Hauler" "Hauler B"
 	outfits
-		"Short Range Heavy Laser Turret" 3
+		"Stubby Heavy Laser Turret" 3
 		"Heavy Anti-Missile Turret"
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
@@ -970,7 +970,7 @@ ship "Hauler" "Hauler B"
 ship "Hauler II" "Hauler II A"
 	outfits
 		"Laser Turret"
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"Meteor Missile" 70
 		"Meteor Missile Launcher" 2
 		"Anti-Missile Turret"
@@ -998,7 +998,7 @@ ship "Hauler II" "Hauler II B"
 
 ship "Hauler III" "Hauler III A"
 	outfits
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"Sidewinder Missile" 100
 		"Sidewinder Missile Launcher" 2
 		"Anti-Missile Turret" 2
@@ -1035,7 +1035,7 @@ ship "Hauler IV A"
 
 ship "Hauler IV B"
 	outfits
-		"Long Range Laser Turret" 4
+		"Focused Laser Turret" 4
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
 		"NT-200 Nucleovoltaic"
@@ -1049,8 +1049,8 @@ ship "Hauler IV B"
 
 ship "Hauler VI A"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 4
+		"Focused Laser" 2
+		"Focused Laser Turret" 4
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1078,7 +1078,7 @@ ship "Hauler VI B"
 
 ship "Hawk" "Hawk A"
 	outfits
-		"Long Range Laser" 2
+		"Focused Laser" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1088,7 +1088,7 @@ ship "Hawk" "Hawk A"
 
 ship "Hawk" "Hawk B"
 	outfits
-		"Short Range Heavy Laser" 2
+		"Stubby Heavy Laser" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"LP036a Battery Pack"
 		"D67-TM Shield Generator"
@@ -1098,7 +1098,7 @@ ship "Hawk" "Hawk B"
 ship "Headhunter" "Headhunter A"
 	outfits
 		"Particle Cannon Turret"
-		"Short Range Heavy Laser" 2
+		"Stubby Heavy Laser" 2
 		"RT-I Radiothermal"
 		"LP072a Battery Pack"
 		"D67-TM Shield Generator"
@@ -1133,8 +1133,8 @@ ship "Heavy Dart" "Heavy Dart A"
 
 ship "Heavy Dart" "Heavy Dart B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
+		"Focused Laser" 2
+		"Focused Laser Turret" 2
 		"S3 Thermionic"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1183,7 +1183,7 @@ ship "Hellscream" "Hellscream B"
 
 ship "Hidden Blade" "Hidden Blade A"
 	outfits
-		"Short Range Heavy Laser" 3
+		"Stubby Heavy Laser" 3
 		"nGVF-CC Fuel Cell"
 		"LP036a Battery Pack"
 		"D14-RN Shield Generator"
@@ -1217,8 +1217,8 @@ ship "Junior Osprey" "Junior Osprey A"
 
 ship "Junior Osprey" "Junior Osprey B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret"
+		"Focused Laser" 2
+		"Focused Laser Turret"
 		"Anti-Missile Turret"
 		"S3 Thermionic"
 		"LP036a Battery Pack"
@@ -1244,8 +1244,8 @@ ship "Katalox" "Katalox A"
 
 ship "Katalox" "Katalox B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 5
+		"Focused Laser" 2
+		"Focused Laser Turret" 5
 		"Heavy Anti-Missile Turret"
 		"Fusion Reactor"
 		"nGVF-BB Fuel Cell"
@@ -1278,8 +1278,8 @@ ship "Leviathan" "Leviathan A"
 
 ship "Leviathan" "Leviathan B"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 4
+		"Focused Laser" 4
+		"Focused Laser Turret" 4
 		"Fusion Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1292,7 +1292,7 @@ ship "Leviathan" "Leviathan B"
 
 ship "Lifted Purse" "Lifted Purse A"
 	outfits
-		"Long Range Laser" 2
+		"Focused Laser" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer" 2
@@ -1377,7 +1377,7 @@ ship "Modified Argosy" "Modified Argosy A"
 ship "Modified Argosy" "Modified Argosy B"
 	outfits
 		"Heavy Laser" 4
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"D23-QP Shield Generator"
@@ -1403,8 +1403,8 @@ ship "Mule" "Mule A"
 
 ship "Mule" "Mule B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 3
+		"Focused Laser" 2
+		"Focused Laser Turret" 3
 		"Heavy Anti-Missile Turret"
 		"Fission Reactor"
 		"LP036a Battery Pack"
@@ -1416,8 +1416,8 @@ ship "Mule" "Mule B"
 
 ship "Osprey" "Osprey A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 2
+		"Focused Laser" 4
+		"Focused Laser Turret" 2
 		"Breeder Reactor"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1483,7 +1483,7 @@ ship "Protector" "Protector A"
 
 ship "Protector" "Protector B"
 	outfits
-		"Long Range Laser Turret" 5
+		"Focused Laser Turret" 5
 		"Anti-Missile Turret"
 		"Fusion Reactor"
 		"LP072a Battery Pack"
@@ -1526,7 +1526,7 @@ ship "Quebracho" "Quebracho B"
 
 ship "Quicksilver" "Quicksilver A"
 	outfits
-		"Long Range Laser" 2
+		"Focused Laser" 2
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1547,7 +1547,7 @@ ship "Quicksilver" "Quicksilver B"
 
 ship "Raven" "Raven A"
 	outfits
-		"Long Range Laser" 4
+		"Focused Laser" 4
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1558,7 +1558,7 @@ ship "Raven" "Raven A"
 
 ship "Raven" "Raven B"
 	outfits
-		"Short Range Heavy Laser" 4
+		"Stubby Heavy Laser" 4
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D67-TM Shield Generator"
@@ -1580,7 +1580,7 @@ ship "Rum Barrell" "Rum Barrell A"
 
 ship "Rum Barrell" "Rum Barrell B"
 	outfits
-		"Long Range Laser" 4
+		"Focused Laser" 4
 		"S3 Thermionic"
 		"LP036a Battery Pack"
 		"D23-QP Shield Generator"
@@ -1590,7 +1590,7 @@ ship "Rum Barrell" "Rum Barrell B"
 
 ship "Shuttle" "Shuttle A"
 	outfits
-		"Short Range Heavy Laser"
+		"Stubby Heavy Laser"
 		"nGVF-BI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
 		"Integrated Chipmunk Engines"
@@ -1645,8 +1645,8 @@ ship "Silver Escort" "Silver Escort A"
 
 ship "Silver Escort" "Silver Escort B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
+		"Focused Laser" 2
+		"Focused Laser Turret" 2
 		"Breeder Reactor"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1657,8 +1657,8 @@ ship "Silver Escort" "Silver Escort B"
 
 ship "Silver Protector" "Silver Protector A"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 4
+		"Focused Laser" 2
+		"Focused Laser Turret" 4
 		"Fusion Reactor"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator" 2
@@ -1681,8 +1681,8 @@ ship "Silver Protector" "Silver Protector B"
 
 ship "Silver Star" "Silver Star A"
 	outfits
-		"Long Range Laser" 4
-		"Long Range Laser Turret" 6
+		"Focused Laser" 4
+		"Focused Laser Turret" 6
 		"Fission Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1708,8 +1708,8 @@ ship "Silver Star" "Silver Star B"
 
 ship "Silver Stream"  "Silver Stream A"
 	outfits
-		"Short Range Heavy Laser" 2
-		"Short Range Heavy Laser Turret"
+		"Stubby Heavy Laser" 2
+		"Stubby Heavy Laser Turret"
 		"S3 Thermionic"
 		"LP036a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1729,21 +1729,21 @@ ship "Silver Stream"  "Silver Stream B"
 
 ship "Sparrow" "Sparrow A"
 	outfits
-		"Short Range Heavy Laser" 2
+		"Stubby Heavy Laser" 2
 		"nGVF-BI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
 		"Integrated Chipmunk Engines"
 		"Hyperdrive"
 
-ship "Sparrow MKII" "Sparrow MKII A"
+ship "Modified Sparrow" "Modified Sparrow A"
 	outfits
-		"Short Range Heavy Laser" 2
+		"Stubby Heavy Laser" 2
 		"nGVF-CI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
 		"Integrated Chipmunk Engines"
 		"Hyperdrive"
 
-ship "Sparrow MKII" "Sparrow MKII B"
+ship "Modified Sparrow" "Modified Sparrow B"
 	outfits
 		"Gatling Gun" 2
 		"Gatling Gun Ammo" 6000
@@ -1754,8 +1754,8 @@ ship "Sparrow MKII" "Sparrow MKII B"
 
 ship "Splinter" "Splinter A"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 3
+		"Focused Laser" 2
+		"Focused Laser Turret" 3
 		"RT-I Radiothermal"
 		"LP144a Battery Pack"
 		"D67-TM Shield Generator"
@@ -1802,7 +1802,7 @@ ship "Star Princess" "Star Princess A"
 
 ship "Star Princess" "Star Princess B"
 	outfits
-		"Long Range Laser Turret" 2
+		"Focused Laser Turret" 2
 		"Heavy Anti-Missile Turret"
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
@@ -1825,8 +1825,8 @@ ship "Star Queen" "Star Queen A"
 
 ship "Star Queen" "Star Queen B"
 	outfits
-		"Long Range Laser" 3
-		"Long Range Laser Turret" 2
+		"Focused Laser" 3
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"D67-TM Shield Generator"
@@ -1850,8 +1850,8 @@ ship "Stormbolt" "Stormbolt A"
 
 ship "Stormbolt" "Stormbolt B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
+		"Focused Laser" 2
+		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
 		"LP072a Battery Pack"
 		"D94-YV Shield Generator"
@@ -1876,8 +1876,8 @@ ship "Swooping Raven" "Swooping Raven A"
 
 ship "Swooping Raven" "Swooping Raven B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 2
+		"Focused Laser" 2
+		"Focused Laser Turret" 2
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
@@ -1903,8 +1903,8 @@ ship "Trailbreaker" "Trailbreaker A"
 
 ship "Trailbreaker" "Trailbreaker B"
 	outfits
-		"Long Range Laser" 8
-		"Long Range Laser Turret" 2
+		"Focused Laser" 8
+		"Focused Laser Turret" 2
 		"Fusion Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator" 2
@@ -1917,7 +1917,7 @@ ship "Trailbreaker" "Trailbreaker B"
 
 ship "Vanguard" "Vanguard A"
 	outfits
-		"Long Range Laser" 7
+		"Focused Laser" 7
 		"Anti-Missile Turret"
 		"Fusion Reactor"
 		"LP144a Battery Pack"
@@ -1944,8 +1944,8 @@ ship "Wamara" "Wamara A"
 
 ship "Wamara" "Wamara B"
 	outfits
-		"Long Range Laser" 2
-		"Long Range Laser Turret" 5
+		"Focused Laser" 2
+		"Focused Laser Turret" 5
 		"Anti-Missile Turret"
 		"Fusion Reactor"
 		"LP072a Battery Pack"
@@ -1958,7 +1958,7 @@ ship "Wamara" "Wamara B"
 
 ship "Wren" "Wren A"
 	outfits
-		"Short Range Heavy Laser Turret"
+		"Stubby Heavy Laser Turret"
 		"nGVF-CI Integrated Fuel Cell"
 		"D14-RN Shield Generator"
 		"Integrated Greyhound Engines"
@@ -1990,8 +1990,8 @@ ship "X2 Gunship" "X2 Gunship A"
 
 ship "X2 Gunship" "X2 Gunship B"
 	outfits
-		"Long Range Laser" 8
-		"Long Range Laser Turret" 3
+		"Focused Laser" 8
+		"Focused Laser Turret" 3
 		"Fission Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
@@ -2003,8 +2003,8 @@ ship "X2 Gunship" "X2 Gunship B"
 
 ship "X2E Gunship" "X2E Gunship A"
 	outfits
-		"Long Range Laser" 6
-		"Long Range Laser Turret" 3
+		"Focused Laser" 6
+		"Focused Laser Turret" 3
 		"Fission Reactor"
 		"LP144a Battery Pack"
 		"D94-YV Shield Generator"

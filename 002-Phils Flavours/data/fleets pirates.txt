@@ -303,13 +303,13 @@ fleet "pirate raid"
 	variant 1
 		"Sparrow A" 3
 	variant 1
-		"Sparrow MKII" 3
+		"Modified Sparrow" 3
 	variant 1
-		"Sparrow MKII A" 3
+		"Modified Sparrow A" 3
 	variant 1
-		"Sparrow MKII B" 3
+		"Modified Sparrow B" 3
 	variant 1
-		"Sparrow MKII" 3
+		"Modified Sparrow" 3
 	variant 2
 		"Wasp" 3
 	variant 2
@@ -372,13 +372,13 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Sparrow A"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Wren"
 	variant 1
@@ -526,20 +526,20 @@ fleet "Small Southern Pirates"
 		"Sparrow A"
 		"Sparrow (Patrol)"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow A"
 	variant 2
-		"Sparrow MKII A"
-		"Sparrow MKII"
+		"Modified Sparrow A"
+		"Modified Sparrow"
 	variant 1
-		"Sparrow MKII B"
-		"Sparrow MKII A"
+		"Modified Sparrow B"
+		"Modified Sparrow A"
 	variant 1
-		"Sparrow MKII"
-		"Sparrow MKII B"
+		"Modified Sparrow"
+		"Modified Sparrow B"
 	variant 1
 		"Wren"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Wren A"
 		"Wren"
@@ -652,21 +652,21 @@ fleet "Small Southern Pirates"
 	variant 1
 		"Sparrow (Gatling)"
 		"Sparrow (Patrol)"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Sparrow (Patrol)"
-		"Sparrow MKII"
-		"Sparrow MKII A"
+		"Modified Sparrow"
+		"Modified Sparrow A"
 	variant 1
-		"Sparrow MKII"
-		"Sparrow MKII A"
-		"Sparrow MKII B"
+		"Modified Sparrow"
+		"Modified Sparrow A"
+		"Modified Sparrow B"
 	variant 1
-		"Sparrow MKII A"
-		"Sparrow MKII B"
+		"Modified Sparrow A"
+		"Modified Sparrow B"
 		"Wren"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 		"Wren"
 		"Wren A"
 	variant 1
@@ -1237,16 +1237,16 @@ fleet "Large Southern Pirates"
 		"Elepaio" 2
 	variant 2
 		"Clipper" 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Clipper (Heavy)"
-		"Sparrow MKII A" 2
+		"Modified Sparrow A" 2
 	variant 1
 		"Clipper" 2
-		"Sparrow MKII B" 2
+		"Modified Sparrow B" 2
 	variant 1
 		"Clipper (Speedy)"
-		"Sparrow MKII" 2
+		"Modified Sparrow" 2
 	variant 1
 		"Modified Argosy" 2
 		"Sparrow"
@@ -1341,34 +1341,34 @@ fleet "Large Southern Pirates"
 	variant 2
 		"Junior Osprey" 2
 		"Elepaio"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Junior Osprey A"
 		"Elepaio A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
 		"Junior Osprey B"
 		"Elepaio B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
 		"Junior Osprey"
 		"Elepaio"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Clipper"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow" 2
 	variant 1
 		"Clipper (Heavy)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Sparrow (Gatling)"
 	variant 1
 		"Clipper"
-		"Sparrow MKII B" 2
+		"Modified Sparrow B" 2
 		"Sparrow (Patrol)"
 	variant 1
 		"Clipper (Speedy)"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow A"
 	variant 1
 		"Modified Argosy"
@@ -1455,31 +1455,31 @@ fleet "Large Southern Pirates"
 		"Hawk A"
 		"Black Hawk A"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow" 2
 		"Fury" 2
 	variant 1
-		"Sparrow MKII A" 2
+		"Modified Sparrow A" 2
 		"Sparrow (Gatling)"
 		"Fury (Gatling)"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 		"Sparrow (Patrol)" 2
 		"Fury (Laser)"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow A" 2
 		"Fury (Missile)"
 	variant 2
 		"Bastion"
 		"Elepaio"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Bastion (Heavy)"
 		"Hawk" 2
 	variant 1
 		"Bastion (Laser)"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow A" 
 	variant 1
 		"Bastion A"
@@ -1497,10 +1497,10 @@ fleet "Large Southern Pirates"
 	variant 1
 		"Osprey A"
 		"Elepaio"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Falcon"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Falcon (Heavy)"
 		"Hawk"
@@ -1512,7 +1512,7 @@ fleet "Large Southern Pirates"
 		"Fury"
 	variant 1
 		"Lignum"
-		"Sparrow MKII" 2
+		"Modified Sparrow" 2
 	variant 1
 		"Wamara"
 		"Camelthorn"
@@ -1530,8 +1530,8 @@ fleet "Large Southern Pirates"
 		"Black Hawk"
 	variant 1
 		"X2 Gunship A"
-		"Sparrow MKII"
-		"Sparrow MKII A"
+		"Modified Sparrow"
+		"Modified Sparrow A"
 	variant 1
 		"X2 Gunship B"
 		"Fury"
@@ -1649,13 +1649,13 @@ fleet "Small Core Pirates"
 	variant 1
 		"Sparrow A"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Wasp"
 	variant 1
@@ -1710,16 +1710,16 @@ fleet "Small Core Pirates"
 		"Hidden Blade"
 	variant 1
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Sparrow (Gatling)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
 		"Sparrow (Patrol)"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
 		"Sparrow A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Hawk"
 		"Wasp"
@@ -1745,16 +1745,16 @@ fleet "Small Core Pirates"
 		"Sparrow A"
 		"Wasp (Proton)"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Wasp"
 	variant 1
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Wasp (Proton)"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 		"Wasp"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Wasp (Proton)"
 	variant 1
 		"Dirty Cutlass"
@@ -1818,16 +1818,16 @@ fleet "Small Core Pirates"
 		"Sparrow A"
 	variant 1
 		"Balau"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Balau A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
 		"Balau B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
 		"Balau"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Camelthorn"
 		"Wasp"
@@ -1860,16 +1860,16 @@ fleet "Small Core Pirates"
 		"Sparrow A"
 	variant 2
 		"Heavy Dart B"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Heavy Dart"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Light Dart"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
 		"Light Dart A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Light Dart B"
 		"Wasp"
@@ -2567,13 +2567,13 @@ fleet "Small Northern Pirates"
 	variant 1
 		"Sparrow A"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 1
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Wasp"
 	variant 1
@@ -2709,7 +2709,7 @@ fleet "Small Northern Pirates"
 		"Sparrow"
 	variant 1
 		"Camelthorn"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Headhunter"
 		"Wren"
@@ -2745,7 +2745,7 @@ fleet "Small Northern Pirates"
 		"Dark Berserker"
 	variant 1
 		"Swooping Raven"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 3
 		"Berserker"
 		"Dark Berserker B"
@@ -2768,14 +2768,14 @@ fleet "Small Northern Pirates"
 		"Sparrow"
 		"Fury"
 	variant 1
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Hawk"
 	variant 1
 		"Wren"
 		"Sparrow"
 	variant 1
 		"Black Hawk A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Dark Berserker A"
 		"Wren"
@@ -2804,14 +2804,14 @@ fleet "Small Northern Pirates"
 		"Dark Berserker"
 		"Fury (Gatling)"
 	variant 1
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Elepaio A"
 	variant 1
 		"Wren A"
 		"Dark Berserker"
 	variant 1
 		"Sparrow (Patrol)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Dark Berserker B"
 		"Wren A"

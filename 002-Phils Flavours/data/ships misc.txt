@@ -11,7 +11,7 @@
 shipyard "Tarazed Basics"
 	"Junior Osprey"
 	"Wren"
-	"Sparrow MKII"
+	"Modified Sparrow"
 	"Elepaio"
 	"Black Hawk"
 
@@ -647,7 +647,7 @@ ship "Elepaio"
 			"hit force" 435
 
 	outfits
-		"Long Range Laser" 4
+		"Focused Laser" 4
 
 		"nGVF-CI Integrated Fuel Cell"
 		"D14-RN Shield Generator"
@@ -657,16 +657,16 @@ ship "Elepaio"
 
 	engine -9 41
 	engine 9 41
-	gun -34.5 -14.5 "Long Range Laser"
-	gun 34.5 -14.5 "Long Range Laser"
-	gun -22.5 -23 "Long Range Laser"
-	gun 22.5 -23 "Long Range Laser"
+	gun -34.5 -14.5 "Focused Laser"
+	gun 34.5 -14.5 "Focused Laser"
+	gun -22.5 -23 "Focused Laser"
+	gun 22.5 -23 "Focused Laser"
 	explode "tiny explosion" 45
 	explode "small explosion" 25
-	description "The obvious step up from the sparrow, the Elepaio is a large interceptor that features four gun ports that can each hold a long range laser. It has more shielding, a stronger hull and better energy generation than its smaller sibling."
+	description "The obvious step up from the sparrow, the Elepaio is a large interceptor that features four gun ports that can each hold a focused laser. It has more shielding, a stronger hull and better energy generation than its smaller sibling."
 
-ship "Sparrow MKII"
-	sprite "ship/sparrow mkii"
+ship "Modified Sparrow"
+	sprite "ship/Modified Sparrow"
 	attributes
 		category "Interceptor"
 		"cost" 400000
@@ -690,7 +690,7 @@ ship "Sparrow MKII"
 			"hit force" 375
 
 	outfits
-		"Long Range Laser" 2
+		"Focused Laser" 2
 
 		"nGVF-BI Integrated Fuel Cell"
 		"D23-QP Shield Generator"
@@ -701,8 +701,8 @@ ship "Sparrow MKII"
 
 	engine -5.5 36
 	engine 5.5 36
-	gun -6.5 -7 "Long Range Laser"
-	gun 6.5 -7 "Long Range Laser"
+	gun -6.5 -7 "Focused Laser"
+	gun 6.5 -7 "Focused Laser"
 	explode "tiny explosion" 45
 	explode "small explosion" 15
 	description "The Mark II is fractionally bigger and stronger than the original with improved shields, cargo space, fuel and weapon space."

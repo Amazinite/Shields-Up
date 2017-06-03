@@ -154,16 +154,16 @@ fleet "Small Southern Merchants"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Silver Stream A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 3
 		"Silver Stream B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -220,24 +220,24 @@ fleet "Small Southern Merchants"
 		"Arrowhead B"
 	variant 2
 		"Flivver"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow"
 	variant 2
 		"Flivver (Racing)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Sparrow (Patrol)"
 	variant 2
 		"Heavy Shuttle"
 		"Sparrow (Patrol)"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Scout"
 		"Hawk (Rocket)"
@@ -248,16 +248,16 @@ fleet "Small Southern Merchants"
 		"Hawk A"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Shuttle A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Shuttle B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -582,7 +582,7 @@ fleet "Small Southern Merchants"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"3500X2 Freight A"
 		"Wasp"
@@ -615,7 +615,7 @@ fleet "Small Southern Merchants"
 		"Sparrow (Patrol)"
 	variant 2
 		"Clipper"
-		"Sparrow MKII A" 3
+		"Modified Sparrow A" 3
 	variant 2
 		"Clipper (Speedy)"
 		"Wren A"
@@ -630,8 +630,8 @@ fleet "Small Southern Merchants"
 		"Balau"
 	variant 2
 		"Camelthorn"
-		"Sparrow MKII"
-		"Sparrow MKII A"
+		"Modified Sparrow"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
 		"Wasp (Proton)"
@@ -646,7 +646,7 @@ fleet "Small Southern Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -725,7 +725,7 @@ fleet "Small Southern Merchants"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -755,10 +755,10 @@ fleet "Small Southern Merchants"
 	variant 2
 		"3500X2 Freight"
 		"Hawk"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -792,7 +792,7 @@ fleet "Small Southern Merchants"
 		"Elepaio A"
 	variant 2
 		"Star Barge (Armed)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Star Barge A"
 	variant 2
 		"Buried Chest"
@@ -910,13 +910,13 @@ fleet "Small Southern Merchants"
 	variant 2
 		"Sparrow A"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Wasp"
 	variant 2
@@ -1204,16 +1204,16 @@ fleet "Small Core Merchants"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Silver Stream A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 3
 		"Silver Stream B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -1270,24 +1270,24 @@ fleet "Small Core Merchants"
 		"Arrowhead B"
 	variant 2
 		"Flivver"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow"
 	variant 2
 		"Flivver (Racing)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Sparrow (Patrol)"
 	variant 2
 		"Heavy Shuttle"
 		"Sparrow (Patrol)"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Scout"
 		"Hawk (Rocket)"
@@ -1298,16 +1298,16 @@ fleet "Small Core Merchants"
 		"Hawk A"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Shuttle A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Shuttle B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -1632,7 +1632,7 @@ fleet "Small Core Merchants"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"3500X2 Freight A"
 		"Wasp"
@@ -1665,7 +1665,7 @@ fleet "Small Core Merchants"
 		"Sparrow (Patrol)"
 	variant 2
 		"Clipper"
-		"Sparrow MKII A" 2
+		"Modified Sparrow A" 2
 	variant 2
 		"Clipper (Speedy)"
 		"Wren A"
@@ -1680,8 +1680,8 @@ fleet "Small Core Merchants"
 		"Balau"
 	variant 2
 		"Camelthorn"
-		"Sparrow MKII"
-		"Sparrow MKII A"
+		"Modified Sparrow"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
 		"Wasp (Proton)"
@@ -1696,7 +1696,7 @@ fleet "Small Core Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -1775,7 +1775,7 @@ fleet "Small Core Merchants"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -1805,10 +1805,10 @@ fleet "Small Core Merchants"
 	variant 2
 		"3500X2 Freight"
 		"Hawk"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -1842,7 +1842,7 @@ fleet "Small Core Merchants"
 		"Elepaio A"
 	variant 2
 		"Star Barge (Armed)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Star Barge A"
 	variant 2
 		"Buried Chest"
@@ -1960,13 +1960,13 @@ fleet "Small Core Merchants"
 	variant 2
 		"Sparrow A"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Wasp"
 	variant 2
@@ -2254,16 +2254,16 @@ fleet "Small Northern Merchants"
 		"Sparrow A"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Silver Stream A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 3
 		"Silver Stream B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 3
 		"Silver Stream"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 3
 		"Star Princess"
 		"Wren"
@@ -2320,24 +2320,24 @@ fleet "Small Northern Merchants"
 		"Arrowhead B"
 	variant 2
 		"Flivver"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Sparrow"
 	variant 2
 		"Flivver (Racing)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Sparrow (Patrol)"
 	variant 2
 		"Heavy Shuttle"
 		"Sparrow (Patrol)"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Heavy Shuttle (Armed)"
 		"Sparrow A"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Heavy Shuttle A"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Scout"
 		"Hawk (Rocket)"
@@ -2348,16 +2348,16 @@ fleet "Small Northern Merchants"
 		"Hawk A"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Shuttle A"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Shuttle B"
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
 		"Shuttle"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Silver Stream"
 		"Silver Escort"
@@ -2682,7 +2682,7 @@ fleet "Small Northern Merchants"
 		"Sparrow"
 	variant 2
 		"3500X2 Freight"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"3500X2 Freight A"
 		"Wasp"
@@ -2715,7 +2715,7 @@ fleet "Small Northern Merchants"
 		"Sparrow (Patrol)"
 	variant 2
 		"Clipper"
-		"Sparrow MKII A" 2
+		"Modified Sparrow A" 2
 	variant 2
 		"Clipper (Speedy)"
 		"Wren A"
@@ -2730,8 +2730,8 @@ fleet "Small Northern Merchants"
 		"Balau"
 	variant 2
 		"Camelthorn"
-		"Sparrow MKII"
-		"Sparrow MKII A"
+		"Modified Sparrow"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
 		"Wasp (Proton)"
@@ -2746,7 +2746,7 @@ fleet "Small Northern Merchants"
 		"Dark Berserker"
 	variant 2
 		"Star Barge"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Star Barge (Armed)"
 		"Sparrow A"
@@ -2825,7 +2825,7 @@ fleet "Small Northern Merchants"
 	variant 2
 		"3000X2 Freight"
 		"Berserker"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"3000X2 Freight B"
 	variant 2
 		"3000X2 Freight A"
@@ -2855,10 +2855,10 @@ fleet "Small Northern Merchants"
 	variant 2
 		"3500X2 Freight"
 		"Hawk"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
 		"Freighter"
-		"Sparrow MKII"
+		"Modified Sparrow"
 		"Freighter A"
 		"Wasp"
 	variant 2
@@ -2892,7 +2892,7 @@ fleet "Small Northern Merchants"
 		"Elepaio A"
 	variant 2
 		"Star Barge (Armed)"
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 		"Star Barge A"
 	variant 2
 		"Buried Chest"
@@ -3010,13 +3010,13 @@ fleet "Small Northern Merchants"
 	variant 2
 		"Sparrow A"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
-		"Sparrow MKII A"
+		"Modified Sparrow A"
 	variant 2
-		"Sparrow MKII B"
+		"Modified Sparrow B"
 	variant 2
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Wasp"
 	variant 2
@@ -3464,7 +3464,7 @@ fleet "Large Southern Merchants"
 		"Shuttle A" 4
 		"Shuttle" 4
 		"Sparrow" 2
-		"Sparrow MKII" 2
+		"Modified Sparrow" 2
 	variant 3
 		"Silver Stream"
 		"Silver Stream B"
@@ -3633,7 +3633,7 @@ fleet "Large Southern Merchants"
 		"Bulk Freighter (Blaster)"
 		"Clipper"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Bulk Freighter (Heavy)"
 		"Headhunter"
@@ -3756,7 +3756,7 @@ fleet "Large Southern Merchants"
 		"Bactrian"
 		"Dagger" 3
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Bactrian A"
 		"Dagger" 3
@@ -4337,7 +4337,7 @@ fleet "Large Core Merchants"
 		"Shuttle A" 4
 		"Shuttle" 4
 		"Sparrow" 2
-		"Sparrow MKII" 2
+		"Modified Sparrow" 2
 	variant 3
 		"Silver Stream"
 		"Silver Stream B"
@@ -4506,7 +4506,7 @@ fleet "Large Core Merchants"
 		"Bulk Freighter (Blaster)"
 		"Clipper"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Bulk Freighter (Heavy)"
 		"Headhunter"
@@ -4629,7 +4629,7 @@ fleet "Large Core Merchants"
 		"Bactrian"
 		"Dagger" 3
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Bactrian A"
 		"Dagger" 3
@@ -5210,7 +5210,7 @@ fleet "Large Northern Merchants"
 		"Shuttle A" 4
 		"Shuttle" 4
 		"Sparrow" 2
-		"Sparrow MKII" 2
+		"Modified Sparrow" 2
 	variant 3
 		"Silver Stream"
 		"Silver Stream B"
@@ -5379,7 +5379,7 @@ fleet "Large Northern Merchants"
 		"Bulk Freighter (Blaster)"
 		"Clipper"
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 2
 		"Bulk Freighter (Heavy)"
 		"Headhunter"
@@ -5502,7 +5502,7 @@ fleet "Large Northern Merchants"
 		"Bactrian"
 		"Dagger" 3
 		"Sparrow"
-		"Sparrow MKII"
+		"Modified Sparrow"
 	variant 1
 		"Bactrian A"
 		"Dagger" 3

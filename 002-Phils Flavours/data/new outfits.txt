@@ -179,7 +179,7 @@ outfit "Integrated Greyhound Engines"
 	"flare sound" "plasma small"
 	description "The largest of the integrated engines that combines both thrusters and steering capabilities. This system delivers almost the same power as seperate engines but reduces the outfit and engine space needed. It is however also more expensive and less heat efficient."
 	
-outfit "Short Range Heavy Laser"
+outfit "Stubby Heavy Laser"
 	category "Guns"
 	cost 40000
 	thumbnail "outfit/short heavy laser"
@@ -202,7 +202,7 @@ outfit "Short Range Heavy Laser"
 		"hull damage" 2.3
 	description "Early attempts to make a stronger beam laser resulted in many variations including these weapons that would now be called a short range heavy laser. While they only have half the range of their more modern counterparts they use less space and still pack quite a punch."
 
-outfit "Short Range Heavy Laser Turret"
+outfit "Stubby Heavy Laser Turret"
 	category "Turrets"
 	cost 190000
 	thumbnail "outfit/short heavy laser turret"
@@ -226,7 +226,7 @@ outfit "Short Range Heavy Laser Turret"
 		"hull damage" 4.6
 	description "A modern turret fitted with two short range heavy lasers provides an extremely effective deterrent to boarding craft and close up enemies."
 
-outfit "Long Range Laser"
+outfit "Focused Laser"
 	category "Guns"
 	cost 62000
 	thumbnail "outfit/long laser"
@@ -249,7 +249,7 @@ outfit "Long Range Laser"
 		"hull damage" 1.25
 	description "While using more space and energy, the long range laser provides the almost the same effectiveness as the beam laser with twice the range"
 
-outfit "Long Range Laser Turret"
+outfit "Focused Laser Turret"
 	category "Turrets"
 	cost 320000
 	thumbnail "outfit/long laser turret"
@@ -284,6 +284,3 @@ outfit "AR250 Reverse Thruster"
 	"reverse thrusting energy" 3.1
 	"reverse thrusting heat" 6.1
 	description "A larger version of the reverse thruster that allows a ship to accelerate backwards, without needing to turn around. Because a reverse thruster must be facing forwards, it must be installed in the weapon section of the ship which generally limits this device to large ships."
-
-
-	
