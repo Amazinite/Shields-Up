@@ -1057,7 +1057,10 @@ planet Puggldute
 	attributes pug
 	landscape land/sky2
 	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on pricisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
-	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
+	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall.`
+	"required reputation" -1e+99
+	bribe 0
+	fine 0
 
 planet "Rock Far"
 	attributes absconded uninhabited
