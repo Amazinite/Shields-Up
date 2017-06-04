@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "3000X2 Freight" "3000X2 Freight A"
+ship "3000X2 Freight" "3000X2 Freight (Focused)"
 	outfits
 		"Focused Laser Turret"
 		"Anti-Missile Turret"
@@ -22,7 +22,7 @@ ship "3000X2 Freight" "3000X2 Freight A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "3000X2 Freight" "3000X2 Freight B"
+ship "3000X2 Freight" "3000X2 Freight (Heavy)"
 	outfits
 		"Heavy Laser"
 		"Heavy Laser Turret"
@@ -33,7 +33,7 @@ ship "3000X2 Freight" "3000X2 Freight B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "3500X2 Freight" "3500X2 Freight A"
+ship "3500X2 Freight" "3500X2 Freight (Focused)"
 	outfits
 		"Focused Laser"
 		"Heavy Laser Turret" 2
@@ -46,7 +46,7 @@ ship "3500X2 Freight" "3500X2 Freight A"
 		"Impala Plasma Steering"
 		"Scram Drive"
 
-ship "3500X2 Freight" "3500X2 Freight B"
+ship "3500X2 Freight" "3500X2 Freight (Particle)"
 	outfits
 		"Focused Laser"
 		"Particle Cannon Turret" 2
@@ -59,7 +59,7 @@ ship "3500X2 Freight" "3500X2 Freight B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "4500X2 Freight"  "4500X2 Freight A"
+ship "4500X2 Freight"  "4500X2 Freight (Heavy)"
 	outfits
 		"Energy Blaster"
 		"Heavy Laser Turret" 3
@@ -71,7 +71,7 @@ ship "4500X2 Freight"  "4500X2 Freight A"
 		"Impala Plasma Steering"
 		"Scram Drive"
 
-ship "4500X2 Freight" "4500X2 Freight B"
+ship "4500X2 Freight" "4500X2 Freight (Particle)"
 	outfits
 		"Particle Cannon Turret" 3
 		"Breeder Reactor"
@@ -83,7 +83,7 @@ ship "4500X2 Freight" "4500X2 Freight B"
 		"A375 Atomic Steering"
 		"Scram Drive"
 
-ship "4500X2A Freight" "4500X2A Freight A"
+ship "4500X2A Freight" "4500X2A Freight (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 3
@@ -97,7 +97,7 @@ ship "4500X2A Freight" "4500X2A Freight A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "4500X2A Freight" "4500X2A Freight B"
+ship "4500X2A Freight" "4500X2A Freight (Heavy)"
 	outfits
 		"Heavy Laser" 4
 		"Heavy Laser Turret" 2
@@ -110,7 +110,7 @@ ship "4500X2A Freight" "4500X2A Freight B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "4500X2 Gunship" "4500X2 Gunship A"
+ship "4500X2 Gunship" "4500X2 Gunship (Particle)"
 	outfits
 		"Heavy Laser" 8
 		"Particle Cannon Turret" 2
@@ -122,7 +122,7 @@ ship "4500X2 Gunship" "4500X2 Gunship A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "4500X2 Gunship" "4500X2 Gunship B"
+ship "4500X2 Gunship" "4500X2 Gunship (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Laser Turret"
@@ -136,7 +136,7 @@ ship "4500X2 Gunship" "4500X2 Gunship B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "7000X2S Freight" "7000X2S Freight A"
+ship "7000X2S Freight" "7000X2S Freight (Particle)"
 	outfits
 		"Particle Cannon Turret" 6
 		"Breeder Reactor"
@@ -147,7 +147,7 @@ ship "7000X2S Freight" "7000X2S Freight A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "7000X2S Freight" "7000X2S Freight B"
+ship "7000X2S Freight" "7000X2S Freight (Focused)"
 	outfits
 		"Focused Laser Turret" 6
 		"Fission Reactor"
@@ -158,7 +158,7 @@ ship "7000X2S Freight" "7000X2S Freight B"
 		"Orca Plasma Steering"
 		"Hyperdrive"
 
-ship "8500X2S Freight" "8500X2S Freight A"
+ship "8500X2S Freight" "8500X2S Freight (Particle)"
 	outfits
 		"Particle Cannon Turret" 6
 		"Heavy Anti-Missile Turret" 2
@@ -171,7 +171,7 @@ ship "8500X2S Freight" "8500X2S Freight A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "8500X2S Freight" "8500X2S Freight B"
+ship "8500X2S Freight" "8500X2S Freight (Focused)"
 	outfits
 		"Focused Laser Turret" 8
 		"Fission Reactor"
@@ -183,7 +183,7 @@ ship "8500X2S Freight" "8500X2S Freight B"
 		"Orca Plasma Steering"
 		"Hyperdrive"
 
-ship "10000X2S Freight" "10000X2S Freight A"
+ship "10000X2S Freight" "10000X2S Freight (Particle)"
 	outfits
 		"Particle Cannon Turret" 7
 		"Heavy Anti-Missile Turret"
@@ -196,7 +196,7 @@ ship "10000X2S Freight" "10000X2S Freight A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "10000X2S Freight" "10000X2S Freight B"
+ship "10000X2S Freight" "10000X2S Freight (Focused)"
 	outfits
 		"Focused Laser Turret" 6
 		"Heavy Anti-Missile Turret" 2
@@ -208,7 +208,7 @@ ship "10000X2S Freight" "10000X2S Freight B"
 		"Orca Plasma Steering"
 		"Hyperdrive"
 
-ship "Aerie" "Aerie A"
+ship "Aerie" "Aerie (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 3
@@ -221,7 +221,7 @@ ship "Aerie" "Aerie A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Aerie" "Aerie B"
+ship "Aerie" "Aerie (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 3
@@ -247,7 +247,7 @@ ship  "Alliance Battleship" "Alliance Battleship (Mark II)"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Arrow" "Arrow A"
+ship "Arrow" "Arrow (Missiles)"
 	outfits
 		"Laser Turret"
 		"Sidewinder Missile Launcher" 2
@@ -257,7 +257,7 @@ ship "Arrow" "Arrow A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Arrow" "Arrow B"
+ship "Arrow" "Arrow (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 2
 		"Stubby Heavy Laser Turret"
@@ -268,7 +268,7 @@ ship "Arrow" "Arrow B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Arrowhead" "Arrowhead A"
+ship "Arrowhead" "Arrowhead (Focused)"
 	outfits
 		"Focused Laser Turret" 2
 		"Anti-Missile Turret"
@@ -278,7 +278,7 @@ ship "Arrowhead" "Arrowhead A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Arrowhead" "Arrowhead B"
+ship "Arrowhead" "Arrowhead (Particle)"
 	outfits
 		"Particle Cannon Turret" 2
 		"Anti-Missile Turret"
@@ -290,7 +290,7 @@ ship "Arrowhead" "Arrowhead B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Bactrian" "Bactrian A"
+ship "Bactrian" "Bactrian (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 5
@@ -307,7 +307,7 @@ ship "Bactrian" "Bactrian A"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Bactrian" "Bactrian B"
+ship "Bactrian" "Bactrian (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 5
@@ -321,7 +321,7 @@ ship "Bactrian" "Bactrian B"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Balau" "Balau A"
+ship "Balau" "Balau (Particle)"
 	outfits
 		"Particle Cannon" 2
 		"Particle Cannon Turret" 2
@@ -334,7 +334,7 @@ ship "Balau" "Balau A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Balau" "Balau B"
+ship "Balau" "Balau (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 2
@@ -350,7 +350,7 @@ ship "Balau" "Balau B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Bastion" "Bastion A"
+ship "Bastion" "Bastion (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 3
@@ -365,7 +365,7 @@ ship "Bastion" "Bastion A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Bastion" "Bastion B"
+ship "Bastion" "Bastion (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 3
@@ -380,7 +380,7 @@ ship "Bastion" "Bastion B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Behemoth" "Behemoth A"
+ship "Behemoth" "Behemoth (Particle)"
 	outfits
 		"Particle Cannon Turret" 4
 		"Heavy Anti-Missile Turret" 2
@@ -395,7 +395,7 @@ ship "Behemoth" "Behemoth A"
 		"X1200 Ion Steering"
 		"Scram Drive"
 
-ship Behemoth "Behemoth B"
+ship Behemoth "Behemoth (Focused)"
 	outfits
 		"Focused Laser Turret" 4
 		"Heavy Anti-Missile Turret" 2
@@ -409,7 +409,7 @@ ship Behemoth "Behemoth B"
 		"A375 Atomic Steering"
 		"Scram Drive"
 
-ship "Blackbird" "Blackbird A"
+ship "Blackbird" "Blackbird (Particle)"
 	outfits
 		"Particle Cannon Turret" 2
 		"Fission Reactor"
@@ -421,7 +421,7 @@ ship "Blackbird" "Blackbird A"
 		"Impala Plasma Thruster"
 		"Hyperdrive"
 
-ship "Blackbird" "Blackbird B"
+ship "Blackbird" "Blackbird (Focused)"
 	outfits
 		"Focused Laser Turret" 2
 		"NT-200 Nucleovoltaic"
@@ -434,7 +434,7 @@ ship "Blackbird" "Blackbird B"
 		"Impala Plasma Thruster"
 		"Hyperdrive"
 
-ship "Black Hawk" "Black Hawk A"
+ship "Black Hawk" "Black Hawk (Particle)"
 	outfits
 		"Particle Cannon" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -443,7 +443,7 @@ ship "Black Hawk" "Black Hawk A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Black Hawk" "Black Hawk B"
+ship "Black Hawk" "Black Hawk (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"S3 Thermionic"
@@ -454,7 +454,7 @@ ship "Black Hawk" "Black Hawk B"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Black Star" "Black Star A"
+ship "Black Star" "Black Star (Heavy)"
 	outfits
 		"Heavy Laser" 4
 		"Heavy Laser Turret" 4
@@ -468,7 +468,7 @@ ship "Black Star" "Black Star A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Black Star" "Black Star B"
+ship "Black Star" "Black Star (Particle)"
 	outfits
 		"Particle Cannon Turret" 3
 		"Heavy Anti-Missile Turret"
@@ -484,7 +484,7 @@ ship "Black Star" "Black Star B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Bounder" "Bounder A"
+ship "Bounder" "Bounder (Blasters)"
 	outfits
 		"Quad Blaster Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -492,7 +492,7 @@ ship "Bounder" "Bounder A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Bounder" "Bounder B"
+ship "Bounder" "Bounder (Stubby)"
 	outfits
 		"Stubby Heavy Laser Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -501,7 +501,7 @@ ship "Bounder" "Bounder B"
 		"X3200 Ion Steering"
 		"Hyperdrive"
 
-ship "Bulk Freighter" "Bulk Freighter A" 
+ship "Bulk Freighter" "Bulk Freighter (Focused)" 
 	outfits
 		"Focused Laser Turret" 3
 		"Anti-Missile Turret" 2
@@ -514,7 +514,7 @@ ship "Bulk Freighter" "Bulk Freighter A"
 		"X3200 Ion Steering"
 		"Scram Drive"
 
-ship "Bulk Freighter" "Bulk Freighter B" 
+ship "Bulk Freighter" "Bulk Freighter (Particle)" 
 	outfits
 		"Particle Cannon Turret" 4
 		"Meteor Missile" 70
@@ -526,7 +526,7 @@ ship "Bulk Freighter" "Bulk Freighter B"
 		"A255 Atomic Steering"
 		"Scram Drive"
 
-ship "Buried Chest" "Buried Chest A"
+ship "Buried Chest" "Buried Chest (Focused)"
 	outfits
 		"Focused Laser" 4
 		"S3 Thermionic"
@@ -537,7 +537,7 @@ ship "Buried Chest" "Buried Chest A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Buried Chest" "Buried Chest B"
+ship "Buried Chest" "Buried Chest (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Fission Reactor"
@@ -549,7 +549,7 @@ ship "Buried Chest" "Buried Chest B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Camelthorn" "Camelthorn A"
+ship "Camelthorn" "Camelthorn (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 2
@@ -561,7 +561,7 @@ ship "Camelthorn" "Camelthorn A"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Camelthorn" "Camelthorn B"
+ship "Camelthorn" "Camelthorn (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 2
@@ -575,7 +575,7 @@ ship "Camelthorn" "Camelthorn B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Captain's Hoard" "Captain's Hoard A"
+ship "Captain's Hoard" "Captain's Hoard (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 2
@@ -586,7 +586,7 @@ ship "Captain's Hoard" "Captain's Hoard A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Captain's Hoard" "Captain's Hoard B"
+ship "Captain's Hoard" "Captain's Hoard (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Laser Turret"
@@ -599,7 +599,7 @@ ship "Captain's Hoard" "Captain's Hoard B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Cebil" "Cebil A"
+ship "Cebil" "Cebil (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Laser Turret"
@@ -612,7 +612,7 @@ ship "Cebil" "Cebil A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Cebil" "Cebil B"
+ship "Cebil" "Cebil (Proton)"
 	outfits
 		"Proton Gun" 4
 		"Laser Turret" 2
@@ -624,7 +624,7 @@ ship "Cebil" "Cebil B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Corvette" "Corvette A"
+ship "Corvette" "Corvette (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 2
@@ -636,7 +636,7 @@ ship "Corvette" "Corvette A"
 		"X3200 Ion Steering"
 		"Hyperdrive"
 
-ship "Corvette" "Corvette B"
+ship "Corvette" "Corvette (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 2
@@ -650,7 +650,7 @@ ship "Corvette" "Corvette B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Damned Executioner" "Damned Executioner A"
+ship "Damned Executioner" "Damned Executioner (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret"
@@ -662,7 +662,7 @@ ship "Damned Executioner" "Damned Executioner A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Damned Executioner" "Damned Executioner B"
+ship "Damned Executioner" "Damned Executioner (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Anti-Missile Turret"
@@ -674,7 +674,7 @@ ship "Damned Executioner" "Damned Executioner B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Dark Berserker" "Dark Berserker A"
+ship "Dark Berserker" "Dark Berserker (Gatling)"
 	outfits
 		"Gatling Gun Ammo" 12000
 		"Gatling Gun" 4
@@ -685,7 +685,7 @@ ship "Dark Berserker" "Dark Berserker A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Dark Berserker" "Dark Berserker B"
+ship "Dark Berserker" "Dark Berserker (Missiles)"
 	outfits
 		"Beam Laser" 2
 		"Meteor Missile Launcher" 2
@@ -695,7 +695,7 @@ ship "Dark Berserker" "Dark Berserker B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Deceitful Hangman" "Deceitful Hangman A"
+ship "Deceitful Hangman" "Deceitful Hangman (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret"
@@ -708,7 +708,7 @@ ship "Deceitful Hangman" "Deceitful Hangman A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Deceitful Hangman" "Deceitful Hangman B"
+ship "Deceitful Hangman" "Deceitful Hangman (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret"
@@ -718,7 +718,7 @@ ship "Deceitful Hangman" "Deceitful Hangman B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Deceptive Lover" "Deceptive Lover A"
+ship "Deceptive Lover" "Deceptive Lover (Heavy)"
 	outfits
 		"Heavy Laser" 6
 		"Fission Reactor"
@@ -731,7 +731,7 @@ ship "Deceptive Lover" "Deceptive Lover A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Deceptive Lover" "Deceptive Lover B"
+ship "Deceptive Lover" "Deceptive Lover (Proton)"
 	outfits
 		"Proton Gun" 6
 		"Fission Reactor"
@@ -757,7 +757,7 @@ ship "Destroyer" "Destroyer (Mark II)"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Dirty Cutlass" "Dirty Cutlass A"
+ship "Dirty Cutlass" "Dirty Cutlass (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"Sidewinder Missile Launcher" 2
@@ -767,7 +767,7 @@ ship "Dirty Cutlass" "Dirty Cutlass A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Dirty Cutlass" "Dirty Cutlass B"
+ship "Dirty Cutlass" "Dirty Cutlass (Missiles)"
 	outfits
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
@@ -779,7 +779,7 @@ ship "Dirty Cutlass" "Dirty Cutlass B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Elepaio" "Elepaio A"
+ship "Elepaio" "Elepaio (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 4
 		"nGVF-CI Hybrid Fuel Cell"
@@ -787,7 +787,7 @@ ship "Elepaio" "Elepaio A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Elepaio" "Elepaio B"
+ship "Elepaio" "Elepaio (Gatling)"
 	outfits
 		"Gatling Gun" 4
 		"Gatling Gun Ammo" 12000
@@ -797,7 +797,7 @@ ship "Elepaio" "Elepaio B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Fearless Assassin" "Fearless Assassin A"
+ship "Fearless Assassin" "Fearless Assassin (Particle)"
 	outfits
 		"Particle Cannon" 4
 		"Particle Cannon Turret"
@@ -809,7 +809,7 @@ ship "Fearless Assassin" "Fearless Assassin A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Fearless Assassin" "Fearless Assassin B"
+ship "Fearless Assassin" "Fearless Assassin (Gatling)"
 	outfits
 		"Heavy Laser Turret"
 		"Gatling Gun" 4
@@ -822,7 +822,7 @@ ship "Fearless Assassin" "Fearless Assassin B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Fifth Ace" "Fifth Ace A"
+ship "Fifth Ace" "Fifth Ace (Laser)"
 	outfits
 		"Laser Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -831,7 +831,7 @@ ship "Fifth Ace" "Fifth Ace A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Fifth Ace" "Fifth Ace B"
+ship "Fifth Ace" "Fifth Ace (Stubby)"
 	outfits
 		"Stubby Heavy Laser Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -840,7 +840,7 @@ ship "Fifth Ace" "Fifth Ace B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Firebird" "Firebird A"
+ship "Firebird" "Firebird (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 2
@@ -853,7 +853,7 @@ ship "Firebird" "Firebird A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Firebird" "Firebird B"
+ship "Firebird" "Firebird (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 2
@@ -865,7 +865,7 @@ ship "Firebird" "Firebird B"
 		"X3200 Ion Steering"
 		"Hyperdrive"
 
-ship "Fortress" "Fortress A"
+ship "Fortress" "Fortress (Particle)"
 	outfits
 		"Particle Cannon Turret" 10
 		"Fusion Reactor"
@@ -877,7 +877,7 @@ ship "Fortress" "Fortress A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Fortress" "Fortress B"
+ship "Fortress" "Fortress (Focused)"
 	outfits
 		"Focused Laser Turret" 10
 		"Fusion Reactor"
@@ -892,7 +892,7 @@ ship "Fortress" "Fortress B"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Freighter" "Freighter A"
+ship "Freighter" "Freighter (Stubby)"
 	outfits
 		"Stubby Heavy Laser Turret" 3
 		"nGVF-CI Hybrid Fuel Cell"
@@ -902,7 +902,7 @@ ship "Freighter" "Freighter A"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Freighter" "Freighter B"
+ship "Freighter" "Freighter (Particle)"
 	outfits
 		"Particle Cannon Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -912,7 +912,7 @@ ship "Freighter" "Freighter B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Gargoyle A"
+ship "Gargoyle (Particle)"
 	outfits
 		"Particle Cannon Turret" 4
 		"Sidewinder Missile Launcher" 2
@@ -927,7 +927,7 @@ ship "Gargoyle A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Gargoyle B"
+ship "Gargoyle (Heavy)"
 	outfits
 		"Heavy Laser Turret" 4
 		"Meteor Missile Launcher" 2
@@ -941,7 +941,7 @@ ship "Gargoyle B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Gidgee" "Gidgee A"
+ship "Gidgee" "Gidgee (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 4
@@ -955,7 +955,7 @@ ship "Gidgee" "Gidgee A"
 		"A125 Atomic Steering"
 		"Hyperdrive"
 
-ship "Gidgee" "Gidgee B"
+ship "Gidgee" "Gidgee (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Heavy Laser Turret" 2
@@ -982,7 +982,7 @@ ship "Gunboat GXV2" "Gunboat GXV2 (Mark II)"
 		"X3200 Ion Steering"
 		"Hyperdrive"
 
-ship "Hauler" "Hauler A"
+ship "Hauler" "Hauler (Focused)"
 	outfits
 		"Energy Blaster" 2
 		"Focused Laser Turret" 3
@@ -995,7 +995,7 @@ ship "Hauler" "Hauler A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Hauler" "Hauler B"
+ship "Hauler" "Hauler (Stubby)"
 	outfits
 		"Stubby Heavy Laser Turret" 3
 		"Heavy Anti-Missile Turret"
@@ -1009,7 +1009,7 @@ ship "Hauler" "Hauler B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Hauler II" "Hauler II A"
+ship "Hauler II" "Hauler II (Focused)"
 	outfits
 		"Laser Turret"
 		"Focused Laser Turret" 2
@@ -1024,7 +1024,7 @@ ship "Hauler II" "Hauler II A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hauler II" "Hauler II B"
+ship "Hauler II" "Hauler II (Particle)"
 	outfits
 		"Particle Cannon Turret" 3
 		"Meteor Missile" 70
@@ -1038,7 +1038,7 @@ ship "Hauler II" "Hauler II B"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hauler III" "Hauler III A"
+ship "Hauler III" "Hauler III (Focused)"
 	outfits
 		"Focused Laser Turret" 2
 		"Sidewinder Missile" 100
@@ -1051,7 +1051,7 @@ ship "Hauler III" "Hauler III A"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hauler III" "Hauler III B"
+ship "Hauler III" "Hauler III (Particle)"
 	outfits
 		"Particle Cannon Turret" 3
 		"Anti-Missile Turret"
@@ -1062,7 +1062,7 @@ ship "Hauler III" "Hauler III B"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hauler IV A"
+ship "Hauler IV" "Hauler IV (Heavy)"
 	outfits
 		"Heavy Laser Turret" 4
 		"Meteor Missile Launcher" 2
@@ -1075,7 +1075,7 @@ ship "Hauler IV A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Hauler IV B"
+ship "Hauler IV" "Hauler IV (Focused)"
 	outfits
 		"Focused Laser Turret" 4
 		"Sidewinder Missile Launcher" 2
@@ -1089,7 +1089,7 @@ ship "Hauler IV B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hauler VI A"
+ship "Hauler VI" "Hauler VI (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 4
@@ -1101,7 +1101,7 @@ ship "Hauler VI A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Hauler VI B"
+ship "Hauler VI" "Hauler VI (Particle)"
 	outfits
 		"Particle Cannon Turret" 4
 		"Meteor Missile Launcher" 2
@@ -1118,7 +1118,7 @@ ship "Hauler VI B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Hawk" "Hawk A"
+ship "Hawk" "Hawk (Focused)"
 	outfits
 		"Focused Laser" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -1128,7 +1128,7 @@ ship "Hawk" "Hawk A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Hawk" "Hawk B"
+ship "Hawk" "Hawk (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -1137,7 +1137,7 @@ ship "Hawk" "Hawk B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Headhunter" "Headhunter A"
+ship "Headhunter" "Headhunter (Stubby)"
 	outfits
 		"Particle Cannon Turret"
 		"Stubby Heavy Laser" 2
@@ -1148,7 +1148,7 @@ ship "Headhunter" "Headhunter A"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Headhunter" "Headhunter B"
+ship "Headhunter" "Headhunter (Gatling)"
 	outfits
 		"Particle Cannon Turret"
 		"Gatling Gun" 2
@@ -1160,7 +1160,7 @@ ship "Headhunter" "Headhunter B"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Heavy Dart" "Heavy Dart A"
+ship "Heavy Dart" "Heavy Dart (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 2
@@ -1173,7 +1173,7 @@ ship "Heavy Dart" "Heavy Dart A"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Heavy Dart" "Heavy Dart B"
+ship "Heavy Dart" "Heavy Dart (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 2
@@ -1185,7 +1185,7 @@ ship "Heavy Dart" "Heavy Dart B"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Heavy Shuttle" "Heavy Shuttle A"
+ship "Heavy Shuttle" "Heavy Shuttle (Blaster)"
 	outfits
 		"Energy Blaster" 2
 		"nGVF-BI Hybrid Fuel Cell"
@@ -1193,7 +1193,7 @@ ship "Heavy Shuttle" "Heavy Shuttle A"
 		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
-ship "Hellscream" "Hellscream A"
+ship "Hellscream" "Hellscream (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 2
@@ -1208,7 +1208,7 @@ ship "Hellscream" "Hellscream A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Hellscream" "Hellscream B"
+ship "Hellscream" "Hellscream (Heavy)"
 	outfits
 		"Heavy Laser" 4
 		"Heavy Laser Turret" 2
@@ -1223,7 +1223,7 @@ ship "Hellscream" "Hellscream B"
 		"X1200 Ion Steering"
 		"Hyperdrive"
 
-ship "Hidden Blade" "Hidden Blade A"
+ship "Hidden Blade" "Hidden Blade (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 3
 		"nGVF-CC Fuel Cell"
@@ -1233,7 +1233,7 @@ ship "Hidden Blade" "Hidden Blade A"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Hidden Blade" "Hidden Blade B"
+ship "Hidden Blade" "Hidden Blade (Gatling)"
 	outfits
 		"Gatling Gun" 3
 		"Gatling Gun Ammo" 9000
@@ -1244,7 +1244,7 @@ ship "Hidden Blade" "Hidden Blade B"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Junior Osprey" "Junior Osprey A"
+ship "Junior Osprey" "Junior Osprey (Particle)"
 	outfits
 		"Beam Laser" 2
 		"Particle Cannon Turret" 2
@@ -1257,7 +1257,7 @@ ship "Junior Osprey" "Junior Osprey A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Junior Osprey" "Junior Osprey B"
+ship "Junior Osprey" "Junior Osprey (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret"
@@ -1270,7 +1270,7 @@ ship "Junior Osprey" "Junior Osprey B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Katalox" "Katalox A"
+ship "Katalox" "Katalox (Particle)"
 	outfits
 		"Particle Cannon" 2
 		"Particle Cannon Turret" 5
@@ -1284,7 +1284,7 @@ ship "Katalox" "Katalox A"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Katalox" "Katalox B"
+ship "Katalox" "Katalox (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 5
@@ -1302,7 +1302,7 @@ ship "Katalox" "Katalox B"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Leviathan" "Leviathan A"
+ship "Leviathan" "Leviathan (Particle)"
 	outfits
 		"Particle Cannon" 2
 		"Particle Cannon Turret" 4
@@ -1318,7 +1318,7 @@ ship "Leviathan" "Leviathan A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Leviathan" "Leviathan B"
+ship "Leviathan" "Leviathan (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 4
@@ -1332,7 +1332,7 @@ ship "Leviathan" "Leviathan B"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Lifted Purse" "Lifted Purse A"
+ship "Lifted Purse" "Lifted Purse (Focused)"
 	outfits
 		"Focused Laser" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -1341,7 +1341,7 @@ ship "Lifted Purse" "Lifted Purse A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Lifted Purse" "Lifted Purse B"
+ship "Lifted Purse" "Lifted Purse (Missiles)"
 	outfits
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
@@ -1350,7 +1350,7 @@ ship "Lifted Purse" "Lifted Purse B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Light Dart" "Light Dart A"
+ship "Light Dart" "Light Dart (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret"
@@ -1362,19 +1362,7 @@ ship "Light Dart" "Light Dart A"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Light Dart" "Light Dart B"
-	outfits
-		"Heavy Laser" 2
-		"Heavy Laser Turret"
-		"S3 Thermionic"
-		"LP036a Battery Pack"
-		"D23-QP Shield Generator"
-		"Small Radar Jammer"
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Hyperdrive"
-
-ship "Lignum" "Lignum A"
+ship "Lignum" "Lignum (Particle)"
 	outfits
 		"Particle Cannon" 6
 		"Particle Cannon Turret" 4
@@ -1387,7 +1375,7 @@ ship "Lignum" "Lignum A"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Lignum" "Lignum B"
+ship "Lignum" "Lignum (Heavy)"
 	outfits
 		"Heavy Laser Turret" 2
 		"Heavy Anti-Missile Turret" 2
@@ -1405,7 +1393,7 @@ ship "Lignum" "Lignum B"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 
-ship "Modified Argosy" "Modified Argosy A"
+ship "Modified Argosy" "Modified Argosy (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 2
@@ -1416,7 +1404,7 @@ ship "Modified Argosy" "Modified Argosy A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Modified Argosy" "Modified Argosy B"
+ship "Modified Argosy" "Modified Argosy (Focused)"
 	outfits
 		"Heavy Laser" 4
 		"Focused Laser Turret" 2
@@ -1428,7 +1416,24 @@ ship "Modified Argosy" "Modified Argosy B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Mule" "Mule A"
+ship "Modified Sparrow" "Modified Sparrow (Stubby)"
+	outfits
+		"Stubby Heavy Laser" 2
+		"nGVF-CI Hybrid Fuel Cell"
+		"D23-QP Shield Generator"
+		"Chipmunk Plasma Engines"
+		"Hyperdrive"
+
+ship "Modified Sparrow" "Modified Sparrow (Gatling)"
+	outfits
+		"Gatling Gun" 2
+		"Gatling Gun Ammo" 6000
+		"nGVF-BI Hybrid Fuel Cell"
+		"D41-HY Shield Generator"
+		"Chipmunk Plasma Engines"
+		"Hyperdrive"
+
+ship "Mule" "Mule (Particle)"
 	outfits
 		"Particle Cannon" 2
 		"Particle Cannon Turret" 3
@@ -1443,7 +1448,7 @@ ship "Mule" "Mule A"
 		"A125 Atomic Steering"
 		"Hyperdrive"
 
-ship "Mule" "Mule B"
+ship "Mule" "Mule (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 3
@@ -1456,7 +1461,7 @@ ship "Mule" "Mule B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Osprey" "Osprey A"
+ship "Osprey" "Osprey (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 2
@@ -1470,7 +1475,7 @@ ship "Osprey" "Osprey A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Osprey" "Osprey B"
+ship "Osprey" "Osprey (Plasma)"
 	outfits
 		"Plasma Cannon" 4
 		"Particle Cannon Turret" 2
@@ -1486,7 +1491,7 @@ ship "Osprey" "Osprey B"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Pilfered Keg" "Pilfered Keg A"
+ship "Pilfered Keg" "Pilfered Keg (Heavy)"
 	outfits
 		"Heavy Laser Turret" 2
 		"S3 Thermionic"
@@ -1498,7 +1503,7 @@ ship "Pilfered Keg" "Pilfered Keg A"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Pilfered Keg" "Pilfered Keg B"
+ship "Pilfered Keg" "Pilfered Keg (Particle)"
 	outfits
 		"Particle Cannon Turret" 2
 		"nGVF-CI Hybrid Fuel Cell"
@@ -1507,7 +1512,7 @@ ship "Pilfered Keg" "Pilfered Keg B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Protector" "Protector A"
+ship "Protector" "Protector (Particle)"
 	outfits
 		"Particle Cannon Turret" 4
 		"Anti-Missile Turret" 2
@@ -1523,7 +1528,7 @@ ship "Protector" "Protector A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Protector" "Protector B"
+ship "Protector" "Protector (Focused)"
 	outfits
 		"Focused Laser Turret" 5
 		"Anti-Missile Turret"
@@ -1537,7 +1542,7 @@ ship "Protector" "Protector B"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Quebracho" "Quebracho A"
+ship "Quebracho" "Quebracho (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 4
@@ -1551,7 +1556,7 @@ ship "Quebracho" "Quebracho A"
 		"A125 Atomic Steering"
 		"Hyperdrive"
 
-ship "Quebracho" "Quebracho B"
+ship "Quebracho" "Quebracho (Heavy)"
 	outfits
 		"Heavy Laser Turret" 3
 		"Heavy Anti-Missile Turret"
@@ -1566,7 +1571,7 @@ ship "Quebracho" "Quebracho B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Quicksilver" "Quicksilver A"
+ship "Quicksilver" "Quicksilver (Focused)"
 	outfits
 		"Focused Laser" 2
 		"S3 Thermionic"
@@ -1576,7 +1581,7 @@ ship "Quicksilver" "Quicksilver A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Quicksilver" "Quicksilver B"
+ship "Quicksilver" "Quicksilver (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"S3 Thermionic"
@@ -1587,7 +1592,7 @@ ship "Quicksilver" "Quicksilver B"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Raven" "Raven A"
+ship "Raven" "Raven (Focused)"
 	outfits
 		"Focused Laser" 4
 		"S3 Thermionic"
@@ -1598,7 +1603,7 @@ ship "Raven" "Raven A"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Raven" "Raven B"
+ship "Raven" "Raven (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 4
 		"S3 Thermionic"
@@ -1609,7 +1614,7 @@ ship "Raven" "Raven B"
 		"Chipmunk Plasma Steering"
 		"Hyperdrive"
 
-ship "Rum Barrell" "Rum Barrell A"
+ship "Rum Barrell" "Rum Barrell (Heavy)"
 	outfits
 		"Heavy Laser" 4
 		"NT-200 Nucleovoltaic"
@@ -1620,7 +1625,7 @@ ship "Rum Barrell" "Rum Barrell A"
 		"A370 Atomic Thruster"
 		"Hyperdrive"
 
-ship "Rum Barrell" "Rum Barrell B"
+ship "Rum Barrell" "Rum Barrell (Focused)"
 	outfits
 		"Focused Laser" 4
 		"S3 Thermionic"
@@ -1630,7 +1635,7 @@ ship "Rum Barrell" "Rum Barrell B"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Shuttle" "Shuttle A"
+ship "Shuttle" "Shuttle (Stubby)"
 	outfits
 		"Stubby Heavy Laser"
 		"nGVF-BI Hybrid Fuel Cell"
@@ -1638,7 +1643,7 @@ ship "Shuttle" "Shuttle A"
 		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
-ship "Shuttle" "Shuttle B"
+ship "Shuttle" "Shuttle (Missiles)"
 	outfits
 		"Meteor Missile Launcher"
 		"Meteor Missile" 35
@@ -1647,7 +1652,7 @@ ship "Shuttle" "Shuttle B"
 		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
-ship "Silver Defender" "Silver Defender A"
+ship "Silver Defender" "Silver Defender (Heavy)"
 	outfits
 		"Heavy Laser" 4
 		"Heavy Laser Turret" 6
@@ -1659,12 +1664,12 @@ ship "Silver Defender" "Silver Defender A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Defender" "Silver Defender B"
+ship "Silver Defender" "Silver Defender (Particle)"
 	outfits
-		"Fusion Reactor"
-		"LP144a Battery Pack"
 		"Plasma Cannon" 4
 		"Particle Cannon Turret" 6
+		"Fusion Reactor"
+		"LP144a Battery Pack"
 		"D94-YV Shield Generator"
 		"D23-QP Shield Generator"
 		"Liquid Nitrogen Cooler"
@@ -1672,7 +1677,7 @@ ship "Silver Defender" "Silver Defender B"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Escort" "Silver Escort A"
+ship "Silver Escort" "Silver Escort (Heavy)"
 	outfits
 		"Plasma Cannon" 2
 		"Heavy Laser Turret" 2
@@ -1685,7 +1690,7 @@ ship "Silver Escort" "Silver Escort A"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Escort" "Silver Escort B"
+ship "Silver Escort" "Silver Escort (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 2
@@ -1697,7 +1702,7 @@ ship "Silver Escort" "Silver Escort B"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Protector" "Silver Protector A"
+ship "Silver Protector" "Silver Protector (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 4
@@ -1709,7 +1714,7 @@ ship "Silver Protector" "Silver Protector A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Protector" "Silver Protector B"
+ship "Silver Protector" "Silver Protector (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 4
@@ -1721,7 +1726,7 @@ ship "Silver Protector" "Silver Protector B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Star" "Silver Star A"
+ship "Silver Star" "Silver Star (Focused)"
 	outfits
 		"Focused Laser" 4
 		"Focused Laser Turret" 6
@@ -1734,7 +1739,7 @@ ship "Silver Star" "Silver Star A"
 		"A125 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Star" "Silver Star B"
+ship "Silver Star" "Silver Star (Particle)"
 	outfits
 		"Heavy Laser" 4
 		"Particle Cannon Turret" 6
@@ -1748,7 +1753,7 @@ ship "Silver Star" "Silver Star B"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Silver Stream"  "Silver Stream A"
+ship "Silver Stream"  "Silver Stream (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 2
 		"Stubby Heavy Laser Turret"
@@ -1759,7 +1764,7 @@ ship "Silver Stream"  "Silver Stream A"
 		"A250 Atomic Thruster"
 		"Hyperdrive"
 
-ship "Silver Stream"  "Silver Stream B"
+ship "Silver Stream"  "Silver Stream (Heavy)"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret"
@@ -1769,7 +1774,7 @@ ship "Silver Stream"  "Silver Stream B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Sparrow" "Sparrow A"
+ship "Sparrow" "Sparrow (Stubby)"
 	outfits
 		"Stubby Heavy Laser" 2
 		"nGVF-BI Hybrid Fuel Cell"
@@ -1777,24 +1782,7 @@ ship "Sparrow" "Sparrow A"
 		"Chipmunk Plasma Engines"
 		"Hyperdrive"
 
-ship "Modified Sparrow" "Modified Sparrow A"
-	outfits
-		"Stubby Heavy Laser" 2
-		"nGVF-CI Hybrid Fuel Cell"
-		"D23-QP Shield Generator"
-		"Chipmunk Plasma Engines"
-		"Hyperdrive"
-
-ship "Modified Sparrow" "Modified Sparrow B"
-	outfits
-		"Gatling Gun" 2
-		"Gatling Gun Ammo" 6000
-		"nGVF-BI Hybrid Fuel Cell"
-		"D41-HY Shield Generator"
-		"Chipmunk Plasma Engines"
-		"Hyperdrive"
-
-ship "Splinter" "Splinter A"
+ship "Splinter" "Splinter (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 3
@@ -1807,7 +1795,7 @@ ship "Splinter" "Splinter A"
 		"X1200 Ion Steering"
 		"Hyperdrive"
 
-ship "Splinter" "Splinter B"
+ship "Splinter" "Splinter (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 3
@@ -1821,17 +1809,7 @@ ship "Splinter" "Splinter B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Star Barge" "Star Barge A"
-	outfits
-		"Modified Blaster Turret"
-		"nGVF-BB Fuel Cell"
-		"LP036a Battery Pack"
-		"D14-RN Shield Generator"
-		"Chipmunk Plasma Thruster"
-		"Chipmunk Plasma Steering"
-		"Hyperdrive"
-
-ship "Star Princess" "Star Princess A"
+ship "Star Princess" "Star Princess (Heavy)"
 	outfits
 		"Heavy Laser Turret" 3
 		"NT-200 Nucleovoltaic"
@@ -1842,7 +1820,7 @@ ship "Star Princess" "Star Princess A"
 		"X1200 Ion Steering"
 		"Hyperdrive"
 
-ship "Star Princess" "Star Princess B"
+ship "Star Princess" "Star Princess (Focused)"
 	outfits
 		"Focused Laser Turret" 2
 		"Heavy Anti-Missile Turret"
@@ -1853,7 +1831,7 @@ ship "Star Princess" "Star Princess B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Star Queen" "Star Queen A"
+ship "Star Queen" "Star Queen (Heavy)"
 	outfits
 		"Heavy Laser" 3
 		"Heavy Laser Turret"
@@ -1865,7 +1843,7 @@ ship "Star Queen" "Star Queen A"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Star Queen" "Star Queen B"
+ship "Star Queen" "Star Queen (Focused)"
 	outfits
 		"Focused Laser" 3
 		"Focused Laser Turret" 2
@@ -1876,7 +1854,7 @@ ship "Star Queen" "Star Queen B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Stormbolt" "Stormbolt A"
+ship "Stormbolt" "Stormbolt (Particle)"
 	outfits
 		"Particle Cannon Turret" 2
 		"Sidewinder Missile" 100
@@ -1890,7 +1868,7 @@ ship "Stormbolt" "Stormbolt A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Stormbolt" "Stormbolt B"
+ship "Stormbolt" "Stormbolt (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 2
@@ -1903,7 +1881,7 @@ ship "Stormbolt" "Stormbolt B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Swooping Raven" "Swooping Raven A"
+ship "Swooping Raven" "Swooping Raven (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 2
@@ -1916,7 +1894,7 @@ ship "Swooping Raven" "Swooping Raven A"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Swooping Raven" "Swooping Raven B"
+ship "Swooping Raven" "Swooping Raven (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 2
@@ -1928,7 +1906,7 @@ ship "Swooping Raven" "Swooping Raven B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Trailbreaker" "Trailbreaker A"
+ship "Trailbreaker" "Trailbreaker (Plasma)"
 	outfits
 		"Plasma Cannon" 8
 		"Heavy Laser Turret"
@@ -1943,7 +1921,7 @@ ship "Trailbreaker" "Trailbreaker A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Trailbreaker" "Trailbreaker B"
+ship "Trailbreaker" "Trailbreaker (Focused)"
 	outfits
 		"Focused Laser" 8
 		"Focused Laser Turret" 2
@@ -1957,7 +1935,7 @@ ship "Trailbreaker" "Trailbreaker B"
 		"Orca Plasma Steering"
 		"Hyperdrive"
 
-ship "Vanguard" "Vanguard A"
+ship "Vanguard" "Vanguard (Focused)"
 	outfits
 		"Focused Laser" 7
 		"Anti-Missile Turret"
@@ -1969,7 +1947,7 @@ ship "Vanguard" "Vanguard A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Wamara" "Wamara A"
+ship "Wamara" "Wamara (Particle)"
 	outfits
 		"Heavy Laser" 2
 		"Particle Cannon Turret" 5
@@ -1984,7 +1962,7 @@ ship "Wamara" "Wamara A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "Wamara" "Wamara B"
+ship "Wamara" "Wamara (Focused)"
 	outfits
 		"Focused Laser" 2
 		"Focused Laser Turret" 5
@@ -1998,7 +1976,7 @@ ship "Wamara" "Wamara B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "Wren" "Wren A"
+ship "Wren" "Wren (Wren)"
 	outfits
 		"Stubby Heavy Laser Turret"
 		"nGVF-CI Hybrid Fuel Cell"
@@ -2006,7 +1984,7 @@ ship "Wren" "Wren A"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Wren" "Wren B"
+ship "Wren" "Wren (Blaster)"
 	outfits
 		"Modified Blaster Turret"
 		"nGVF-CI Hybrid Fuel Cell"
@@ -2014,7 +1992,7 @@ ship "Wren" "Wren B"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "X2 Gunship" "X2 Gunship A"
+ship "X2 Gunship" "X2 Gunship (Plasma)"
 	outfits
 		"Plasma Cannon" 8
 		"Particle Cannon Turret" 3
@@ -2030,7 +2008,7 @@ ship "X2 Gunship" "X2 Gunship A"
 		"A525 Atomic Steering"
 		"Hyperdrive"
 
-ship "X2 Gunship" "X2 Gunship B"
+ship "X2 Gunship" "X2 Gunship (Focused)"
 	outfits
 		"Focused Laser" 8
 		"Focused Laser Turret" 3
@@ -2043,7 +2021,7 @@ ship "X2 Gunship" "X2 Gunship B"
 		"Impala Plasma Steering"
 		"Hyperdrive"
 
-ship "X2E Gunship" "X2E Gunship A"
+ship "X2E Gunship" "X2E Gunship (Focused)"
 	outfits
 		"Focused Laser" 6
 		"Focused Laser Turret" 3
@@ -2055,7 +2033,7 @@ ship "X2E Gunship" "X2E Gunship A"
 		"Orca Plasma Steering"
 		"Hyperdrive"
 
-ship "X2E Gunship" "X2E Gunship B"
+ship "X2E Gunship" "X2E Gunship (Plasma)"
 	outfits
 		"Plasma Cannon" 6
 		"Laser Turret" 2
