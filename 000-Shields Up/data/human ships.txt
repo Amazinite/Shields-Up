@@ -712,7 +712,6 @@ ship "Pirated Frigate"
 	explode "medium explosion" 40
 	explode "big explosion" 28
 	description "Considered a valuable trophy of extreme cunning in some circles, the Navy views with great suspicion anyone who flies one of these. This ship has been modified with extra cargo bays, and even sacrifices precious weapon space in favor of more room to carry loot and bigger engines."
-	description "	The interference plating that's been added to this ship makes it quite unlikely that illicit goods will be detected except by the most persistent inspector, while the tactical armor that's been loaded into the armory makes capturing it a difficlt proposition."
 
 ship "Samurai"
 	plural "Samurai"

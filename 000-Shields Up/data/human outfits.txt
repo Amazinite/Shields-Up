@@ -69,36 +69,6 @@ outfit "Sizeable Map"
 	"map" 100
 	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
 
-outfit "FTek Jump Drive"
-	category "Systems"
-	cost 15000000
-	thumbnail "outfit/jump drive"
-	"mass" 20
-	"outfit space" -20
-	"jump speed" .10
-	"jump drive" .6
-	unplunderable 1
-	description "A secret experiment by the FTek™ corperation to replicate the Jump Drive technology. They found a way to reproduce the drive, although it does not have the full effectiveness or speed of the standard jump drive."
-	
-outfit "FTek Slipspace Drive"
-	category "Systems"
-	thumbnail "outfit/hyperdrive"
-	"mass" 35
-	"outfit space" -35
-	"scram drive" .5
-	"hyperdrive" 1
-	description "For those who need to get somewhere. Fast."
-	description "Best uses come from being chased, good luck seeing some idiots with scram drives try catching you, slip into a quick crack in space and never have to worry about slowing down ever again!"
-	
-outfit "FTek Capacitor"
-	category "Power"
-	cost 35000
-	thumbnail "outfit/ftek capacitor"
-	"mass" 4
-	"outfit space" -4
-	"energy capacity" 350
-	description "17% more effective than leading competitors!"
-
 outfit "FTek021 Rechargable Battery"
 	plural "FTek021 Rechargable Batteries"
 	category "Power"
