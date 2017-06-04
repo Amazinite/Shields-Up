@@ -21,6 +21,8 @@ mission "Deep Sky Grants License"
 event "legionaire released"
 	shipyard "Lionheart Advanced"
 		"Legionaire"
+	outfitter "Deep Sky Advanced"
+		"Incinerator Beam"
 
 mission "Syndicate Grants License"
 	landing

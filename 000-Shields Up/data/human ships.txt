@@ -1356,6 +1356,21 @@ ship "Inferno"
 	explode "huge explosion" 8
 	description "Inspired by the Firebird, this high class warship comes from the minds of the finest Betelgeuse engineers. Built for speed, and with guns to spare, this warship will run down slower vessels and outmaneaver anything larger than itself."
 
+event "kestrel available: more weapons"
+	set "kestrel available"
+	shipyard "Tarazed Advanced"
+		"Kestrel-M"
+
+event "kestrel available: more engines"
+	set "kestrel available"
+	shipyard "Tarazed Advanced"
+		"Kestrel-M"
+
+event "kestrel available: more shields"
+	set "kestrel available"
+	shipyard "Tarazed Advanced"
+		"Kestrel-M"
+
 ship "Kestrel-M"
 	sprite "ship/KestrelM"
 	attributes
@@ -1411,7 +1426,19 @@ ship "Kestrel-M"
 	explode "huge explosion" 30
 	description "Several years ago, while visiting a sweat lodge in search of spiritual renewal, Tarazed's chief ship designer fell into a trance and journeyed to a reality separate from our own. There he saw visions of a strange and elegant starship. Returning to his work with renewed purpose, he spent the next seven years making the Kestrel a reality."
 	description "This premium hull is reserved for only the wealthiest of Tarazed's investors but for a large sum of credits, you too can get this premium hull."
-	
+
+mission "BT2"
+	invisible
+	landing
+	to offer
+		has "main plot completed"
+	on offer
+		event "BT2"
+
+event "BT2"
+	shipyard "Lionheart Advanced"
+		"Bactrian T2"
+
 ship "Bactrian T2"
 	sprite "ship/T2Bactrian"
 		"frame rate" 30
