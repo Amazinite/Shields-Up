@@ -9,8 +9,9 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 ship "Bactrian"
-	licenses
-		"Deep Sky"
+	attributes
+		licenses
+			"Deep Sky"
 
 ship "Skybus"
 	plural "Skybuses"
@@ -485,9 +486,9 @@ ship "Archangel"
 
 ship "Legionnaire"
 	sprite ship/Legionaire
-	licenses
-		"Deep Sky"
 	attributes
+		licenses
+			"Deep Sky"
 		category "Medium Warship"
 		"cost" 6870000
 		"shields" 6500
@@ -1070,10 +1071,10 @@ ship "Modified Firebird"
 	description "The Modified Firebird is a crazy invention from the pirate inhabitants of the Far North. Reconfigured to become a combat freighter, the Modified Firebird has less guns than its original version but has far bigger engines and boasts plenty of cargo space to be converted into outfit space."
 
 ship "Kriegsmacher"
-	licenses
-		"Destroyer of Worlds"
 	sprite "ship/Kriegsmacher" #Thanks, Matthew Smestad!
 	attributes
+		licenses
+			"Destroyer of Worlds"
 		category "Heavy Warship"
 		"cost" 125200000
 		"shields" 71200
@@ -1231,10 +1232,10 @@ ship "Gnosis Transport"
 	
 ship "Capitalis Viatoris"
 	plural "Capitalis Viatores"
-	licenses
-		"Tarazed"
 	sprite "ship/capitalis viatoris"
 	attributes
+		licenses
+			"Tarazed"
 		category "Heavy Warship"
 		"cost" 65200000
 		"shields" 61200

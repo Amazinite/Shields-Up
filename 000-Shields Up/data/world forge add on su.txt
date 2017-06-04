@@ -232,30 +232,6 @@ mission "Remove Deep Sky License"
 		clear "license: Deep Sky"
 		fail
 
-mission "Add Syndicate License"
-	repeat
-	job
-	source
-		attributes forgehuman
-	description "Gives you a Syndicate license."
-	to offer
-		not "license: Syndicate"
-	on accept
-		set "license: Syndicate"
-		fail
-
-mission "Remove Syndicate License"
-	repeat
-	job
-	source
-		attributes forgehuman
-	description "Removes your Syndicate License."
-	to offer
-		has "license: Syndicate"
-	on accept
-		clear "license: Syndicate"
-		fail
-
 mission "Add Destroyer of Worlds License"
 	repeat
 	job
