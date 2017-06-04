@@ -38,9 +38,9 @@ ship "Battlestar"
 	sprite "ship/battlestar/battlestar"
 		"frame rate" 12
 		"rewind"
-	licenses
-		"Plenipotent"
 	attributes
+		licenses
+			"Plenipotent"
 		category "Heavy Warship"
 		"cost" 500000000
 		"shields" 800000

@@ -1060,7 +1060,7 @@ planet Puggldute
 	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall.`
 	"required reputation" -1e+99
 	bribe 0
-	fine 0
+	security 0
 
 planet "Rock Far"
 	attributes absconded uninhabited

@@ -127,9 +127,9 @@ ship "Bactrian T2"
 		"rewind"
 		"delay" 85
 	plural "Bactrians T2"
-	licenses
-		"Deep Sky"
 	attributes
+		licenses
+			"Deep Sky"
 		category "Heavy Warship"
 		"cost" 35200000
 		"shields" 17500
