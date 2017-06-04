@@ -278,3 +278,27 @@ mission "Remove Tarazed License"
 	on accept
 		clear "license: Tarazed"
 		fail
+
+mission "Add Servorum License"
+	repeat
+	job
+	source
+		attributes forge
+	description "Gives you a Servorum license."
+	to offer
+		not "license: Servorum"
+	on accept
+		set "license: Servorum"
+		fail
+
+mission "Remove Servorum License"
+	repeat
+	job
+	source
+		attributes forge
+	description "Removes your Servorum license."
+	to offer
+		has "license: Servorum"
+	on accept
+		clear "license: Servorum"
+		fail
