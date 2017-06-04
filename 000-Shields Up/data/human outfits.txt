@@ -324,8 +324,8 @@ outfit "P-75 Archangel"
 
 outfit "R-120 Warbird"
 	category "Hand to Hand"
-#	licenses
-#		"Navy"
+	licenses
+		"Navy"
 	cost 120000
 	thumbnail "outfit/warbird"
 	"mass" 1
@@ -359,8 +359,8 @@ outfit "Repair Bot"
 	description "An android that specializes in ships and hull, able to repair your ship from the inside."
 	
 outfit "Navy Cloaking Device"
-#	licenses
-#		"Navy"
+	licenses
+		"Navy"
 	category "Systems"
 	cost 3200000
 	"mass" 12
