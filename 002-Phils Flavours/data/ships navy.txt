@@ -15,10 +15,10 @@ shipyard "Navy Advanced"
 
 ship "Alliance Battleship"
 	sprite "ship/alliance battleship"
-	licenses
-		Navy
-		Battleship
 	attributes
+		licenses
+			Navy
+			Battleship
 		category "Heavy Warship"
 		"cost" 22000000
 		"shields" 32500
@@ -78,9 +78,9 @@ ship "Alliance Battleship"
 
 ship "Gunboat GXV2"
 	sprite "ship/gunboat gxv2"
-	licenses
-		Navy
 	attributes
+		licenses
+			Navy
 		category "Light Warship"
 		"cost" 3600000
 		"shields" 5800
@@ -130,9 +130,9 @@ ship "Gunboat GXV2"
 
 ship "Destroyer"
 	sprite "ship/destroyer"
-	licenses
-		Navy
 	attributes
+		licenses
+			Navy
 		category "Medium Warship"
 		"cost" 8200000
 		"shields" 13800
