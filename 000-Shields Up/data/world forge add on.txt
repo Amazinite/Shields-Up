@@ -132,6 +132,7 @@ shipyard "SU Human"
 	"Kestrel-M"
 	"Bactrian T2"
 	"Dragoon"
+	"Kriegsmacher"
 
 shipyard "AE Sentar"
 	"Erebus"
