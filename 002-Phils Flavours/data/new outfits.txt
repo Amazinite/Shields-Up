@@ -106,6 +106,17 @@ outfit "nGVF-BI Hybrid Fuel Cell"
 	"energy capacity" 600
 	description "The hybrid fuel cell line combines energy generation with storage capacity in one efficient unit. This small model is designed specifically for interceptor class ships."
 	
+outfit "nGVF-CI Hybrid Fuel Cell"
+	category "Power"
+	cost 122000
+	thumbnail "outfit/nGVF-CI Integrated Fuel Cell"
+	"mass" 52
+	"outfit space" -52
+	"energy generation" 3.4
+	"heat generation" 5.1
+	"energy capacity" 1200
+	description "The hybrid fuel cell line combines energy generation with storage capacity in one efficient unit. This larger model increases both energy generation and storage."
+	
 outfit "Assault Rifle ZX-411"
 	category "Hand to Hand"
 	cost 12000
@@ -132,17 +143,6 @@ outfit "Tactical Military Outfit"
 	"capture defense" 1.75
 	"unplunderable" 1
 	description "The military outfit issued to crew members by the republic navy when combat and boarding missions are expected. Featuring a ZX-411 assault rifle, body armor and the JI-39s Helmet System which provides thermal imaging, combat information and coordination to squad members and much more. Combined the outfit provides a significant boost to both offensive and defensive capabilities."
-	
-outfit "nGVF-CI Hybrid Fuel Cell"
-	category "Power"
-	cost 122000
-	thumbnail "outfit/nGVF-CI Integrated Fuel Cell"
-	"mass" 52
-	"outfit space" -52
-	"energy generation" 3.4
-	"heat generation" 5.1
-	"energy capacity" 1200
-	description "The hybrid fuel cell line combines energy generation with storage capacity in one efficient unit. This larger model increases both energy generation and storage."
 	
 outfit "Chipmunk Plasma Engines"
 	category "Engines"
