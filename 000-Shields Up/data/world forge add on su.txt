@@ -194,7 +194,7 @@ mission "Add Plenipotent License"
 		not "license: Plenipotent"
 	on accept
 		set "license: Plenipotent"
-		fail		
+		fail
 
 mission "Remove Plenipotent License"
 	repeat
@@ -218,7 +218,7 @@ mission "Add Deep Sky License"
 		not "license: Deep Sky"
 	on accept
 		set "license: Deep Sky"
-		fail		
+		fail
 
 mission "Remove Deep Sky License"
 	repeat
@@ -230,7 +230,7 @@ mission "Remove Deep Sky License"
 		has "license: Deep Sky"
 	on accept
 		clear "license: Deep Sky"
-		fail		
+		fail
 
 mission "Add Syndicate License"
 	repeat
@@ -242,7 +242,7 @@ mission "Add Syndicate License"
 		not "license: Syndicate"
 	on accept
 		set "license: Syndicate"
-		fail		
+		fail
 
 mission "Remove Syndicate License"
 	repeat
@@ -254,7 +254,7 @@ mission "Remove Syndicate License"
 		has "license: Syndicate"
 	on accept
 		clear "license: Syndicate"
-		fail		
+		fail
 		
 mission "Add Destroyer of Worlds License"
 	repeat
@@ -266,7 +266,7 @@ mission "Add Destroyer of Worlds License"
 		not "license: Destroyer of Worlds"
 	on accept
 		set "license: Destroyer of Worlds"
-		fail		
+		fail
 
 mission "Remove Destroyer of Worlds License"
 	repeat
@@ -278,7 +278,7 @@ mission "Remove Destroyer of Worlds License"
 		has "license: Destroyer of Worlds"
 	on accept
 		clear "license: Destroyer of Worlds"
-		fail		
+		fail
 
 mission "Add Tarazed License"
 	repeat
@@ -290,7 +290,7 @@ mission "Add Tarazed License"
 		not "license: Tarazed"
 	on accept
 		set "license: Tarazed"
-		fail		
+		fail
 
 mission "Remove Tarazed License"
 	repeat
