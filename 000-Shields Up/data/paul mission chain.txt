@@ -421,7 +421,13 @@ mission "Ext Intro [Interceptor 1]"
 			`	"If you're interested in more work, meet me in here whenever you feel like it, I'll be there."`
 			`	`
 			`	(Click "spaceport" to continue the mission)`
-			
+
+ship "Heavy Shuttle" "Heavy Shuttle (Test Dummy)"
+	outfits
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+
 mission "Ext Intro [Interceptor 2]"
 	priority
 	name "Taking Paul to Canyon"
@@ -529,7 +535,15 @@ mission "Ext Intro [Interceptor 3]"
 			`	"Okay Captain, I need to be taken to southern Syndicate space, think you can do that?"`
 			`	`
 			`	(Click "spaceport" to continue the mission)`
-			
+
+ship "Heavy Shuttle" "Heavy Shuttle (Kal Taylor)"
+	outfits
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+
 mission "Ext Intro [Interceptor 4]"
 	priority
 	name "Taking Paul to Amazon"
@@ -687,3 +701,80 @@ mission "Ext Intro [Transport 2]"
 			`	You and him go your seperate ways, as he waves a long goodbye at you.`
 			`	`
 			`	(You have completed this mission chain.)`
+
+event "Kal Taylor death (Cargo)"
+
+mission "Kal Taylor death (Cargo)"
+	landing
+	source
+		government "Republic"
+	to offer
+		has "event: Kal Taylor death (Cargo)"
+	on offer
+		conversation
+			`The spaceport is business as usual apart from a small group of people huddled around a small monitor someone propped up on a crate. You overhear them mention someone dying.`
+			choice
+				`	Ask them who died`
+					goto ask
+				`	Ignore them`
+					decline
+
+			label ask
+			`	You walk over to a small group of people and ask who died.`
+			`	One of them replies, "The person in charge of the Syndicate's military fleet that protects the Syndicate from pirates, Kal Taylor, died from some type of poisoning recently. The Syndicate hasn't disclosed what exactly it was, but my bet is that it was a murder preformed by those damn Alpha bastards in the south-east. Killing that guy could only help the pirates and the Alphas, and I doubt the pirates even have the mental capacity to think to poison someone, they're just a weak lot of idiots if you ask me."`
+
+event "Kal Taylor death (Transport)"
+
+mission "Kal Taylor death (Transport)"
+	landing
+	source
+		government "Republic"
+	to offer
+		has "event: Kal Taylor death (Transport)"
+	on offer
+		conversation
+			`The spaceport is business as usual apart from a small group of people huddled around a small monitor someone propped up on a crate. You overhear them mention someone dying.`
+			choice
+				`	Ask them who died`
+					goto ask
+				`	Ignore them`
+					decline
+
+			label ask
+			`	You walk over to a small group of people and ask who died.`
+			`	One of them replies, "The person in charge of the Syndicate's military fleet that protects the Syndicate from pirates, Kal Taylor, he was found dead in a system to the Far North. Not entirely sure why he was up there, but I'd be willing to bet that the people who killed him were those god-damn Alphas who keep harrassing Syndicate space, this all works in their favour perfectly."`
+
+event "Kal Taylor death (Interceptor)"
+
+mission "Kal Taylor death (Interceptor)"
+	landing
+	source
+		government "Republic"
+	to offer
+		has "event: Kal Taylor death (Interceptor)"
+	on offer
+		conversation
+			`The spaceport is business as usual apart from a small group of people huddled around a small monitor someone propped up on a crate. You overhear them mention someone dying.`
+			choice
+				`	Ask them who died`
+					goto ask
+				`	Ignore them`
+					decline
+
+			label ask
+			`	You walk over to a small group of people and ask who died.`
+			`	One of them replies, "The person in charge of the Syndicate's military fleet that protects the Syndicate from pirates, Kal Taylor, his private shuttle was shot down in the Zaruak system just a while ago. My bet is that it's those god-damn Alphas who keep harrassing Syndicate space, this all works in their favour perfectly."`
+
+event "betelgeuse bomb attempt"
+
+mission "betelgeuse bomb attempt"
+	landing
+	source
+		government "Republic" "Syndicate"
+	to offer
+		has "event: betelgeuse bomb attempt"
+	on offer
+		conversation
+			`The minute you land, you can tell that something is wrong. While most people are going about their day, there are some people crowded in a bar looking at a screen of some sorts.`
+			`Walking over to the crowd you see they are all huddled over a small television broadcasting news about something.`
+			`You can hardly hear the news reporter talking over the sound of the crowd, but you could make out some bits and pieces; "Recenly there has - attack on the planet - in the Betelgeuse system - bomb exploded - Betelgeuse shipyard headquarters - seventeen casualties - despite attempts - culprits have not been found."`

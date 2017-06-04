@@ -115,3 +115,46 @@ fleet "Large Mil'taj"
 		"Halberd" 4
 		"Curtana" 16
 		"Bodkin" 5
+
+phrase "hostile mil'taj"
+	word
+		"Vol"
+	word
+		" je'tel ca foh wa gar'tal to hap"
+		" hol ca foh'tal wa gar'tal to hap"
+		
+	word
+		" gon ca nan'tel can konda?"
+		
+phrase "hostile mil'taj"
+	word
+		"Pen"
+		"Ca sek ack"
+	word
+		" dei."
+
+phrase "hostile mil'taj"
+	word
+		"Vol"
+	word
+		" je ca foh ca sek"
+		" sek ca"
+	word
+		" tri'tal pon"
+		" apen'tal soh"
+	word
+		" bo nan'tal"
+		" bo com'tal il"
+	word
+		" can konda?"
+		" can kon?"
+		
+phrase "hostile mil'taj"
+	word
+		"Ca"
+	word
+		" man"
+		" dan"
+	word
+		" se ug."
+		" se tuf."

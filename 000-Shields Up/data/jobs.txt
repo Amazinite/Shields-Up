@@ -40,3 +40,26 @@ mission "Escort (Southern Convoy)"
 	
 	on visit
 		dialog "You have reached <planet>, but you left the convoy behind! Better depart and wait for them to arrive in this star system."
+
+fleet "Southern Convoy"
+	government "Merchant"
+	names "civilian"
+	cargo 4
+	personality
+		confusion 20
+		timid frugal
+	variant 30
+		"Freighter" 2
+		"Hawk" 3
+		"Star Barge (Armed)" 5
+		"Argosy (Laser)"
+	variant 10
+		"Freighter (Fancy)" 3
+		"Behemoth (Speedy)"
+		"Falcon (Heavy)"
+	variant 10
+		"Bulk Freighter (Heavy)" 2
+		"Bastion (Laser)" 2
+	variant 1
+		"Bulk Freighter"
+		"Falcon"

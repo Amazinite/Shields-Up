@@ -154,3 +154,64 @@ ship "Unknown Ship"
 	explode "huge explosion" 30
 	"final explode" "final explosion large"
 
+# Rebalanced and image touched up by Spiral03
+ship "Dragoon"
+	sprite "ship/Dragoon"
+	attributes
+		category "Heavy Warship"
+		"cost" 25000000
+		"shields" 28000
+		"hull" 11000
+		"required crew" 84
+		"bunks" 259
+		"mass" 1000
+		"drag" 18.4
+		"heat dissipation" .4
+		"fuel capacity" 800
+		"cargo space" 440
+		"outfit space" 800
+		"weapon capacity" 350
+		"engine capacity" 200
+		weapon
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 6000
+	outfits
+		"Electron Beam" 4
+		"400mm Mag Rail Cannon" 2
+		"400mm Slug" 100
+		"Heavy Anti-Missile Turret" 3
+		"Turbo Laser Turret"
+		"Light Turbo Laser Turret"
+
+		"Armageddon Core"
+		"LP072a Battery Pack"
+		"Liquid Helium Cooler"
+		"D67-TM Shield Generator"
+		"Large Radar Jammer"
+
+		"X4700 Ion Thruster"
+		"X1700 Ion Thruster"
+		"X5200 Ion Steering"
+		Hyperdrive
+
+	gun -8 -133
+	gun 8 -133
+	gun -21 -99
+	gun 21 -99
+	gun -49 5
+	gun 49 5
+	turret 0 -13.5
+	turret 0 2
+	turret 0 17
+	turret -45.5 85
+	turret 45.5 85
+	engine -23 176
+	engine 23 176
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "large explosion" 45
+	explode "huge explosion" 30
+	"final explode" "final explosion large"
+	description "Few ships of this scale have ever been devised, the Dragoon's massive frame is enough to eclipes a planet's sun and leave a world in darkness."

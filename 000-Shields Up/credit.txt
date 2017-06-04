@@ -1,9 +1,5 @@
-Tufton mod was designed by Tufton
-That_Someone mod was designed by That_Someone
-Alphean Expansion mod was designed by Mettaton Expansion
-Friendly Technology mod was made primarily by FriendlyNeighbour
-The main Shields-Up mod was made primarily by Direstorm
+Thanks to all those who have made this plugin possible and provided content for it.
+Big thanks to Tufton, That Someone, Takarada, Friendly Neighbor, and Direstorm for all working on Shields Up before me (Derpy Horse)
+Thanks to PompanoZombie and Phil for providing their plugins to the Shields Up pack.
 
-Certain ship sprites were found on MillionthVector
-
-the Militaj Shield Decimator by PompanoZombie
+Credit to MillionthVector for the Servorum and Dominion ship sprites, but hopefully we'll be using different sprites later. :)

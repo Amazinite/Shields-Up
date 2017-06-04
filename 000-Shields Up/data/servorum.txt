@@ -133,3 +133,77 @@ fleet "Large Servorum Dei"
 		"Gourami" 2
 		"Arowana" 12
 		"Albacore" 3
+
+phrase "friendly servorum"
+	word
+		"Welcome to"
+		"You are in"
+		"This is"
+	word
+		" Servorum"
+		" Servorum Dei"
+	word
+		" territory"
+		" space"
+	word
+		", it is in your best interests to"
+		", I would advise you to"
+		", we would appreciate if you"
+		", it's best if you"
+	word
+		" behave yourself."
+		" abide by our rules."
+		" don't interupt official buisness."
+		" watch your behaviour."
+		" don't cause trouble."
+		
+phrase "friendly servorum"
+	word
+		"You"
+		"Humans"
+	word
+		" are allowed to"
+		" are welcome to"
+		" can"
+	word
+		" trade"
+		" do buisness"
+		" work"
+	word
+		" with us."
+		" with the Servorum Dei."
+		" in Servorum space"
+		
+phrase "friendly servorum"
+	word
+		"While"
+		"Although"
+	word
+		" Humans"
+		" you"
+	word
+		" are allowed"
+		" are welcome"
+	word
+		" to trade"
+		" to work"
+	word
+		" in Serovrum Dei space"
+		" with us"
+	word
+		", be advised"
+		", I want to warn you"
+		", you should note"
+	word
+		" that our neighbors"
+		" that the Alphas"
+	word
+		" to the north"
+		" near our territory"
+	word
+		" do not take kindly"
+		" will not be so kind"
+		" are not as welcoming"
+	word
+		" to Humans."
+		" to your kind."

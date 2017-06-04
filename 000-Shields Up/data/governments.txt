@@ -8,12 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-government "shieldsup"
-	swizzle 0
-	color .8 .6 0
-
-	"player reputation" 10
-
 government "Mil'taj"
 	swizzle 0
 	color .7 1 .70
@@ -64,20 +58,6 @@ government "Plenipotent Dominion"
 government "Unknown Ones"
 	swizzle 0
 	"player reputation" 1
-
-government "Alphean Boolean"
-	swizzle 0
-	"player reputation" 1
-	"attitude toward"
-		Merchant -.1
-		"Takarada Kaneo" -.1
-
-government "Takarada Kaneo"
-	swizzle 0
-	"player reputation" 1
-	"attitude toward"
-		Merchant .1
-		"Alphean Boolean" -.1
 
 government "Sentarians"
 	swizzle 0

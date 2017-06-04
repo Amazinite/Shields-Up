@@ -246,3 +246,18 @@ fleet "Nelur Drone"
 		timid entering
 	variant
 		"Unknown Drone"
+
+phrase "unknown drones"
+	word
+		"DR-"
+	phrase "digit"
+	phrase "digit"
+	phrase "digit"
+		
+phrase "sentar"
+	word
+		"Sentarian Unit "
+	phrase "digit"
+	phrase "digit"
+	phrase "digit"
+	

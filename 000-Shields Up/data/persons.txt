@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 person "Friendly Neighbour"
-	government "shieldsup"
+	government "Author"
 	frequency 450
 	personality
 		plunders
@@ -84,7 +84,7 @@ person "Friendly Neighbour"
 		explode "huge explosion" 30
 
 person "Alphean Boolean"
-	government "Alphean Boolean"
+	government "Author"
 	personality
 		disables
 	phrase
@@ -120,7 +120,6 @@ person "Alphean Boolean"
 			"A375 Atomic Steering"
 			"Water Coolant System"
 			"Liquid Helium Cooler"
-			"Laser Rifle" 75
 			"Multi Drive"
 			"Armageddon Core"
 			"D94-YV Shield Generator"
@@ -130,9 +129,6 @@ person "Alphean Boolean"
 			"Mass Expansion" 4
 			"Intelligent Rocket Launcher" 4
 			"Intelligent Rocket" 80
-			"Jipach Model Android" 12
-			"Bot Racks"
-			"Engineer AI Card" 12
 		engine -17 143
 		engine 17 143
 		gun -17 -88 "Intelligent Rocket Launcher"
@@ -149,7 +145,7 @@ person "Alphean Boolean"
 		explode "big explosion" 40
 
 person "Takarada Kaneo"
-	government "Takarada Kaneo"
+	government "Author"
 	personality
 		disables
 	phrase
