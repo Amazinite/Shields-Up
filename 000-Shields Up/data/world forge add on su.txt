@@ -207,7 +207,7 @@ mission "Remove Plenipotent License"
 	on accept
 		clear "license: Plenipotent"
 		fail
-		
+
 mission "Add Deep Sky License"
 	repeat
 	job
@@ -255,7 +255,7 @@ mission "Remove Syndicate License"
 	on accept
 		clear "license: Syndicate"
 		fail
-		
+
 mission "Add Destroyer of Worlds License"
 	repeat
 	job
