@@ -31,16 +31,12 @@ fleet "Small Republic"
 		"Gunboat GXV2"
 		"Rainmaker"
 	variant 2
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A" 
-	variant 2
 		"Gunboat GXV2" 2
 	variant 2
-		"Gunboat GXV2 A"
+		"Gunboat GXV2"
 	variant 2
 		"Gunboat"
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A" 
+		"Gunboat GXV2" 2
 
 fleet "Small Oathkeeper"
 	government "Navy (Oathkeeper)"
@@ -65,16 +61,12 @@ fleet "Small Oathkeeper"
 		"Gunboat GXV2"
 		"Rainmaker"
 	variant 2
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A" 
-	variant 2
 		"Gunboat GXV2" 2
 	variant 2
-		"Gunboat GXV2 A"
+		"Gunboat GXV2"
 	variant 2
 		"Gunboat"
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 
 fleet "Navy Surveillance"
 	government "Republic"
@@ -147,15 +139,14 @@ fleet "Large Oathkeeper"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 1
-		"Destroyer A"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 	variant 1
-		"Destroyer A"
+		"Destroyer"
 		"Frigate"
 	variant 2
-		"Destroyer"
-		"Destroyer A"
+		"Destroyer" 2
 	variant 4
 		"Frigate" 2
 		"Rainmaker"
@@ -170,14 +161,12 @@ fleet "Large Oathkeeper"
 	variant 2
 		"Cruiser"
 		"Combat Drone" 4
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 2
 		"Carrier"
 		"Lance" 4
 		"Combat Drone" 6
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 1
 		"Carrier"
 		"Lance" 4
@@ -196,38 +185,35 @@ fleet "Large Oathkeeper"
 	variant 1
 		"Frigate"
 		"Rainmaker" 
-		"Gunboat GXV2"
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 1
 		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2" 
 	variant 1
-		"Destroyer A"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
-		"Gunboat GXV2 A" 
+		"Gunboat GXV2" 
 	variant 1
 		"Alliance Battleship"
-	variant 1
-		"Alliance Battleship A"
 	variant 1
 		"Alliance Battleship"
 		"Gunboat" 
 		"Rainmaker"
 	variant 1
-		"Alliance Battleship A"
+		"Alliance Battleship"
 		"Gunboat" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2"
 	variant 1
 		"Alliance Battleship"
 		"Frigate" 
 		"Rainmaker"
 	variant 1
-		"Alliance Battleship A"
+		"Alliance Battleship"
 		"Cruiser" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2"
 		
 fleet "Large Republic"
 	government "Republic"
@@ -281,15 +267,14 @@ fleet "Large Republic"
 		"Rainmaker" 2
 		"Gunboat"
 	variant 2
-		"Destroyer A"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 	variant 1
-		"Destroyer A"
+		"Destroyer"
 		"Frigate"
 	variant 2
-		"Destroyer"
-		"Destroyer A"
+		"Destroyer" 2
 	variant 4
 		"Frigate" 2
 		"Rainmaker"
@@ -304,14 +289,12 @@ fleet "Large Republic"
 	variant 2
 		"Cruiser"
 		"Combat Drone" 4
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 2
 		"Carrier"
 		"Lance" 4
 		"Combat Drone" 6
-		"Gunboat GXV2" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 1
 		"Carrier"
 		"Lance" 4
@@ -330,30 +313,29 @@ fleet "Large Republic"
 	variant 1
 		"Frigate"
 		"Rainmaker" 
-		"Gunboat GXV2"
-		"Gunboat GXV2 A"
+		"Gunboat GXV2" 2
 	variant 1
 		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
 		"Gunboat GXV2" 
 	variant 1
-		"Destroyer A"
+		"Destroyer"
 		"Rainmaker" 
 		"Gunboat"
-		"Gunboat GXV2 A" 
+		"Gunboat GXV2" 
 	variant 1
 		"Alliance Battleship"
 	variant 1
-		"Alliance Battleship A"
+		"Alliance Battleship"
 	variant 1
 		"Alliance Battleship"
 		"Gunboat" 
 		"Rainmaker"
 	variant 1
-		"Alliance Battleship A"
+		"Alliance Battleship"
 		"Gunboat" 
-		"Gunboat GXV2 A"
+		"Gunboat GXV2"
 	variant 1
 		"Alliance Battleship"
 		"Frigate" 
@@ -414,18 +396,18 @@ event "navy fleet compatibility"
 			"Gunboat GXV2 (Mark II)"
 		variant 2
 			"Rainmaker" 
-			"Gunboat GXV2 A"
+			"Gunboat GXV2"
 		variant 4
 			"Gunboat (Mark II)"
 			"Gunboat GXV2 (Mark II)"
 		variant 1
 			"Gunboat"
-			"Gunboat GXV2 A"
+			"Gunboat GXV2"
 		variant 2
 			"Gunboat (Mark II)" 2
 		variant 1
 			"Gunboat" 
-			"Gunboat GXV2 A"
+			"Gunboat GXV2"
 
 	fleet "Large Republic"
 		government "Republic"
@@ -444,8 +426,7 @@ event "navy fleet compatibility"
 			"Frigate" 
 			"Rainmaker"
 			"Gunboat"
-			"Gunboat GXV2"
-			"Gunboat GXV2 A"
+			"Gunboat GXV2" 2
 		variant 2
 			"Cruiser (Mark II)"
 			"Combat Drone" 4
@@ -510,26 +491,23 @@ event "navy fleet compatibility"
 			"Destroyer (Mark II)"
 			"Rainmaker" 2
 			"Gunboat"
-			"Gunboat GXV2 A"
+			"Gunboat GXV2"
 		variant 1
-			"Destroyer A"
+			"Destroyer"
 			"Rainmaker"
 			"Gunboat"
-			"Gunboat GXV2 A"
+			"Gunboat GXV2"
 		variant 1
 			"Destroyer (Mark II)"
 			"Frigate"
 		variant 1
-			"Destroyer"
-			"Destroyer A"
+			"Destroyer" 2
 			"Destroyer (Mark II)"
 		variant 1
 			"Destroyer"
 			"Destroyer (Mark II)"
 		variant 1
 			"Alliance Battleship (Mark II)"
-		variant 1
-			"Alliance Battleship A"
 		variant 1
 			"Alliance Battleship"
 			"Gunboat"
