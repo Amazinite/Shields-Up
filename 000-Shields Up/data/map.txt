@@ -2583,6 +2583,7 @@ planet Kullat
 	shipyard "Servorum Advanced"
 	outfitter "Basic Outfits"
 	outfitter "Servorum Basic"
+	outfitter "Servorum Advanced"
 	"required reputation" 0
 	bribe 0.075
 	security 0.3
@@ -2820,13 +2821,3 @@ planet "Viglado Station"
 	"required reputation" 1e+20
 	bribe 0
 	security 0.1
-
-planet "Wayshrine Station"
-	attributes servorum
-	landscape land/station1
-	description `A shipbuilding factory for the Servorum Dei used to create who-knows-what. The security is so crazy you have to wonder what they have going on in this station.`
-	spaceport `Everyone keeps watching you to make sure you don't do anything funny. It must be hard on them, so far away from Servorum space, unsure who they can trust.`
-	"required reputation" 2
-	bribe 0.2
-	security 0.2
-
