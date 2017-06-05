@@ -57,6 +57,7 @@ outfitter "SU Human"
 	"Pulse EMP Bomb Launcher"
 	"Interference Hull"
 	"Interference Shielding"
+	`"HAL-500" Automation Matrix`
 	
 outfitter "SU Mil'taj"
 	"Mil'taj Black Generator"
