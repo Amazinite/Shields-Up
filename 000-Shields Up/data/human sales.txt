@@ -136,11 +136,32 @@ outfitter "Pirate Outfits"
 	"Intelligent Rocket Launcher"
 	"Intelligent Rocket"
 
-outfitter "Pirate North"
+planet Zenith
+	outfitter "Northern Pirates"
+
+planet Haven
+	outfitter "Northern Pirates"
+
+planet Freedom
+	outfitter "Northern Pirates"
+
+outfitter "Northern Pirates"
 	"Boarding Cannon"
 	"Interference Shielding"
 
-outfitter "Pirate Core"
+planet Stormhold
+	outfitter "Core Pirates"
+
+planet "Deadman's Cove"
+	outfitter "Core Pirates"
+
+planet Covert
+	outfitter "Core Pirates"
+
+planet "Buccaneer Bay"
+	outfitter "Core Pirates"
+
+outfitter "Core Pirates"
 	"Interference Hull"
 
 outfitter "Deep Sky Basics"
