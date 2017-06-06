@@ -2581,7 +2581,6 @@ planet Kullat
 	spaceport `The air is thick with a smoke emanating from the underground factories around the landing pads, with Alphas and Humans alike walking here and there to the different merchants and structures.`
 	shipyard "Servorum Basic"
 	shipyard "Servorum Advanced"
-	outfitter "Basic Outfits"
 	outfitter "Servorum Basic"
 	outfitter "Servorum Advanced"
 	"required reputation" 0
@@ -2740,7 +2739,6 @@ planet "Minas Tekel"
 	description `Primarily used as a textile manufacturer as well as a large producer of minerals due to the rugged terrain making this planet rather useless for other purposes, it also manages to attract tourists, generating small income for the Servorum Dei.`
 	spaceport `You caught slightly off guard, as the spaceport is pretty nice for such an under-developed planet. A quick look around explains why, there are rather large amounts of tourists in the area who are welcomed, despite the planet being owned by Alphas.`
 	shipyard "Servorum Basic"
-	outfitter "Basic Outfits"
 	outfitter "Servorum Basic"
 	"required reputation" 100
 	bribe 0.02
@@ -2765,7 +2763,6 @@ planet Parsine
 	landscape land/badlands1
 	description `For the most part, this planet is undeveloped. However, it is the main source of food for the Servorum Dei, as they have a very limited amount of worlds.`
 	spaceport `It isn't a whole lot to look at, it's a few landing pads surrounding a few fuel tanks in the middle of a small town. The locals keep glancing at you every now and then.`
-	outfitter "Basic Outfits"
 	outfitter "Servorum Basic"
 	"required reputation" 100
 	bribe 0.03
