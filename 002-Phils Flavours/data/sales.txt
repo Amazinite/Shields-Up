@@ -1,0 +1,58 @@
+# Copyright (c) 2017 by various
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfitter "Common Outfits"
+	"nGVF-BI Hybrid Fuel Cell"
+	"Body Armor"
+
+outfitter "Pirate Outfits"
+	"Focused Laser"
+	"Body Armor"
+
+outfitter "Deep Sky Basics"
+	"Focused Laser"
+
+outfitter "Deep Sky Advanced"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"AR250 Reverse Thruster"
+	"nGVF-BI Hybrid Fuel Cell"
+	"nGVF-CI Hybrid Fuel Cell"
+	"Assault Rifle ZX-411"
+
+outfitter "Lovelace Basics"
+	"Focused Laser"
+	"Assault Rifle ZX-411"
+
+outfitter "Lovelace Advanced"
+	"Focused Laser"
+	"Focused Laser Turret"
+	"Particle Cannon Turret"
+	"Assault Rifle ZX-411"
+
+outfitter "Delta V Basics"
+	"Stubby Heavy Laser"
+	"Chipmunk Plasma Engines"
+
+outfitter "Delta V Advanced"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
+	"Chipmunk Plasma Engines"
+	"Greyhound Plasma Engines"
+
+outfitter "Kraz Basics"
+	"Stubby Heavy Laser"
+	"nGVF-BI Hybrid Fuel Cell"
+
+outfitter "Kraz Advanced"
+	"Stubby Heavy Laser"
+	"Stubby Heavy Laser Turret"
+	"nGVF-BI Hybrid Fuel Cell"
+	"nGVF-CI Hybrid Fuel Cell"

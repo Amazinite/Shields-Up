@@ -8,6 +8,27 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfitter "Plenipotent Dominion"
+	"Particle Accelerator"
+	"Cloaking Device"
+	"XF-555 Ship Core"
+	"R-120 Warbird"
+	"S-45 Lamprey"
+	"Energy Chaingun"
+
+shipyard "Plenipotent Advanced"
+	"Ironclad Battleship"
+	"Ironclad Carrier"
+	"Pirated Frigate"
+
+shipyard "Plenipotent Basic"
+	"Derelict"
+	"Vagabond"
+	"Vagrant"
+	"Firebird"
+	"Fury"
+	"Berserker"
+
 fleet "Plenipotent Dominion Scout"
 	government "Plenipotent Dominion"
 	names "plenipotent"

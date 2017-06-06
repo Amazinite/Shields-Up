@@ -8,6 +8,15 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfit "Tactical Military Outfit"
+	category "Hand to Hand"
+	cost 36000
+	thumbnail "outfit/tactical military outfit"
+	"capture attack" 1.75
+	"capture defense" 1.75
+	"unplunderable" 1
+	description "The military outfit issued to crew members by the republic navy when combat and boarding missions are expected. Featuring a ZX-411 assault rifle, body armor and the JI-39s Helmet System which provides thermal imaging, combat information and coordination to squad members and much more. Combined the outfit provides a significant boost to both offensive and defensive capabilities."
+
 outfit "Integrated Chipmunk Engines"
 	category "Engines"
 	"cost" 45000

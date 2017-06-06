@@ -55,13 +55,6 @@ outfit "Boarding Cannon"
 	description "A very strong mortar designed for ship boarding."
 	description "It is stored in the Ship Armory."
 
-outfit "Expanded Map"
-	category "Special"
-	cost 10000
-	thumbnail "outfit/map"
-	"map" 36
-	description "A data chip containing a three times the amount of data on nearby systems than normal maps."
-
 outfit "Sizeable Map"
 	category "Special"
 	cost 50000
@@ -136,35 +129,6 @@ outfit "FTek Huge Shield System"
 	"shield energy" 0.83
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
 
-outfit "RCS10 Steering"
-	category "Engines"
-	"cost" 3000
-	thumbnail "outfit/tiny plasma steering"
-	"mass" 1
-	"outfit space" -1
-	"engine capacity" -1
-	"turn" 10
-	"turning energy" .1
-	"turning heat" .2
-	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
-	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
-
-outfit "RCS15 Thruster"
-	category "Engines"
-	"cost" 7000
-	thumbnail "outfit/tiny plasma thruster"
-	"mass" 2
-	"outfit space" -2
-	"engine capacity" -2
-	"thrust" 0.5
-	"thrusting energy" .1
-	"thrusting heat" .2
-	"flare sprite" "effect/ion flare/tiny"
-		"frame rate" 1.2
-	"flare sound" "ion tiny"
-	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
-	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
-
 outfit "XF-111 Ship Core"
 	category "Systems"
 	"cost" 42000
@@ -208,18 +172,6 @@ outfit "XF-555 Ship Core"
 	"hyperdrive" 1
 	description "A very handy multi-purpose outfit commonly found on the larger sized ships like warships."
 
-outfit "Hervar Regenerator"
-	category "Systems"
-	cost 540000
-	thumbnail "outfit/unknown"
-	"mass" 14
-	"outfit space" -14
-	"shield generation" .78
-	"energy generation" -.5
-	"heat generation" 4
-    "shield energy" 1
-	description "A prototype shield regenerator originally developed by the Republic, the only working prototype of it was stolen by pirates, who then starting producing them. For their size, they produce exceptional shield generation, but still are only used by pirates who don't care about heat or power. They do, however, cost a lot of money."
-
 outfit "Interference Hull"
 	category "Systems"
 	cost 15000
@@ -237,17 +189,6 @@ outfit "Interference Shielding"
 	"outfit space" -12
 	"scan interference" 1.9
 	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
-
-outfit "Signal Interdictor Deluxe"
-	category "Systems"
-	cost 1000000
-	thumbnail "outfit/unknown"
-	"required crew" 4
-	"mass" 24
-	"outfit space" -24
-	"scan interference" 24
-	illegal 1000000
-	description "Mostly used by the elite from drug cartels, this outfit requires crew to maintain an anti-scan signal. This is illegal and as such you will be fined should you land on high security planets or be chased by a determined detective."
 
 outfit "AI Mainframe"
 	category "Systems"
@@ -317,17 +258,6 @@ outfit "Repair Bot"
 	unplunderable 1
 	description "An android that specializes in ships and hull, able to repair your ship from the inside."
 	
-outfit "Navy Cloaking Device"
-	licenses
-		"Navy"
-	category "Systems"
-	cost 3200000
-	"mass" 12
-	"outfit space" -12
-	"cloak" .09
-	"cloaking energy" 3.5
-	description "An experimental Cloaking Device used by Navy Stealth Cruisers."
-
 outfit "Ship Armory"
 	plural "Ship Armories"
 	category "Hand to Hand"

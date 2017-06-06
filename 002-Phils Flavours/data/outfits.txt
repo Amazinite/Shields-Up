@@ -8,68 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfitter "Kraz Basics"
-	"Focused Laser"
-	"Focused Laser Turret"
-	"Stubby Heavy Laser"
-	"Stubby Heavy Laser Turret"
-	
-outfitter "Pirate Outfits"
-	"Focused Laser"
-	"Focused Laser Turret"
-	"Stubby Heavy Laser"
-	"Stubby Heavy Laser Turret"
-	
-outfitter "Pirate Outfits"
-	"Focused Laser"
-	"Focused Laser Turret"
-	"Stubby Heavy Laser"
-	"Stubby Heavy Laser Turret"
-	"Assault Rifle ZX-411"
-	"Body Armor"
-	"Tactical Military Outfit"
-	
-outfitter "Deep Sky Basics"
-	"Focused Laser"
-	"Focused Laser Turret"
-	"Stubby Heavy Laser"
-	"Stubby Heavy Laser Turret"
-	"AR250 Reverse Thruster"
-	
-outfitter "Deep Sky Advanced"
-	"Focused Laser"
-	"Focused Laser Turret"
-	"Stubby Heavy Laser"
-	"Stubby Heavy Laser Turret"
-	"AR250 Reverse Thruster"
-	
-outfitter "Delta V Basics"
-	"Chipmunk Plasma Engines"
-	"Greyhound Plasma Engines"
-	
-outfitter "Delta V Advanced"
-	"Chipmunk Plasma Engines"
-	"Greyhound Plasma Engines"
-	
-outfitter "Basic Outfits"
-	"nGVF-BI Hybrid Fuel Cell"
-	"nGVF-CI Hybrid Fuel Cell"
-	
-outfitter "Common Outfits"
-	"nGVF-BI Hybrid Fuel Cell"
-	"nGVF-CI Hybrid Fuel Cell"
-
-outfitter "Syndicate Advanced"
-	"Assault Rifle ZX-411"
-	"Body Armor"
-
-outfitter "Kraz Advanced"
-	"Assault Rifle ZX-411"
-	"Body Armor"
-	
-outfitter "Lovelace Advanced"
-	"Particle Cannon Turret"
-
 outfit "Particle Cannon Turret"
 	category "Turrets"
 	cost 480000
@@ -135,15 +73,6 @@ outfit "Body Armor"
 	"unplunderable" 1
 	description "Standard military body armor provides personal protection for crew members in the event of an attack."
 
-outfit "Tactical Military Outfit"
-	category "Hand to Hand"
-	cost 36000
-	thumbnail "outfit/tactical military outfit"
-	"capture attack" 1.75
-	"capture defense" 1.75
-	"unplunderable" 1
-	description "The military outfit issued to crew members by the republic navy when combat and boarding missions are expected. Featuring a ZX-411 assault rifle, body armor and the JI-39s Helmet System which provides thermal imaging, combat information and coordination to squad members and much more. Combined the outfit provides a significant boost to both offensive and defensive capabilities."
-	
 outfit "Chipmunk Plasma Engines"
 	category "Engines"
 	"cost" 45000
