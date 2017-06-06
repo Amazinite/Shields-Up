@@ -11,13 +11,8 @@
 outfitter "Tufton Human"
 	"400mm Slug"
 	"400mm Mag Rail Cannon"
-	"Hedgehog Ion Mine"
-	"Hedgehog Ion Mine Launcher"
-	"Tractor Beam Turret"
-	"Hull Repair Nano-Bots"
 	"Bighorn Energy Ram"
 	"Plasma Gatling"
-	"Ion Laser Turret"
 
 shipyard "Tufton Human"
 	"Monolith"

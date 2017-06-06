@@ -8,21 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-planet Earth
-	outfitter "Capital Planet"
-
-planet Valhalla
-	outfitter "Capital Planet"
-
-planet Foundry
-	outfitter "Capital Planet"
-
-planet Bourne
-	outfitter "Capital Planet"
-
-outfitter "Capital Planet"
-	"Sizeable Map"
-
 shipyard "Betelgeuse Basics"
 	"Skybus"
 	"Vagabond"
@@ -115,6 +100,21 @@ shipyard "Tarazed Advanced"
 
 shipyard "Warmaker"
 	Kriegsmacher
+
+planet Earth
+	outfitter "Capital Planet"
+
+planet Valhalla
+	outfitter "Capital Planet"
+
+planet Foundry
+	outfitter "Capital Planet"
+
+planet Bourne
+	outfitter "Capital Planet"
+
+outfitter "Capital Planet"
+	"Sizeable Map"
 
 outfitter "Basic Outfits"
 	"SC015s Shield Capacitor"
