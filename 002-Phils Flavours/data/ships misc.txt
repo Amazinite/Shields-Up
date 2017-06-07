@@ -240,18 +240,20 @@ ship "Heavy Dart"
 	attributes
 		category "Light Warship"
 		"cost" 2000000
-		"shields" 4600
-		"hull" 1400
-		"required crew" 4
 		"bunks" 12
-		"mass" 230
-		"drag" 5
-		"fuel capacity" 500
-		"heat dissipation" 0.65
 		"cargo space" 65
-		"outfit space" 310
-		"weapon capacity" 120
+		"drag" 5
 		"engine capacity" 90
+		"fuel capacity" 500
+		"gun ports" 2
+		"heat dissipation" 0.65
+		"hull" 1400
+		"mass" 230
+		"outfit space" 310
+		"required crew" 4
+		"shields" 4600
+		"turret mounts" 2
+		"weapon capacity" 120
 		weapon
 			"blast radius" 60
 			"shield damage" 600
@@ -643,6 +645,7 @@ ship "Elepaio"
 			"shield damage" 290
 			"hull damage" 145
 			"hit force" 435
+
 	outfits
 		"Focused Laser" 4
 
@@ -663,27 +666,29 @@ ship "Elepaio"
 	description "The obvious step up from the sparrow, the Elepaio is a large interceptor that features four gun ports that can each hold a focused laser. It has more shielding, a stronger hull and better energy generation than its smaller sibling."
 
 ship "Modified Sparrow"
-	sprite "ship/sparrow mkii"
+	sprite "ship/Modified Sparrow"
 	attributes
 		category "Interceptor"
 		"cost" 400000
-		"shields" 1500
-		"hull" 300
-		"required crew" 1
 		"bunks" 2
-		"mass" 65
+		"cargo space" 20
 		"drag" 1.4
+		"engine capacity" 40
 		"fuel capacity" 400
 		"heat dissipation" 0.8
-		"cargo space" 20
+		"hull" 300
+		"mass" 65
 		"outfit space" 145
+		"required crew" 1
+		"shields" 1500
+		"gun ports" 2
 		"weapon capacity" 28
-		"engine capacity" 40
 		weapon
 			"blast radius" 20
 			"shield damage" 180
 			"hull damage" 125
 			"hit force" 375
+
 	outfits
 		"Focused Laser" 2
 
@@ -724,6 +729,7 @@ ship "Junior Osprey"
 			"shield damage" 580
 			"hull damage" 290
 			"hit force" 870
+
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret"
@@ -772,6 +778,7 @@ ship "Wren"
 			"shield damage" 250
 			"hull damage" 125
 			"hit force" 375
+
 	outfits
 		"Laser Turret"
 
