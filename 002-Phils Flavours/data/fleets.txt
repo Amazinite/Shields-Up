@@ -1,0 +1,42 @@
+# Copyright (c) 2017 by various
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+event "welcome to phil's flavours"
+	fleet "Small Northern Merchants" # X2 ships
+	fleet "Large Northern Merchants" # X2 ships, rare silver ships
+	fleet "Small Core Merchants" # Rare X2 ships
+	fleet "Large Core Merchants" # Rare X2 ships
+	fleet "Small Southern Merchants" # New Bounty ships
+	fleet "Large Southern Merchants" # New Bounty ships
+	fleet "Small Northern Pirates" # Rare Shameless Privateer ships
+	fleet "Large Northern Pirates" # Rare Silver and Black Star, 
+	fleet "Small Core Pirates" # Shameless Privateer ships
+	fleet "Large Core Pirates" # Shameless Privateer ships
+	fleet "Small Southern Pirates" # New Bounty ships
+	fleet "Large Southern Pirates" # New Bounty ships
+	fleet "Small Deep" # Swooping Raven
+	fleet "Large Deep" # Swooping Raven
+	fleet "Small Syndicate" # Light Dart, Heavy Dart, and Arrowhead
+	fleet "Large Syndicate" # Light Dart, Heavy Dart, and Arrowhead
+	fleet "Small Militia" # New Bounty ships
+	fleet "Large Militia" # New Bounty ships
+	fleet "Small Free Worlds" # New Bounty ships
+	fleet "Large Free Worlds" # New Bounty ships
+
+# Merchants get new Haulers, Gargoyle, and Star Princess
+# Southern merchants and militia/FW get Junior Osprey, Elepaio, and Wren
+# South pirates get Modified Sparrow and Blackhawk
+
+# Republic and Oathkeeper fleets will be changed via an event that makes the Phil's Navy ships available
+	# The Warboat (currently Gunboat GXV2) will be added once the Navy start using Mark II fleets
+	# The Destroyer will be added after the main plot has been completed, released as a ship that was in development during the war but wasn't finished in time
+	# The Alliance Battleship will be added via a mission chain later on which will also give the player a Navy license.
+# Syndicate fleets will no initially have the Fortress or Trailbreaker
+	# These two ships will be added into Syndicate fleets once they start using Mark II fleets
