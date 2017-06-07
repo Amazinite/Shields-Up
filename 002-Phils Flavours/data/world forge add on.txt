@@ -87,3 +87,7 @@ planet Forge
 planet Mods
 	shipyard "Phil's Flavours"
 	outfitter "Phil's Flavours"
+
+planet Human
+	shipyard "Phil's Flavours"
+	outfitter "Phil's Flavours"
