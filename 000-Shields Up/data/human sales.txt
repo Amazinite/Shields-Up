@@ -10,96 +10,50 @@
 
 shipyard "Betelgeuse Basics"
 	"Skybus"
-	"Vagabond"
 	"Sky Dinghy"
-	"Vagrant"
 
 shipyard "Betelgeuse Advanced"
-	"Phoenix"
-	"Inferno"
-
-shipyard "FTek Basics"
-	"FTek Girl Scout"
-	"FTek Hornet"
-
-shipyard "FTek Advanced"
-	"FTek Destroyer"
-
-shipyard "Lionheart Basics"
-	"Vagabond"
-	"Vagrant"
 	"Archangel"
 
 shipyard "Lionheart Advanced"
-	"Aerie (Drone)"
-
-shipyard "Megaparsec Basics"
-	"Vagabond"
-	"Vagrant"
-
-shipyard "Northern Pirates"
-	"Derelict"
-	"Headhunter"
-	"Raven"
-	"Pirated Frigate"
-	"Sky Dinghy"
-	"Vagabond"
-	"Vagrant"
-	"Ironclad Battleship"
-	"Ironclad Carrier"
-	"Modified Firebird"
+	"Archangel"
+	"Swooping Raven"
 
 shipyard "Southbound Basics"
-	"Skybus"
-	"Derelict"
-	"Sky Dinghy"
-	"Vagabond"
 	"Vagrant"
-	"Ironclad Battleship"
-	"Ironclad Carrier"
 
 shipyard "Southbound Advanced"
-	"Archangel"
-	"FTek Destroyer"
+	"Hauler IV"
 	"Therum"
-
-shipyard "Southern Pirates"
-	"Vagabond"
-	"Derelict"
-	"Headhunter"
-	"Raven"
-	"Pirated Frigate"
-	"Sky Dinghy"
-	"Skybus"
-	"Vagrant"
-	"Ironclad Battleship"
-	"Ironclad Carrier"
-
-shipyard "Syndicate Basics"
-	"FTek Hornet"
-	"Vagabond"
-	"Vagrant"
-
-shipyard "Syndicate Advanced"
-	"Ftek Hornet"
-	"FTek Girl Scout"
-	"Phoenix"
-	"Nemesis Carrier"
-	"Gnosis Transport"
+	"Junior Osprey"
 
 shipyard "Tarazed Basics"
-	"FTek Hornet"
+	"Wren"
+	"Junior Osprey"
 
-shipyard "Tarazed Advanced"
-	"Phoenix"
-	"Archangel"
+shipyard "Megaparsec Basics"
+	"Arrowhead"
+
+shipyard "Syndicate Basics"
+	"Light Dart"
 	"FTek Girl Scout"
-	"FTek Hornet"
-	"FTek Destroyer"
-	"Hunter Drone"
 
-shipyard "Warmaker"
-	Kriegsmacher
+shipyard "Syndicate Advanced"
+	"Heavy Dart"
+	"Star Princess"
+	"FTek Destroyer"
+
+shipyard "Northern Pirates"
+	"Modified Firebird"
+	"Dark Berserker"
+
+shipyard "Southern Pirates"
+	"Black Hawk"
+
+shipyard "Luxury Ships"
+	"Star Princess"
+
+
 
 planet Earth
 	outfitter "Capital Planet"

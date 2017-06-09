@@ -8,6 +8,107 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+planet "Deadman's Cove"
+	shipyard "Shameless Privateer Basic"
+
+planet Stormhold
+	shipyard "Shameless Privateer Basic"
+
+planet Greenrock
+	shipyard "Shameless Privateer Basic"
+
+planet Covert
+	shipyard "Shameless Privateer Basic"
+	shipyard "Shameless Privateer Advanced"
+
+planet "Buccaneer Bay"
+	shipyard "Shameless Privateer Basic"
+	shipyard "Shameless Privateer Advanced"
+
+shipyard "Shameless Privateer Basic"
+	"Rum Barrel"
+	"Lifted Purse"
+	"Pilfered Keg"
+	"Captain's Hoard"
+	"Fifth Ace"
+	"Hidden Blade"
+	"Dirty Cutlass"
+	"Fearless Assassin"
+	"Deceitful Hangman"
+
+shipyard "Shameless Privateer Advanced"
+	"Stormbolt"
+	"Hellscream"
+
+
+
+planet Thule
+	shipyard "New Bounty Basic"
+
+planet Greenrock
+	shipyard "New Bounty Basic"
+
+planet Glaze
+	shipyard "New Bounty Basic"
+
+planet Zug
+	shipyard "New Bounty Basic"
+	shipyard "New Bounty Advanced"
+
+planet Solace
+	shipyard "New Bounty Basic"
+	shipyard "New Bounty Advanced"
+	shipyard "New Bounty Special"
+
+shipyard "New Bounty Basic"
+	"Camelthorn"
+	"Balau"
+
+shipyard "New Bounty Advanced"
+	"Cebil"
+	"Quebracho"
+	"Gidgee"
+	"Wamara"
+	"Lignum"
+
+shipyard "New Bounty Special"
+	"Katalox"
+
+
+
+planet Mainsail
+	shipyard "X2 Basic"
+
+planet Haze
+	shipyard "X2 Basic"
+
+planet Follower
+	shipyard "X2 Basic"
+
+planet Prime
+	shipyard "X2 Basic"
+	shipyard "X2 Advanced"
+
+planet Calda
+	shipyard "X2 Basic"
+	shipyard "X2 Advanced"
+	shipyard "X2 Special"
+
+shipyard "X2 Basic"
+	"3000X2 Freight"
+	"3500X2 Freight"
+
+shipyard "X2 Advanced"
+	"4500X2 Freight"
+	"4500X2 Gunship"
+	"7000X2S Freight"
+
+shipyard "X2 Special"
+	"9000X2 Gunship"
+	"10000X2S Freight"
+
+
+
 outfitter "Common Outfits"
 	"nGVF-BI Hybrid Fuel Cell"
 	"Body Armor"
