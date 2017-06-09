@@ -58,54 +58,6 @@ ship "Skybus"
 	description "The cheapest transport ship to boast a turret, the Skybus is a fan favorite among the less wealthy of the galaxy. Some see it as an alternative to the Scout, as both have a similar capacity to hold passengers and have the same amount of weapons, but others chastise the Skybus for being too slow and unreliable when defending against pirates."
 	description "	Although well-armed for its size and purpose, the Skybus is still advised not to wade into heavy combat, and instead to escape dangerous situations."
 
-ship "Vagabond"
-	sprite "ship/vagabond"
-	attributes
-		category "Light Freighter"
-		"cost" 650000
-		"shields" 2000
-		"hull" 1400
-		"required crew" 4
-		"bunks" 6
-		"mass" 160
-		"drag" 3.7
-		"heat dissipation" .7
-		"fuel capacity" 400
-		"cargo space" 80
-		"outfit space" 270
-		"weapon capacity" 65
-		"engine capacity" 70
-		weapon
-			"blast radius" 36
-			"shield damage" 360
-			"hull damage" 180
-			"hit force" 540
-	outfits
-		"Modified Blaster" 2
-		"Heavy Rocket Launcher" 2
-		"Heavy Rocket" 40
-
-		"nGVF-DD Fuel Cell"
-		"LP072a Battery Pack"
-		"D23-QP Shield Generator"
-
-		"Greyhound Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Hyperdrive"
-
-	engine -22 45
-	engine 22 45
-	gun -34 -17 "Modified Blaster"
-	gun 34 -17 "Modified Blaster"
-	gun -12 -12 "Heavy Rocket Launcher"
-	gun 12 -12 "Heavy Rocket Launcher"
-	turret 0 15.5
-	explode "tiny explosion" 25
-	explode "small explosion" 20
-	explode "medium explosion" 10
-	description "The Vagabond is what happens when a Clipper has served its many crews well and faithfully for decades. Many of the parts have broken and fallen off, being replaced with bits and scraps from other ships. Parts of the inside have been opened up to provide more space and the outer hull has been hardened to compensate, but this has lead it to become more susceptible to overheating."
-	description "	The captain of this Vagabond has decided to hang his hat and retire and has sold his Vagabond onto the market to be refurbished and resold to a younger captain."
-
 ship "Vagrant"
 	sprite "ship/vagrant"
 	attributes
@@ -154,189 +106,6 @@ ship "Vagrant"
 	explode "medium explosion" 15
 	description "Where ever there are scrap yards, there are looters looking for bits and pieces from more expensive ships to use for their own profit. The Vagrant is the product of one such looter."
 	description "	Using the chassis of a decomissioned Rainmaker as a base, the Vagrant is a popular ship in regions of space where the Navy rarely visit and therefore can not crack down on people using what is essentially stolen Navy technology."
-
-ship "Ancient Hulk"
-	sprite "ship/hulk"
-	attributes
-		category "Heavy Freighter"
-		"cost" 17600000
-		"shields" 10500
-		"hull" 12600
-		"required crew" 40
-		"bunks" 95
-		"mass" 1940
-		"drag" 26.1
-		"heat dissipation" .4
-		"fuel capacity" 700
-		"cargo space" 930
-		"outfit space" 698
-		"weapon capacity" 260
-		"engine capacity" 220
-		weapon
-			"blast radius" 260
-			"shield damage" 2600
-			"hull damage" 1300
-			"hit force" 3900
-	outfits
-		"Meteor Missile Launcher" 4
-		"Meteor Missile" 140
-		"Heavy Laser Turret" 4
-		"Heavy Anti-Missile Turret" 2
-
-		"Fusion Reactor"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Ramscoop"
-
-		"X4700 Ion Thruster"
-		"X5200 Ion Steering"
-		"Hyperdrive"
-
-	engine -56 160
-	engine 38 160
-	gun -15 -226 "Meteor Missile Launcher"
-	gun 15 -226 "Meteor Missile Launcher"
-	gun -40 -133 "Meteor Missile Launcher"
-	gun -45 -128 "Meteor Missile Launcher"
-	turret -22 -148 "Heavy Laser Turret"
-	turret 26 -80 "Heavy Anti-Missile Turret"
-	turret -41 -20 "Heavy Laser Turret"
-	turret 32 -7 "Heavy Laser Turret"
-	turret 53 82 "Heavy Laser Turret"
-	turret -37 186 "Heavy Anti-Missile Turret"
-	fighter -38 -26
-	fighter 35 36
-	fighter -47 97
-	explode "small explosion" 25
-	explode "medium explosion" 35
-	explode "big explosion" 45
-	explode "huge explosion" 30
-	description "Perhaps, centuries ago, this ship was a Syndicate Heavy Freighter. It's a little hard to tell as its cargo holds appear to have fallen off and been replaced with hollowed-out asteroids and bits of miscellaneous ships."
-	description "To be fair, although every Hulk has its ghost stories, time has been kind to this ship, gracing it with fighter bays, an enormous cargo capacity, and the means to defend itself against pirates -- and the seller assures you that the ship is not haunted in any way and the ghost stories are entirely fictional."
-
-ship "Derelict"
-	sprite "ship/derelict"
-	attributes
-		category "Heavy Warship"
-		"cost" 8800000
-		"shields" 12000
-		"hull" 7400
-		"required crew" 54
-		"bunks" 58
-		"mass" 540
-		"drag" 7.9
-		"heat dissipation" .5
-		"fuel capacity" 600
-		"cargo space" 160
-		"outfit space" 600
-		"weapon capacity" 200 
-		"engine capacity" 110
-		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
-	outfits
-		"Energy Chaingun" 2
-		"Heavy Rocket Launcher" 2
-		"Heavy Rocket" 2
-		"Blaster Turret" 2
-		"Anti-Missile Turret" 2
-
-		"Fusion Reactor"
-		"LP288a Battery Pack"
-		"D67-TM Shield Generator"
-		"Liquid Helium Cooler"
-
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine -25 125
-	engine 25 125
-	gun 51.5 7
-	gun 23.5 -87.5 "Energy Chaingun"
-	gun -37 -38 "Energy Chaingun"
-	gun -55.5 -33
-	turret -15 -50 
-	turret 15 -50
-	turret -25 10 "Anti-Missile Turret"
-	turret 25 10 "Anti-Missile Turret"
-	fighter 53 94
-	explode "tiny explosion" 18
-	explode "small explosion" 36
-	explode "medium explosion" 24
-	explode "big explosion" 8
-	description "The Derelict is a Leviathan that has been patched with scrap metal, shipping containers, and a random fighter bay."
-	description "	Although much less useful in a firefight than its standard version, the Derelict is well-loved by rich pirates and paranoid merchantmen alike."
-
-ship "Phoenix"
-	plural "Phoenixes"
-	sprite "ship/phoenix"
-	attributes
-		category "Heavy Warship"
-		"cost" 22200000
-		"shields" 25000
-		"hull" 9400
-		"required crew" 174
-		"bunks" 296
-		"mass" 1050
-		"drag" 24.2
-		"heat dissipation" .3
-		"fuel capacity" 1000
-		"cargo space" 0
-		"outfit space" 900
-		"weapon capacity" 400
-		"engine capacity" 120
-		weapon
-			"blast radius" 300
-			"shield damage" 3000
-			"hull damage" 1500
-			"hit force" 4500
-	outfits
-		"400mm Mag Rail Cannon" 2
-		"400mm Slug" 100
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"Heavy Laser Turret" 3
-		"Heavy Anti-Missile Turret" 2
-
-		"Fusion Reactor"
-		"LP072a Battery Pack"
-		"D94-YV Shield Generator"
-		"Liquid Nitrogen Cooler"
-
-		"X3700 Ion Thruster"
-		"X4200 Ion Steering"
-		"Scram Drive"
-
-	engine -31 81
-	engine 32.5 81
-	gun -55 -38 "400mm Mag Rail Cannon"
-	gun 55 -38 "400mm Mag Rail Cannon"
-	gun -26 -13 "Torpedo Launcher"
-	gun 26 -13 "Torpedo Launcher"
-	turret -54 -4 "Heavy Laser Turret"
-	turret 54 -4 "Heavy Laser Turret"
-	turret 0 -9 "Heavy Laser Turret"
-	turret -30 27 "Heavy Anti-Missile Turret"
-	turret 30 27 "Heavy Anti-Missile Turret"
-	fighter -16 -9
-	fighter -16 -9
-	fighter -16 -9
-	fighter -16 -9
-	fighter 16 -9
-	fighter 16 -9
-	fighter 16 -9
-	fighter 16 -9
-	explode "tiny explosion" 50
-	explode "small explosion" 50
-	explode "medium explosion" 50
-	explode "big explosion" 50
-	explode "huge explosion" 30
-	explode "nuke explosion" 1
-	description "The Phoenix is a mobile command base on a par with the very best ships available."
-	description "	Packing every convenience a modern commander could want, from drones to fighters to torpedos to turrets, the Phoenix is difficult to kill, and if defeated will surely rise again."
 
 ship "Sky Dinghy"
 	plural "Sky Dinghies"
@@ -487,8 +256,6 @@ ship "Archangel"
 ship "Legionnaire"
 	sprite ship/Legionaire
 	attributes
-		licenses
-			"Deep Sky"
 		category "Medium Warship"
 		"cost" 6870000
 		"shields" 6500
@@ -538,67 +305,6 @@ ship "Legionnaire"
 	explode "small explosion" 30
 	explode "medium explosion" 20
 	description "The Legionnaire is a Mule modified for heavy combat, with upgraded engines, power, weaponry, and defenses. All that power comes at a price, though; the Legionnaire is extremely expensive."
-
-ship "Ironclad Battleship"
-	sprite "ship/battleship"
-	attributes
-		category "Heavy Warship"
-		"cost" 10200000
-		"shields" 1400
-		"hull" 24000
-		"required crew" 94
-		"bunks" 154
-		"mass" 2050
-		"drag" 23.2
-		"heat dissipation" .3
-		"fuel capacity" 500
-		"cargo space" 240
-		"outfit space" 780
-		"weapon capacity" 290
-		"engine capacity" 180
-		weapon
-			"blast radius" 400
-			"shield damage" 4000
-			"hull damage" 2000
-			"hit force" 6000
-	outfits
-		"Plasma Cannon" 4
-		"Heavy Rocket Launcher" 2
-		"Heavy Rocket" 40
-		"Quad Blaster Turret" 3
-		"Anti-Missile Turret" 4
-
-		"NT-200 Nucleovoltaic" 3
-		"LP288a Battery Pack"
-		"Liquid Nitrogen Cooler"
-
-		"Orca Plasma Thruster"
-		"Orca Plasma Steering"
-		"Hyperdrive"
-
-	engine -25 118.5
-	engine 29.5 119.5
-	gun -75 -28
-	gun 75 -28
-	gun -20 -46
-	gun 20 -46
-	gun -7 -108
-	gun 7 -108
-	turret 0 -56
-	turret 0 46
-	turret 0 68
-	turret 0 88
-	turret -76 0 "Anti-Missile Turret"
-	turret 76 0 "Anti-Missile Turret"
-	turret -42 -13 "Anti-Missile Turret"
-	turret 42 -13 "Anti-Missile Turret"
-	fighter -45 -30
-	fighter 45 -30
-	explode "small explosion" 25
-	explode "medium explosion" 30
-	explode "big explosion" 20
-	explode "huge explosion" 10
-	description "An ancient warship that last saw active service as the flagship of the Imperium of Mankind's main battle fleet in the first human Hyperspace Wars. At this point in human history, shields had not yet been invented, so this battleship relied on thick ablative Nano-Mesh™ armor plating to survive the primitive blasts of early human space weaponry.  Modern iterations of this ship include a small shield generator."
 
 ship "Ironclad Carrier"
 	sprite "ship/imperialcarrier"
@@ -840,49 +546,6 @@ ship "FTek Destroyer"
 	description "A refitted freighter, the FTek Destroyer is everything you could want from a big space ship that shoot lasers. - FTek Chief of the Incognito Undercover Secret Military Building Death Machine Division™"
 	description "Remember, FTek builds murder weapons, so you don't have to!™"
 
-ship "FTek Hornet"
-	sprite "ship/hornet"
-	attributes
-		category "Interceptor"
-		"cost" 265000
-		"shields" 1200
-		"hull" 300
-		"required crew" 1
-		"bunks" 3
-		"mass" 60
-		"drag" 1.2
-		"heat dissipation" .8
-		"fuel capacity" 300
-		"cargo space" 30
-		"outfit space" 145
-		"weapon capacity" 26
-		"engine capacity" 45
-		weapon
-			"blast radius" 16
-			"shield damage" 160
-			"hull damage" 80
-			"hit force" 240
-	outfits
-		"FTek Active Blaster" 2
-
-		"nGVF-BB Fuel Cell"
-		"LP036a Battery Pack"
-		"D23-QP Shield Generator"
-
-		"Chipmunk Plasma Thruster"
-		"Chipmunk Plasma Steering"
-		"Hyperdrive"
-
-	engine -5 35
-	engine 5 35
-	gun -29 -8
-	gun 30 -8
-	turret 0 0
-	explode "tiny explosion" 15
-	explode "small explosion" 5
-	description "Despite numerous claims that the Hornet is literally just a Sparrow with a few adjustments, these accusations are FALSE. FTek makes no attempts to steal other weapon developer's technology. Well, at least not all the time."
-	description "Remember, FTek builds murder weapons, so you don't have to!™"
-
 ship "FTek Girl Scout"
 	sprite "ship/the girl scout"
 	attributes
@@ -967,59 +630,6 @@ ship "Hunter Drone"
 	explode "small explosion" 5
 	description "An experimental missile drone, this is a modified Sparrow with a small AI mainframe inside. Although developed by Lionheart, they are very rarely seen in the Deep itself, but are rather popular in southern areas of space."
 
-ship "Aerie (Drone)"
-	plural "Aeries (Drone)"
-	sprite "ship/aerie"
-	attributes
-		category "Medium Warship"
-		"cost" 3500000
-		"shields" 5700
-		"hull" 1900
-		"required crew" 10
-		"bunks" 28
-		"mass" 130
-		"drag" 4.1
-		"heat dissipation" .7
-		"fuel capacity" 500
-		"cargo space" 50
-		"outfit space" 390
-		"weapon capacity" 150
-		"engine capacity" 95
-		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
-	outfits
-		"Heavy Laser" 2
-		"Heavy Laser Turret" 2
-		"Heavy Anti-Missile Turret"
-
-		"NT-200 Nucleovoltaic"
-		"LP072a Battery Pack"
-		"D41-HY Shield Generator"
-
-		"X3700 Ion Thruster"
-		"X3200 Ion Steering"
-		"Hyperdrive"
-
-	engine -10 91
-	engine 10 91
-	gun -13 -79 "Heavy Laser"
-	gun 13 -79 "Heavy Laser"
-	turret -17 14 "Heavy Laser Turret"
-	turret 17 14 "Heavy Laser Turret"
-	turret 0 0 "Heavy Anti-Missile Turret"
-	drone -42 -2
-	drone 42 2
-	drone -44 -2
-	drone 44 2
-	explode "tiny explosion" 10
-	explode "small explosion" 25
-	explode "medium explosion" 25
-	explode "big explosion" 10
-	description "The Lionheart Aerie is a light carrier, designed to be just big enough for four drone bays plus a decent armament of its own. Variations on this same ship design have been in use in the Deep for almost half a millennium, but this model comes with the very latest in generator, weapon technology and has drone bays instead of fighter bays. However, it also requires 2 additional crew members for controlling the drones."
-	
 ship "Modified Firebird"
 	sprite "ship/mod firebird"
 	attributes
@@ -1072,8 +682,6 @@ ship "Modified Firebird"
 ship "Kriegsmacher"
 	sprite "ship/Kriegsmacher" #Thanks, Matthew Smestad!
 	attributes
-		licenses
-			"Destroyer of Worlds"
 		category "Heavy Warship"
 		"cost" 125200000
 		"shields" 71200
@@ -1183,58 +791,10 @@ ship "Therum"
 	explode "medium explosion" 15
 	description "A prototype heavy interceptor, it carries 2 Meteor Missile Launchers and a newly developed Energy Chaingun to swiftly take care of enemies."
 
-ship "Gnosis Transport"
-	sprite "ship/syndicarrier"
-	attributes
-		category "Transport"
-		"cost" 12450000
-		"shields" 4000
-		"hull" 7600
-		"required crew" 10
-		"bunks" 310
-		"mass" 870
-		"drag" 15.8
-		"heat dissipation" .5
-		"fuel capacity" 600
-		"cargo space" 20
-		"outfit space" 410
-		"weapon capacity" 90
-		"engine capacity" 110
-		weapon
-			"blast radius" 120
-			"shield damage" 1200
-			"hull damage" 600
-			"hit force" 1800
-	outfits
-		"Heavy Anti-Missile Turret" 3
-
-		"nGVF-EE Fuel Cell"
-		"LP144a Battery Pack"
-		"D67-TM Shield Generator"
-
-		"Impala Plasma Thruster"
-		"Impala Plasma Steering"
-		"Hyperdrive"
-
-	engine -19 196.5
-	engine 19 196.5
-	engine -61.5 163
-	engine 61.5 163
-	turret 0 7 "Heavy Anti-Missile Turret"
-	turret -32 176 "Heavy Anti-Missile Turret"
-	turret 32 176 "Heavy Anti-Missile Turret"
-	explode "small explosion" 15
-	explode "medium explosion" 25
-	explode "big explosion" 35
-	explode "huge explosion" 20
-	description "A repurposed Bulk Freighter, the Gnosis Transport is used by the Syndicate as a relatively cheap way to transport large amounts of people. In order to fit as many people on as possible, many of the gun ports and turret mounts were removed from the original design, but the size of the engines was increased to compensate."
-	
 ship "Capitalis Viatoris"
 	plural "Capitalis Viatores"
 	sprite "ship/capitalis viatoris"
 	attributes
-		licenses
-			"Tarazed"
 		category "Heavy Warship"
 		"cost" 65200000
 		"shields" 61200
@@ -1446,8 +1006,6 @@ ship "Bactrian T2"
 		"delay" 85
 	plural "Bactrians T2"
 	attributes
-		licenses
-			"Deep Sky"
 		category "Heavy Warship"
 		"cost" 35200000
 		"shields" 17500

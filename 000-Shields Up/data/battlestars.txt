@@ -39,8 +39,6 @@ ship "Battlestar"
 		"frame rate" 12
 		"rewind"
 	attributes
-		licenses
-			"Plenipotent"
 		category "Heavy Warship"
 		"cost" 500000000
 		"shields" 800000

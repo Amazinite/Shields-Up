@@ -8,16 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-shipyard "New Bounty Ships"
-	"Camelthorn"
-	"Balau"
-	"Katalox"
-	"Wamara"
-	"Cebil"
-	"Quebracho"
-	"Gidgee"
-	"Lignum"
-
 ship Camelthorn
 	sprite ship/camelthorn
 	attributes

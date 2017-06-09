@@ -8,11 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-shipyard "Navy Advanced"
-	"Destroyer"
-	"Gunboat GXV2"
-	"Alliance Battleship"
-
 ship "Alliance Battleship"
 	sprite "ship/alliance battleship"
 	attributes
@@ -75,58 +70,6 @@ ship "Alliance Battleship"
 	explode "huge explosion" 30
 	"final explode" "final explosion large"
 	description "Designed and built under an agreement between the Republic Navy and Lionheart, the 'Alliance' is one of the biggest and strongest ships ever made. Absolute massive shields and hull are supported a similarly large outfit and weapon capacity."
-
-ship "Gunboat GXV2"
-	sprite "ship/gunboat gxv2"
-	attributes
-		licenses
-			Navy
-		category "Light Warship"
-		"cost" 3600000
-		"shields" 5800
-		"hull" 1400
-		"required crew" 7
-		"bunks" 12
-		"mass" 150
-		"drag" 3.1
-		"heat dissipation" .8
-		"fuel capacity" 600
-		"cargo space" 5
-		"outfit space" 325
-		"weapon capacity" 140
-		"engine capacity" 90
-		weapon
-			"blast radius" 72
-			"shield damage" 720
-			"hull damage" 360
-			"hit force" 1080
-	outfits
-		"Heavy Laser" 4
-		"Heavy Laser Turret"
-
-		"RT-I Radiothermal"
-		"LP144a Battery Pack"
-		"D41-HY Shield Generator"
-		"Small Radar Jammer"
-		"Cargo Scanner"
-		"Outfit Scanner"
-
-		"X3700 Ion Thruster"
-		"X3200 Ion Steering"
-		"Hyperdrive"
-
-	engine -11 57.5
-	engine 11 57.5
-	gun -17.5 -38.5 "Heavy Laser"
-	gun 17.5 -38.5 "Heavy Laser"
-	gun -28.5 -26 "Heavy Laser"
-	gun 28.5 -26 "Heavy Laser"
-	turret 0 -6.5 "Heavy Laser Turret"
-	explode "tiny explosion" 10
-	explode "small explosion" 20
-	explode "medium explosion" 15
-	"final explode" "final explosion small"
-	description "Designed as a strong fighter or escort for larger ships, the GXV2 model of the gunboat repurposes the space and equipment of the original to add two extra gun ports."
 
 ship "Destroyer"
 	sprite "ship/destroyer"

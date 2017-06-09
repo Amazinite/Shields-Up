@@ -100,27 +100,25 @@ outfitter "AE Sentar"
 
 shipyard "SU Human"
 	"Skybus"
-	"Vagabond"
 	"Vagrant"
-	"Ancient Hulk"
-	"Derelict"
-	"Phoenix"
 	"Sky Dinghy"
 	"Hauler XV"
 	"Archangel"
 	"Legionnaire"
-	"Ironclad Battleship"
 	"Ironclad Carrier"
 	"Pirated Frigate"
 	"Samurai"
 	"FTek Destroyer"
-	"FTek Hornet"
 	"FTek Girl Scout"
 	"Inferno"
 	"Kestrel-M"
 	"Bactrian T2"
 	"Dragoon"
 	"Kriegsmacher"
+	"Capitalis Viatoris"
+	"Hunter Drone"
+	"Modified Firebird"
+	"Therum"
 
 shipyard "AE Sentar"
 	"Erebus"
@@ -172,29 +170,9 @@ planet Forge
 	outfitter "AE Sentar"
 	shipyard "AE Sentar"
 
-mission "Add Plenipotent License"
-	repeat
-	job
-	source
-		attributes forge
-	description "Gives you a Plenipotent License."
-	to offer
-		not "license: Plenipotent"
-	on accept
-		set "license: Plenipotent"
-		fail
-
-mission "Remove Plenipotent License"
-	repeat
-	job
-	source
-		attributes forge
-	description "Removes your Plenipotent License."
-	to offer
-		has "license: Plenipotent"
-	on accept
-		clear "license: Plenipotent"
-		fail
+planet Human
+	shipyard "SU Human"
+	outfitter "SU Human"
 
 mission "Add Deep Sky License"
 	repeat
@@ -218,54 +196,6 @@ mission "Remove Deep Sky License"
 		has "license: Deep Sky"
 	on accept
 		clear "license: Deep Sky"
-		fail
-
-mission "Add Destroyer of Worlds License"
-	repeat
-	job
-	source
-		attributes forge
-	description "Gives you a Destroyer of Worlds license."
-	to offer
-		not "license: Destroyer of Worlds"
-	on accept
-		set "license: Destroyer of Worlds"
-		fail
-
-mission "Remove Destroyer of Worlds License"
-	repeat
-	job
-	source
-		attributes forge
-	description "Removes your Destroyer of Worlds license."
-	to offer
-		has "license: Destroyer of Worlds"
-	on accept
-		clear "license: Destroyer of Worlds"
-		fail
-
-mission "Add Tarazed License"
-	repeat
-	job
-	source
-		attributes forgehuman
-	description "Gives you a Tarazed license."
-	to offer
-		not "license: Tarazed"
-	on accept
-		set "license: Tarazed"
-		fail
-
-mission "Remove Tarazed License"
-	repeat
-	job
-	source
-		attributes forgehuman
-	description "Removes your Tarazed license."
-	to offer
-		has "license: Tarazed"
-	on accept
-		clear "license: Tarazed"
 		fail
 
 mission "Add Servorum License"
