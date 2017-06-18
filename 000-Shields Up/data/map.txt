@@ -8,10 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-galaxy "label southeast"
-	pos -11.9773 459.553
-	sprite label/southeast
-
 system Agon
 	pos -633.498 -548.83
 	government "Servorum Dei"
