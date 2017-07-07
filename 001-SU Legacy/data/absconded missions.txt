@@ -32,7 +32,7 @@ mission "Hai Absconded: First Contact"
 			`	"I assume that you are meaning to ask what the Absconded are here for."`
 			
 			label absconded
-			`	"We are here because we do not agree with those Hai of the Unfettered or of the Quarg. My ancestors decided to leave the rest of the Hai, taking with them the few Jump Drives that the Hai had after the war and colonizing these worlds here. For this, they call us `Absconded.`"`
+			`	"We are here because we do not agree with those Hai of the Unfettered or of the Quarg. My ancestors decided to leave the rest of the Hai, taking with them the few jump drives that the Hai had after the war and colonizing these worlds here. For this, they call us 'Absconded.'"`
 			choice
 				`	"What war are you talking about?"`
 					goto war
@@ -42,8 +42,8 @@ mission "Hai Absconded: First Contact"
 				decline
 
 			label war
-			`	"Hundreds of years ago, the Hai territory was raided by the aliens from the east. The Korath, they were called. They sent large warships with Jump Drives, able to travel between stars that are not linked. For decades, this war went on, and over the time we collected many Jump Drives. Suddenly, the war stopped, leaving us confused."`
-			`	"Many of those who fought the Korath did not want to stop fighting. They had grown complacent in war after fighting for so many years. Those Hai traveled to the north and controlled three worlds and began to fight the Hai of the Quarg. We, the Absconded, did not want to see any more war, and as such we took the remaining Jump Drives to here."`
+			`	"Hundreds of years ago, the Hai territory was raided by the aliens from the east. The Korath, they were called. They sent large warships with jump drives, able to travel between stars that are not linked. For decades, this war went on, and over the time we collected many jump drives. Suddenly, the war stopped, leaving us confused."`
+			`	"Many of those who fought the Korath did not want to stop fighting. They had grown complacent in war after fighting for so many years. Those Hai traveled to the north and controlled three worlds and began to fight the Hai of the Quarg. We, the Absconded, did not want to see any more war, and as such we took the remaining jump drives to here."`
 			choice
 				`	"If you have been here for hundreds of years, why is it that you have not colonized all the systems nearby?"`
 				`	"That is an interesting story. Thank you for this information."`
