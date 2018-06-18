@@ -17,7 +17,7 @@ mission "SU War Start"
 	blocked "You need passenger space of at least one to accept this mission."
 	passengers 1
 	source 
-		governnment Republic Syndicate "Free Worlds"
+		government Republic Syndicate "Free Worlds"
 	destination "Icefall"
 	to offer
 		has "event: SU War Start"
