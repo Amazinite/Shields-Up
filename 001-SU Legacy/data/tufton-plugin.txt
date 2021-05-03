@@ -8,8 +8,39 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+
+shipyard "Lionheart Basics"
+	"Tactical Assault Fighter"
+
+shipyard "Lionheart Advanced"
+#	"Monolith"	
+	"Tactical Assault Fighter"
+
+outfitter "Deep Sky Basics"
+	"400mm Slug"
+	
 outfitter "Deep Sky Advanced"
+	"Hedgehog Ion Mine"
+	"Hedgehog Ion Mine Launcher"
+	"Hull Repair Nano-Bots"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
 	"Bighorn Energy Ram"
+	"Tractor Beam Turret"
+	"Ion Laser Turret"
+
+outfitter "Lovelace Advanced"
+	"Hedgehog Ion Mine"
+	"Hedgehog Ion Mine Launcher"
+	"400mm Mag Rail Cannon"
+	"400mm Slug"
+
+outfitter "Pirate Outfits"
+	"Plasma Gatling"
+	"Hull Repair Nano-Bots"
+
+outfitter "Kraz Basics"
+	"Hull Repair Nano-Bots"
 
 ship "Monolith"
 	sprite "ship/monolith"
@@ -256,6 +287,54 @@ effect "rail explosion 4"
 	"random spin" 2
 	"random frame rate" 5
 	"velocity scale" .05
+	
+
+outfit "Hedgehog Ion Mine"
+	category "Ammunition"
+	cost 1400
+	thumbnail "outfit/mine"
+	"hedgehog capacity" -1
+	"mass" .5
+	description "Hedgehog Ion Mines are ammunition for the Hedgehog Ion Mine Launcher."
+
+outfit "Hedgehog Ion Mine Launcher"
+	category "Secondary Weapons"
+	cost 330000
+	thumbnail "outfit/minelayer"
+	"mass" 35
+	"outfit space" -50
+	"weapon capacity" -50
+	"gun ports" -1
+	"hedgehog capacity" 30
+	weapon
+		sprite "projectile/iontorpedo"
+			"frame rate" 4
+			"random start frame"
+		sound "typhoon"
+		ammo "Hedgehog Ion Mine"
+		icon "icon/iontorpedo"
+		"fire effect" "torpedo fire"
+		"hit effect" "big explosion"
+		"inaccuracy" 360
+		"velocity" 1
+		"lifetime" 2000
+		"reload" 180
+		"firing energy" 36
+		"firing heat" 36
+		"acceleration" .06
+		"drag" .05
+		"turn" 2
+		"homing" 4
+		"infrared tracking" .9
+		"missile strength" 35
+		"shield damage" 720
+		"hull damage" 840
+		"hit force" 50
+		"missile strength" 30
+		"submunition" "Ion Torpedo Blast" 75
+		"split range" 120
+		"stream"
+	description `Hedgehog Ion Mines are powerful tools to "dissuade" any pursuers from continuing the chase.`
 
 outfit "Plasma Gatling"
 	category "Guns"
@@ -282,6 +361,55 @@ outfit "Plasma Gatling"
 		"heat damage" 340
 	description "The Plasma Gatling is designed to eviscerate your enemies with a hail of superheated plasma singularities. As a trade-off, the integrated particle hyperaccelerator puts a significant strain on your ship's cooling systems."
 
+outfit "Tractor Beam Turret"
+	category "Turrets"
+	cost 1050000
+	thumbnail "outfit/electron turret"
+	"mass" 40
+	"outfit space" -40
+	"weapon capacity" -40
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/2x electron"
+			"frame rate" 60
+		sound "heavy laser"
+		"hit effect" "electron impact"
+		"inaccuracy" 3
+		"velocity" 450
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 2
+		"firing heat" 4.8
+		"shield damage" 1
+		"hull damage" 1.3
+		"hit force" -20
+
+outfit "Ion Laser Turret"
+	category "Turrets"
+	cost 640000
+	thumbnail "outfit/electron turret"
+	"mass" 54
+	"outfit space" -54
+	"weapon capacity" -54
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/electron"
+			"frame rate" 1
+		sound "laser"
+		"hit effect" "electron impact"
+		"inaccuracy" 2
+		"velocity" 450
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 5.2
+		"firing heat" 6.1
+		"shield damage" 0.5
+		"hull damage" 0.7
+		"ion damage" .1665
+	description "Tired of firing stupid ion blobs straight ahead? Try the new Ion Laser Turret, a favorite of pirate kings the galaxy over! Low shield and hull damage means this turret works best when paired with high damage outfits to disable that prized merchant vessel."
+
 outfit "Bighorn Energy Ram"
 	category "Guns"
 	cost 1360000
@@ -304,3 +432,13 @@ outfit "Bighorn Energy Ram"
 		"shield damage" 14.5
 		"hull damage" 19.5
 	description "The Bighorn Energy Ram is the largest energy-based mass displacement device on the market. Originally designed to be mounted at the head of deep-core planet mining drills, the Bighorn has been haphazardly adapted for ship to ship combat. However, due to its mass it cannot be mounted on anything smaller than a Light Warship. Requires 2 gun slots to accomodate the Modular Oppositional Underslung Nuclear Transipositors or M.O.U.N.T, for short. Keeping the Bighorn ignited requires a massive amount of energy, so the wielder only has a small window to strike his intended target. Try to make it count."
+
+outfit "Hull Repair Nano-Bots"
+	category "Systems"
+	cost 200000
+	thumbnail "outfit/medium fuel cell"
+	"mass" 34
+	"outfit space" -34
+	"hull repair rate" .6
+	"hull energy" .6
+	description "In a galaxy full of shields, armor repair has become more and more marginalized. However, for those that still cling to the old ways, Tufton Robotics recently released an armor maintenance outfit for use on space combat vessels, city maintenance crews, and your family hovercar. The armor repair bots draw energy from any shield systems equipped on the vessel, as well as placing a mild drain on any energy generation systems. Most captains find the shied drain to be too inefficient for use on shield-based vessels."

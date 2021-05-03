@@ -1,4 +1,4 @@
-# Copyright (c) 2016 by various
+# Copyright (c) 2016 by Thomas Oakley
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -9,20 +9,20 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 mission "Deep Sky Grants License"
-	landing
+        landing
 	autosave
 	to offer
 		has "event: deep sky tech available"
 	on offer
-		event "legionaire released"
+		event "DS license"
 		set "license: Deep Sky"
-		fail
+		conversation
+			`The Deep Sky has granted you access to their best ship, the Bactrian.`
+				decline
 
-event "legionaire released"
+event "DS licence"
 	shipyard "Lionheart Advanced"
 		"Legionaire"
-	outfitter "Deep Sky Advanced"
-		"Incinerator Beam"
 
 mission "Syndicate Grants License"
 	landing
@@ -30,23 +30,12 @@ mission "Syndicate Grants License"
 	to offer
 		has "main plot completed"
 	on offer
-		event "samurai released"
-		fail
+		event "S license"
+		set "license: Syndicate"
+		conversation
+			`The Syndicate has granted you access to their secret battleship, the Samurai.`
+				decline
 
-event "samurai released"
+event "S license"
 	shipyard "Syndicate Advanced"
 		"Samurai"
-
-event "kriegsmacher"
-	date 23 3 3020
-	planet Geminus
-		shipyard "Warmaker"
-
-mission "Max Combat Rating License"
-	invisible
-	landing
-	to offer
-		"combat rating" >= 485165195
-	on offer
-		set "license: Destroyer of Worlds"
-		fail

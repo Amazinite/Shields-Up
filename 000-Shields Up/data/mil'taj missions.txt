@@ -39,7 +39,7 @@ mission "Mil'taj: First Contact"
 			choice
 				`	"What do you mean that you have no mission to protect them?"`
 				`	"Thank you for your time."`
-					decline
+					decline`
 			
 			label
 			`	"The Mil'taj are not of this galaxy. They come from another, far from here, only in this galaxy due to a wormhole that appeared long ago. The Quarg only defend species of this galaxy and do not care for the species of others, especially not those who wish to destroy us."`

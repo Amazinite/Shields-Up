@@ -73,7 +73,7 @@ system "Dupli Cate"
 		offset 359.991
 
 system "Eta Delphi"
-	pos -62 708
+	pos 168 581
 	government Quarg
 	habitable 3645
 	link Udualudu
@@ -454,10 +454,11 @@ system "Mei Due"
 			period 16.4891
 
 system Novae
-	pos -181 635
+	pos 60 570
 	government Quarg
 	habitable 486.68
 	link Subra
+	link Udualudu
 	asteroids "small rock" 9 2.613
 	asteroids "medium rock" 18 5.811
 	asteroids "large rock" 3 2.457
@@ -509,7 +510,7 @@ system Novae
 		offset 39.0348
 
 system "Plus De"
-	pos -33 764
+	pos 211 634
 	government Quarg
 	habitable 4131.68
 	link "Eta Delphi"
@@ -628,7 +629,7 @@ system "Soom Ho"
 		offset 17.2236
 
 system Subra
-	pos -246 614
+	pos 32 525
 	government Quarg
 	habitable 1400
 	link "Zeta Nurphae"
@@ -691,9 +692,10 @@ system Subra
 		period 1424.63
 
 system Udualudu
-	pos -117 667
+	pos 100 600
 	government Quarg
 	habitable 486.68
+	link Novae
 	link "Eta Delphi"
 	asteroids "small rock" 45 2.7744
 	asteroids "medium rock" 81 2.4854
@@ -750,7 +752,7 @@ system Udualudu
 			offset 166.158
 
 system Wartorn
-	pos -88 789
+	pos 197 697
 	government Quarg
 	habitable 851.84
 	link "Plus De"
@@ -813,7 +815,7 @@ system Wartorn
 		offset 5.09151
 
 system "Zeta Nurphae"
-	pos -274 575
+	pos -34 543
 	government Quarg
 	habitable 1505.92
 	link Subra
@@ -1057,10 +1059,7 @@ planet Puggldute
 	attributes pug
 	landscape land/sky2
 	description `The planet is beautiful the world below is almost literally untouched with the entire Pug population living in floating cities, 2000 meters above the surface. The cities float on graviton emitters located on the underside of the building. Due to the massive impact this technology has on the planet, a separate graviton emitter orbits on pricisely the opposite end of the planet, cancelling out the gravitational waves. This also means that cities cover one side the planet, while the other side is only inhabited by large floating needles. `
-	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall.`
-	"required reputation" -1e+99
-	bribe 0
-	security 0
+	spaceport `The spaceport cosists of tiny disks that float around like the cities. Your ship's landing gear is deployed against your will, and your ship lands on just five disks, some fifty meters away from the edge of the city. Stepping out feels surreal, as disks automatically come under your feet as you walk towards the city. Even if you were to fall down, a layer of disks would protect you from a fall. `
 
 planet "Rock Far"
 	attributes absconded uninhabited

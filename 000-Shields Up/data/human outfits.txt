@@ -55,12 +55,42 @@ outfit "Boarding Cannon"
 	description "A very strong mortar designed for ship boarding."
 	description "It is stored in the Ship Armory."
 
-outfit "Sizeable Map"
+outfit "Expanded Map"
 	category "Special"
-	cost 50000
+	cost 10000
 	thumbnail "outfit/map"
-	"map" 100
-	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
+	"map" 36
+	description "A data chip containing a large amount of data on the nearby systems."
+
+outfit "FTek Jump Drive"
+	category "Systems"
+	cost 15000000
+	thumbnail "outfit/jump drive"
+	"mass" 20
+	"outfit space" -20
+	"jump speed" .10
+	"jump drive" .6
+	unplunderable 1
+	description "A secret experiment by the FTek™ corperation to replicate the Jump Drive technology. They found a way to reproduce the drive, although it does not have the full effectiveness or speed of the standard jump drive."
+	
+outfit "FTek Slipspace Drive"
+	category "Systems"
+	thumbnail "outfit/hyperdrive"
+	"mass" 35
+	"outfit space" -35
+	"scram drive" .5
+	"hyperdrive" 1
+	description "For those who need to get somewhere. Fast."
+	description "Best uses come from being chased, good luck seeing some idiots with scram drives try catching you, slip into a quick crack in space and never have to worry about slowing down ever again!"
+	
+outfit "FTek Capacitor"
+	category "Power"
+	cost 35000
+	thumbnail "outfit/ftek capacitor"
+	"mass" 4
+	"outfit space" -4
+	"energy capacity" 350
+	description "17% more effective than leading competitors!"
 
 outfit "FTek021 Rechargable Battery"
 	plural "FTek021 Rechargable Batteries"
@@ -128,6 +158,56 @@ outfit "FTek Huge Shield System"
 	"shield generation" 0.83
 	"shield energy" 0.83
 	description "A system that provides your ship with shield power much like the traditional shield generators, however FTek™ designed these specifically for shield power, not for shield generation."
+	
+outfit "Scrap Shield Generator"
+	category "Systems"
+	cost 8000
+	thumbnail "outfit/tiny shield"
+	"mass" 10
+	"outfit space" -10
+	"shield generation" .1
+	"shield energy" 0.15
+	"shield heat" 0.1
+	description "A few scraps put together to form a make-shift shield generator."
+	
+outfit "Star Destroyer Shield Generator"
+	category "Systems"
+	cost 500000
+	thumbnail "outfit/huge shield"
+	"mass" 30
+	"outfit space" -20
+	"shield generation" 2.5
+	"shield energy" 2.5
+	description "A shield generator for all your star destroying needs!"
+
+outfit "RCS10 Steering"
+	category "Engines"
+	"cost" 3000
+	thumbnail "outfit/tiny plasma steering"
+	"mass" 1
+	"outfit space" -1
+	"engine capacity" -1
+	"turn" 10
+	"turning energy" .1
+	"turning heat" .2
+	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
+	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
+
+outfit "RCS15 Thruster"
+	category "Engines"
+	"cost" 7000
+	thumbnail "outfit/tiny plasma thruster"
+	"mass" 2
+	"outfit space" -2
+	"engine capacity" -2
+	"thrust" 0.5
+	"thrusting energy" .1
+	"thrusting heat" .2
+	"flare sprite" "effect/ion flare/tiny"
+		"frame rate" 1.2
+	"flare sound" "ion tiny"
+	description "Designed to fill in the leftover outfit space, this weak engine can also be used en masse for an efficient way of movement."
+	description "	RCS Engines are designed to fill in the gap that most small engines don't offer."
 
 outfit "XF-111 Ship Core"
 	category "Systems"
@@ -172,6 +252,25 @@ outfit "XF-555 Ship Core"
 	"hyperdrive" 1
 	description "A very handy multi-purpose outfit commonly found on the larger sized ships like warships."
 
+outfit "Hervar Regenerator"
+	category "Systems"
+	cost 540000
+	thumbnail "outfit/unknown"
+	"mass" 14
+	"outfit space" -14
+	"shield generation" .78
+	"energy generation" -.5
+	"heat generation" 4
+    "shield energy" 1
+	description "A prototype shield regenerator originally developed by the Republic, the only working prototype of it was stolen by pirates, who then starting producing them. For their size, they produce exceptional shield generation, but still are only used by pirates who don't care about heat or power. They do, however, cost a lot of money."
+
+outfit "Sizeable Map"
+	category "Special"
+	cost 50000
+	thumbnail "outfit/map"
+	"map" 108
+	description "This data chip contains complete information on 100 systems in proximity to the system you are currently in."
+
 outfit "Interference Hull"
 	category "Systems"
 	cost 15000
@@ -189,6 +288,17 @@ outfit "Interference Shielding"
 	"outfit space" -12
 	"scan interference" 1.9
 	description "If you're in the habit of carrying illegal cargo or outfits, this plating increases the odds that a scan of your ship will fail to detect it. The more of these you install, the better your chances of evading detection. They won't keep anyone from noticing if you're flying an unlicensed ship, however."
+
+outfit "Signal Interdictor Deluxe"
+	category "Systems"
+	cost 1000000
+	thumbnail "outfit/unknown"
+	"required crew" 4
+	"mass" 24
+	"outfit space" -24
+	"scan interference" 24
+	illegal 1000000
+	description "Mostly used by the elite from drug cartels, this outfit requires crew to maintain an anti-scan signal. This is illegal and as such you will be fined should you land on high security planets or be chased by a determined detective."
 
 outfit "AI Mainframe"
 	category "Systems"
@@ -224,8 +334,8 @@ outfit "P-75 Archangel"
 
 outfit "R-120 Warbird"
 	category "Hand to Hand"
-	licenses
-		"Navy"
+#	licenses
+#		"Navy"
 	cost 120000
 	thumbnail "outfit/warbird"
 	"mass" 1
@@ -257,6 +367,36 @@ outfit "Repair Bot"
 	"bot capacity" -1
 	unplunderable 1
 	description "An android that specializes in ships and hull, able to repair your ship from the inside."
+	
+outfit "Navy Cloaking Device"
+#	licenses
+#		"Navy"
+	category "Systems"
+	cost 3200000
+	"mass" 12
+	"outfit space" -12
+	"cloak" .09
+	"cloaking energy" 3.5
+	description "An experimental Cloaking Device used by Navy Stealth Cruisers."
+
+outfit "Capital Identification"
+	category "Special"
+	cost 10
+	thumbnail "outfit/unknown"
+	"identification" 1
+	unplunderable 1
+	description "Identifies you ship as a capital in the ship registry."
+	
+outfit "Crew Raiser"
+	category "Special"
+	"required crew" 5
+	unplunderable 1
+	description "Makes your ship require more crew, thus making its defense better."
+	
+outfit "Developmental Lock"
+	category "Special"
+	cost 1
+	mass 1
 	
 outfit "Ship Armory"
 	plural "Ship Armories"
@@ -326,29 +466,21 @@ outfit "Pillager Bolt-on Cockpit"
 	unplunderable 1
 	description "For the captain who needs more outfit space and does not particularily care about their mass and hull strength."
 	description "The Pillager Bolt-on Cockpit is a used Heavy Shuttle renovated and modified to be bolted onto a ship. Security systems installed make it so that it has less outfit space than the Heavy Shuttle itself."
-
-outfit `"HAL-500" Automation Matrix`
-	plural `"HAL-500" Automation Matrices`
-	cost 12500000
-	category "Systems"
-	thumbnail "outfit/unknown"
-	automaton 1
-	"outfit space" -40
-	description `The "HAL-500" Automation Matrix fully automates the ship it is installed on. Due to the use of anomalous materials, it has a high price tag.`
-	description "It has been questioned wether or not a merchant would be allowed to buy this and as a result, only those trusted by the Republic are allowed to buy and use this."
 	
-event "republic trusts player"
-	outfitter "Deep Sky Advanced"
-		`"HAL-500" Automation Matrix`
-	outfitter "Lovelace Advanced"
-		`"HAL-500" Automation Matrix`
-		
-mission "republic trusts player"
-	invisible
-	to offer
-		or
-			karma > 2
-			has "free worlds plot completed"
-	on offer
-		event "republic trusts player" 5
-		fail
+outfit "MEGA Safety Unlock"
+    category "Systems"
+    cost 2500000
+    mass 50
+    "megaship capacity" 100
+    "safety unlock" 1
+	unplunderable 1
+    description "Megaships have their turret mounts and gun ports protected by a special safety code. To unlock it, a safety unlock has to be installed allowing one mega weapon per unlock."
+    
+outfit "MEGA Shield Module"
+    category "Systems"
+    cost 10000000
+    mass 100
+    "megaship capacity" 500
+    "shield generation" 45
+    "shield energy" 50
+    description "Megaships are the leader of the battlefield. As such they need adequate protection. A large amount of shield energy means that the megaship also requires a strong shield generator."

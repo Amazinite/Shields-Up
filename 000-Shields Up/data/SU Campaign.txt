@@ -8,8 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-event "SU War Start"
-
 mission "SU War Start"
 	landing
 	name "Federation Advanced Weapon Stache"
@@ -17,7 +15,7 @@ mission "SU War Start"
 	blocked "You need passenger space of at least one to accept this mission."
 	passengers 1
 	source 
-		government Republic Syndicate "Free Worlds"
+		governnment Republic Syndicate "Free Worlds"
 	destination "Icefall"
 	to offer
 		has "event: SU War Start"
