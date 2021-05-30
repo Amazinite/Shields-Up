@@ -1,0 +1,54 @@
+# Copyright (c) 2016 by various
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+event "dominion cap advance"
+	system "Persian"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2500
+		fleet "Small Plenipotent Dominion" 1500
+	system "Alnair"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2000
+		fleet "Small Plenipotent Dominion" 1000
+	system "Sadr"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2000
+		fleet "Small Plenipotent Dominion" 1000
+	system "Schedar"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2000
+		fleet "Small Plenipotent Dominion" 1000
+		fleet "Plenipotent Heavy Assault Fleet" 8000
+	system "Matar"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2000
+		fleet "Small Plenipotent Dominion" 1000
+		fleet "Plenipotent Heavy Assault Fleet" 8000
+	system "Gamma Cassiopeiae"
+		government "Plenipotent Dominion"
+		fleet "Large Plenipotent Dominion" 2500
+		fleet "Small Plenipotent Dominion" 1500
+	system Gienah
+		fleet "Large Plenipotent Dominion" 2500
+		fleet "Small Plenipotent Dominion" 1500
+	system Nunki
+		fleet "Large Plenipotent Dominion" 2500
+		fleet "Small Plenipotent Dominion" 1500
+	system "Epsilon Sagitarii"
+		fleet "Large Plenipotent Dominion" 2500
+		fleet "Small Plenipotent Dominion" 1500
+	system Albireo
+		fleet "Large Plenipotent Dominion" 3000
+		fleet "Small Plenipotent Dominion" 2000
+		fleet "Large Milita" 2500
+		fleet "Small Milita" 1300
+	system "Epsilon Sagitarii"
+		fleet "Large Plenipotent Dominion" 3000
+		fleet "Small Plenipotent Dominion" 2000
