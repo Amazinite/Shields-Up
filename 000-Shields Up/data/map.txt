@@ -2508,6 +2508,9 @@ system Yarg
 			distance 252
 			period 14.2309
 
+planet "Entrance to Sentar"
+	description ""
+
 planet "Epica Citadel"
 	attributes dominion
 	landscape land/water6
@@ -2814,3 +2817,6 @@ planet "Viglado Station"
 	"required reputation" 1e+20
 	bribe 0
 	security 0.1
+
+planet "Wormhole Mil'taj"
+	description ""

@@ -71,7 +71,7 @@ ship "Unknown Drone"
 		"fuel capacity" 300
 		"outfit space" 59
 		"engine capacity" 26
-        automaton 1
+		automaton 1
 	outfits
 		"Small Biochemical Cell"
 		"Type 1 Radiant Thruster"
@@ -117,6 +117,7 @@ outfit "Nebulon Beam Turret"
 		"shield damage" 56
 		"hull damage" 37
 		"inaccuracy" 0.1
+		"turret turn" 3
 	description "This weapon gives you a pair of very accurate Nebulon Beams on an even more precise turret, ensuring that nobody is left out from death."
 
 outfit "Nebulon Beam"
@@ -152,6 +153,7 @@ outfit "Nebulon Residue"
 		"hull damage" 27
 		"inaccuracy" 2.5
 		"homing" 100
+		"optical tracking" 1
 		"turn" 1000
 		"drag" .0001
 		"velocity" -250
@@ -173,7 +175,7 @@ outfit "S3NTAR Thruster"
 	"outfit space" -210
 	"engine capacity" -210
 	"thrust" 160.7
-	"flare sprite" "effect/ion flare/big"
+	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
 	description "Stronger than strong, this thruster allows the Sentarians to move even planets."
@@ -196,8 +198,8 @@ outfit "S3NTAR Ship Core"
 	"outfit space" -300
 	"shield generation" 120
 	"hull repair rate" 120
-    "shield energy" 1
-    "hull energy" 1
+	"shield energy" 1
+	"hull energy" 1
 	description "The strongest ship core in both the Milky Way and Sentarian Galaxy, it produces hull and shield energy through an unknown process. What is known about the process is that it takes up a lot of space."
 	
 outfit "S3NTAR Defensive Countermeasures"
@@ -250,14 +252,20 @@ fleet "Nelur Drone"
 phrase "unknown drones"
 	word
 		"DR-"
-	phrase "digit"
-	phrase "digit"
-	phrase "digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
 		
 phrase "sentar"
 	word
 		"Sentarian Unit "
-	phrase "digit"
-	phrase "digit"
-	phrase "digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
 	

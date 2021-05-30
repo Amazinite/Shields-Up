@@ -372,12 +372,12 @@ planet Kujedar
 	spaceport `A standard spaceport.`
 
 planet Opefirle
-	landscape ""
+	#landscape ""
 	description `The Tuk'ux roam around and pay you know mind. It's best you let them do their own thing.`
 	spaceport `You walk around through the crowd. Although this spaceport is not as crowded as other planets, you still have to fight to make your way through the crowd of the strange creatures. Shadows are cast down on you as the tall creatures walk by you.`
 
 planet "Tuk'ux Wormhole"
-	landscape ""
+	#landscape ""
 
 planet Yuh'kuj
 	landscape land/fields0

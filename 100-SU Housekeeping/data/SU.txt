@@ -445,7 +445,7 @@ ship "Vagabond"
 outfit "FTek Capacitor"
 	category "Power"
 	cost 35000
-	thumbnail "outfit/ftek capaciter2"
+	thumbnail "outfit/ftek capacitor"
 	"mass" 4
 	"outfit space" -4
 	"energy capacity" 350
@@ -572,6 +572,14 @@ outfit "pulse final"
 		"inaccuracy" 0.1
 		"lifetime" 18
 
+outfit "ion pulse"
+	weapon
+		sprite "projectile/asb"
+			"frame rate" .1
+		sound "ion impact"
+		"inaccuracy" 0.1
+		"lifetime" 18
+	
 outfit "FTek Homing Blaster"
 	category "Guns"
 	cost 114000
@@ -649,7 +657,7 @@ outfit "Hervar Regenerator"
 	"shield generation" .78
 	"energy generation" -.5
 	"heat generation" 4
-    "shield energy" 1
+	"shield energy" 1
 	description "A prototype shield regenerator originally developed by the Republic, the only working prototype of it was stolen by pirates, who then starting producing them. For their size, they produce exceptional shield generation, but still are only used by pirates who don't care about heat or power. They do, however, cost a lot of money."
 
 outfit "Signal Interdictor Deluxe"
@@ -749,7 +757,7 @@ outfit "Toaster Bot"
 
 outfit "Rock Wall"
 	category "Hand to Hand"
-	thumbnail "small rock/spin-00"
+	#thumbnail "small rock/spin-00"
 	"capture defense" 9001
 	unplunderable 1
 	description "It's a rock wall that prevents people from breaking in. Amazing. (For use in ships that are not intended to be accessed by player.)"
@@ -818,7 +826,7 @@ ship "Switchblade"
 outfit "Turbo Laser Turret"
 	category "Turrets"
 	cost 660000
-	thumbnail "outfit/turbolaser turret"
+	#thumbnail "outfit/turbolaser turret"
 	"mass" 24
 	"outfit space" -24
 	"weapon capacity" -24
@@ -830,6 +838,7 @@ outfit "Turbo Laser Turret"
 		sound "turbolaser"
 		"hit effect" "green impact"
 		"inaccuracy" 1
+		"turret turn" 3
 		"velocity" 18
 		"lifetime" 60
 		"reload" 40
@@ -842,7 +851,7 @@ outfit "Turbo Laser Turret"
 outfit "Light Turbo Laser Turret"
 	category "Turrets"
 	cost 375000
-	thumbnail "outfit/turbolaser turret"
+	#thumbnail "outfit/turbolaser turret"
 	"mass" 17
 	"outfit space" -17
 	"weapon capacity" -17
@@ -854,6 +863,7 @@ outfit "Light Turbo Laser Turret"
 		sound "turbolaser"
 		"hit effect" "blue impact"
 		"inaccuracy" 1
+		"turret turn" 3
 		"velocity" 14
 		"lifetime" 55
 		"reload" 20

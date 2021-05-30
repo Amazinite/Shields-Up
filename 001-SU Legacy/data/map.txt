@@ -1082,4 +1082,4 @@ planet Vivant
 	spaceport `The spaceport is an open roofed building, atop one of the various mountains on the planet. The hangars are small, as the planet hasn't fought a war since their escape. You have to walk through a tube into a compression chamber before you can walk outside. The compression chamber doesn't look like it's been used for years. `
 
 planet "Wormhole Absconded"
-	landscape ""
+	#landscape ""

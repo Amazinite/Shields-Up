@@ -26,7 +26,7 @@ planet "Buccaneer Bay"
 	shipyard "Shameless Privateer Advanced"
 
 shipyard "Shameless Privateer Basic"
-	"Rum Barrel"
+	"Rum Barrell"
 	"Lifted Purse"
 	"Pilfered Keg"
 	"Captain's Hoard"

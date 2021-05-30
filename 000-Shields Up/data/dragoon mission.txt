@@ -83,7 +83,6 @@ mission "Dragoon Get"
 	destination Valhalla
 	on offer
 		conversation
-			scene ship/dragoon
 			`You receive a message from the liason at Lionheart Corporation: "Captain <last>, we are pleased to inform you that our latest warship is now available for sale here on Valhalla. Thank you again!"`
 				decline
 

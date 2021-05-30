@@ -41,7 +41,8 @@ mission "Landing: Quarg Worlds"
 			`	The Hai nods. "I see you are one of the monkeys who speak with the inferiors."`
 			`	You are taken aback, because you would have never expected the unfettered Hai to have made it here, but you ask your question anyway.`
 			choice
-				`	"How did you get here"`										goto drak
+				`	"How did you get here"`
+					goto drak
 				`	"What is this place?"`
 			
 			`	"Silly monkey, not all Hai are stupid like the ones fighting in our origin. We, superior Hai, broke away long time ago, made our own jump drive. We discover all species before humans exploit the first cow."`

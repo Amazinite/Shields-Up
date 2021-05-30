@@ -164,7 +164,8 @@ ship "Ballista"
 			"hull damage" 800
 			"hit force" 1500
 	outfits
-		"Mil'taj Particle Cannon" 4
+		"Mil'taj Particle Cannon" 2
+		"Mil'taj Shield Scrambler" 2
 		"Mil'taj Point-Defence Turret" 3
 
 		"Mil'taj Black Generator"
@@ -179,11 +180,11 @@ ship "Ballista"
 	engine 0 148
 	gun -10.5 -147 "Mil'taj Shield Scrambler"
 	gun 10.5 -147 "Mil'taj Shield Scrambler"
-	gun -82.5 70
-	gun 82.5 70
-	turret 0 91
-	turret -21.5 0
-	turret 21.5 0
+	gun -82.5 70 "Mil'taj Particle Cannon"
+	gun 82.5 70 "Mil'taj Particle Cannon"
+	turret 0 91 "Mil'taj Point-Defence Turret"
+	turret -21.5 0 "Mil'taj Point-Defence Turret"
+	turret 21.5 0 "Mil'taj Point-Defence Turret"
 	explode "tiny explosion" 40
 	explode "small explosion" 55
 	explode "medium explosion" 60

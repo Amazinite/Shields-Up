@@ -50,7 +50,7 @@ outfit "Boarding Cannon"
 	"mass" 1
 	"capture attack" 7
 	"capture defense" 2.7
-    unplunderable 1
+	unplunderable 1
 	"armory capacity" -10
 	description "A very strong mortar designed for ship boarding."
 	description "It is stored in the Ship Armory."
@@ -242,7 +242,7 @@ outfit "Engineer Bot"
 	thumbnail "outfit/engineer bot"
 	"mass" 1
 	"shield generation" 0.01
-    "shield energy" 0.02
+	"shield energy" 0.02
 	"bot capacity" -1
 	unplunderable 1
 	description "An android that specializes in electronics and mechanics, able to boost the efficency of shield generators."
@@ -253,7 +253,7 @@ outfit "Repair Bot"
 	thumbnail "outfit/repair bot"
 	"mass" 1
 	"hull repair rate" 0.005
-    "hull energy" 0.01
+	"hull energy" 0.01
 	"bot capacity" -1
 	unplunderable 1
 	description "An android that specializes in ships and hull, able to repair your ship from the inside."

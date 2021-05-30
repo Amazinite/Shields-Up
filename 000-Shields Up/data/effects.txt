@@ -23,7 +23,7 @@ effect "jump die sound"
 	sound "jump drive"
 	
 effect "asb explosion"
-	sprite "effect/explosion/big"
+	sprite "effect/explosion/large"
 		"no repeat"
 		"frame rate" 15
 	sound "explosion large"

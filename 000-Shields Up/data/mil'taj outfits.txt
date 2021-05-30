@@ -136,6 +136,7 @@ outfit "Mil'taj Point-Defence Turret"
 		sound "heavy anti-missile"
 		"hit effect" "slicer impact"
 		"inaccuracy" 1
+		"turret turn" 3
 		"velocity" 500
 		"lifetime" 1
 		"reload" 6

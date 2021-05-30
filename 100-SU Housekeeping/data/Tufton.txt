@@ -33,6 +33,7 @@ outfit "Tractor Beam Turret"
 		sound "heavy laser"
 		"hit effect" "electron impact"
 		"inaccuracy" 3
+		"turret turn" 3
 		"velocity" 450
 		"lifetime" 1
 		"reload" 1
@@ -57,6 +58,7 @@ outfit "Ion Laser Turret"
 		sound "laser"
 		"hit effect" "electron impact"
 		"inaccuracy" 2
+		"turret turn" 3
 		"velocity" 450
 		"lifetime" 1
 		"reload" 1

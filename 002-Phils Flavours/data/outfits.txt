@@ -22,6 +22,7 @@ outfit "Particle Cannon Turret"
 		sound "particle"
 		"hit effect" "particle impact"
 		"inaccuracy" .6
+		"turret turn" 3
 		"velocity" 30
 		"lifetime" 25
 		"reload" 20
@@ -147,6 +148,7 @@ outfit "Stubby Heavy Laser Turret"
 		sound "heavy laser"
 		"hit effect" "heavy laser impact"
 		"inaccuracy" .45
+		"turret turn" 3
 		"velocity" 200
 		"lifetime" 1
 		"reload" 1
@@ -194,6 +196,7 @@ outfit "Focused Laser Turret"
 		sound "laser"
 		"hit effect" "beam laser impact"
 		"inaccuracy" .6
+		"turret turn" 3
 		"velocity" 600
 		"lifetime" 1
 		"reload" 1
