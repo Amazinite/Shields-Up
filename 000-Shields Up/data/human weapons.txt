@@ -45,6 +45,7 @@ outfit "FTek Active Blaster Turret"
 		sound "mod blaster"
 		"hit effect" "blaster impact"
 		"inaccuracy" 8
+		"turret turn" 3
 		"velocity" 8
 		"lifetime" 50
 		"reload" 3
@@ -92,6 +93,7 @@ outfit "FTek Heavy Blaster Turret"
 		sound "pulse"
 		"hit effect" "blaster impact"
 		"inaccuracy" 2
+		"turret turn" 3
 		"velocity" 9
 		"lifetime" 60
 		"reload" 9
@@ -185,6 +187,7 @@ outfit "Soaker Missile Launcher"
 		"drag" .1
 		"turn" 2
 		"homing" 4
+		"infrared tracking" .7
 		"missile strength" 300
 	description "Soakers are special 'missiles' designed to take damage so other missiles can get through. One launcher carries 10 Soaker Missile."
 	
@@ -200,6 +203,7 @@ outfit "Soaker Shield"
 		"drag" .4
 		"turn" 3
 		"homing" 4
+		"infrared tracking" .7
 		"shield damage" 0
 		"hull damage" 0
 		"hit force" 0
@@ -229,9 +233,9 @@ outfit "Energy Chaingun"
 
 outfit "Anti-Ship Battery"
 	plural "Anti-Ship Batteries"
-    category "Secondary Weapons"
-    cost 2000000
-    thumbnail "outfit/asb"
+	category "Secondary Weapons"
+	cost 2000000
+	thumbnail "outfit/asb"
 	"mass" 44
 	"outfit space" -80
 	"weapon capacity" -80
@@ -239,12 +243,13 @@ outfit "Anti-Ship Battery"
 	"shell capacity" 36
 	weapon
 		icon "icon/tbd"
-		sprite "projectile/asbc"
+		sprite "projectile/asb"
 			"frame rate" 10
 		sound "ion impact"
 		"fire effect" "small explosion"
 		"hit effect" "asb explosion"
 		"inaccuracy" 10
+		"turret turn" 4
 		"velocity" 25
 		"lifetime" 15
 		"reload" 150
@@ -258,12 +263,12 @@ outfit "Anti-Ship Battery"
 		"hull damage" 2200
 		"hit force" 500
 		ammo "1 Ton Shell"
-    description "This an anti-capital destroyer. It barrages large warships with repeated volleys of high-power shells, but since that is its main purpose, it very easily misses small ships and strains your cooling systems."
+	description "This an anti-capital destroyer. It barrages large warships with repeated volleys of high-power shells, but since that is its main purpose, it very easily misses small ships and strains your cooling systems."
 	
 outfit "1 Ton Shell"
 	category "Ammunition"
 	cost 1000
-	thumbnail "outfit/1ton"
+	#thumbnail "outfit/1ton"
 	"shell capacity" -1
 	mass 1
 	description "This crude anti-ship shell has been in production for centuries."

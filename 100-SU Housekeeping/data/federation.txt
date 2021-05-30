@@ -40,8 +40,8 @@ ship "Horn"
 		"AP-6 Aurum Steering"
 	engine 4.5 52
 	engine -4.5 52
-	gun 17.5 -34.5 "Union Blaster"
-	gun -17.5 -34.5 "Union Blaster"
+	gun 17.5 -34.5 "Fed Blaster"
+	gun -17.5 -34.5 "Fed Blaster"
 	gun 26 -25.5 "Horn Flamethrower"
 	gun -26 -25.5 "Horn Flamethrower"
 	explode "tiny explosion" 15
@@ -89,12 +89,12 @@ ship "Thorn"
 	engine 56 219
 	engine 2 218.5
 	engine -38 212
-	gun 83 -95.5 "Union Blaster"
-	gun 91 -105.5 "Union Blaster"
-	gun 53 -192 "Union Blaster"
-	gun 46 -202 "Union Blaster"
-	gun 11 -202.5 "Union Blaster"
-	gun 4.5 -191.5 "Union Blaster"
+	gun 83 -95.5 "Fed Blaster"
+	gun 91 -105.5 "Fed Blaster"
+	gun 53 -192 "Fed Blaster"
+	gun 46 -202 "Fed Blaster"
+	gun 11 -202.5 "Fed Blaster"
+	gun 4.5 -191.5 "Fed Blaster"
 	turret 22 73.5 "Khorne Rocket Turret"
 	turret -83 -40 "Khorne Rocket Turret"
 	turret 80 -55.5 "Khorne Rocket Turret"
@@ -133,8 +133,6 @@ outfit "PR-750 Wormhole Reactor"
 	"outfit space" -155
 	"energy generation" 32
 	"heat generation" 120
-	weapon
-		"firing heat" 7
 	description "A very, very powerful reactor. It works by creating a miniature wormhole to a dimension where an energy pool resides and draws power from it. It runs very hot as result of constantly keeping the wormhole open, and even hotter when weapons are firing."
 
 outfit "PR-600 Reactor"
@@ -167,7 +165,7 @@ outfit "HEAP-900 Vacuum Drive"
 	"engine capacity" -145
 	"thrust" 70.3
 	"thrusting energy" 3.6
-	"flare sprite" "effect/ion flare/big"
+	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
 	cooling 0.9
@@ -215,11 +213,13 @@ outfit "AP-6 Aurum Steering"
 outfit "Fed Surveillance Pod"
 	category "Systems"
 	cost 42000
-	thumbnail "outfits/outfit scanner"
+	thumbnail "outfit/outfit scanner"
 	mass 5
 	"outfit space" -5
-	"cargo scan" 500
-	"outfit scan" 500
+	"cargo scan power" 500
+	"cargo scan speed" 3
+	"outfit scan power" 500
+	"outfit scan speed" 3
 	description "A Republic Surveillance Pod modified by Eyes In The Sky Corporation."
 	
 outfit "AR-S Fuelscoop"
@@ -247,7 +247,7 @@ outfit "SF-2 Thorn Shield Generator"
 	"mass" 130
 	"outfit space" -130
 	"shield generation" 2.79
-    "shield energy" 1
+	"shield energy" 1
 	description "A very powerful shield generator."
 
 outfit "SF-1 Horn Regenerator"
@@ -259,7 +259,7 @@ outfit "SF-1 Horn Regenerator"
 	"shield generation" .8
 	"energy generation" -.3
 	"heat generation" 2
-    "shield energy" 1
+	"shield energy" 1
 	description "Similar to Hai shield regenerators, but smaller and more efficient."
 
 outfit "HN-7 Thorn Coolant System"
@@ -290,6 +290,7 @@ outfit "Khorne Rocket Turret"
 		"hit effect" "huge explosion"
 		"die effect" "small explosion"
 		"inaccuracy" 1
+		"turret turn" 3
 		"velocity" 12
 		"lifetime" 1000
 		"reload" 90
@@ -298,6 +299,7 @@ outfit "Khorne Rocket Turret"
 		"drag" .1
 		"blast radius" 15
 		"homing" 4
+		"radar tracking" .8
 		"shield damage" 870
 		"hull damage" 133
 		"hit force" 160

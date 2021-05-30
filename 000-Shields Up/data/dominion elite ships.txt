@@ -71,7 +71,7 @@ ship "Kukri"
 		"energy generation" 1.5
 		"fuel capacity" 800
 		"cargo space" 40
-		"outfit space" 560
+		"outfit space" 620
 		"weapon capacity" 205
 		"engine capacity" 180
 		weapon
@@ -84,7 +84,6 @@ ship "Kukri"
 		"Mil'taj Point-Defence Turret" 4
 		"Mil'taj Anti-Missile Turret" 2
 		
-		"Mil'taj Black Generator"
 		"Mil'taj Grey Generator" 2
 		"Mil'taj Cooling Unit" 2
 		"Mil'taj Condensed Battery"
@@ -142,8 +141,8 @@ ship "Spetum"
 		"Mil'taj Point-Defence Turret" 4
 		"Mil'taj Anti-Missile Turret" 2
 		
-		"Mil'taj Black Generator" 3
-		"Mil'taj Gray Generator"
+		"Mil'taj Black Generator"
+		#"Mil'taj Gray Generator"
 		"Mil'taj Condensed Battery"
 		"Mil'taj Cooling Unit" 3
 		"Toaster Bot" 30

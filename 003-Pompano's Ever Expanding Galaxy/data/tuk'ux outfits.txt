@@ -154,7 +154,17 @@ outfit "Tuk'ux Shield Decimator"
 		"firing heat" 10
 		"shield damage" 100
 	description "A technology designed by the Tuk'ux, this weapon was built to completely 'decimate' the shields of any enemy ship, giving them an edge over any oponent."
-	
+
+effect "tukux decimator impact"
+	sprite "effect/tukux decimator impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 5
+	"random angle" 2
+	"random spin" 1
+	"random velocity" 1
+	"velocity scale" -.00
+
 outfit "Tuk'ux Plasma Laser"
 	category "Guns"
 	cost 30000000
@@ -178,6 +188,16 @@ outfit "Tuk'ux Plasma Laser"
 		"hull damage" 22.5
 		"heat damage" 60
 
+effect "tukux plasma laser impact"
+	sprite "effect/tukux plasma laser impact"
+		"no repeat"
+		"frame rate" 30
+	"lifetime" 5
+	"random angle" 2
+	"random spin" 1
+	"random velocity" 1
+	"velocity scale" -.00
+
 outfit "Tuk'ux Quad-Blaster Turret"
 	category "Turrets"
 	cost 10000000
@@ -192,6 +212,7 @@ outfit "Tuk'ux Quad-Blaster Turret"
 		sound "blaster"
 		"hit effect" "blaster impact"
 		"inaccuracy" 2
+		"turret turn" 3
 		"velocity" 8
 		"lifetime" 60
 		"reload" 2
@@ -204,7 +225,7 @@ outfit "Tuk'ux Quad-Blaster Turret"
 outfit "Tuk'ux Decimator"
 	category "Secondary Weapons"
 	cost 15000000
-	thumbnail "outfit/decimator"
+	#thumbnail "outfit/decimator"
 	"mass" 40
 	"outfit space" -60
 	"weapon capacity" -60
@@ -258,7 +279,7 @@ outfit "Bu'rax Fish Warhead"
 		"ion damage" 50
 		
 outfit "Decimator Pod"
-	thumbnail "outfits/decimator pod"
+	#thumbnail "outfits/decimator pod"
 	category "Ammunition"
 	"pod capacity" -1
 	"mass" 1

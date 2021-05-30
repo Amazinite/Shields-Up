@@ -328,7 +328,7 @@ ship "Spearhead"
 	explode "medium explosion" 24
 	explode "big explosion" 8
 	description "A heavily modified version of the Splinter. By pirates, for pirates. This version sacrifices cargo space for more outfit space. It is designed to be a moderately armed medium command ship."
-    description "A relic of the past, it is only used by the poorest of pirate captains."
+	description "A relic of the past, it is only used by the poorest of pirate captains."
 
 ship "Stealth Cruiser"
 	sprite "ship/osprey"
@@ -480,7 +480,7 @@ ship "Megaship MMMXV"
 		"fuel capacity" 100
 		"cargo space" 10
 		"outfit space" 200
-        "megaship capacity" 5000
+		"megaship capacity" 5000
 		"identification" -1
 		weapon
 			"blast radius" 700
@@ -505,31 +505,31 @@ ship "Megaship MMMXV"
 	explode "medium explosion" 50
 	explode "big explosion" 70
 	explode "huge explosion" 25
-    description "Megaship. Not buyable yet."
-    
+	description "Megaship. Not buyable yet."
+	
 ship "Auto-Scout"
-    sprite "ship/surveillance drone"
-    attributes
-        category "Interceptor"
-        cost 500000
-        automaton 1
-        shields 1250
-        hull 500
-        mass 10
-        drag 0.43
-        "heat dissipation" 0.75
-        "fuel capacity" 2000
-        turn 240
-        thrust 1.5
-        "outfit space" 8
-        "weapon  capacity" 8
-        "energy generation" 5
-        "shield generation" 0.15
-        "shield energy" 0.3
-    outfits
-        "Beam Laser"
-    gun 0 0
-    description "An automated scout armed with a basic beam laser."
+	sprite "ship/surveillance drone"
+	attributes
+		category "Interceptor"
+		cost 500000
+		automaton 1
+		shields 1250
+		hull 500
+		mass 10
+		drag 0.43
+		"heat dissipation" 0.75
+		"fuel capacity" 2000
+		turn 240
+		thrust 1.5
+		"outfit space" 8
+		"weapon capacity" 8
+		"energy generation" 5
+		"shield generation" 0.15
+		"shield energy" 0.3
+	outfits
+		"Beam Laser"
+	gun 0 0
+	description "An automated scout armed with a basic beam laser."
 
 outfit "Grenade Launcher" #Thanks, Michael Feather!
 	category "Secondary Weapons"
@@ -575,22 +575,22 @@ outfit "Grenade"  #Thanks, Michael Feather!
 	description "The ammunition used by the Grenade Launchers."
 
 outfit "MEGA Safety Unlock"
-    category "Systems"
-    cost 2500000
-    mass 50
-    "megaship capacity" 100
-    "safety unlock" 1
+	category "Systems"
+	cost 2500000
+	mass 50
+	"megaship capacity" 100
+	"safety unlock" 1
 	unplunderable 1
-    description "Megaships have their turret mounts and gun ports protected by a special safety code. To unlock it, a safety unlock has to be installed allowing one mega weapon per unlock."
-    
+	description "Megaships have their turret mounts and gun ports protected by a special safety code. To unlock it, a safety unlock has to be installed allowing one mega weapon per unlock."
+	
 outfit "MEGA Shield Module"
-    category "Systems"
-    cost 10000000
-    mass 100
-    "megaship capacity" 500
-    "shield generation" 45
-    "shield energy" 50
-    description "Megaships are the leader of the battlefield. As such they need adequate protection. A large amount of shield energy means that the megaship also requires a strong shield generator."
+	category "Systems"
+	cost 10000000
+	mass 100
+	"megaship capacity" 500
+	"shield generation" 45
+	"shield energy" 50
+	description "Megaships are the leader of the battlefield. As such they need adequate protection. A large amount of shield energy means that the megaship also requires a strong shield generator."
 
 outfit "Capital Identification"
 	category "Special"

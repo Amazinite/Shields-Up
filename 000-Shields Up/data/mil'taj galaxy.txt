@@ -4475,72 +4475,72 @@ system Su40
 		period 1729.45
 
 planet "Outpost Bek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Cek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Gek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Jek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Kek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Lek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Nek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Rek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Sek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Wek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"
 
 planet "Outpost Yek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 
 planet "Outpost Zek"
-	landscape ""
+	#landscape ""
 	description Blank
 	spaceport Blank
 	outfitter "Common Outfits"

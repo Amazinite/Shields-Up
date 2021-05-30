@@ -912,7 +912,7 @@ ship "Freighter" "Freighter (Particle)"
 		"Greyhound Plasma Engines"
 		"Hyperdrive"
 
-ship "Gargoyle (Particle)"
+ship "Gargoyle" "Gargoyle (Particle)"
 	outfits
 		"Particle Cannon Turret" 4
 		"Sidewinder Missile Launcher" 2
@@ -927,7 +927,7 @@ ship "Gargoyle (Particle)"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Gargoyle (Heavy)"
+ship "Gargoyle" "Gargoyle (Heavy)"
 	outfits
 		"Heavy Laser Turret" 4
 		"Meteor Missile Launcher" 2
@@ -1064,7 +1064,7 @@ ship "Hauler III" "Hauler III (Particle)"
 
 ship "Hauler IV" "Hauler IV (Heavy)"
 	outfits
-		"Heavy Laser Turret" 4
+		"Heavy Laser Turret" 3
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
 		"S3 Thermionic"
@@ -1072,12 +1072,13 @@ ship "Hauler IV" "Hauler IV (Heavy)"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
 		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
+		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
 ship "Hauler IV" "Hauler IV (Focused)"
 	outfits
-		"Focused Laser Turret" 4
+		"Laser Turret"
+		"Focused Laser Turret" 2
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 100
 		"NT-200 Nucleovoltaic"
@@ -1085,25 +1086,26 @@ ship "Hauler IV" "Hauler IV (Focused)"
 		"D23-QP Shield Generator"
 		"Small Radar Jammer"
 		"A250 Atomic Thruster"
-		"A125 Atomic Steering"
+		#"A125 Atomic Steering"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
 ship "Hauler VI" "Hauler VI (Focused)"
 	outfits
 		"Focused Laser" 2
-		"Focused Laser Turret" 4
+		"Laser Turret"
+		"Focused Laser Turret" 2
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
 		"X3700 Ion Thruster"
-		"Impala Plasma Steering"
+		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
 ship "Hauler VI" "Hauler VI (Particle)"
 	outfits
-		"Particle Cannon Turret" 4
+		"Particle Cannon Turret" 3
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
 		"Fission Reactor"
@@ -1114,7 +1116,7 @@ ship "Hauler VI" "Hauler VI (Particle)"
 		"Small Radar Jammer"
 		"Outfits Expansion" 2
 		"A250 Atomic Thruster"
-		"A125 Atomic Steering"
+		#"A125 Atomic Steering"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
@@ -1416,27 +1418,10 @@ ship "Modified Argosy" "Modified Argosy (Focused)"
 		"A375 Atomic Steering"
 		"Hyperdrive"
 
-ship "Modified Sparrow" "Modified Sparrow (Stubby)"
-	outfits
-		"Stubby Heavy Laser" 2
-		"nGVF-CI Hybrid Fuel Cell"
-		"D23-QP Shield Generator"
-		"Chipmunk Plasma Engines"
-		"Hyperdrive"
-
-ship "Modified Sparrow" "Modified Sparrow (Gatling)"
-	outfits
-		"Gatling Gun" 2
-		"Gatling Gun Ammo" 6000
-		"nGVF-BI Hybrid Fuel Cell"
-		"D41-HY Shield Generator"
-		"Chipmunk Plasma Engines"
-		"Hyperdrive"
-
 ship "Mule" "Mule (Particle)"
 	outfits
 		"Particle Cannon" 2
-		"Particle Cannon Turret" 3
+		"Particle Cannon Turret" 2
 		"Heavy Anti-Missile Turret"
 		"Fission Reactor"
 		"LP144a Battery Pack"
@@ -1451,7 +1436,8 @@ ship "Mule" "Mule (Particle)"
 ship "Mule" "Mule (Focused)"
 	outfits
 		"Focused Laser" 2
-		"Focused Laser Turret" 3
+		"Laser Turret"
+		"Focused Laser Turret" 2
 		"Heavy Anti-Missile Turret"
 		"Fission Reactor"
 		"LP036a Battery Pack"
@@ -1990,35 +1976,6 @@ ship "Wren" "Wren (Blaster)"
 		"nGVF-CI Hybrid Fuel Cell"
 		"D23-QP Shield Generator"
 		"Greyhound Plasma Engines"
-		"Hyperdrive"
-
-ship "X2 Gunship" "X2 Gunship (Plasma)"
-	outfits
-		"Plasma Cannon" 8
-		"Particle Cannon Turret" 3
-		"Breeder Reactor"
-		"LP036a Battery Pack"
-		"LP072a Battery Pack"
-		"D41-HY Shield Generator"
-		"Liquid Helium Cooler"
-		"Small Radar Jammer"
-		"Outfits Expansion" 7
-		"A370 Atomic Thruster"
-		"A125 Atomic Steering"
-		"A525 Atomic Steering"
-		"Hyperdrive"
-
-ship "X2 Gunship" "X2 Gunship (Focused)"
-	outfits
-		"Focused Laser" 8
-		"Focused Laser Turret" 3
-		"Fission Reactor"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Water Coolant System"
-		"Impala Plasma Thruster"
-		"Greyhound Plasma Steering"
-		"Impala Plasma Steering"
 		"Hyperdrive"
 
 ship "X2E Gunship" "X2E Gunship (Focused)"

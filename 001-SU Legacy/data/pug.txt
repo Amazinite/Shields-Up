@@ -64,6 +64,7 @@ outfit "T4 Zapper Turret"
 			"random start frame"
 		"hit effect" "skylance impact"
 		"inaccuracy" .3
+		"turret turn" 3
 		"velocity" 320
 		"lifetime" 1
 		"reload" .1
@@ -97,6 +98,7 @@ outfit "T4 Seeker"
 		"drag" .1
 		"turn" 10
 		"homing" 50
+		"tracking" .8
 		"shield damage" 2400
 		"hull damage" 1900
 		"hit force" 20
@@ -159,7 +161,7 @@ outfit "T4 Cormet Thruster"
 	"thrust" 250.0
 	"thrusting energy" .03
 	"thrusting heat" .06
-	"flare sprite" "effect/ion flare/big"
+	"flare sprite" "effect/ion flare/large"
 		"frame rate" 18
 	"flare sound" "ion_drive"
 	description "This is a medium-sized thruster designed by the Pug. It is quite as powerful as a similarly sized atomic engine, but is better than them by being many times as energy efficient as ion engines."

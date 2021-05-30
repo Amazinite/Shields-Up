@@ -1,4 +1,4 @@
-# Copyright (c) 2016 by various
+# Copyright (c) 2016 by Jonathan Steck
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -52,7 +52,7 @@ ship "Tuk'ux Battle Cruiser"
 			"hit force" 5900
 	outfits
 		"Tuk'ux Quad-Blaster Turret" 4
-		"Ion Torpedo Bay" 2
+		"Ion Torpedo Bay" 3
 		"Ion Torpedo" 10
 		"Tuk'ux Shield Decimator" 2
 		"JF-2031 Hull Mender" 2
@@ -74,7 +74,7 @@ ship "Tuk'ux Battle Cruiser"
 	gun 3 -75 "Tuk'ux Plasma Laser"
 	gun -34 -13 "Ion Torpedo Bay"
 	gun 34 -13 "Ion Torpedo Bay"
-	turret -14.5 -66 "Tuk'ux Quad-Blaster Tuuret"
+	turret -14.5 -66 "Tuk'ux Quad-Blaster Turret"
 	turret 14.5 -66 "Tuk'ux Quad-Blaster Turret"
 	turret -20 97.5 "Tuk'ux Quad-Blaster Turret"
 	turret 20 97.5 "Tuk'ux Quad-Blaster Turret"
@@ -102,7 +102,7 @@ outfit "Ion Torpedo Bay"
 		ammo "Ion Torpedo"
 		icon "icon/iontorpedo"
 		"fire effect" "typhoon fire"
-		"hit effect" "iontorpedoexplosion"
+		"hit effect" "emp ring" 20
 		"die effect" "tiny explosion"
 		"inaccuracy" 5
 		"velocity" 8

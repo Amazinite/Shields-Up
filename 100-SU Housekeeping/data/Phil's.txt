@@ -969,6 +969,7 @@ outfit "Long Range Laser Turret"
 		sound "laser"
 		"hit effect" "beam laser impact"
 		"inaccuracy" .6
+		"turret turn" 3
 		"velocity" 600
 		"lifetime" 1
 		"reload" 1
@@ -1016,6 +1017,7 @@ outfit "Short Range Heavy Laser Turret"
 		sound "heavy laser"
 		"hit effect" "heavy laser impact"
 		"inaccuracy" .45
+		"turret turn" 3
 		"velocity" 200
 		"lifetime" 1
 		"reload" 1
@@ -1024,3 +1026,11 @@ outfit "Short Range Heavy Laser Turret"
 		"shield damage" 3.6
 		"hull damage" 4.6
 	description "A modern turret fitted with two stubby heavy lasers provides an extremely effective deterrent to boarding craft and close up enemies."
+
+shipyard "Silver Manufacturing Pty Ltd"
+	"Silver Defender"
+	"Silver Escort"
+	"Silver Protector"
+	"Silver Star"
+	"Black Star"
+	"Silver Stream"

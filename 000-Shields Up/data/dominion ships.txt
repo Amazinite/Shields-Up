@@ -151,7 +151,7 @@ ship "Nefandous"
 	turret 0 33
 	explode "tiny explosion" 10
 	explode "small explosion" 30
-	explode "medium Explosion" 20
+	explode "medium explosion" 20
 	description "The Nefandous used primarily as a support craft for larger fleets. Alone is can support itself to an extent, but it can be easily overrun by enemies, making it better to be used in fleets."
 
 ship "Napoo"

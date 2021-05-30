@@ -159,19 +159,17 @@ fleet "Large Abs"
 		"Shield Beetle (Jump, Tracker)"
 		"Water Bug (Jump)" 3
 	variant 3
-		"Shield Beetle (Jump, Pulse)"
+		"Shield Beetle (Jump)"
 		"Lightning Bug (Jump, Pulse)" 2
 	variant 2
-		"Shield Beetle (Jump, Pulse)"
-		"Shield Beetle (Jump)"
+		"Shield Beetle (Jump)" 2
 	variant 2
-		"Shield Beetle (Jump, Pulse)"
+		"Shield Beetle (Jump)"
 		"Shield Beetle (Jump, Tracker)"
 	variant
-		"Shield Beetle (Jump, Pulse)"
-		"Shield Beetle (Jump)"
+		"Shield Beetle (Jump)" 2
 		"Lightning Bug (Pulse)" 2
 	variant
-		"Shield Beetle (Jump, Pulse)"
+		"Shield Beetle (Jump)"
 		"Shield Beetle (Jump, Tracker)"
 		"Lightning Bug (Jump)" 2

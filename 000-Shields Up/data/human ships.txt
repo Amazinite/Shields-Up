@@ -462,18 +462,18 @@ ship "Samurai"
 
 	engine -29 156
 	engine 29 156
-	gun -56 -98 "Ion Cannon"
-	gun 56 -98 "Ion Cannon"
-	gun -44 -84 "Ion Cannon"
-	gun 44 -84 "Ion Cannon"
+	gun -56 -98 "EMP Bomb Launcher"
+	gun 56 -98 "EMP Bomb Launcher"
+	gun -44 -84
+	gun 44 -84
 	gun -18 -142 "Typhoon Launcher"
 	gun -18 -142 "Typhoon Launcher"
-	gun 18 -142 "Typhoon Launcher"
-	gun 18 -142 "Typhoon Launcher"
-	turret -100 -3 "Plasma Turret"
-	turret 100 -3 "Plasma Turret"
-	turret -100 71 "Plasma Turret"
-	turret 100 71 "Plasma Turret"
+	gun 18 -142
+	gun 18 -142
+	turret -100 -3 "Electron Turret"
+	turret 100 -3 "Electron Turret"
+	turret -100 71 "Electron Turret"
+	turret 100 71 "Electron Turret"
 	turret -53 34 "Heavy Anti-Missile Turret"
 	turret 53 34 "Heavy Anti-Missile Turret"
 	fighter -30 -44 
@@ -506,8 +506,8 @@ ship "FTek Destroyer"
 		"heat dissipation" .6
 		"fuel capacity" 500
 		"cargo space" 70
-		"outfit space" 390
-		"weapon capacity" 160
+		"outfit space" 400
+		"weapon capacity" 170
 		"engine capacity" 100
 		weapon
 			"blast radius" 90
@@ -518,6 +518,7 @@ ship "FTek Destroyer"
 		"Heavy Laser" 2
 		"Meteor Missile Launcher" 2
 		"Meteor Missile" 70
+		"FTek Active Blaster Turret"
 		"Heavy Laser Turret"
 		"Heavy Anti-Missile Turret" 2
 
@@ -605,7 +606,7 @@ ship "Hunter Drone"
 		"outfit space" 95
 		"weapon capacity" 28
 		"engine capacity" 30
-        automaton 1
+		automaton 1
 		weapon
 			"blast radius" 8
 			"shield damage" 80
@@ -945,7 +946,7 @@ ship "Kestrel-M"
 		"heat dissipation" .55
 		"fuel capacity" 600
 		"cargo space" 140
-		"outfit space" 830
+		"outfit space" 880
 		"weapon capacity" 400
 		"engine capacity" 230
 		weapon

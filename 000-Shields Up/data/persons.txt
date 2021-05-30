@@ -54,9 +54,9 @@ person "Friendly Neighbour"
 			"Mil'taj Particle Cannon" 4
 			"Mil'taj Plasma Cannon" 2
 			"Mil'taj Anti-Missile Turret" 2
-			"Mil'taj Point Defence Turret" 2
+			"Mil'taj Point-Defence Turret" 2
 			
-			"Mil'taj Black Generator" 4
+			"Mil'taj Black Generator" 2
 			"Mil'taj Cooling Unit" 5
 			"Mil'taj Condensed Battery"
 			
@@ -74,8 +74,8 @@ person "Friendly Neighbour"
 		gun 53 61 "Mil'taj Plasma Cannon"
 		gun -75 57 "Mil'taj Particle Cannon"
 		gun 75 57 "Mil'taj Particle Cannon"
-		turret -7 -4 "Mil'taj Point Defence Turret"
-		turret 7 4 "Mil'taj Point Defence Turret"
+		turret -7 -4 "Mil'taj Point-Defence Turret"
+		turret 7 4 "Mil'taj Point-Defence Turret"
 		turret -23	14 "Mil'taj Anti-Missile Turret"
 		turret 23 14 "Mil'taj Anti-Missile Turret"
 		explode "small explosion" 25

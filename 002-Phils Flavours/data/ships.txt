@@ -374,8 +374,8 @@ ship Quebracho
 	engine 15.5 110.5
 	gun -27 -89 "Heavy Laser"
 	gun 27 -89 "Heavy Laser"
-	turret -15 -54.5 "Heavy Laser Turret"
-	turret 15 -54.5 "Heavy Laser Turret"
+	turret -15 -54.5 "Heavy Anti-Missile Turret"
+	turret 15 -54.5 "Heavy Anti-Missile Turret"
 	turret -30 77.5 "Heavy Laser Turret"
 	turret 30 77.5 "Heavy Laser Turret"
 	explode "tiny explosion" 20
@@ -667,8 +667,8 @@ ship "Pilfered Keg"
 
 	engine -11.5 79.5
 	engine 11.5 79.5
-	turret -10.5 -34 "Heavy Laser"
-	turret 10.5 -34 "Heavy Laser"
+	turret -10.5 -34 "Heavy Laser Turret"
+	turret 10.5 -34 "Heavy Anti-Missile Turret"
 	explode "tiny explosion" 20
 	explode "small explosion" 10
 	explode "medium explosion" 5
@@ -1944,7 +1944,7 @@ ship "Junior Osprey"
 	engine 15.5 66
 	gun -27 -11.5 "Heavy Laser"
 	gun 27 -11.5 "Heavy Laser"
-	turret -20 20 "Modified Blaster Turret"
+	turret -20 20 "Heavy Laser Turret"
 	turret 20 20 "Anti-Missile Turret"
 	explode "tiny explosion" 20
 	explode "small explosion" 40
@@ -1990,3 +1990,19 @@ ship "Wren"
 	explode "tiny explosion" 45
 	explode "small explosion" 15
 	description "A great mid range interceptor which features a 360 turret mount to keep the pirates at bay. With 20 tonnes of cargo space, you'll be able to make some real money trading as well."
+
+shipyard "Shameless Privateer Shipyard"
+	"Rum Barrell"
+	"Hidden Blade"
+	"Dirty Cutlass"
+	"Damned Executioner"
+	"Deceitful Hangman"
+	"Hellscream"
+	"Fearless Assassin"
+	"Deceptive Lover"
+	"Stormbolt"
+	"Lifted Purse"
+	"Pilfered Keg"
+	"Buried Chest"
+	"Captain's Hoard"
+	"Fifth Ace"

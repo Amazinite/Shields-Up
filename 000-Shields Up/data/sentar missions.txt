@@ -52,8 +52,6 @@ mission "First Contact: Sentar"
 			`"Alright, I've looked over the data, and ooh boy have I got some news." he begins. You saw alien ships on the other side, right? Well, guess who they were. They were the Sentarians, omnipotent beings who control their own galaxy!"`
 			choice
 				`	"Are you right in your head? That's impossible!"`
-				goto youcrazy
-			label youcrazy
 			`	Oh no, it's a very true fact. I know all about them now, when before I could only wonder. Oh yes, the power!"`
 			choice
 				`	"How do you know? Where did this name even come from?"`
