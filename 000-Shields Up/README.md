@@ -1,0 +1,2 @@
+# 000-Shields Up
+Shields Up is a collaboration between multiple content creators that seeks to expand the ES universe far beyond what just the vanilla content has to offer. Play with dozens of new outfits, ships, and even new alien races!
